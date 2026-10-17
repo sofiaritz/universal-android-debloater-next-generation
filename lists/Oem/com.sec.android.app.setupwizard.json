@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.setupwizard",
+  "description": "Samsung Setupwizard\nThe Welcome screen which guides you through the basics of setting up your device when you boot it for the first time (or after a factory reset). On some Verizon-carried devices, it can show an annoying\"SIM card not from Verizon Wireless\" notification, for each boot, and it can't be blocked unless you disable the app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

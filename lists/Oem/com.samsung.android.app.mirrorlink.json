@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.mirrorlink",
+  "description": "Used to connect your phone to a car (with https://mirrorlink.com/ support) in order to provide audio streaming, GPS navigation...\nhttps://www.samsung.com/us/support/answer/ANS00048972/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

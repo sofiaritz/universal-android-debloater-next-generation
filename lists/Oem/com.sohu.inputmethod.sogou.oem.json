@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sohu.inputmethod.sogou.oem",
+  "description": "Keyboard app used in some Chinese phones. There is a report that this keyboard might have contained security vulnerabilities in the past: https://citizenlab.ca/2024/04/vulnerabilities-across-keyboard-apps-reveal-keystrokes-to-network-eavesdroppers/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

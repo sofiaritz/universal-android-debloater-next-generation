@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.dolby.dolbyui",
+  "description": "Dolby Atmos\nAudio enhancements.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

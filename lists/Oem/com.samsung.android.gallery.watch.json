@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.gallery.watch",
+  "description": "Samsung Watch gallery app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

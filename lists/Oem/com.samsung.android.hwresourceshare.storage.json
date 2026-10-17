@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.hwresourceshare.storage",
+  "description": "Allows the storage on your phone, tablet, computer, and TV to connect so you can view and use files from one device on another without cables or downloads.\nThe service always runs in the background, and removing it has not caused any problems.\nhttps://r1.community.samsung.com/t5/tips-how-to/the-new-storage-share-feature/ba-p/36247598\nhttps://www.samsung.com/us/support/answer/ANS10004607/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ironsource.appcloud.oobe.huawei",
+  "description": "Essentials apps\nApp which promotes some other apps (and encourages you to install them)\nDeveloped by IronSource, a\"next-generation advertising company\"\nhttps://aura.ironsrc.com/ (app) | https://company.ironsrc.com/ (company)\nWhen you try to read their privacy policy you arrive to an outstanding blank PDF file!\n(http://www.ironsrc.com/wp-content/uploads/2019/03/ironSource-Privacy-Policy.pdf)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

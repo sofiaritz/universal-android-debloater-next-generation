@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.cnn.mobile.android.phone.edgepanel",
+  "description": "CNN Edge panel. Twitter trends, and news from CNN.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

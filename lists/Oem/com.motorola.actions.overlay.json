@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.actions.overlay",
+  "description": "Useless overlay config default to Moto Actions (com.motorola.actions)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.mmapp",
+  "description": "Required for Samsung's proprietary music app to work.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

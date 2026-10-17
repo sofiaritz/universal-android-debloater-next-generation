@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.voicerecorder",
+  "description": "Onyx Voice Recorder app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.service.peoplestripe",
+  "description": "People Edge\nGives you immediate access to your favorite contacts from the edge of your phone.\nhttps://www.samsung.com/global/galaxy/what-is/people-edge/\nhttps://videotron.tmtx.ca/en/topic/samsung_galaxys9/using_people_edge.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

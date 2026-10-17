@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.inputmethod.hindi",
+  "description": "Google Keyboard + Hinndi characters (https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi)",
+  "list": "Google",
+  "removal": "Advanced"
+}

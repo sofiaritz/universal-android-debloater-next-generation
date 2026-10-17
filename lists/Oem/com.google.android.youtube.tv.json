@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.youtube.tv",
+  "description": "YouTube app\nhttps://play.google.com/store/apps/details?id=com.google.android.youtube.tv&hl=en_US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

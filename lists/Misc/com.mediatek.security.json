@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.security",
+  "description": "The com.mediatek.security package is part of MediaTek\u2019s security suite, providing features such as malware protection, privacy settings, and secure browsing options. While the package may offer added security features specific to MediaTek devices, there are alternative security solutions available on Google Play that can provide similar or enhanced protection. Removing this package might lead to a loss of MediaTek-specific security features, but it is generally not critical to the basic operation of the device.",
+  "list": "Misc",
+  "removal": "Expert"
+}

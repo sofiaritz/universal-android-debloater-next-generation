@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.factory",
+  "description": "Device Test app\nDiagnostic hidden app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

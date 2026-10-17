@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.apnupdater.res.overlay_305",
+  "description": "Overlay for APN Updater. Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

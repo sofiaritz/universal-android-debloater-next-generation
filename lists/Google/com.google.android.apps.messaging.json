@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.messaging",
+  "description": "Google Messages (https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)\nSMS and RCS app.\nNOTE: possibly a global dependency for SMS, MMS, RCS, OTP, and other services/verifications.\nWARNING: once disabled/uninstalled, even if reinstalled, a factory reset may be required to re-obtain full functionality.",
+  "list": "Google",
+  "removal": "Advanced"
+}

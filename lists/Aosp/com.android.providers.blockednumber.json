@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.blockednumber",
+  "description": "Handles blocked number storage.\nOn some devices this seems to be tied to the recent apps menu (see https://gitlab.com/W1nst0n/universal-android-debloater/-/issues/6)\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Aosp",
+  "removal": "Expert"
+}

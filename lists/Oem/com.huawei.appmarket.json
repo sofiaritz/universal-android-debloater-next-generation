@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.appmarket",
+  "description": "Huawei app store (AppGallery)\nhttps://www.xda-developers.com/appgallery-huawei-alternative-google-play-store-android/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

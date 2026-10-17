@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.bard",
+  "description": "Google Gemini, safe to remove",
+  "list": "Google",
+  "removal": "Recommended"
+}

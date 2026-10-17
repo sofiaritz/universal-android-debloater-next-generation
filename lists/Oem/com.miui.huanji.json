@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.huanji",
+  "description": "Mi Mover (https://play.google.com/store/apps/details?id=com.miui.huanji)\nLets you transfer your contacts, messages, personal files, all the installed apps (but not it's data). Also all the settings (app + system) from an Android phone to a Xiaomi phone.\nThe two phones will establish a direct Wi-Fi connection.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

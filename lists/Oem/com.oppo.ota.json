@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.ota",
+  "description": "Software update\nSoftware update OTA",
+  "list": "Oem",
+  "removal": "Expert"
+}

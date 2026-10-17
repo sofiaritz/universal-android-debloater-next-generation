@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.pickuptutorial",
+  "description": "A guide to some gestures on Samsung devices, however it doesn't seem to be accessable anywhere. Maybe intended for demo units?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

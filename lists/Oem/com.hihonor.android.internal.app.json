@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.android.internal.app",
+  "description": "Component of Honor sharing\nMay break the sharing function in several applications (in particular, apps will crash).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

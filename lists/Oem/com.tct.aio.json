@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.aio",
+  "description": "TCT All in One Configuration\nIt probably collects some data and CheckForUpdateTask OTA.",
+  "list": "Oem",
+  "removal": "Expert"
+}

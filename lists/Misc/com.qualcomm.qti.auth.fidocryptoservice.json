@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.auth.fidocryptoservice",
+  "description": "Qualcomm FIDO implementation.\nFIDO : https://en.wikipedia.org/wiki/FIDO_Alliance\nFido is a set of open technical specifications for mechanisms of authenticating users to online services that do not depend on passwords.\nhttps://fidoalliance.org/specs/u2f-specs-1.0-bt-nfc-id-amendment/fido-glossary.html\nhttps://fidoalliance.org/specs/fido-v2.0-rd-20170927/fido-overview-v2.0-rd-20170927.html",
+  "list": "Misc",
+  "removal": "Recommended"
+}

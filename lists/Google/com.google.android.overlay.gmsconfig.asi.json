@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.asi",
+  "description": "it's another component of\nAndroid System Intelligence (previously Device Personalization Services)",
+  "list": "Google",
+  "removal": "Advanced"
+}

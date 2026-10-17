@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.tmecustomize",
+  "description": "TME\nTme Activity. Hidden carrier config sim.\nI think it's useless but you need to test.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

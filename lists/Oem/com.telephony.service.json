@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.telephony.service",
+  "description": "Needed for WiFi Calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

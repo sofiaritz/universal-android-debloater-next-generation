@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.backup",
+  "description": "Xiaomi Backup and Restore feature (mislead package name).\nThis package was replaced by 'com.miui.backup' on newer models.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

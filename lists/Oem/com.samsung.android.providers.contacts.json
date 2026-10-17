@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.providers.contacts",
+  "description": "Likely same as com.android.providers.contacts, but for Samsung phones.\nBreaks messaging and calling services, as well as contact functionality.",
+  "list": "Oem",
+  "removal": "Expert"
+}

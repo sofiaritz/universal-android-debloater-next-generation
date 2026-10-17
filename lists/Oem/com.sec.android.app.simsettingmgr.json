@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.simsettingmgr",
+  "description": "SIM card manager.\nContains configuration and settings for handling dual SIM (give a SIM an icon, a name, and so on)",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

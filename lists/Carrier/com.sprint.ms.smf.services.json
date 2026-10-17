@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.ms.smf.services",
+  "description": "Sprint Hub (https://play.google.com/store/apps/details?id=com.sprint.ms.smf.services)\nEnables Sprint features (including Wifi calling) and products for devices operating on the Sprint network.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

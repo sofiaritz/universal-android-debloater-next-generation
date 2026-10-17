@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.email.partnerprovider",
+  "description": "Lets Google partners (OEM in most of the case) to customize the default email settings.\nThe manufacturer often changes the default signature displayed at the end of each of your mail (e.g\"Sent from my Nokia phone\")",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

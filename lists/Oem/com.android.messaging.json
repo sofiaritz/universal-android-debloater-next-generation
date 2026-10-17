@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.messaging",
+  "description": "Android default messaging app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

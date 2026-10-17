@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.vzw.cloudsetup",
+  "description": "Cloud setup",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

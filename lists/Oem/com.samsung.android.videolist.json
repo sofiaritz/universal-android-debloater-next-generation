@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.videolist",
+  "description": "Video player included on Samsung devices (https://play.google.com/store/apps/details?id=com.samsung.android.videolist). Works fine enough as a basic video player.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

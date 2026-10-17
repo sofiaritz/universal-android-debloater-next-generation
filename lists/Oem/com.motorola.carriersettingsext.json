@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.carriersettingsext",
+  "description": "This is a WiFi calling app supported by AT&T, T-Mobile, Orange.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

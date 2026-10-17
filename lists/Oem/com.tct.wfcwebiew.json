@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.wfcwebiew",
+  "description": "WfcWebView\nWebView app for TCL\nMake sure to have another WebView before removing it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

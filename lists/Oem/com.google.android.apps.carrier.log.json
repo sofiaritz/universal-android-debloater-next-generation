@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.carrier.log",
+  "description": "Carrier App Logging\nRequire google play services\nLogs everything.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

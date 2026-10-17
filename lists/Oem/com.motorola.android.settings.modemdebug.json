@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.settings.modemdebug",
+  "description": "Provide modem debug settings menu ?\nNo longer in Android 10 image",
+  "list": "Oem",
+  "removal": "Recommended"
+}

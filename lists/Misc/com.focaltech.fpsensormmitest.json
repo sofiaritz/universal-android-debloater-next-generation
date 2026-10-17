@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.focaltech.fpsensormmitest",
+  "description": "Related to `com.focaltech.fingerprint`. Seems like a debugging activity triggered by dialing an MMI code",
+  "list": "Misc",
+  "removal": "Recommended"
+}

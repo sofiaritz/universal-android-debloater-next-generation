@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.lineageos.aperture",
+  "description": "LineageOS Camera App.\nSafe to remove if you've replaced it with another app.\nOtherwise there will be no camera app on your device.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

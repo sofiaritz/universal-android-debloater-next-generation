@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.filemanager",
+  "description": "File Manager\nStock ASUS file manager app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

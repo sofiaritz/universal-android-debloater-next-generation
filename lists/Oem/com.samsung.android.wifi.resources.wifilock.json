@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.resources.wifilock",
+  "description": "Needed for WiFi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

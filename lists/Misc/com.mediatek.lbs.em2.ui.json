@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.lbs.em2.ui",
+  "description": "LocationEM2\nAnother GPS status/testing app. Doesn\u2019t stop GPS from working.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

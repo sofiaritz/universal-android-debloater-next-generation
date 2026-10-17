@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motodisplay",
+  "description": "Moto Display (https://play.google.com/store/apps/details?id=com.motorola.motodisplay)\nDisplays notifications with the screen off (like the Always On Display feature from other OEMs)\nhttps://support.motorola.com/uk/en/solution/ms108519",
+  "list": "Oem",
+  "removal": "Recommended"
+}

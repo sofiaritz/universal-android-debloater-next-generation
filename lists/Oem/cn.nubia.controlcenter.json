@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.controlcenter",
+  "description": "control center\nProvides a control panel for controlling the switching of\nimportant functions in the system, such as data services, WiFi and other switches.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

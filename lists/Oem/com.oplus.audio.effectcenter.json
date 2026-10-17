@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.audio.effectcenter",
+  "description": "Sound effects and EQ settings, Dolby support for Chinese apps and some Google. Remove if you aren't planning to use sound effects or EQ.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

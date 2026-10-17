@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.sstservice",
+  "description": "Spatial Sound\nProvides sst audio effects.\nI am not sure how to use this app.\nCode is too small, no activities only some frameworks in classes.dex",
+  "list": "Oem",
+  "removal": "Advanced"
+}

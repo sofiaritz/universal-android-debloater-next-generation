@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ims.rcsprovider",
+  "description": "Needed for IMS, RCS but com.lge.ims = debugging app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

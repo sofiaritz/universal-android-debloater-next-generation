@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nt.android.overlay.gmsconfig.settings",
+  "description": "Useless overlay to nothing gmsconfig settings",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.dtx.aidl.manager",
+  "description": "DtxService\nAnt Dtx Service, unknown app, but safe to remove, probably useful in China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

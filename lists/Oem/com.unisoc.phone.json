@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.unisoc.phone",
+  "description": "LockAssistant\nRuns before the user unlocks the device (direct-boot aware). Reads IMEI, SMS, call log, uses gps/wifi. Unisoc is a CPU manufacturer. Related to package `com.android.unisoc.telephony.server`.",
+  "list": "Oem",
+  "removal": "Expert"
+}

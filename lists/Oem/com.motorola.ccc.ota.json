@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.ccc.ota",
+  "description": "Motorola Update Services\nProvide OTA system updates.\nOTA (Over-The-Air) updates allow manufacturers to remotely install new software updates, features and services.",
+  "list": "Oem",
+  "removal": "Expert"
+}

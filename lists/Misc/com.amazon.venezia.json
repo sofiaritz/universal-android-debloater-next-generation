@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amazon.venezia",
+  "description": "Amazon AppStore\n Removal will result in breakage of app drawer on Amazon Fire TV devices.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.camera",
+  "description": "Camera\nOppo stock camera app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

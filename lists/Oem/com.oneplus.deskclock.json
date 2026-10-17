@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.deskclock",
+  "description": "Clock\nThe stock Oneplus clock app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

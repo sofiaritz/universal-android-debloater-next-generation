@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.trustagent",
+  "description": "Smart unlock feature.\nEnables you to unlock your phone with a Bluetooth device, like a smart band.\nWhen a compatible Bluetooth device is detected, you can unlock your phone with a simple swipe (without a password).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

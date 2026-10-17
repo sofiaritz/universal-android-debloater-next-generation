@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.localeoverlaymanager",
+  "description": "Locale Overlay Manager\nHas overlays about FOTA updates, Cleaning up files, checking setup complete",
+  "list": "Oem",
+  "removal": "Expert"
+}

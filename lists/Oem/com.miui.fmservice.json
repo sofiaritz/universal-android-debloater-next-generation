@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.fmservice",
+  "description": "FM Radio Service\nNeeded by com.miui.fm to work correctly",
+  "list": "Oem",
+  "removal": "Recommended"
+}

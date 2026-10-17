@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.callassistant",
+  "description": "Appears to handle a whole bunch of AI services related to Gallery and Phone. Can break stuff in OneUI 6.1+",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.tct.filemanager",
+  "description": "File Manager\nStock File Manager app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

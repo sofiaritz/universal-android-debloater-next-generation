@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.datatransfer",
+  "description": "The com.mediatek.datatransfer package is part of MediaTek's suite of utilities and is typically used for managing data transfer between devices or during device setup. This app often supports functions like transferring files, contacts, and other data from one device to another. Removing this package might impair the ability to use MediaTek-specific data transfer tools and could impact some setup or migration processes.",
+  "list": "Misc",
+  "removal": "Expert"
+}

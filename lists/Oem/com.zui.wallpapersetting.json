@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.wallpapersetting",
+  "description": "Needed for wallpaper settings",
+  "list": "Oem",
+  "removal": "Advanced"
+}

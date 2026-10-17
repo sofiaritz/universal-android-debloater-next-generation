@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.trancare",
+  "description": "Telemetry. Makes requests (with weak crypto) to the Shalltry CDN (https://mi-test.shalltry.com). Collects IMEI, all the apps installed, localisation...\nPithus analysis: https://beta.pithus.org/report/9be13b57bde5620d2ff1824782a2ccc1d6517d437543549c720bc70b6dd02aee",
+  "list": "Oem",
+  "removal": "Recommended"
+}

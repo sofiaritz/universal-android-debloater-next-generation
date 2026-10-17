@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.facelock",
+  "description": "Face Unlock\nSafe to remove if you don't use Face Unlock.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

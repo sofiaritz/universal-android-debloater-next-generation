@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.healthconnect",
+  "description": "Useless overlay gmsconfig to Health Connect",
+  "list": "Oem",
+  "removal": "Recommended"
+}

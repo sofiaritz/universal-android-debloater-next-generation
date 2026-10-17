@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.security.securityhub",
+  "description": "Checks security your phone(you can find it in settings). Not very useful.\nhttps://play.google.com/store/apps/details?id=com.google.android.apps.security.securityhub",
+  "list": "Google",
+  "removal": "Recommended"
+}

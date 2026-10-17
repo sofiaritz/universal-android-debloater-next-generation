@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mfi",
+  "description": "Galaxy Widget (https://play.google.com/store/apps/details?id=com.samsung.android.mfi)\nJust shows you ads of some of Samsung's services or other apps/games.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

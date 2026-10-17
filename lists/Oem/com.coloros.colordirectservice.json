@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.colordirectservice",
+  "description": "Screen Recognition (Breeno Touch).\nThis app is used to recognize screen contents and provide quick access to relevant services (like Text Extraction, AI Summarizer). com.coloros.ocrscanner, com.coloros.ocrservice, com.oplus.ocs, com.oplus.aiunit, com.coloros.ocs.opencapabilityservice are also needed for this to work.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

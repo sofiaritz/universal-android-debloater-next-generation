@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.workloadclassifier",
+  "description": "Runs\"WLCService\" in the background.\nI assume this has to do with CPU scheduling. Probably important for efficiency, if not basic operation.\nIn code I found: it's for performance and security? it categorize apps maybe for optimization.\nit's named workloadclassifier so it should do that. reads the list of installed applications, storage space.\nit's still unknown.",
+  "list": "Misc",
+  "removal": "Expert"
+}

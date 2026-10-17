@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.simcontacts",
+  "description": "It should be named com.qualcomm.simcontacts.\nIt's hidden and not available for users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

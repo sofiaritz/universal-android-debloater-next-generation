@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.pixelconfig2019midyear",
+  "description": "Useless default configs? You can lose some basic functionality so it's not worth touching it.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

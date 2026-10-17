@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qms.service.telemetry",
+  "description": "Qualcomm Mobile Security\nTelemetry service. Obviously phones to Qualcomm.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

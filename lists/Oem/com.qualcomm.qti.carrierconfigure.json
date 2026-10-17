@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.carrierconfigure",
+  "description": "Carrier Configure, Configures carrier, only for some china phones uses qualcomm names",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

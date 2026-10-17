@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ru.litres.android",
+  "description": "Litres, russian bookstore service, preinstalled by russian law from 2019",
+  "list": "Oem",
+  "removal": "Recommended"
+}

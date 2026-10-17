@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.settings.intelligence",
+  "description": "Setting Services. Adds the main search bar for the settings app (the one at the top on the default page).",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

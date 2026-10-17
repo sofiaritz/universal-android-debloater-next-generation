@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.euiccpixel.overlay.gs101",
+  "description": "Overlay to (com.google.euiccpixel) NFC, eSE, eSIM firmware updater",
+  "list": "Oem",
+  "removal": "Advanced"
+}

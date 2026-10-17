@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.artorial.client",
+  "description": "SmartArt\nProvides AI slop wallpapers, mobile games and news to Blackview devices. Can be disabled via Settings.\nhttps://www.blackview.hk/privacy\nhttps://www.virustotal.com/gui/file-analysis/YTg5NWU0ZTVkNzFiMDk4NjliZjdlNWQ0NjNjNDk5Yjk6MTc2MjAwNTk1OA==",
+  "list": "Oem",
+  "removal": "Recommended"
+}

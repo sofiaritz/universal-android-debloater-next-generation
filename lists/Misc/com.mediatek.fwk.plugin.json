@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.fwk.plugin",
+  "description": "The com.mediatek.fwk.plugin package is part of MediaTek\u2019s framework for managing plugins and extensions specific to MediaTek\u2019s hardware and software ecosystem. This package may handle integration and support for various MediaTek-specific features and enhancements. Removing this package could affect some advanced functionalities or custom features provided by MediaTek, but it generally should not disrupt basic system operations.",
+  "list": "Misc",
+  "removal": "Expert"
+}

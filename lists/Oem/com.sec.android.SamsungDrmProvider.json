@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.SamsungDrmProvider",
+  "description": "Completely empty package. Useless. Content with DRM still works without this package.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

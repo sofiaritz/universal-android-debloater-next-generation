@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.watchface.companionhelper",
+  "description": "Watchfaces fail to load without this. Removing it also breaks editing and changing watchfaces.",
+  "list": "Oem",
+  "removal": "Expert"
+}

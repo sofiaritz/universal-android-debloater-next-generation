@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qs",
+  "description": "Quick settings to mobile data internet, some chinese phones uses qualcomm names apps instead of normal",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nt.grantpermission",
+  "description": "Hidden grant permissions. You can get it by typing in dialer: *#*#3424*#*#",
+  "list": "Oem",
+  "removal": "Recommended"
+}

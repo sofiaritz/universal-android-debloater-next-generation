@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.translationservice",
+  "description": "Translation stuff. Does not impact global translation for non-Chinese users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

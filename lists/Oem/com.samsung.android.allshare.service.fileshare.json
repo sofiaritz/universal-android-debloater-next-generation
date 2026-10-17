@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.allshare.service.fileshare",
+  "description": "Wi-Fi Direct\nAllows two devices to establish a direct Wi-Fi connection without requiring a wireless router.\nhttps://www.samsung.com/au/support/mobile-devices/connecting-devices-via-wifi-direct/\nhttps://en.wikipedia.org/wiki/Wi-Fi_Direct",
+  "list": "Oem",
+  "removal": "Advanced"
+}

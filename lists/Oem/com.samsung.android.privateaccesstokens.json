@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.privateaccesstokens",
+  "description": "Provides a system module used by Samsung Internet for an automatic verification feature on compatible websites to skip CAPTCHAs.\nOn my device the option never appeared. Removing it does not affect normal system functionality.\nIt relies on a few privileged permissions such as READ_PRIVILEGED_PHONE_STATE , SAMSUNG_KEYSTORE_PERMISSION , ACCESS_KEYGUARD_SECURE_STORAGE , and INTERNET/ACCESS_NETWORK_STATE.\nhttps://apps.samsung.com/appquery/appDetail.as?appId=com.samsung.android.privateaccesstokens",
+  "list": "Oem",
+  "removal": "Recommended"
+}

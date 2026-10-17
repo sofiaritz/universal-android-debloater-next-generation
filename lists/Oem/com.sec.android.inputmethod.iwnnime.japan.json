@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.inputmethod.iwnnime.japan",
+  "description": "Samsung Japanese keyboard",
+  "list": "Oem",
+  "removal": "Advanced"
+}

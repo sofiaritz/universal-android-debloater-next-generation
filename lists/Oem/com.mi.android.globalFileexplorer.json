@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.android.globalFileexplorer",
+  "description": "Xiaomi Files Manager (https://play.google.com/store/apps/details?id=com.mi.android.globalFileexplorer)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

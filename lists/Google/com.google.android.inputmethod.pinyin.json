@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.inputmethod.pinyin",
+  "description": "Google Keyboard + Pinyin (Chinese) characters\n(https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin)",
+  "list": "Google",
+  "removal": "Advanced"
+}

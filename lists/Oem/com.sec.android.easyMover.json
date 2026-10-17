@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.easyMover",
+  "description": "Samsung Smart Switch Mobile (https://play.google.com/store/apps/details?id=com.sec.android.easyMover)\nAllows you to easily transfer content (contacts, photos, music, notes, etc.) to a new Samsung Galaxy device.\nhttps://www.samsung.com/global/galaxy/apps/smart-switch/\nhttps://fr.wikipedia.org/wiki/Smart_Switch",
+  "list": "Oem",
+  "removal": "Recommended"
+}

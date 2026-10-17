@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lenovo.leos.cloud.sync",
+  "description": "SYNCit\nLenovo cloud",
+  "list": "Oem",
+  "removal": "Recommended"
+}

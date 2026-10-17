@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.voicetrigger",
+  "description": "Wake with voice\nNot needed if you removed Chinese Mi AI.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

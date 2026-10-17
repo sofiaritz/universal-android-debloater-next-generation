@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.android.overlay.gmsconfig.common",
+  "description": "Overlay to vendor required apps?\nTheres google apps and some not important oppo apps on the lists, not needed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.tv",
+  "description": "AT&T TV (https://play.google.com/store/apps/details?id=com.att.tv)\nLets you Stream TV live and on demand from your phone.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

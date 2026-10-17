@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.unifiedwfc",
+  "description": "Samsung Wi-Fi Calling\nWi-Fi calling app for Samsung.\nWi-Fi calling may not work without the app",
+  "list": "Oem",
+  "removal": "Expert"
+}

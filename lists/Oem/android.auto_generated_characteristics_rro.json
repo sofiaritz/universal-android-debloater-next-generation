@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.auto_generated_characteristics_rro",
+  "description": "Automatically generated RRO characteristics for Android customization.",
+  "list": "Oem",
+  "removal": "Expert"
+}

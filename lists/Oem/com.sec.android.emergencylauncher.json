@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.emergencylauncher",
+  "description": "Samsung Launcher when in emergency(low battery) mode.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

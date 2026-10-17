@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.callsettings",
+  "description": "Additional Call Settings also WiFi calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

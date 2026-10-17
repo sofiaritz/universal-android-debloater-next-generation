@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv",
+  "description": "Live Channels\nTV tuner and watching stuff, sadly has google analytics.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.GoogleCamera",
+  "description": "Google Camera (https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)",
+  "list": "Google",
+  "removal": "Advanced"
+}

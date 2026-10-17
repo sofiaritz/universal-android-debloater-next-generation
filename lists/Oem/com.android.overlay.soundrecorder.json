@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.soundrecorder",
+  "description": "Overlay to 'com.android.soundrecorder' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

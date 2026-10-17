@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sdm.config",
+  "description": "Configuration Update for Samsung Deskphone Manager (SDM)\nSDM allows a user to synchronize your smartphone with a IP deskphone",
+  "list": "Oem",
+  "removal": "Recommended"
+}

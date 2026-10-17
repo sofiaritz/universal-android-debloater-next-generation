@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.sarprotection",
+  "description": "SAR Protection\nSecurity thing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

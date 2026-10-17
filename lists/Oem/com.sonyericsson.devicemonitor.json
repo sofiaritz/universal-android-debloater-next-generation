@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.devicemonitor",
+  "description": "Safe to remove if you don't use PC to manage device",
+  "list": "Oem",
+  "removal": "Advanced"
+}

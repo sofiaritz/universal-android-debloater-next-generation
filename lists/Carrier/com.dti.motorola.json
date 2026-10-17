@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.motorola",
+  "description": "Mobile Services Manager\nit's something for install apps but it's useless and a lot permissions.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

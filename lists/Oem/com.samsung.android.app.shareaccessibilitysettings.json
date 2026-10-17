@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.shareaccessibilitysettings",
+  "description": "Seems to be like a package for saving your accessibility settings, likely to transfer them to another phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

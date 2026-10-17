@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.providers.settings.overlay.dppnone",
+  "description": "This package is part of Motorola's custom settings overlay, potentially dealing with settings or configurations that are applied when certain features or options are not in use.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

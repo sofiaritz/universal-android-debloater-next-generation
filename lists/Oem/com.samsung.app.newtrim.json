@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.app.newtrim",
+  "description": "Samsung Video trimmer (Editor Lite)\nLets you quickly trim video files (from the gallery \u201cEdit -> Studio -> Video Trimmer\u201d). This trimmer is both imprecise and inaccurate, ffmpeg is much better.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

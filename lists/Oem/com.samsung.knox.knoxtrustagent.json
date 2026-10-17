@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.knox.knoxtrustagent",
+  "description": "Knox Quick Access allows users to access the Knox Workspace container using wearables such as the Galaxy Gear S2.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

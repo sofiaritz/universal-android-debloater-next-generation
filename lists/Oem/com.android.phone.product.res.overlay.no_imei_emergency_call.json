@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.product.res.overlay.no_imei_emergency_call",
+  "description": "Unsure but I would just leave it as you need to stay safe. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

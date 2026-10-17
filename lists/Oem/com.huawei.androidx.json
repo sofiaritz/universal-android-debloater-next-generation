@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.androidx",
+  "description": "It have something to MediaPlayer but by name app it looks like important.\nSomeone will need to check if it bootloop or not because this app dont have code.",
+  "list": "Oem",
+  "removal": "Expert"
+}

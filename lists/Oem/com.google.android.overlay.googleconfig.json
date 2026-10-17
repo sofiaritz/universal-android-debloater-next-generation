@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.googleconfig",
+  "description": "Once configs all default things to google. Bricks google login functionality.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

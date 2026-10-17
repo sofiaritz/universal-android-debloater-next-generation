@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.databackup",
+  "description": "Backup feature for application of docomo's service, mainly provides schedule/memo's cloud sync function.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

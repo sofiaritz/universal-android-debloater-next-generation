@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.personalization",
+  "description": "Has something to do with personalization?\nHas 2 permissions: `READ_PHONE_STATE` and `CHANGE_PHONE_STATE`",
+  "list": "Oem",
+  "removal": "Advanced"
+}

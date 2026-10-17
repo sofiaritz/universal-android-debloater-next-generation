@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.appblock",
+  "description": "App blocker\nSettings > Intelligent assistance: App blocker\n Unihertz power management service killing background apps to improve battery performance.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.writeimei",
+  "description": "The com.android.writeimei package is responsible for handling the IMEI (International Mobile Equipment Identity) number on the device. This app is used for writing or managing the device\u2019s IMEI, which is a unique identifier for mobile devices. Removing or tampering with this package can cause significant issues, such as loss of network connectivity, inability to make calls or send texts, and potential bootloop issues.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

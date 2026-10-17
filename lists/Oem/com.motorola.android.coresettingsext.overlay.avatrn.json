@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.coresettingsext.overlay.avatrn",
+  "description": "This package is part of Motorola's custom overlay for system settings, specifically tailored for the Motorola Edge 2024 (codename 'avatrn').",
+  "list": "Oem",
+  "removal": "Expert"
+}

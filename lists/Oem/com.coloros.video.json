@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.video",
+  "description": "Video Player\nDefault Oppo and OnePlus video player with too much permissions (21) for a video player!\nNote: using inbuilt screen recorder you won't be able to open the recorded video from the notification view.\n\nPithus analysis: https://beta.pithus.org/report/4ceb96c23ad0e26ee8eceab293d251f8b1bddaf4a901741ee467e0bb867db6e9",
+  "list": "Oem",
+  "removal": "Recommended"
+}

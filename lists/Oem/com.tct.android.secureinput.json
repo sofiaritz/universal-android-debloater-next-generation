@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.android.secureinput",
+  "description": "Useless secure input for keycode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

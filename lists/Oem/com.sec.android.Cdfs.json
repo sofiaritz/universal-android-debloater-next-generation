@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.Cdfs",
+  "description": "CDFS MODE Launcher, it's CdfsService Probably needed for usb mtp",
+  "list": "Oem",
+  "removal": "Expert"
+}

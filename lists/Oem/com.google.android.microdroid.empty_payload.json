@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.microdroid.empty_payload",
+  "description": "Empty payload for MicroDroid sandbox testing.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

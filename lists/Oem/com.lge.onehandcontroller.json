@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.onehandcontroller",
+  "description": "Needed for One-Handed Controller, Miniview.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

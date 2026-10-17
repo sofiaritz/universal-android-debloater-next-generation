@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.livedemoservice",
+  "description": "Demo Mode\nEnables retail demonstration mode. it's not a feature for normal users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

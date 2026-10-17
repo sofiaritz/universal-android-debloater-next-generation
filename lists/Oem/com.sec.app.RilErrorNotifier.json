@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.app.RilErrorNotifier",
+  "description": "RilNotifier\nDebug app for the RIL\nSee\"com.sec.android.RilServiceModeApp\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

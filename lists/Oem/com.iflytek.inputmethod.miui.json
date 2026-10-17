@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.iflytek.inputmethod.miui",
+  "description": "Chinese Keyboard to Miui China",
+  "list": "Oem",
+  "removal": "Advanced"
+}

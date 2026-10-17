@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.cocktailbarservice",
+  "description": "Edge screen/panels\nEnables you to open your five most used apps by simply swiping the edge of the screen.\nSwipe one of the edges of the screen to bring up information even when your device is locked (with the screen off).\nYou can also set it up to display the news or weather, for example.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

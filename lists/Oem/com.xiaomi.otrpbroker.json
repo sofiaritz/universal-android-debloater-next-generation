@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.otrpbroker",
+  "description": "TAMservice\nOTRP Protocol Negotiation Program (Internet of Things)\nOnly useful in China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

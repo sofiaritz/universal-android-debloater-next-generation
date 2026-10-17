@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.remoteSimlock",
+  "description": "VZWRemoteSimlockService\nRemote SimLock lock, unlock, looks more danger than useful app.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.access.wifi.consumer",
+  "description": "Google Wifi app (https://play.google.com/store/apps/details?id=com.google.android.apps.access.wifi.consumer)",
+  "list": "Google",
+  "removal": "Recommended"
+}

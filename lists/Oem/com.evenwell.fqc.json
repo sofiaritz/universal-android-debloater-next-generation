@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.fqc",
+  "description": "FQC is a secret test menu. It lets you test the hardware (touch screen, speakers, SD card, SIM card, camera...)\nYou need to type *#*#372733#*#* in the Nokia dialer",
+  "list": "Oem",
+  "removal": "Recommended"
+}

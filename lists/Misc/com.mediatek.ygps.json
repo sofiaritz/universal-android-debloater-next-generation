@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.ygps",
+  "description": "YGPS\nGPS test and bug report utilities, accessed via Engineer Mode. Not needed.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

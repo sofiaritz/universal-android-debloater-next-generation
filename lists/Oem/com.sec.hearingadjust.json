@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.hearingadjust",
+  "description": "Samsung Adapt Sound\nConfigures a sound profile according to your ears.\nImprove audio experience in the end (even with headphones)\nhttps://www.howtogeek.com/316375/how-to-use-adapt-sound-on-the-galaxy-s7-and-s8-for-better-sound-quality/\n#\nSettings > Sound  and vibration > Sound Quality and effects > Adapt Sound\nNOTE : com.sec.android.app.soundalive is needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

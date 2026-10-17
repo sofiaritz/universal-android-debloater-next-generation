@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.powersavemode",
+  "description": "Has battery settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

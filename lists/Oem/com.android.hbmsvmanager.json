@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.hbmsvmanager",
+  "description": "Its app for calibration screen and debugging.\nHBM SV is unknown.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

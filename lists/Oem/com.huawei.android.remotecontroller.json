@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.remotecontroller",
+  "description": "Huawei Smart Controller app.\nLets you you add, customize, and set up remote controls, allowing control of your electronic appliances through your phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

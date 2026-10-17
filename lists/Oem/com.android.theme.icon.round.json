@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon.round",
+  "description": "Android icon shape only for Google Pixel or AOSP or Motorola",
+  "list": "Oem",
+  "removal": "Recommended"
+}

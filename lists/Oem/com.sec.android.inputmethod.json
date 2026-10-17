@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.inputmethod",
+  "description": "Samsung Keyboard\nSuperseded by `com.samsung.android.honeyboard`.",
+  "list": "Oem",
+  "removal": "Expert"
+}

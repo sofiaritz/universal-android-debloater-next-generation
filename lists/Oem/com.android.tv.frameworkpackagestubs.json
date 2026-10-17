@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.tv.frameworkpackagestubs",
+  "description": "Activity Stub\nHard to say by code, has browser provider and SQLite content.",
+  "list": "Oem",
+  "removal": "Expert"
+}

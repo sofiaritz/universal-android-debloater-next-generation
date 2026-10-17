@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.tier1",
+  "description": "Has random set to default google apps and vivo gallery.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

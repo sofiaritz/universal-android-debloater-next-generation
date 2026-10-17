@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.update",
+  "description": "LG Update Center for updating your LG device. LG's OTA server shut down on June 30, 2025, so this app now has no purpose.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

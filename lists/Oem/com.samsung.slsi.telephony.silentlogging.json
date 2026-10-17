@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.slsi.telephony.silentlogging",
+  "description": "Hidden network logging. Safe to remove",
+  "list": "Oem",
+  "removal": "Recommended"
+}

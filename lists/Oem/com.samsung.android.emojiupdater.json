@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.emojiupdater",
+  "description": "AR Emoji updater\nThis package has no permission so I wonder how it can update anything.\nSee com.samsung.android.aremoji",
+  "list": "Oem",
+  "removal": "Recommended"
+}

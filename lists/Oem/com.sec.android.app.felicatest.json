@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.felicatest",
+  "description": "FeliCa Test, hidden debugs, logs HAL_Nfc",
+  "list": "Oem",
+  "removal": "Recommended"
+}

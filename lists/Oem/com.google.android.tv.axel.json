@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.axel",
+  "description": "Android TV Infrared Service\nNeeded for volume setup.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.account",
+  "description": "Vivo account\nVivo privacy policy is really bad: https://privacy.vivo.com/privacy\nNote: Removing this will obviously break fuctions that require Vivo account authentication: accessibility, data backup etc.",
+  "list": "Oem",
+  "removal": "Expert"
+}

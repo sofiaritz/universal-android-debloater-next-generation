@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.oneplus.oemtcma",
+  "description": "TCMA = Tiered Contention Multiple Access\nRuns on boot.\nA form of CSMA/CA, a cellular traffic management protocol. TCMA schedules transmission of different types of traffic based on urgency.\nChina-only? (the\"cn\" in cn.oneplus is China's country code)\nhttps://en.wikipedia.org/wiki/Carrier-sense_multiple_access_with_collision_avoidance\nhttps://patents.google.com/patent/US20020163933A1",
+  "list": "Oem",
+  "removal": "Advanced"
+}

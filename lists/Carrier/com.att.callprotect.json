@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.callprotect",
+  "description": "AT&T Call Protect (https://play.google.com/store/apps/details?id=com.att.callprotect)\nSpam call blocking app provided by Hiya\nNOTE : You should never trust spam blocking apps (https://itmunch.com/robocall-caught-sending-customers-confidential-data-without-consent/)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

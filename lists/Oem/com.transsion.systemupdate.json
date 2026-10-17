@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.systemupdate",
+  "description": "System Update\nProvides System Updates",
+  "list": "Oem",
+  "removal": "Expert"
+}

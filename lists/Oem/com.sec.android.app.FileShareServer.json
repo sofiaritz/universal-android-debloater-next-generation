@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.FileShareServer",
+  "description": "Send files to Samsung devices with Allshare. Allshare is discontinued and no longer present on modern Samsung devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

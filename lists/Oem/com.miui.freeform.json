@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.freeform",
+  "description": "Floating window\nI think the name of the app is pretty straightforward\nYou can make apps appear above other applications\nhttps://forum.xda-developers.com/android/miui/floating-windows-miui-12-t4125661\nOn some phones even if you uninstalled it, floating window still works.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

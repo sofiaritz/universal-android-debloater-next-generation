@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hicard",
+  "description": "Huawei Cards, no noticeable consequences",
+  "list": "Oem",
+  "removal": "Recommended"
+}

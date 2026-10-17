@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.localBackup",
+  "description": "Backup\nA hidden app, which has storage, location, contacts, SMS, call logs and calendar permissions. Can be uninstalled via Settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

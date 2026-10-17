@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.multiwindow",
+  "description": "Provides manifestly the ability to display multiple apps on the screen (at the same time)\nCan someone test?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.keycustomizationinfobackupservice",
+  "description": "If you don't use backup service, it's safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

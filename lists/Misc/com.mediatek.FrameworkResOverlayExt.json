@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.FrameworkResOverlayExt",
+  "description": "DisplayCutout founded in code.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.account",
+  "description": "Flyme\nLog out before remove",
+  "list": "Oem",
+  "removal": "Recommended"
+}

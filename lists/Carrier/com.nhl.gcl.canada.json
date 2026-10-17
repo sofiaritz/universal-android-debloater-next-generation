@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nhl.gcl.canada",
+  "description": "Rogers NHL app. Just opens a 404 page in the web browser. Useless.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

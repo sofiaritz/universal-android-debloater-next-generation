@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.oppopowermonitor",
+  "description": "Battery monitoring",
+  "list": "Oem",
+  "removal": "Recommended"
+}

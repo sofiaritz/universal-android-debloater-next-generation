@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.powermodule",
+  "description": "it's for powersaving? have more debugging stuff than powersaving.",
+  "list": "Misc",
+  "removal": "Expert"
+}

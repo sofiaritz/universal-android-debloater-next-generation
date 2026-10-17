@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.setupwizard.btl.s600ww.overlay",
+  "description": "Theme overlay for Setup Wizard?",
+  "list": "Oem",
+  "removal": "Expert"
+}

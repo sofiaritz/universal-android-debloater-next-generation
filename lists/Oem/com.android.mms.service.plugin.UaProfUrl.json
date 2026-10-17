@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mms.service.plugin.UaProfUrl",
+  "description": "Useless plugin for logs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

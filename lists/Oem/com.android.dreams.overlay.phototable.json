@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dreams.overlay.phototable",
+  "description": "Overlay to 'com.android.dreams.phototable' has icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

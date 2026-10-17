@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.pedometer",
+  "description": "Pedometer\nIt's for displaying steps probably.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

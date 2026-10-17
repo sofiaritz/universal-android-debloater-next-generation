@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.aware.service",
+  "description": "Samsung Quick Share Agent\nUse Wifi direct to share files between 2 Samsung Galaxy phones (it's only for Samsung Galaxy users)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

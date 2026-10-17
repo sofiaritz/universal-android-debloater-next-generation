@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.overlay.sprdnote",
+  "description": "Overlay to 'com.sprd.sprdnote' png icons.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

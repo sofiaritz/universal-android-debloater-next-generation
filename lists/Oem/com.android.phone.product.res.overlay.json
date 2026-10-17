@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.product.res.overlay",
+  "description": "Overlays the phone app, needed if you use the device for calls/SMS/contact management. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

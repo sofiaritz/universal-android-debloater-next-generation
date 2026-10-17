@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.baidu.location.fused",
+  "description": "FusedLocation\nChinese baidu location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

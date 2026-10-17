@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.speechassist",
+  "description": "ColorOS Speech Assistant",
+  "list": "Oem",
+  "removal": "Recommended"
+}

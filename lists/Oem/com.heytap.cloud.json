@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.cloud",
+  "description": "HeyTap Cloud\nBad privacy policy: https://muc.heytap.com/document/heytap/oversea/privacyPolicy/privacyPolicy_en-US.html\nWhy does the app need `REQUEST_INSTALL_PACKAGES` (can install packages)?\nPithus analysis: https://beta.pithus.org/report/dbf265db47f8632453bb83ef51ea1d921413c02a8d24c989345896de83704a75",
+  "list": "Oem",
+  "removal": "Recommended"
+}

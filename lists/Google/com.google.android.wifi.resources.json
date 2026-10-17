@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wifi.resources",
+  "description": "Wi-Fi Service Resources. Overlay APK manifest is stored here. Extracts Wi-Fi configs.\nhttps://source.android.com/docs/core/ota/modular-system/wifi",
+  "list": "Google",
+  "removal": "Unsafe"
+}

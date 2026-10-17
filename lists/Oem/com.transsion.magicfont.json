@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.magicfont",
+  "description": "Magic Fonts (https://play.google.com/store/apps/details?id=com.transsion.magicfont)\nFonts installer with a lot of trackers obviously (https://reports.exodus-privacy.eu.org/fr/reports/com.transsion.magicfont/latest/). For Transsion devices I'm pretty sure this is the only way you can install fonts, even Zfont uses this app to install fonts. Breaks or well, removes functionality of changing fonts if removed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

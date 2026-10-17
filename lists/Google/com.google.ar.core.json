@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.ar.core",
+  "description": "Google Play Services for AR (Augmented Reality) (https://play.google.com/store/apps/details?id=com.google.ar.core)\nNote: Disabling it can mess with apps that use it, like Pokemon GO.\nhttps://beta.pithus.org/report/99ea324529f950fe351d22724f8b894cce19c16607fcc9c2855bc906b1f8e644",
+  "list": "Google",
+  "removal": "Recommended"
+}

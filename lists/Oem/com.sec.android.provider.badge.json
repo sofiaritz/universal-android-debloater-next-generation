@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.provider.badge",
+  "description": "Provider for the notification badges (which are not very useful IMHO)\nProvides a way for apps to use notifications badges.\nhttps://www.samsung.com/au/support/mobile-devices/what-is-app-icon-badge/\nEmergency Power saving launcher does not start after removing.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

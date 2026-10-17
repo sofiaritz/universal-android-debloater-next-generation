@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.vsim.ericssonnsds.webapp",
+  "description": "NSDSWebApp.\nVirtual SIM is an application-enabled service that requires you to install an app to use a number.\nWith this technology, it is possible for one to have numbers of different countries.\nNon Sim Device Solution (NSDS) is needed for VoLTE and VoWifi (Wifi Calling) if you have a virtual SIM.\nNSDS allows connecting non sim devices to IMS core: https://uk.linkedin.com/in/hemant-kumar-dewnarain-2b779679",
+  "list": "Oem",
+  "removal": "Recommended"
+}

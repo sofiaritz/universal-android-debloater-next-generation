@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.retaildemo.overlay.base.s600ww",
+  "description": "Theme overlay for Retail demonstration mode?\nhttps://en.wikipedia.org/wiki/Demo_mode",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.music",
+  "description": "Default Oppo Music App with insecure WebView Implementation (execution of user controlled code in WebView is an important security hole.\nHas also weird permissions (QUERY_ALL_PACKAGES and BLUETOOTH?)\n\nhttps://beta.pithus.org/report/befa0ec0616c553632379f069453b0ca74ee29fd1428b9fce19c1657e6f97d8b",
+  "list": "Oem",
+  "removal": "Recommended"
+}

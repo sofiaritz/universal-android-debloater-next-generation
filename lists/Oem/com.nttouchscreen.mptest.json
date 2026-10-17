@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttouchscreen.mptest",
+  "description": "Novatek MP selftest\nTesting things to com.vivo.bsptest.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

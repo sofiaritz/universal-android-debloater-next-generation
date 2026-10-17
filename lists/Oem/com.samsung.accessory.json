@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.accessory",
+  "description": "Samsung Accessory Service (https://play.google.com/store/apps/details?id=com.samsung.accessory)\nLets you transfer data between your Samsung phone and Samsung accessories (GALAXY Gear/Watch...)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

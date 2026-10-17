@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.authenticator2",
+  "description": "Google Authenticator app (https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)",
+  "list": "Google",
+  "removal": "Recommended"
+}

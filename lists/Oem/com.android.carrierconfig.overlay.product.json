@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.carrierconfig.overlay.product",
+  "description": "Better keep this for LTE network.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

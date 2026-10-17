@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.fpctest",
+  "description": "Fingerprint test",
+  "list": "Oem",
+  "removal": "Recommended"
+}

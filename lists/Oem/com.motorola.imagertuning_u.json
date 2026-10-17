@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.imagertuning_u",
+  "description": "This package is associated with Motorola\u2019s image tuning features, specifically designed to enhance or adjust image quality settings on Motorola devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

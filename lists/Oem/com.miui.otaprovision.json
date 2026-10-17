@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.otaprovision",
+  "description": "OtaProvision\nUseless, only for China, have analytics things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

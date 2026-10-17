@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.euiccpixel.overlay.zuma",
+  "description": "EU Pixel device overlay for regional functionality.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.dtsaudio",
+  "description": "DTS Sound\nVery safe to disable and just serves as a way to modify audio playing and runs in the background and has telemetry can be replaced by other better apps",
+  "list": "Oem",
+  "removal": "Recommended"
+}

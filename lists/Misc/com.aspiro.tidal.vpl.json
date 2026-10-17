@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aspiro.tidal.vpl",
+  "description": "Tidal Music (https://play.google.com/store/apps/details?id=com.aspiro.tidal)\nMusic streaming app",
+  "list": "Misc",
+  "removal": "Recommended"
+}

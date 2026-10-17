@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.systemui.overlay.att",
+  "description": "This overlay needed for (com.motorola.attvowifi) I guess. It's for WiFi Calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

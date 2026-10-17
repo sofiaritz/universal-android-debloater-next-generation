@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.container",
+  "description": "ContainerService\nCreates container. Maybe not very useful. Someone can test?",
+  "list": "Oem",
+  "removal": "Expert"
+}

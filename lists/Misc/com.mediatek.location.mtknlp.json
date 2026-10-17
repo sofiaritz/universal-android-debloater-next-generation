@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.location.mtknlp",
+  "description": "Mtk Nlp\nNetwork Location Provider? This app has location permissions and no code.",
+  "list": "Misc",
+  "removal": "Expert"
+}

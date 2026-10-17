@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.numberidentity",
+  "description": "Designed to block unwanted calls, but only works properly in China",
+  "list": "Oem",
+  "removal": "Recommended"
+}

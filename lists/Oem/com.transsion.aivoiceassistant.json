@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.aivoiceassistant",
+  "description": "Very shady voice assistant called 'Folax' that comes preinstalled in Infinix phones, and is also packed with ads in the main ui. It needs every permission, and access to everything on your phone to run. It uses OpenAI as its backend.\nIt constantly runs in the background after boot, and periodically phones home.\nYou don't want this on your phone.\nThis can be safely removed without issues.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

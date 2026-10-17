@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.youtube.tvmusic",
+  "description": "YouTube Music\nhttps://play.google.com/store/apps/details?id=com.google.android.youtube.tvmusic&hl=en&gl=US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

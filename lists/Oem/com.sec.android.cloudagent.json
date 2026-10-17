@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.cloudagent",
+  "description": "Part of Dropbox integration on TouchWiz",
+  "list": "Oem",
+  "removal": "Recommended"
+}

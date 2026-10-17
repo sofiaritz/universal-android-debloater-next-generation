@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oem.euiccpartnerapp",
+  "description": "EuiccPartnerApp\nNeeded for eSIM (eUICC)?\nI think it's useless.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

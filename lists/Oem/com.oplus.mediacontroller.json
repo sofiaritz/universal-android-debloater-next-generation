@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.mediacontroller",
+  "description": "Media Controller.\nResponsible for the Dynamic Island feature for music applications and showing the 'Now playing' notification on lockscreen.",
+  "list": "Oem",
+  "removal": "Expert"
+}

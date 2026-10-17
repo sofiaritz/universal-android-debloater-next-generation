@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.wfd.service",
+  "description": "Wfd Service\nProvides a way to cast your screen to a TV (Miracast)\nhttps://en.wikipedia.org/wiki/Miracast\nOr it is WiFi Direct.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sdk.professionalaudio.utility.jammonitor",
+  "description": "Professional Audio\nAllows you to create virtual instrument applications with Android.\nhttps://developer.samsung.com/html/techdoc/ProgrammingGuide_ProfessionalAudio.pdf",
+  "list": "Oem",
+  "removal": "Recommended"
+}

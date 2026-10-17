@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.sensor",
+  "description": "Hidden sensor calibration.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.retaildemo",
+  "description": "Retail Demo\nRetail demonstration mode.\nhttps://en.wikipedia.org/wiki/Demo_mode",
+  "list": "Oem",
+  "removal": "Recommended"
+}

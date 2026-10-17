@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.freeform",
+  "description": "Freeform\nRequired for window app mode.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.externalstorage",
+  "description": "Needed by apps to access external storage (like memory cards).",
+  "list": "Aosp",
+  "removal": "Expert"
+}

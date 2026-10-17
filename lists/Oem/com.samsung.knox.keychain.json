@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.knox.keychain",
+  "description": "Knox Key Chain\nAllows apps to sign data using system-wide private key/certificate pairs.\nSo, even though the Android Keystore provides per-app access to credentials, the Android KeyChain runs as a system user,\nand hence, credentials stored through the Android KeyChain are associated with the system ID instead of a user ID.\nhttps://docs.samsungknox.com/dev/knox-sdk/about-keystores.htm\nThis is only useful for apps using the TIMA Keystore. The big question I'm trying to answer is:\nWhich are using this except Samsung apps? Can an android dev help on this?",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

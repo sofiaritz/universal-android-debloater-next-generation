@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amazon.appmanager",
+  "description": "Mobile Device Information Provider\nSeems related to Kindle\nhttps://forum.xda-developers.com/t/are-these-phones-preloaded-with-amazon-spyware.4260299/\nhttps://www.reddit.com/r/AndroidQuestions/comments/89qy76/what_is_mobile_device_information_provider_app/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

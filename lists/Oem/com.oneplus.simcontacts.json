@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.simcontacts",
+  "description": "SimContacts Manager\nRuns in the background. Manages contacts and sync to SIM? Noticed no apparent ill effects on disable in Android 9.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

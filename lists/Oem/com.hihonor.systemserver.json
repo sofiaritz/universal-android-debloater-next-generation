@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.systemserver",
+  "description": "Honor System Services\nIt depends on (com.hihonor.systemmanager).\nNeeded for navigation with a fingerprint reader that is on a Huawei Mate 10, but fingerprint unlock will still work if you remove it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

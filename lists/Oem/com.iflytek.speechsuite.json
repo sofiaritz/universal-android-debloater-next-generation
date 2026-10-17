@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.iflytek.speechsuite",
+  "description": "Default voice input method from iflytek, a big chinese company (https://en.wikipedia.org/wiki/IFlytek)\nIFLytek was implicated in human rights violations :\nhttps://asia.nikkei.com/Economy/Trade-war/US-sanctions-8-China-tech-companies-over-role-in-Xinjiang-abuses\nArchive: https://web.archive.org/save/https://asia.nikkei.com/Economy/Trade-war/US-sanctions-8-China-tech-companies-over-role-in-Xinjiang-abuses",
+  "list": "Oem",
+  "removal": "Recommended"
+}

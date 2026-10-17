@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.audiofx",
+  "description": "/!\\ Removal causes bootloop on Moto G7 Power (Android 10)\nAudio effects\nProvide features like Equalizer, Surround sound...",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

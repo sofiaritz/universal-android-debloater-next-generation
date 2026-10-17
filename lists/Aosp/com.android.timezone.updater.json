@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.timezone.updater",
+  "description": "Time Zone Updater\nAutomatically updates the clock to correspond to your current time zone\nThis *may* cause a bootloop if removed. Timezone packages often causes that.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

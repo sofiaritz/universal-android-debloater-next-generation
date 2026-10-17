@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.nps",
+  "description": "Net Promoter Score\nPreinstalled survey.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

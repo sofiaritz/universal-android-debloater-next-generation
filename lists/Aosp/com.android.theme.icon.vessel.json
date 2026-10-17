@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon.vessel",
+  "description": "Android icon shape only for google pixel or aosp or motorola",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.docomoset",
+  "description": "docomo service/cloud Settings\nAdds a \"docomo service/cloud\" entry to the system Settings app. Simple navigation screen providing entry points to docomo-specific app settings, such as d-account and docomo application manager.\nEssential for launching d-account settings.\nSafe to remove if you don't use any docomo service.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

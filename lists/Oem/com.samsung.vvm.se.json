@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.vvm.se",
+  "description": "Samsung Verizon Voicemail\nAllows you to review and manage your voicemail directly from your smartphone, eliminating the need to dial into your mailbox.\nYou can scroll through your messages, pick the ones you want to listen to, and erase them right from your device's screen.\nhttps://mobile.spectrum.com/support/article/360001296667/samsung-visual-voicemail",
+  "list": "Oem",
+  "removal": "Recommended"
+}

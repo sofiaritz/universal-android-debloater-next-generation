@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.aiasst.service",
+  "description": "AI Call Assistant. Useless Call settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

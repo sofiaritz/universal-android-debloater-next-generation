@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.service.health",
+  "description": "Samsung Health Service\nNeeded for Samsung Health (com.sec.android.app.shealth)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

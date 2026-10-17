@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.nxtvision_ui",
+  "description": "TCL NXTVISION (code-name `iris`) Settings front-end",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.vtcamerasettings",
+  "description": "Video call effects\nKeep the focus on you during video calls by blurring the background or covering it with an image or color.\nUnfortunately, only supports a few apps (Google Meet, WhatsApp, Zoom).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

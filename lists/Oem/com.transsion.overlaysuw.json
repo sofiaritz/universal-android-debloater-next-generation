@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.overlaysuw",
+  "description": "it's needed only on first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

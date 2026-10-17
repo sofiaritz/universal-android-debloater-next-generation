@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.securityguard",
+  "description": "Security Events (located in Phone Manager - Security Tools, it is recommended to uninstall it).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

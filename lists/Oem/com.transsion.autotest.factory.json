@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.autotest.factory",
+  "description": "Factory. Testing Hardware Things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

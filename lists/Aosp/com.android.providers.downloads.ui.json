@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.downloads.ui",
+  "description": "Downloads\nUser interface for downloads.\nOn some OEM's this app has ads, tracking things.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

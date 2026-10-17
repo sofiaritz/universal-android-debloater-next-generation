@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.da.daagent",
+  "description": "Samsung dual messenger (https://www.samsung.com/global/galaxy/what-is/dual-messenger/)\nAllows you to use two separate accounts for the same app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

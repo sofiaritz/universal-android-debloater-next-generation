@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.presence",
+  "description": "App used to IMS, RCS. IP Voice Call.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

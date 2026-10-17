@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.service.stplatform",
+  "description": "SmartThings Framework\nI guess it's app for installing sponsored apps. Useless Framework.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

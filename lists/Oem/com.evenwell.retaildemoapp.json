@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.retaildemoapp",
+  "description": "Nokia retail demonstration mode\nhttps://en.wikipedia.org/wiki/Demo_mode",
+  "list": "Oem",
+  "removal": "Recommended"
+}

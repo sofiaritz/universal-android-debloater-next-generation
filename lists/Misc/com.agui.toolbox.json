@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.toolbox",
+  "description": "Toolbox\n contains a bunch of small utilites, most have there own APP but are only accessible from the Toolbox UI\nincluded; Noise test, Compass, Flashlight, Bubble Level, Picture Hanging, Heart rate, Measure height,\n Magnifier,Alarm, Plumb Bob, Protractor, Speedometer & a Pedometer.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

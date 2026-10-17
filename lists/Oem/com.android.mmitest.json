@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mmitest",
+  "description": "Hardware Testing\nHidden testing hardware things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

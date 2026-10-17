@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.vendoroverlay.com.android.systemui",
+  "description": "It has nothing in the code.",
+  "list": "Oem",
+  "removal": "Expert"
+}

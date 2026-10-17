@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.backuprestore",
+  "description": "OnePlus Switch (https://play.google.com/store/apps/details?id=com.oneplus.backuprestore)\nLets you migrate contacts, text messages, photos, and other data from one device to another.\nCan also backup data as a compressed archive.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

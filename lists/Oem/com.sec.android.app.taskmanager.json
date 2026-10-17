@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.taskmanager",
+  "description": "Hidden app that shows uninstall unused apps(+boring notifications that may be disabled)\nand button to (other, in the same app)task manager(shows ram and buttons kill user apps).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

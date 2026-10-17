@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.dtv.shaderemote",
+  "description": "DIRECTV Remote App (https://play.google.com/store/apps/details?id=com.att.dtv.shaderemote)\nLets you control DIRECTV HD receivers in your home that are connected to Internet, from your phone.\nFYI : DIRECTV is a subsidiary of AT&T\nWorth reading : https://en.wikipedia.org/wiki/DirecTV#Consumer_protection_lawsuits_and_violations",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

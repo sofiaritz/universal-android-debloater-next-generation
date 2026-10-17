@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.tvx",
+  "description": "Handles input settings. HDMI stops working if this is removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

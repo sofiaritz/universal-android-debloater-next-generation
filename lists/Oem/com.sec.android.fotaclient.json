@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.fotaclient",
+  "description": "OTA for legacy Samsung devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

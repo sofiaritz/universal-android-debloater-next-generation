@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.carrierconfig.res.overlay_305",
+  "description": "An overlay that draws over the android.carrierconfig package, probably safe if you do not use calls/SMS. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

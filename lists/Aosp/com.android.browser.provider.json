@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.browser.provider",
+  "description": "Old package (2014). Chrome bookmarks provider? Injects Picasa URL (http://picasaweb.google.com) in the Chrome browser's bookmarks in the browser.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

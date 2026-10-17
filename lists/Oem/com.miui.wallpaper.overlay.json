@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.wallpaper.overlay",
+  "description": "App that doesnt do anything, no code. Safe to remove.\n You will need remove it 2 times.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

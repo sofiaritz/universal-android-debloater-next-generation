@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.provision",
+  "description": "Provisioning is the process of setting up a network connection that will allow new users.\nThis service is for example needed when the user's phone moves from one cell-tower to another.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

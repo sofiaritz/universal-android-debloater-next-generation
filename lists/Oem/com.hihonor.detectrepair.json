@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.detectrepair",
+  "description": "Honor Smart diagnosis (discontinued?)\nUseless features and run in background.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

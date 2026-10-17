@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.NfcSettings",
+  "description": "NFC settings\nLikely in the settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

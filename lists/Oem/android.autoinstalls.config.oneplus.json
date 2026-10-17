@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.autoinstalls.config.oneplus",
+  "description": "Device configuration\nAutoInstalls a set of OEM apps on device setup (first boot/factory reset).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

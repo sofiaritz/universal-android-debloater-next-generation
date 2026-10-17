@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.settings.res.overlay_305",
+  "description": "Some overlay for settings? Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

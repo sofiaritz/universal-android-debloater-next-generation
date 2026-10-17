@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.linker",
+  "description": "OPSynergy\nUsed for the Synergy app to link your phone to your PC (it doesn't work well beyond controlling your phone from your PC). This app is a dependency of screencast. Disabling will cause the screencast app to break.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

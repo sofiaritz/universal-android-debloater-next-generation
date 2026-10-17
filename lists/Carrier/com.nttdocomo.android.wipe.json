@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.wipe",
+  "description": "Remote Wipe (https://www.docomo.ne.jp/service/initialization/)\nAllows docomo customer support to wipe your device upon request. This does NOT clear data inside the FeliCa chip.\nSafe to remove. Google's \"Find Hub\" or oem provided services are better-integrated alternatives.\nNOTE: To uninstall this, open settings > App permission > Special app access > Device admin apps and disable this app (May vary depending on your device).",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

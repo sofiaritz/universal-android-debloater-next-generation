@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.musicpicker",
+  "description": "Audio\nIt has Drm Popup, Music Picker, Audio Preview.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

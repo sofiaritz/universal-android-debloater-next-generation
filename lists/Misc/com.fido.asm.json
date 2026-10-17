@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fido.asm",
+  "description": "FIDO UAF1.0 ASM\nRelated to app fingerprint unlocking and payments. Safe to remove if you don't use password-less authentication to access online services.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

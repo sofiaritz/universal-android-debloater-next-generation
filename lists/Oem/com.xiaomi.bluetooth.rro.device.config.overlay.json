@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.bluetooth.rro.device.config.overlay",
+  "description": "A device-specific overlay for com.xiaomi.bluetooth. Safe to remove if com.xiaomi.bluetooth is removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

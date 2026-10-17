@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wifisettings",
+  "description": "WiFi settings\nIt can be found in settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

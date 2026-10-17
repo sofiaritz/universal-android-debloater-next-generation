@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.WifiResScanCountryCode",
+  "description": "Related to overlay for Wi-Fi scanning for country code.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

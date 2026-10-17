@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motocare",
+  "description": "Moto Care was renamed in\"Moto Help\" and then in\"Device Help\"\nProvide support features.\nhttps://mobile.softpedia.com/blog/Moto-Care-App-Gets-Updated-Now-Called-Motorola-Help-432827.shtml\nHowever you can both have com.motorola.genie (Device Help) and this package so it's strange.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

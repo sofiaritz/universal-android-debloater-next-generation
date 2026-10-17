@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.qhelp.application",
+  "description": "Quick Help application\nI think this package is the real Quick Help app. The package above only provides help contents IMO.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

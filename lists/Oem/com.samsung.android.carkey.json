@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.carkey",
+  "description": "Digital Key Framework\nFrameworks to CarKey app, only China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.findphone",
+  "description": "Find\nIt's used for finding the phone. Log out from account before removing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

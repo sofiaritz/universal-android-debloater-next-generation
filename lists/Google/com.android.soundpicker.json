@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.soundpicker",
+  "description": "Google Sounds. Needed to pick up a phone ringtone. No weird permissions.\n\nPithus analysis: https://beta.pithus.org/report/f5f7c265c6d98666c78267b91643bbfb635021d5d4f85c93407079ba4aad88ee",
+  "list": "Google",
+  "removal": "Expert"
+}

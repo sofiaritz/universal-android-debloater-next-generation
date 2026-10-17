@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.autoinstalls.config.Xiaomi.cereus",
+  "description": "Cepheus is the device codename.\nAutoInstalls a set of OEM apps on device setup (first boot/factory reset). For example, Personal Activity Intelligence.\nAn algorithm that determines a personal activity index based on resting heart rate, heart condition during exercise, gender, weight, and age. Requires smart bracelet to work.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

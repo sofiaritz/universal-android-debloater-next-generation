@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.ephotoburst",
+  "description": "ASUS Burst shot viewer\nASUS Photo viewer, Trim Service. Contains Google Analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

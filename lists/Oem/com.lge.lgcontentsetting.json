@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgcontentsetting",
+  "description": "Wallpaper & theme\nNeeded for theme settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

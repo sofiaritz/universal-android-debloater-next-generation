@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.seandroid",
+  "description": "Samsung Knox security features. Can't be disabled or uninstalled without root.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

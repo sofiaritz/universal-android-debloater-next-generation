@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.nrMode",
+  "description": "OplusNrModeControl\nRequired for Smart 5G.",
+  "list": "Oem",
+  "removal": "Expert"
+}

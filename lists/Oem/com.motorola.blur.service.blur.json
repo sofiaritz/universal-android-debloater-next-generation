@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.blur.service.blur",
+  "description": "MOTOBLUR service\nAutomatically syncs messages, emails, social status updates, contacts and pictures from your accounts straight to your Home screen. It's a serious privacy concern:\nhttps://www.beneaththewaves.net/Projects/Motorola_Is_Listening.html",
+  "list": "Oem",
+  "removal": "Advanced"
+}

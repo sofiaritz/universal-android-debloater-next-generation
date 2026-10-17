@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.clockpack",
+  "description": "Samsung Clock style\nAffects video playback in full-screen mode, breaks it",
+  "list": "Oem",
+  "removal": "Expert"
+}

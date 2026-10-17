@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.earphonetypec",
+  "description": "Samsung USB-C headset\nnot required unless you have a Samsung DAC or Samsung Type-C earphones (for firmware updates)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgfmservice",
+  "description": "Wifi Hotspot service\nREMINDER : Hotspot enable you to share the phone\u2019s 4G data connection with any Wi-Fi capable devices.\nIt is not the Hotspot feature. Only the widget !\n\nDual SIM status widget\nProbably only present in dual sim LG phone variants. Does not remove the persistent notification or dual SIM functionality.\n\nService menus. I believe if you remove the last one the secret code you can dial doesn't work anymore (who needs it anyway..?)\n\nLG support App remote access\nYou probably don't want that to happen\n\nLAOP test [MORE INFO NEEDED]\nI don't know what LAOP is. I could not find information about it. It's a test so it's probably fine. I have removed it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

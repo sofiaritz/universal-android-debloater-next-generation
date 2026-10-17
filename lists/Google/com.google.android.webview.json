@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.webview",
+  "description": "Android System WebView (https://play.google.com/store/apps/details?id=com.google.android.webview) enables Android apps to display web content within the app itself, based on Chrome.\nIf you delete WebView, make sure to install a replacement.\nMany third-party apps, such as banks, VPNs, GitHub, Discord and Reddit use web-based content and will crash without it.\nIt can cause notifications problems",
+  "list": "Google",
+  "removal": "Expert"
+}

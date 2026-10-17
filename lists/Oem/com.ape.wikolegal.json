@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.wikolegal",
+  "description": "Provides legal for first time setup in Wiko mobile",
+  "list": "Oem",
+  "removal": "Recommended"
+}

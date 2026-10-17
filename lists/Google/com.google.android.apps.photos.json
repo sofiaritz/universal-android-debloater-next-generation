@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.photos",
+  "description": "Google Photos (https://play.google.com/store/apps/details?id=com.google.android.apps.photos)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.soundrecorder",
+  "description": "Sound Recorder\nContains telemetry and is completely replaceable.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

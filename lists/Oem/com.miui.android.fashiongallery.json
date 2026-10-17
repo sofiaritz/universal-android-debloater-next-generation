@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.android.fashiongallery",
+  "description": "Mi Wallpaper Carousel (https://play.google.com/store/apps/details?id=com.miui.android.fashiongallery)\nA lockscreen customization app. Displays a new photo every on your lock screen every time you turn ON your screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

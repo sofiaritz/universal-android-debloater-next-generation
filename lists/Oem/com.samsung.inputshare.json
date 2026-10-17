@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.inputshare",
+  "description": "MultiControl\nIts use is to connect 2 devices and control one with the other.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

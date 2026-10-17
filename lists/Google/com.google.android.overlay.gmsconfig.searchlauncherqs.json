@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.searchlauncherqs",
+  "description": "WARNING: Uninstalling it breaks the Settings app for Android 15, Blackview Tab 60 WiFi!",
+  "list": "Google",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.personalsafety",
+  "description": "Useless overlay to personalsafety, safetyhub",
+  "list": "Oem",
+  "removal": "Recommended"
+}

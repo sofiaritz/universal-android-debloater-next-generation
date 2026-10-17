@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.diagnosticstool",
+  "description": "Diagnostic tool for troubleshooting Google services and system issues.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

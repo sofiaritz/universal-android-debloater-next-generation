@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.networkstack",
+  "description": "I guess it's needed for wifi and it can be important app",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

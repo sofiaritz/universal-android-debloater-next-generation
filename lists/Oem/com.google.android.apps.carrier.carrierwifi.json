@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.carrier.carrierwifi",
+  "description": "WiFi Provisioner\nOn the code I found only:\nOpenRoaming is a network of free and secure Wi-Fi hotspots. Require google account and google play services.\nIt can be also for wifi calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

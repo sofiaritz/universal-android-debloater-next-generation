@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.app.networkfilter",
+  "description": "knoxNwFilter\nIs responsible for Bluetooth to work.",
+  "list": "Oem",
+  "removal": "Expert"
+}

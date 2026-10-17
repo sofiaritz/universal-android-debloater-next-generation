@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.parentalcare",
+  "description": "Parental control to block apps on new samsung phones",
+  "list": "Oem",
+  "removal": "Recommended"
+}

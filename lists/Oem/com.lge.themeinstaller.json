@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.themeinstaller",
+  "description": "Needed to install themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

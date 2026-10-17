@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.nb.service",
+  "description": "Service for discovering nearby devices by GPS",
+  "list": "Oem",
+  "removal": "Expert"
+}

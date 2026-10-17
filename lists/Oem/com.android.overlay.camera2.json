@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.camera2",
+  "description": "Overlay to 'com.android.camera2' png icons.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

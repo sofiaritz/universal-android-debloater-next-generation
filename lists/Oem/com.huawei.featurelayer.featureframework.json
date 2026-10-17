@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.featurelayer.featureframework",
+  "description": "FeatureFramework\nAllows the app to check for feature updates.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

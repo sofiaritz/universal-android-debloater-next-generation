@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.aiwallpaper",
+  "description": "Mediocre AI Wallpaper Generator.\nCan be accessed from (Settings > Personalization).\nYou can safely remove this without any issues if you don't use it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.virtuallight",
+  "description": "Ambient light effect\nIt's music light effect (Settings: Dynamic Effects: Ambient Light Effect)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

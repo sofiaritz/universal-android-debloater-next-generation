@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.applicationmanager",
+  "description": "docomo Application Manager\nManages installation and updates of docomo-specific app.\nSafe to remove if you don't use any docomo service.\nNOTE: After reinstall, reboot needed to launch in some cases.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

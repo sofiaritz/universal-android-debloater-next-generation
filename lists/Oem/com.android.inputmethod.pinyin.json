@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.inputmethod.pinyin",
+  "description": "It is the built in software keyboard for LDPlayer. Getting rid of this breaks any keyboard input including from PC hardware keyboard.",
+  "list": "Oem",
+  "removal": "Expert"
+}

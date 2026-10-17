@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.nfc",
+  "description": "NFC Service\nRuns in the background as part of the System.\nI assume NFC breaks when disabled.\nWill probably run even if disabled, like most system packages. So disabling/uninstalling is probably pointless.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.notch.overlay",
+  "description": "It have something to Display Cutout. Better dont touch it.\nImportant configs to display.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

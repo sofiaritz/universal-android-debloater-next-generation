@@ -1,0 +1,6 @@
+{
+  "pkg_name": "pl.tmobile.panel",
+  "description": "MyBox\nRequire sim card to run app\nit's app store(discontinued?)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

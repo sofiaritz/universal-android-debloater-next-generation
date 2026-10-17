@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.skms.android.agent",
+  "description": "Samsung KMS agent service a client application for Android devices to support eSE-based (embedded secure element) mobile-NFC Services.\nhttps://developer.samsung.com/ese/overview.html\nKMS = Key Management System\nKNOX feature (https://en.wikipedia.org/wiki/Samsung_Knox)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

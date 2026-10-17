@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.ConnectivityOverlay",
+  "description": "Needed for wifi",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

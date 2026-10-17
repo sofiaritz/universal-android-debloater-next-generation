@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.rsupport.rs.activity.lge.allinone",
+  "description": "LG RemoteCall service app\nUsed to get support from LG, safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

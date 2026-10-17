@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.shannon.imsservice",
+  "description": "Verizon IMS service.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

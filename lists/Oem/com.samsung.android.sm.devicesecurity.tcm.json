@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sm.devicesecurity.tcm",
+  "description": "Device security\nChinese scanning app for searching viruses.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

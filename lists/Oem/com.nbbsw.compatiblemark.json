@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nbbsw.compatiblemark",
+  "description": "Not exactly sure what this is. Trying to launch mainActivity, you get a Chinese error message, but you can see a java error saying it's trying to connect to s2.sv.wxjyun.cn, which is a non-existent URL. No issues when removing this so it's safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.wifi.motowifimetrics",
+  "description": "Useless Wi-Fi daily stats.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

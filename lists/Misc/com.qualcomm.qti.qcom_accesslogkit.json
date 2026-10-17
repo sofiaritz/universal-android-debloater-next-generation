@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qcom_accesslogkit",
+  "description": "Theres nothing about logs. I only found in receivers (c Broadcast Receiver)\nand some useless png, text files. Useless.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

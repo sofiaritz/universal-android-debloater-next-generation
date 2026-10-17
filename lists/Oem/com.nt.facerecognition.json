@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nt.facerecognition",
+  "description": "Needed for face recognition.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

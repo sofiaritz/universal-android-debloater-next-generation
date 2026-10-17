@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.irremote",
+  "description": "IR Remote app based on Welife.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

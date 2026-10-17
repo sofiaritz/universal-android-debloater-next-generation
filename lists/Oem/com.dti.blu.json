@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.blu",
+  "description": "This package is preinstalled on devices made by cellphone manufacturer BLU, installs unwanted games and other non-essential stuff. Its name 'Mobile Services' makes it scary to remove, but I highly recommend removing it. No damage foukd after removal (did so in at least two different models of Blu phones).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

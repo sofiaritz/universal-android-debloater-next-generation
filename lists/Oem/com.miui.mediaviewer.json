@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.mediaviewer",
+  "description": "Media viewer\nOld? Mi Video.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

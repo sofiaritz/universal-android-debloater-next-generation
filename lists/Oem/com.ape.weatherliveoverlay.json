@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.weatherliveoverlay",
+  "description": "Overlay app for com.ape.weatherlive.\n If we uninstall com.ape.weatherlive this package should be removed also.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.batterystatsdumper",
+  "description": "Battery Stats Dumper\nLets you check and clear battery usage statistics.\nEnter *#*#010#*#* in the dial pad to access this hidden menu.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

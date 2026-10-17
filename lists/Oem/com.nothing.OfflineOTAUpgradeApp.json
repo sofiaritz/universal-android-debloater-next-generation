@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.OfflineOTAUpgradeApp",
+  "description": "Hidden offline OTA update. You can get it by typing in dialer: *#*#682*#*#",
+  "list": "Oem",
+  "removal": "Recommended"
+}

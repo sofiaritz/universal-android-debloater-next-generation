@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.trustedthingsauth",
+  "description": "HwTrustedThingsAuth\nOnly name app found in code, has permissions:\nBluetooth, execute_reg, use_auth.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.guard",
+  "description": "TGuard. Runs in the background on boot.\nHas these services:\"Online Support\" (related to `com.tcl.usercare`?),\"IO Limit\",\"Health\" (device health?) stuff, battery and low-storage diagnostics. On model T509A, it links to `libTclRootCheck.so` (native shared dynamic library), very sus.",
+  "list": "Oem",
+  "removal": "Expert"
+}

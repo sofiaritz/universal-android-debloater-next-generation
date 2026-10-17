@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huaqin.btlogger",
+  "description": "btlogger\ncit bluetooth logging",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.providers.factory",
+  "description": "FactoryTestProvider\nDisabling breaks hwmoduletest.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

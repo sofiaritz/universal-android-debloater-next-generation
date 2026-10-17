@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.navbar.transparent",
+  "description": "Allows 'Transparent navigation bar' to be enabled in Developer options.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

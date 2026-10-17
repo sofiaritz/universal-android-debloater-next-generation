@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.iris",
+  "description": "TCL NXTVISION\"Display Enhancements\". GPU-accelerated post-processing (\"shaders\") for images, videos, and games. Only good for pretty pictures, and (maybe) accessibility (clearer view). This is the back-end, see `com.tct.nxtvision_ui*` for the settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

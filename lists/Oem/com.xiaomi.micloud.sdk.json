@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.micloud.sdk",
+  "description": "Mi Cloud sdk\nsdk = Software development kit\nSeems to be a dependency for\"com.miui.gallery\" (MIUI auto reboots android after remove this package)",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

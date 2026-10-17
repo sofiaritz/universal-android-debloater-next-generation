@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.accessibility.voiceaccess",
+  "description": "Voice Access\nHelps anyone who has difficulty manipulating a touch screen (e.g. due to paralysis, tremor, or temporary injury) use their Android device by voice.\nhttps://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess",
+  "list": "Oem",
+  "removal": "Recommended"
+}

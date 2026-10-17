@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.intelligent.iengine",
+  "description": "According to a Sony user it is part of Smart Screen rotation (auto screen rotation based on the gyroscope). Doesn't seem reliable.\nDoes it break the screen-rotation if removed?\nOn Xperia 10VI: doesn't break rotation.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

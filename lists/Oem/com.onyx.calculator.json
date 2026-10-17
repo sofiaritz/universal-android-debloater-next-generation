@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.calculator",
+  "description": "The Onyx calculator app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

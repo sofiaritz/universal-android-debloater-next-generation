@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.facebook.appmanager",
+  "description": "Facebook app manager handles Facebook apps updates.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwpanpayservice",
+  "description": "Payment related service. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.securityinputmethod",
+  "description": "Mi Secure Keyboard\nA useless keyboard used to secure your password when logging in.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

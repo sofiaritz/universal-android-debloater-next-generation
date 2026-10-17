@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.weatherservice",
+  "description": "Service for the weather app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

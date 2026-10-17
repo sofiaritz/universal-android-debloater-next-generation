@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.virtualmachine.res",
+  "description": "Resources for Android virtual machine environment.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

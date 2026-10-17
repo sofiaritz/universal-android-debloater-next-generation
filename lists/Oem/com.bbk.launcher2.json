@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.launcher2",
+  "description": "Vivo launcher.",
+  "list": "Oem",
+  "removal": "Expert"
+}

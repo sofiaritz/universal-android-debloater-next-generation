@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.taskedge",
+  "description": "Handle task edge panel\nThrough Tasks edge, you can quickly perform frequently used tasks, such as composing messages and creating events.\nhttps://www.samsung.com/levant/support/mobile-devices/galaxy-s7-edge-how-do-i-add-tasks-edge/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

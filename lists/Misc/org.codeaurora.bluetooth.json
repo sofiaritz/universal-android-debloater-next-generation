@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.codeaurora.bluetooth",
+  "description": "https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/bluetooth",
+  "list": "Misc",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sohu.inputmethod.sogouoem",
+  "description": "Default keyboard",
+  "list": "Oem",
+  "removal": "Expert"
+}

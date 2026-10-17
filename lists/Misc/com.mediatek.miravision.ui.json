@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.miravision.ui",
+  "description": "Mediatek MiraVision\nProvides extensive hardware and software optimizations that improve the viewing quality.\nBUT I think it's not available and it's so bloated.\nhttps://www.mediatek.com/technology/miravision-for-smartphones",
+  "list": "Misc",
+  "removal": "Advanced"
+}

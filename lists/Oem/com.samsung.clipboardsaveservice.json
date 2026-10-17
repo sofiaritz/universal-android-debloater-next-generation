@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.clipboardsaveservice",
+  "description": "Clipboard Save service saves all the content you saved in the clipboard (clipboard history)\nIf you remove this you will still be able to copy/cust/past but a new content in clipboard will replace the current content.\nIn short : there will no longer be a history.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.gamedriver.sm8550",
+  "description": "Samsung SM8550 GameDriver.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

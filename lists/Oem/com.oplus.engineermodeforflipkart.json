@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.engineermodeforflipkart",
+  "description": "Engineermode2\nThis is app for get flipkartAddress and ShowSarImeiReceiver.\nI found some info: This phone is part of Flipkart Smart Plan and not eligible for release till any instant advance amount availed is repaid.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

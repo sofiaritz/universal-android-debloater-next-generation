@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gallery3d",
+  "description": "Built-in Gallery app.\nThe ID could be\"recycled\" by OEMs for their own gallery implementations.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.pixel.camera.services",
+  "description": "CameraIDRemapper and a lot Debug stuff. Dependency for Private space on Pixel devices.\nhttps://source.android.com/docs/security/features/private-space",
+  "list": "Oem",
+  "removal": "Advanced"
+}

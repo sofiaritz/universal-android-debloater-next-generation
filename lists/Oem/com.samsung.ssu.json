@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.ssu",
+  "description": "Network Unlock\nNetwork unlock? It's needed for SIM probably.",
+  "list": "Oem",
+  "removal": "Expert"
+}

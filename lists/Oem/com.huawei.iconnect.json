@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.iconnect",
+  "description": "iConnect\nHidden menu 'install PCAssistant' when connected to PC? I have never seen it. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.display.cutout.emulation.avoidAppsInCutout",
+  "description": "Avoid displaying apps in the notch area of the screen.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

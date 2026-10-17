@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.allsharecastplayer",
+  "description": "Screen Mirroring (only in Galaxy S6)\nCast your mobile screen to a TV.\nhttps://www.samsung.com/us/2012-allshare-play/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

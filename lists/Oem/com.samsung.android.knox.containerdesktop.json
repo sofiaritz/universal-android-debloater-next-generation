@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.containerdesktop",
+  "description": "Knox Container Desktop\nProvides UI for the work(space) container?\nSee\"com.samsung.android.knox.containeragent\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

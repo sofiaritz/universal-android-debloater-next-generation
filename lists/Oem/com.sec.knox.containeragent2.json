@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.containeragent2",
+  "description": "Samsung Knox Container (v2 ?)\nhttps://docs.samsungknox.com/whitepapers/knox-platform/app-container.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

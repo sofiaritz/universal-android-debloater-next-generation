@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.backdrop",
+  "description": "Needed for screensaver.\nhttps://play.google.com/store/apps/details?id=com.google.android.backdrop&hl=en&gl=US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

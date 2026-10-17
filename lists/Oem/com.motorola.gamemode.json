@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.gamemode",
+  "description": "Moto Gametime.\nAllows the user to block calls, quick screenshots, float social apps, etc when playing a game.\nhttps://play.google.com/store/apps/details?id=com.motorola.gamemode&gl=US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

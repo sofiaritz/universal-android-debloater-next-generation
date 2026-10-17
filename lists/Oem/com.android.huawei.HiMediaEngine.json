@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.huawei.HiMediaEngine",
+  "description": "It's for debugging camera. Has all camera features and report.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

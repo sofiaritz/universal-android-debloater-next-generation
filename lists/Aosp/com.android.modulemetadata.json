@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.modulemetadata",
+  "description": "It's used to manage and store metadata about installed modules, and is accessed by the system server. Breaks some core functionality if disabled.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

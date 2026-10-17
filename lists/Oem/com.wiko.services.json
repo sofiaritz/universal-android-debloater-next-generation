@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wiko.services",
+  "description": "Support app for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

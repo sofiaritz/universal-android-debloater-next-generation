@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.westalgo.factorycamera",
+  "description": "Hidden camera tests, calibration.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

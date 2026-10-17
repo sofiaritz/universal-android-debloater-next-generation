@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ebay.carrier",
+  "description": "Kind of weird ebay apps pre-installed by carriers.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

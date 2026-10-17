@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.overlay.common",
+  "description": "Location and dialer things.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

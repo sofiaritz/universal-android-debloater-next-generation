@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.music",
+  "description": "Overlay to 'com.android.music' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.infraware.polarisviewer5",
+  "description": "A dumbed down version of Polaris Office Editor 5 (which is a Microsoft Office like app).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

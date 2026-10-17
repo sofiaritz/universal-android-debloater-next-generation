@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nearme.deamon",
+  "description": "Package needed by com.nearme.statistics.rom to run service in background at every boot even though the app has been uninstalled",
+  "list": "Oem",
+  "removal": "Recommended"
+}

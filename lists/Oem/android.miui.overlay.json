@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.miui.overlay",
+  "description": "Refers to a specific package within the MIUI overlay,\nThe package contains various resources and components that are used to customize the appearance and behavior of the MIUI interface.\nhttps://source.android.com/docs/core/runtime/rros",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

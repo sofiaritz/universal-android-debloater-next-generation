@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.dynamicNavBar",
+  "description": "Found only in the bools.xml code, which shows the 'config Support dynamic Navigation Bar' 'true'.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.tmovvm",
+  "description": "Samsung Visual Voicemail (for T-mobile only)\nAllows you to review and manage your voicemail directly from your smartphone, eliminating the need to dial into your mailbox.\nhttps://mobile.spectrum.com/support/article/360001296667/samsung-visual-voicemail",
+  "list": "Oem",
+  "removal": "Recommended"
+}

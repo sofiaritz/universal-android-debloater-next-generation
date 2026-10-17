@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.rom",
+  "description": "Core package of MIUI\nDO NOT REMOVE THIS",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

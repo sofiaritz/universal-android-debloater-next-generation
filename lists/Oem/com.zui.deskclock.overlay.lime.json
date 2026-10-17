@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.deskclock.overlay.lime",
+  "description": "Overlay to theme icon Clock app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

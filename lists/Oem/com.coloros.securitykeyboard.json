@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.securitykeyboard",
+  "description": "Secure keyboard\nNot needed if your keyboard is already good.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

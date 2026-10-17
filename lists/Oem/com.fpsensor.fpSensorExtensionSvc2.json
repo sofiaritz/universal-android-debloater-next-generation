@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fpsensor.fpSensorExtensionSvc2",
+  "description": "Fingerprint sensor test tool\nHidden testing Fingerprint not available for normal users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

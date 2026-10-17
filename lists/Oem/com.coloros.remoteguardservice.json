@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.remoteguardservice",
+  "description": "Remote Guard Service\nHave only useless statistics and depends on: com.coloros.mcs, com.heytap.mcs ONLY FOR CHINA.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

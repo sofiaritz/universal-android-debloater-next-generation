@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.settings",
+  "description": "This is the system settings app, do not remove it",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

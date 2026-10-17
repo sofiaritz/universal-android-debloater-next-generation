@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.imagecollection",
+  "description": "it's hidden image collection of fingerprint and sensor test.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

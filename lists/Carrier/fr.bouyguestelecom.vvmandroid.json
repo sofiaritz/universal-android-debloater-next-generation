@@ -1,0 +1,6 @@
+{
+  "pkg_name": "fr.bouyguestelecom.vvmandroid",
+  "description": "This app wants to inject ads into your gallery.\nFound only ads and crashlytics components.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

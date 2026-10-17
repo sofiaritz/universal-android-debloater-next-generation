@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.gpudrivers.taro.api31",
+  "description": "Adreno Graphics Drivers\nGPU drivers",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

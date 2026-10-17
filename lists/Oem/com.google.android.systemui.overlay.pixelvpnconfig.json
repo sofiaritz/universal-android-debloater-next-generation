@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.systemui.overlay.pixelvpnconfig",
+  "description": "Pixel VPN configuration overlay for network management.",
+  "list": "Oem",
+  "removal": "Expert"
+}

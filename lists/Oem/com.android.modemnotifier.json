@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.modemnotifier",
+  "description": "Modem Info\nHidden Modem Info? Used for logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

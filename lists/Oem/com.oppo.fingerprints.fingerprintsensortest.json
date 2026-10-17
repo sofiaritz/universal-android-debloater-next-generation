@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.fingerprints.fingerprintsensortest",
+  "description": "Fingerprint sensort test",
+  "list": "Oem",
+  "removal": "Recommended"
+}

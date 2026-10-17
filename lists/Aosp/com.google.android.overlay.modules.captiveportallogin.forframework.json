@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.captiveportallogin.forframework",
+  "description": "Configs default captiveportallogin. (not needed)\nNo effects after remove.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

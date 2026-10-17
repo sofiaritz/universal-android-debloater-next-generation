@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.ucs.agent.ese",
+  "description": "eSE UCS Plugin is another package from UCS. It makes possible for apps to access eSE of Samsung mobile devices by using the UCM\n(Universal Credential Management) APIs and framework.\nhttps://docs.samsungknox.com/dev/knox-sdk/faqs/general/what-is-universal-credential-management_-ucm.htm\nhttps://www.samsung.com/semiconductor/security/ese/\nSee above",
+  "list": "Oem",
+  "removal": "Recommended"
+}

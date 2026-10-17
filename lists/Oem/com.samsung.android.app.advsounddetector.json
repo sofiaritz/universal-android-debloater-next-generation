@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.advsounddetector",
+  "description": "Samsung Sound detectors\nUses microphone to identify recognizable sounds. For example, if it recognizes a baby's cry, it can alert you with flashing lights so\nyou know to check on your baby. Or it can notify you if it hears the doorbell ring so you know to open the door.\n#\nadv maybe refers to 'Samsung Advanced Institute of Technology' (or simply means 'advanced')",
+  "list": "Oem",
+  "removal": "Recommended"
+}

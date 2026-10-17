@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ws.dm",
+  "description": "it's the same like com.wssyncmldm\nSoftware update\nFetch System OTA updates\nWorks along with com.sec.android.soagent\nRequired on Samsung Smartphones for OTA.",
+  "list": "Oem",
+  "removal": "Expert"
+}

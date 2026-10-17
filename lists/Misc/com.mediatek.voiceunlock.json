@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.voiceunlock",
+  "description": "It's for voice commands like control music playing or voice control for alarm, camera.\nBut how to get access to it?\nProbably you need that for voice recognition but not sure.\nMaybe related to https://www.mediatek.com/products/smart-home/voice-assistant-devices",
+  "list": "Misc",
+  "removal": "Recommended"
+}

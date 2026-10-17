@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.obdm_permissions",
+  "description": "D-MAT.\nHas a LOT of permissions! (https://knowledge.protektoid.com/apps/com.verizon.obdm/d48680955d8d58bade2e6620ccb1e30b9bf23cb8e50055e10de3466da558c0ee)\nDMAT Account ? It is used to hold shares and securities in dematerialised/electronic format.\nSeems weird that Verizon provide this so it's likely not this.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

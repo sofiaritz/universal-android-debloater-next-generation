@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.reallytek.wg",
+  "description": "Calibration, Test Camera things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

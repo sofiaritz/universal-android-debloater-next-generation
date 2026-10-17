@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.assetsync",
+  "description": "HwAssetSync\nNeeded for HiCloud, Cloud syncing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

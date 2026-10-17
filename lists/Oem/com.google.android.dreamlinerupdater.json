@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.dreamlinerupdater",
+  "description": "Dock Updater\nUpdates to Dreamliner(Google Pixel AI wallpaper).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

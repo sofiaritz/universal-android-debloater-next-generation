@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.zt.framework",
+  "description": "KnoxZT Framework\nTo learn how you type, Touch Dynamics\nwill collect and analyze sensor data while typing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

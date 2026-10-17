@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.settings.rro.device.type.overlay",
+  "description": "I found only PNG files and it's Chinese. Only Chinese.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

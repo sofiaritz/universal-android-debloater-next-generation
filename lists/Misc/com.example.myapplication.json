@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.example.myapplication",
+  "description": "Hidden app for testing:\nBattery, WiFi, Bluetooth",
+  "list": "Misc",
+  "removal": "Recommended"
+}

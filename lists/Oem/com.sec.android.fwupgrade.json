@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.fwupgrade",
+  "description": "Updates AllShare components. Since Samsung AllShare is discontinued, this is now useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

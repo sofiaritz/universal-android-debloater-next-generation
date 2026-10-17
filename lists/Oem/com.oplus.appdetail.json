@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.appdetail",
+  "description": "Secure app installation",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.browser",
+  "description": "Vivo browser full of trackers (https://play.google.com/store/apps/details?id=com.vivo.browser)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

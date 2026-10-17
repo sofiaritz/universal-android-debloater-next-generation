@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.ipsgeofence",
+  "description": "Samsung Visit In app\n\nIPSGeofence\nIPS = Indoor Positioning System.\nThe concept of Indoor Positioning System designates a network of connected devices within a building making it possible to trace the position of another device \u2013 and therefore potentially of a person \u2013 in environments where GPS systems are\nnot efficient .\nGeofencing is a technique which consists in activating preconfigured actions when a device enters a certain geographical area.\nFor example, a user can use it to automatically turn on Wi-Fi and home lights when their smartphone is detected nearby.\nIn short, if enabled, this app will track your location everywhere and all the time!\nhttps://www.comparitech.com/blog/vpn-privacy/what-is-geofencing-privacy/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

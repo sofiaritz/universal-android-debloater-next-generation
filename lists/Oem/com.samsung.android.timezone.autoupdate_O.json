@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.timezone.autoupdate_O",
+  "description": "Samsung Time Zone Updater\nUsed to automatically detect appropriate timezone\nREMOVING THIS WILL BOOTLOOP YOUR DEVICE",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

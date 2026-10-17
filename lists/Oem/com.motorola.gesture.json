@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.gesture",
+  "description": "Gesture navigation tutorial added in Android 10.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

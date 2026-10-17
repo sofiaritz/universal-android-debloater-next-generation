@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.scloud.sync",
+  "description": "Samsung cloud synchronisation service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

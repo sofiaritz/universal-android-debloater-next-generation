@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.msimsettings",
+  "description": "Dual SIM Settings\nProvides Dual SIM feature.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

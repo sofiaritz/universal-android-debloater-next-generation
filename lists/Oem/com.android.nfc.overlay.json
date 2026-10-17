@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.nfc.overlay",
+  "description": "NFC overlay configuration for system-level settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

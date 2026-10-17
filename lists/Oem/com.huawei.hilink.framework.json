@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hilink.framework",
+  "description": "AI Life Service\nUsed for smart devices and to run smart scenes.\nIt's more useful in China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

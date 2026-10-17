@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wfd.spmirroring.source",
+  "description": "Provide wifi-direct feature\nNote : Wifi-direct is Wi-Fi standard enabling devices to easily connect with each other without requiring a wireless access point.\nIt allows allows two devices to establish a direct Wi-Fi connection without requiring a wireless router\nhttps://en.wikipedia.org/wiki/Wi-Fi_Direct\nspmirroring = ??? screen p... mirroring ?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

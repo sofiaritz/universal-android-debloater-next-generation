@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.colorblind",
+  "description": "This app provides colorblind accessibility features for Samsung devices, helping users with color vision deficiencies by adjusting display colors and improving visibility.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

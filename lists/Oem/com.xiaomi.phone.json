@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.phone",
+  "description": "A MIUI/HyperOS extension for telephony services. Called HyperPhone (at least on HyperOS), I don't know how is it named in MIUI, if you know, please edit this package and add it's MIUI name here. (in GitHub)\nIt's similar to com.xiaomi.bluetooth by it's purpose, but here it's a Xiaomi extension for telephony services. Deleting it caused no data loss or issues with telephony, calls, mobile data, and other on HyperOS 2.0.",
+  "list": "Oem",
+  "removal": "Expert"
+}

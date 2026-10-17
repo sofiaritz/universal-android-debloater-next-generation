@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.opera.max.oem",
+  "description": "Opera Max (discontinued)\nSystem-wide data-saving proxy that funnell all app data through Opera\u2019s servers to compress images and videos",
+  "list": "Misc",
+  "removal": "Recommended"
+}

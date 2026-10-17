@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.sait.sohservice",
+  "description": "FactoryApp\nThis weird app collects battery data and probably others, who knows? Also to test battery things such as set voltage, Soc, temperature, status, timestamp.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

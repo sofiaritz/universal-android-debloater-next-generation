@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.hndockbar",
+  "description": "Honor Multi-Window dock\nProbably fine to remove if you're not using Honor Multi-Window features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

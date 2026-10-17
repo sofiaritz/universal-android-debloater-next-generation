@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.networkstack.tethering.inprocess.overlay",
+  "description": "Related to the Tethering module,\nwhich allows an Android device to share its internet connection with other connected client devices.\nThis package contains classes and components that are used for in-process overlay functionality within the Tethering module.\nhttps://source.android.com/docs/core/ota/modular-system/tethering",
+  "list": "Aosp",
+  "removal": "Expert"
+}

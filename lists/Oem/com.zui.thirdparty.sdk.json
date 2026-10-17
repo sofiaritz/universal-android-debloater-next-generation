@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.thirdparty.sdk",
+  "description": "Third party useless frameworks.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

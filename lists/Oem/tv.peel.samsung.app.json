@@ -1,0 +1,6 @@
+{
+  "pkg_name": "tv.peel.samsung.app",
+  "description": "Peel Smart Remote (WatchON)\nIt's an application that turns your smart phone or tablet into a TV remote.\nThe app uses the IR Blaster of your device, so devices not equipped with that feature will not be able to use all of Peel Smart Remote's functions.\nhttps://www.samsung.com/za/support/mobile-devices/what-is-the-peel-smart-remote-application/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

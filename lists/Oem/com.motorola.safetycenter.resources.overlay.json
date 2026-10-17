@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.safetycenter.resources.overlay",
+  "description": "Useless overlay to com.google.android.safetycenter.resources\nNetwork protection, ThinkShield.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

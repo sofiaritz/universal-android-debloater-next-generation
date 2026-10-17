@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mdecservice",
+  "description": "Samsung Call & Text.\nNot 100% sure, but by looking at the decompiled Java/Dalvik/A.R.T. code it seems the app provides a way to receive call and SMS on Samsung accessories.\nIn any case it is only useful for Samsung IoT stuff.\nEmbeded Google Firebase analytics",
+  "list": "Oem",
+  "removal": "Recommended"
+}

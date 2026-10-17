@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.weather",
+  "description": "OnePlus Weather (https://play.google.com/store/apps/details?id=net.oneplus.weather)\nOccasionally runs in the background; I think it runs every now and then to change the app icon to current weather conditions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

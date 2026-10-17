@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.permissions.vzwappapn",
+  "description": "Custom permissions used to set Verizon APN?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

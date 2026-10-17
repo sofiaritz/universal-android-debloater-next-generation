@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.vdrive",
+  "description": "Driving Mode uses HiVoice to provide voice services when you are driving.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

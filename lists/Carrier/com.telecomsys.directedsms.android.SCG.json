@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.telecomsys.directedsms.android.SCG",
+  "description": "Verizon Location Agent\nLocation tracking (does not impact GPS function if deleted, don't worry)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.atd.smmitest",
+  "description": "SMMI TEST\nTesting hardware things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

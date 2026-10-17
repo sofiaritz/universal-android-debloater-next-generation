@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.ims.rcsua.service",
+  "description": "Needed to support IMS, RCS probably.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

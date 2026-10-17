@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.pictorial",
+  "description": "LockscreenMagazine\nRemoval will result in no longer being able to access Lockscreen settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

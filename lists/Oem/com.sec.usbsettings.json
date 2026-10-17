@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.usbsettings",
+  "description": "USBSettings\nHidden settings. Lets you choose from ADB, MTP, RNDIS, ACM, DM (dial *#0808# to open)\nRuns at startup",
+  "list": "Oem",
+  "removal": "Advanced"
+}

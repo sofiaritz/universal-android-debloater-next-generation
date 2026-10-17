@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.videos",
+  "description": "Google TV (previously Google Play Movies & TV) (https://play.google.com/store/apps/details?id=com.google.android.videos)",
+  "list": "Google",
+  "removal": "Recommended"
+}

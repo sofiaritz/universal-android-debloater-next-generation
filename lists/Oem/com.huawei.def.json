@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.def",
+  "description": "DEF\nUnused? message things:allows the app public keys on connected devices, getting status, access information",
+  "list": "Oem",
+  "removal": "Advanced"
+}

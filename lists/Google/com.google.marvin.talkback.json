@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.marvin.talkback",
+  "description": "Android Accessibility Suite (https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.voicedialer",
+  "description": "AOSP Voice dialer. Lets you call someone or open an app with your voice from the dialer.\nOEM often use their own code (embeded in their voice-controlled digital assistant)\nNOTE: On some phones Huawei & Xiaomi also use this package name for their own voice dialer app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

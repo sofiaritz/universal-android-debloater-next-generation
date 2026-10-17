@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.blacklistapp",
+  "description": "Blacklist Contacts\nBlack list contacts, blocking calling.",
+  "list": "Oem",
+  "removal": "Expert"
+}

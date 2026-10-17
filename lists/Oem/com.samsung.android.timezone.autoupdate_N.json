@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.timezone.autoupdate_N",
+  "description": "This app handles automatic updates for time zone information on Samsung devices, ensuring accurate timekeeping across different regions.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

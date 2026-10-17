@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.lineageos.glimpse",
+  "description": "LineageOS Gallery App.\nSafe to remove if you've replaced it with another app.\nOtherwise there will be no gallery app on your device.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

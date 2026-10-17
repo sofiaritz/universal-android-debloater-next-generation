@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.healthdata",
+  "description": "Useless frameworks and it's not needed for Health Connect.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

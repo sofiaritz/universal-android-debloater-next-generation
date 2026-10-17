@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.tyjw",
+  "description": "Fingerprint animation from a lot of PNG files",
+  "list": "Oem",
+  "removal": "Recommended"
+}

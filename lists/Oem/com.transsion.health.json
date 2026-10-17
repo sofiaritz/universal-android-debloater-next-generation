@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.health",
+  "description": "Tecno health app. Sends your personal data to Firebase google servers and Tecno servers. Those data can be shared with TRANSSION affiliated companies (see https://cdn.shalltry.com/transsionholdings/en/policy.html)\nPithus analysis: https://beta.pithus.org/report/2b7cd35081a9fbc82a1da1741cb476d1edaa3262d46a204ea8456c99c4e1b976",
+  "list": "Oem",
+  "removal": "Recommended"
+}

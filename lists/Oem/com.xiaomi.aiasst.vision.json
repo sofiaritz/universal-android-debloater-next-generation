@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.aiasst.vision",
+  "description": "AiasstVision. Not needed if you removed AI Call Assistant.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

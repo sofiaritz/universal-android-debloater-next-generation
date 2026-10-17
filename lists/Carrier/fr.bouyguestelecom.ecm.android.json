@@ -1,0 +1,6 @@
+{
+  "pkg_name": "fr.bouyguestelecom.ecm.android",
+  "description": "Espace Client (https://play.google.com/store/apps/details?id=fr.bouyguestelecom.ecm.android)\nLets you manage your Bouygues account.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.minimode.res",
+  "description": "Minimode will be not available when this app be removed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

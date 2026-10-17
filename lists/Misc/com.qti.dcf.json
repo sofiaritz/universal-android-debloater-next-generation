@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.dcf",
+  "description": "I found only: DCF Allows an application to share content using Bluetooth.\nThe application is only allowed to broadcast the content as it already has access to remote devices. These things are not available for users.\nQualcomm only said these things, but where is the code?\nThis app is without code so it's safe to remove.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

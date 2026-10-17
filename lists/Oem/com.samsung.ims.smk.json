@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.ims.smk",
+  "description": "SimMobilityKit\nVoLTE calling, IMS.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

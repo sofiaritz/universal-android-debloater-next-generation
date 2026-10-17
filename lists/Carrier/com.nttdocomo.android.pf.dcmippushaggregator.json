@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.pf.dcmippushaggregator",
+  "description": "A background platform service that manages docomo's proprietary IP push notification system.\nSafe to remove if you don't need to receive docomo's service notifications.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

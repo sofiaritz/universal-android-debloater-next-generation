@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.deskclock",
+  "description": "ASUS Digital Clock & Widget\nContains google analytics.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

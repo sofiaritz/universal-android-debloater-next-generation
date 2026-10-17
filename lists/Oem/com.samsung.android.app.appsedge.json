@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.appsedge",
+  "description": "Samsung apps edge (https://www.samsung.com/global/galaxy/what-is/apps-edge/)\nDisplays your five most frequently used apps for you to access at a moment\u2019s notice.\nBreaks Split-Screen/Multi-Window according to issue#124.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

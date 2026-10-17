@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.factorymode",
+  "description": "Tests hardware things.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

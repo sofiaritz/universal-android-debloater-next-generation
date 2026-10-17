@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.cast",
+  "description": "Screencast\nPhone casting (casting phone screen to other devices).",
+  "list": "Oem",
+  "removal": "Expert"
+}

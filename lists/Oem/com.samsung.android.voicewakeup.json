@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.voicewakeup",
+  "description": "Voice wake-up for using Bixby\nhttps://www.samsung.com/us/support/answer/ANS00080448/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

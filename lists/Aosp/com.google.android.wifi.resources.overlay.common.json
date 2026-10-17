@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wifi.resources.overlay.common",
+  "description": "An overlay-google addition for `com.android.wifi.resources`, presumably Google bloat.\nA user reported some issues with Hotspot",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

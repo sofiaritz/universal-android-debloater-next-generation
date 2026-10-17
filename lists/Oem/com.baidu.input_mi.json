@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.baidu.input_mi",
+  "description": "Baidu IME (Baidu keyboard)\nYOU SHOULD NEVER USE A CLOSED-SOURCE KEYBOARD !\nhttps://www.techrepublic.com/blog/asian-technology/japanese-government-warns-baidu-ime-is-spying-on-users/\nArchive : https://web.archive.org/save/https://www.techrepublic.com/blog/asian-technology/japanese-government-warns-baidu-ime-is-spying-on-users/\nNOTE: Make sure you have installed another keyboard before removing this package.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

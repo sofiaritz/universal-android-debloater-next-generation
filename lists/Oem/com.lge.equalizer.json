@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.equalizer",
+  "description": "Equalizer settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

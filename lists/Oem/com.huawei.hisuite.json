@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hisuite",
+  "description": "Can be uninstalled via settings. App to connect with the desktop program to Backup/Restore, flash firmware, etc.\nhttps://consumer.huawei.com/en/support/hisuite/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

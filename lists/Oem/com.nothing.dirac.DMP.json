@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.dirac.DMP",
+  "description": "Audio EQ (equalizer). Some 3rd-party music apps can use it to provide you EQ features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

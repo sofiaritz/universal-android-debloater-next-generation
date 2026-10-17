@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gmsintegration",
+  "description": "it's Google Sample Home Screen. Useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

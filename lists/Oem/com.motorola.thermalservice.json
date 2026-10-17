@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.thermalservice",
+  "description": "Motorola Thermal Service\nTurns off phone when it's too hot.",
+  "list": "Oem",
+  "removal": "Expert"
+}

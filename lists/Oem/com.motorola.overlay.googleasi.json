@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.overlay.googleasi",
+  "description": "Overlay to Android System Intelligence 'com.google.android.as',\nremoval means that you cannot use the features of this app probably.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

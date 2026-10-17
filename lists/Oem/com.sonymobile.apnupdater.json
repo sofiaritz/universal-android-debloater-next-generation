@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.apnupdater",
+  "description": "Automatically updates APN settings if your carrier changes them? I thought that was the role of com.android.carrierconfig\nAPN: https://tamingthedroid.com/what-apn-settings-mean",
+  "list": "Oem",
+  "removal": "Advanced"
+}

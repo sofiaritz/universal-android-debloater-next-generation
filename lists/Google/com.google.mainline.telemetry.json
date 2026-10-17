@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.mainline.telemetry",
+  "description": "Contains data on which versions of modules are installed. Google Play uses this data to determine if updates are available for the modules, and to show which security patch is installed.\nThis module doesn\u2019t contain active code and has no functionality on its own.\nAnyway I wont trust it when adservices are also in mainline.\nhttps://www.xda-developers.com/android-project-mainline-modules-explanation/\nhttps://gitlab.com/W1nst0n/universal-android-debloater/-/issues/27#note_410012436",
+  "list": "Google",
+  "removal": "Advanced"
+}

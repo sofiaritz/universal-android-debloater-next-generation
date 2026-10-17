@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.assetsync",
+  "description": "HnAssetSync\nNeeded for HiCloud, Cloud syncing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

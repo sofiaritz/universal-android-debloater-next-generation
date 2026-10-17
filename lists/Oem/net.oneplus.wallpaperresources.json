@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.wallpaperresources",
+  "description": "Resources for some live wall papers? Not sure.\nOnly contains a\"WallpaperResourceProvider\", no services, activities or receivers.",
+  "list": "Oem",
+  "removal": "Expert"
+}

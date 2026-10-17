@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settingaccessibility",
+  "description": "Accessibility settings\nIt should be important for settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

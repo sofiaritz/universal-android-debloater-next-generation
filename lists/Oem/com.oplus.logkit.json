@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.logkit",
+  "description": "Logs service and bug reporting app\nSafe to remove if you don't report bugs to OEM",
+  "list": "Oem",
+  "removal": "Recommended"
+}

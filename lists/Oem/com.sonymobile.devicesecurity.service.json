@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.devicesecurity.service",
+  "description": "DeviceSecurityService\nNot needed. Collects sim and network data.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

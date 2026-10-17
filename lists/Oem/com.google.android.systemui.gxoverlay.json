@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.systemui.gxoverlay",
+  "description": "Configs to systemui auto generated but better keep.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

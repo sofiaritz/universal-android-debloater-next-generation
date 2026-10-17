@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.factory",
+  "description": "Hidden hardware tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

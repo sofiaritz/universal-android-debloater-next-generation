@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.attvvm",
+  "description": "Visual Voicemail\nSimple GUI for voicemail",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

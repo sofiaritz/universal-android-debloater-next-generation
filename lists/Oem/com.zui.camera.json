@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.camera",
+  "description": "Lenovo ZUI Camera\nLenovo Stock Camera App",
+  "list": "Oem",
+  "removal": "Advanced"
+}

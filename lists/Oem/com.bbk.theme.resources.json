@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.theme.resources",
+  "description": "WallpaperRes\nVivo wallpapers. A lot of PNG wallpapers. Safe to remove if you don't need theme resources.",
+  "list": "Oem",
+  "removal": "Expert"
+}

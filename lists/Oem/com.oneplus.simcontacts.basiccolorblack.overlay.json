@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.simcontacts.basiccolorblack.overlay",
+  "description": "Dark theme overlay for Oneplus SimContacts Manager app?",
+  "list": "Oem",
+  "removal": "Expert"
+}

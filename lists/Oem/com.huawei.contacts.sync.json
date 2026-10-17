@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.contacts.sync",
+  "description": "Huawei Contacts sync\nMy guess (can't have the apk on hand) is this enables you to synchronise your contacts with your Huawei account.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

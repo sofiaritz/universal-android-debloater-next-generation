@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.widget.samsungapps",
+  "description": "Widget for Galaxy Apps, showing app suggestions on your home screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

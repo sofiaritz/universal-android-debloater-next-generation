@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.storage.watchstoragemanager",
+  "description": "Storage manager. DO NOT REMOVE THIS",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

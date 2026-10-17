@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.sss.authbridge",
+  "description": "Second Screen Setup Auth Bridge\nThere's google api's used on first boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

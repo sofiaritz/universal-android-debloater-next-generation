@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.orange.update",
+  "description": "Handles Orange apps updates.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

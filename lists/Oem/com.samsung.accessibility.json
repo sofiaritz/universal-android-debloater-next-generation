@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.accessibility",
+  "description": "Accessibility settings (useful for apps creating virtual buttons such as a pie-menu)\nWeirdly, removing this package can cause a bootloop if you set a lock code on your phone.\n Also used for clearing system cache from apps such as SD-Maid.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.oppoguardelf",
+  "description": "Needed for power-saving and security",
+  "list": "Oem",
+  "removal": "Expert"
+}

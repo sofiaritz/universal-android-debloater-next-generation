@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.unisoc.telephony.server",
+  "description": "Unisoc 4G and 5G drivers. Removal will break incoming calls. https://xdaforums.com/t/oukitel-wp23-pro-unlocking-bootloader-rooting-gsi.4642483/#post-89239693",
+  "list": "Oem",
+  "removal": "Expert"
+}

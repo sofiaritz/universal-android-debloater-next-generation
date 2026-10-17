@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.photos",
+  "description": "Honor's photos app.\nSafe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

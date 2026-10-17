@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wtk.stresstest",
+  "description": "StressTest\nTesting Hardware things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

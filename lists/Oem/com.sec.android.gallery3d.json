@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.gallery3d",
+  "description": "Samsung Gallery app (https://play.google.com/store/apps/details?id=com.sec.android.gallery3d)\nNote: Samsung Gallery is a dependency for the camera so it's not a good idea to delete it.\nNote : Good to know. When the original version of the image is deleted, the copy of it within the com.sec.android.gallery3d  folder is not removed.\nhttps://athenaforensics.co.uk/com-sec-android-gallery3d-mobile-phone-forensics/\nNOTE : Deleting this package will also prevent to preview photos from the camera app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

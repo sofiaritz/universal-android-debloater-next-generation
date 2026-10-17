@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.h2e.resources",
+  "description": "needed for wifi, has config values for that",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

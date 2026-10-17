@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.opbackup",
+  "description": "System Update\nRuns in the background.\nHandles things related to OTA system updates.\nSafe to disable, but probably breaks system updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

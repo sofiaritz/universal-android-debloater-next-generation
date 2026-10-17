@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.directshare",
+  "description": "Part of Samsung's SBeam service. SBeam has known security vulnerabilities (https://labs.withsecure.com/advisories/samsung-s5-arbitary-file-retrieval-during-sbeam-transfer), so you should really uninstall this.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

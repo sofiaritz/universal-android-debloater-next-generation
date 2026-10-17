@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.yellowpage",
+  "description": "Yellow Page from MIUI.\nREMINDER : Yellow pages contain phone numbers of companies and services. They are provided by Xiaomi partners or businesses themselves.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.kikaoem.hw.qisiemoji.inputmethod",
+  "description": "Kika Keyboard\nThird party keyboard. Installs on some Huawei devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

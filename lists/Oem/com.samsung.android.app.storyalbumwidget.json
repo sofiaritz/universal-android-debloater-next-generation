@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.storyalbumwidget",
+  "description": "The Story Album widget enables you to access the Story Album app and create digital picture albums that you can view and acess directly\nfrom the widget on a Home screen.\nOld feature (from Galaxy S4)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

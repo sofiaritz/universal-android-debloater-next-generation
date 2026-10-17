@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.handwriting.ime",
+  "description": "Google Handwriting Input (https://play.google.com/store/apps/details?id=com.google.android.apps.handwriting.ime)",
+  "list": "Google",
+  "removal": "Recommended"
+}

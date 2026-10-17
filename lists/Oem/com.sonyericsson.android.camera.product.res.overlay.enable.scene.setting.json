@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.camera.product.res.overlay.enable.scene.setting",
+  "description": "Overlays default camera app, removing could break camera features. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

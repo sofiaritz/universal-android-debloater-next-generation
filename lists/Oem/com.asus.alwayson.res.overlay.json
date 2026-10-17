@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.alwayson.res.overlay",
+  "description": "Not needed gif to Always-on Display",
+  "list": "Oem",
+  "removal": "Advanced"
+}

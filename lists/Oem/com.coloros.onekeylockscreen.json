@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.onekeylockscreen",
+  "description": "Lock your phone if you click on the app icon. Completely useless unless your physical power button is damaged.\nThis app still has the permission to list all the apps installed on the phone.\n\nPithus analysis: https://beta.pithus.org/report/ece4088357c0a47dffd96bdc46a7b535d448c1a3619d995f7032df3be6cb0a38",
+  "list": "Oem",
+  "removal": "Recommended"
+}

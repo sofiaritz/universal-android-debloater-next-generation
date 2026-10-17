@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.lockscreen.uxpnxt",
+  "description": "Sony lockscreen settings",
+  "list": "Oem",
+  "removal": "Expert"
+}

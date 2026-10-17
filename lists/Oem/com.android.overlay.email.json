@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.email",
+  "description": "Overlay to 'com.android.email' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

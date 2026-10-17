@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.server.telecom.overlay.miui",
+  "description": "Manage calls\nit's used for manage calls ui.\nit's important overlay to calling.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

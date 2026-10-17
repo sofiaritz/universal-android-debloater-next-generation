@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.directv.dvrscheduler",
+  "description": "DIRECTV (https://play.google.com/store/apps/details?id=com.directv.dvrscheduler)\nOffical app from DIRECTV (subsidiary of AT&T)\nLets you watch Live TV, recorded shows, VODs and schedule recordings on your DVR\nWorth reading : https://en.wikipedia.org/wiki/DirecTV#Consumer_protection_lawsuits_and_violations",
+  "list": "Misc",
+  "removal": "Recommended"
+}

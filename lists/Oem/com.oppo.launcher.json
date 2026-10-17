@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.launcher",
+  "description": "OPPO Home\nOppo stock launcher",
+  "list": "Oem",
+  "removal": "Expert"
+}

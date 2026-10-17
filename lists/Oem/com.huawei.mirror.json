@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.mirror",
+  "description": "Huawei Mirror app.\nMirror like\"Glass\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

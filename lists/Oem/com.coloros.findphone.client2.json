@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.findphone.client2",
+  "description": "Find phone\nFind phone, logout from oppo account before",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sdk.handwriting",
+  "description": "Handwriting Service\nOnly for Samsung Note?\nhttps://www.samsung.com/sg/support/mobile-devices/how-do-you-convert-handwriting-to-text-and-other-formats-using-s-pen-and-samsung-notes/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

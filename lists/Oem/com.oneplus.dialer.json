@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.dialer",
+  "description": "OnePlus Dialer used in OxygenOS 11 and lower.\nNote: don't forget to download another phone dialer app before removing this package.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

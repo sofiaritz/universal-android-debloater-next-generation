@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.fingerprints",
+  "description": "Fingerprint service\nFingerprint settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

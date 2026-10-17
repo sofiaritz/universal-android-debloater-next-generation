@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.keychain",
+  "description": "Face recognition and fingerprint authentication. Probably a bad idea to remove.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

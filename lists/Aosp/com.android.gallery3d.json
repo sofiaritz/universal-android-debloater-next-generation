@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.gallery3d",
+  "description": "Huawei Gallery app and the AOSP Gallery app\nIt may appear on Chinese OEMs as documented.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

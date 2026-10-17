@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.xperiaservices",
+  "description": "Xperia services\nI guess it provides things for Sony apps but I don't know what.\nSafe to remove but it would good be to know what Sony apps work without it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

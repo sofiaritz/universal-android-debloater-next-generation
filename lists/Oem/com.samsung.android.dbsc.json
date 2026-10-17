@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dbsc",
+  "description": "Galaxy Service Setup\nDevice-Based Service Consent. Pairs with `com.sec.spp.push` to broadcast new service consent requests to your device.\nReally slimey move by Samsung to name it this in the wake of Google announcing their own DBSC (Device Bound Session Credentials) which will phase out third-party cookies and help secure browsers against cookie theft.\nhttps://blog.chromium.org/2024/04/fighting-cookie-theft-using-device.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

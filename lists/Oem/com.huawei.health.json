@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.health",
+  "description": "Huawei Health (discontinued?)\nConnect Huawei wearables to your phone and all sorts of stats like all fitness tracking apps.\nRequire HMS.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

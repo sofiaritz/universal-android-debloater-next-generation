@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.audiomonitor",
+  "description": "Recording Assistant. Voice Call Recorder (only in MIUI dialer app). Unused on Global, EEA MIUI",
+  "list": "Oem",
+  "removal": "Advanced"
+}

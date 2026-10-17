@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.knox.vpn.proxyhandler",
+  "description": "Samsung Knox allows business and personal content to\"securely\" coexist on the same handset.\nThis package handles proxies alongside KNOX.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

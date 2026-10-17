@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.ddmp",
+  "description": "DDMP\nHas a lot frameworks.\nUninstalling breaks calling app even if you disable.\nIt does not cause bootloop but removing is highly not recommended.\nNot only breaks the dialer app, but causes lag in whole system too.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

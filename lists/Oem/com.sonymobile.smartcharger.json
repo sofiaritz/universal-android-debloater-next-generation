@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.smartcharger",
+  "description": "Battery Care\nDetects your charging patterns and estimates the start and end time of your regular charging period.\nThe rate of charging is controlled so that your battery reaches 100% just before you disconnect the charger.\nhttps://support.sonymobile.com/gb/xperiaxz/userguide/battery-and-power-management/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

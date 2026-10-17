@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.euiccpixel.permissions",
+  "description": "Permission manager for EU-configured Google Pixel devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

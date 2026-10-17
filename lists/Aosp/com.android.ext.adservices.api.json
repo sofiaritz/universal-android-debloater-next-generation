@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.ext.adservices.api",
+  "description": "Another component of Android AdServices.\nIntroduced in Android 14.\nhttps://source.android.com/docs/core/ota/modular-system/adservices",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

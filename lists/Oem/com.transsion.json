@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion",
+  "description": "Needed for screen unlock? Has Packages, Bluetooth permission. Probably unsafe.",
+  "list": "Oem",
+  "removal": "Expert"
+}

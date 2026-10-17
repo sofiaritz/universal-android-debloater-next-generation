@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.qti.iwlan",
+  "description": "Used for VoLTE/VoWifi (Wifi-calling)\nIwLAN = Interworking wLAN.\nSupport for mobile data offloading (use of complementary network technologies for delivering data originally targeted for cellular networks)\nIt means your phone will use the Wi-Fi connection instead of the cellular data connection.\nhttps://en.wikipedia.org/wiki/Mobile_data_offloading",
+  "list": "Misc",
+  "removal": "Advanced"
+}

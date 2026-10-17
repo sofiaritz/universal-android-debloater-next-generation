@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.newmidrive",
+  "description": "Mi Drive (Chinese version)\nLets you upload and sync your files on the (Mi) Cloud.\nAlways run in background",
+  "list": "Oem",
+  "removal": "Recommended"
+}

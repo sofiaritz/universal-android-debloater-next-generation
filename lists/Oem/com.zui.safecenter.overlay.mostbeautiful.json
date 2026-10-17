@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.safecenter.overlay.mostbeautiful",
+  "description": "Overlay to theme icon Security app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

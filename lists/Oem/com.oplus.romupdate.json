@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.romupdate",
+  "description": "Update Service\nResponsible for installing updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

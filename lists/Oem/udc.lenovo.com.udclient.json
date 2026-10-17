@@ -1,0 +1,6 @@
+{
+  "pkg_name": "udc.lenovo.com.udclient",
+  "description": "Lenovo Universal Device Client\nAnother Mobile Device Management (MDM) allows company\u2019s IT department to reach inside your phone in the background, allowing them to ensure\nyour device is secure, know where it is, and remotely erase your data if the phone is stolen.\nIt's a way to ensure employees stay productive and do not breach corporate policies\nYou should NEVER have a MDM tool on your personal phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

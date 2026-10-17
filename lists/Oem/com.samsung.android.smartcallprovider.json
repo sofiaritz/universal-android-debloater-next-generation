@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.smartcallprovider",
+  "description": "Samsung Smart Call\nProvides caller profile information to help consumers identify incoming calls and block unwanted ones.\nAlso related to the 'local places' feature in Samsung dialer.\nRelies on Hiya (see com.hiya.star)\nTL;DR : really bad for your privacy.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

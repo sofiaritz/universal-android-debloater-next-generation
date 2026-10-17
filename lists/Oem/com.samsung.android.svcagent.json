@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.svcagent",
+  "description": "The APK has various icons in it + DiagMon library (telemetry). It has full access to internet and occasionally runs a MainService for many consecutive hours.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

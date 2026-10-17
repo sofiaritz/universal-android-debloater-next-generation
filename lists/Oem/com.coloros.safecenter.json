@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.safecenter",
+  "description": "Security Center\nIt breaks 'display over other apps' permission!",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

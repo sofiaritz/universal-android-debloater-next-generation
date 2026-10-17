@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.calendar",
+  "description": "Samsung Calendar App",
+  "list": "Oem",
+  "removal": "Advanced"
+}

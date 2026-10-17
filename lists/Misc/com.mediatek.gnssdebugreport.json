@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.gnssdebugreport",
+  "description": "Hidden debug stuff.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

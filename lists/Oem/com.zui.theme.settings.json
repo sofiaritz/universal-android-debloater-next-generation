@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.theme.settings",
+  "description": "Lenovo theme settings\nNeeded for theme settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

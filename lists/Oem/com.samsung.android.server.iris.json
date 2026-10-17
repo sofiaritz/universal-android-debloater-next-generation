@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.server.iris",
+  "description": "Provides iris recognition feature\nNOTE: removing this package causes biometric prompts in apps to be delayed by 5-8 seconds before appearing. Selecting 'Biometrics and security' in the settings app also locks up the Settings app for about 5-8 seconds but eventually loads and functions as normal.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

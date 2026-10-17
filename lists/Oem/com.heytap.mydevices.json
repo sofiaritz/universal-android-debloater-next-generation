@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.mydevices",
+  "description": "My devices\nMy devices (showing headphones and such)",
+  "list": "Oem",
+  "removal": "Expert"
+}

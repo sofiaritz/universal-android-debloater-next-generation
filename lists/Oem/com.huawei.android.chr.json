@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.chr",
+  "description": "HwChrService\nHuawei Call History Record.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

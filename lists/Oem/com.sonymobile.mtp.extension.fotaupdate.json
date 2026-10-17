@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.mtp.extension.fotaupdate",
+  "description": "fota update service\nFOTA = Firmware Over-The-Air\nFOTA allows manufacturers to remotely install new software updates, features and services.\nGiven there is\"mtp.extension\" in the package name, I think it lets you update your phone via your PC.\nWhat's weird is that it should be called SEUS then (https://www.mobilefun.co.uk/blog/2008/06/software-updates-sony-ericsson/)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

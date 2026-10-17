@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.vendoroverlay.com.android.providers.settings",
+  "description": "Default backup transport Google. Not needed for backup",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mcfserver",
+  "description": "Samsung Multi Connectivity\n\nSee https://gitlab.com/W1nst0n/universal-android-debloater/-/issues/12",
+  "list": "Oem",
+  "removal": "Advanced"
+}

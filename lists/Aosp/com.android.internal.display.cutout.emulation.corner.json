@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.display.cutout.emulation.corner",
+  "description": "Display cutout variant\nhttps://developer.android.com/guide/topics/display-cutout\nhttps://source.android.com/devices/tech/display/display-cutouts\nCause bootloop after removal.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

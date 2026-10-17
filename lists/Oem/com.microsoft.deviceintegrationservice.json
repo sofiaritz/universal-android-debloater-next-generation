@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.microsoft.deviceintegrationservice",
+  "description": "Device Integration Service\nMight be needed for Microsoft Link to Windows (com.microsoft.appmanager) which is preinstalled with OxygenOS 14.\nAfter Uninstalling, no issues occurred.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

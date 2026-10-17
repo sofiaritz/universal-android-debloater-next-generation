@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.easyonehand",
+  "description": "Samsung Easy One Hand mode\nAllows you to temporarily scale down the display size of your screen for easier control of your phone with just one hand.\nhttps://www.samsung.com/au/support/mobile-devices/using-one-handed-mode/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

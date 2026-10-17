@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.fmplayer",
+  "description": "FM Radio (https://play.google.com/store/apps/details?id=com.motorola.fmplayer)\nRadio app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

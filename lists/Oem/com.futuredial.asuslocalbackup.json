@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.futuredial.asuslocalbackup",
+  "description": "ASUS Device backup\nContains Google Analytics and numerous permissions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hiviewtunnel",
+  "description": "This displays details/attributes of pictures in the gallery (ISO, exposure time, etc.).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

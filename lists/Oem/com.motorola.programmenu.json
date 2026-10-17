@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.programmenu",
+  "description": "Programming Menu\nHidden menu (accessible by typing  ##7764726 in the dialer) providing additionnal features for developers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

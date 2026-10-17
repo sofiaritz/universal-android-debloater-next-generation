@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cts.priv.ctsshim",
+  "description": "Compatibility Test Service. Verifies certain upgrade scenarios. Disabling could mess with OTA updates.\nA shim is basically a compatibility layer for an API, that makes sure anything that uses the API does so correctly.\nhttps://android.googlesource.com/platform/frameworks/base/+/51e458e/packages/CtsShim\nhttps://en.wikipedia.org/wiki/Shim_(computing)",
+  "list": "Aosp",
+  "removal": "Expert"
+}

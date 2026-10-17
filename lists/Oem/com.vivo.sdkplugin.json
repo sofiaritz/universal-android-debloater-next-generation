@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.sdkplugin",
+  "description": "Needed for Vivo account and Vivo payment. Everything is in Chinese, but not sure how much will not work after removal.",
+  "list": "Oem",
+  "removal": "Expert"
+}

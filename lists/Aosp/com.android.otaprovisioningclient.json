@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.otaprovisioningclient",
+  "description": "OTA Access Point Configuration\nOTA (Over the air) is the method used by OEMs to push updates to your device.\nAn OTA access point is used to run system software updates over a special gateway. This package is most likely customized by your OEM.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

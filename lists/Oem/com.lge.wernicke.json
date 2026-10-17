@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wernicke",
+  "description": "QVoice Engine\nNeeded by Q-voice (the LG Q Voice voice assistant) to work.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

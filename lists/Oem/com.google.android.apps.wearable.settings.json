@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.wearable.settings",
+  "description": "WearOS settings",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.wifiadmin",
+  "description": "WLAN Assistant\nAdditional WLAN things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

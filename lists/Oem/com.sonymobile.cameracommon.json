@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.cameracommon",
+  "description": "Shared library for Sony\u2019s camera app and add-ons. Removing breaks camera functionality",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

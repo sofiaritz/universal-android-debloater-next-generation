@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.hilauncher",
+  "description": "HiOS Launcher\nIt have google analytics and it's so bloated.\nThe recent apps button does not work after uninstallation.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

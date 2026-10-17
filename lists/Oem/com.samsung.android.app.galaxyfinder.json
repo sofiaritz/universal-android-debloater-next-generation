@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.galaxyfinder",
+  "description": "Samsung Finder is a search application that allows you to find what you want in an instant by searching the content on your Galaxy smartphone and on the web as well. (https://www.samsung.com/global/galaxy/what-is/s-finder/)\nNOTE: Removing this will remove the search in the app drawer.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.interactivekeyguardtutorial",
+  "description": "A guide on how to unlock your phones screen, however it doesn't seem to be present anywhere on the phone. Maybe intended for demo units?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

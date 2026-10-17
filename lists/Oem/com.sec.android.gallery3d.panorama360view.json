@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.gallery3d.panorama360view",
+  "description": "Let you see panoramic photos in the samsung Gallery.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

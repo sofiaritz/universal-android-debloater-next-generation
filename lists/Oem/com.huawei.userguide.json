@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.userguide",
+  "description": "User Guide\nRequire install a PDF reader app to work.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

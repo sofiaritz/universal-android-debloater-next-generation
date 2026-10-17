@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.initialization",
+  "description": "DOCOMO initialization\nOOBE (Initial setup) component for docomo devices. Safe to remove.\nTips: Apps deleted here will be restored when you factory reset the device!",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

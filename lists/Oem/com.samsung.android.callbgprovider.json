@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.callbgprovider",
+  "description": "CallBGProvider\nCall Background.\nIt is customizing background theme of calling.\nSCloud, backup things found in code.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

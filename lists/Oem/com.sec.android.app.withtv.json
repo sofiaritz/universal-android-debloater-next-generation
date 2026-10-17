@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.withtv",
+  "description": "Samsung Smart View\nAllows you to cast your phone screen to the TV.\nhttps://www.samsung.com/us/apps/smart-view-2/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

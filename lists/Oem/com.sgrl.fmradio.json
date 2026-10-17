@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sgrl.fmradio",
+  "description": "FM Radio\nSafe to remove if unused.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.covertools",
+  "description": "Dual Screen Tool\nNeeded for dual-screen I guess.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

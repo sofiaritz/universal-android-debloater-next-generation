@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.postmanservice",
+  "description": "Diagnostics\nFor calibration of hardware",
+  "list": "Oem",
+  "removal": "Recommended"
+}

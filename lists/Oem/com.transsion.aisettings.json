@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.aisettings",
+  "description": "Adds a shortcut on the Settings app that lets you manage your Folax AI (com.transsion.aivoiceassistant) settings. If you have already removed that package, it just displays a blank page.\nThis can also be safely removed without issues.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

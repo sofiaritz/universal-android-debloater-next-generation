@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.SettingsReceiver",
+  "description": "Samsung overlay of AOSP Settings. It has 39 permissions. Handles interactions with features controlled by the settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

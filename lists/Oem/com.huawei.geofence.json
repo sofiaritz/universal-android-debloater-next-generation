@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.geofence",
+  "description": "GeofenceService.\nAllows you to do something when a user enters an area that has been defined as a trigger.\nA geofence is a virtual perimeter set on a real geographic area. Combining a user position with a geofence perimeter,\nit is possible to know if the user is inside or outside the geofence or even if he is exiting or entering the area.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

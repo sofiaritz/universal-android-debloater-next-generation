@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.iaware",
+  "description": "App Prioritizer. Prioritizes apps to avoid slowdown\nUp to you but there is apparently no noticeable difference when deleted?\nSystem will start lagging a little bit (you will notice it while scrolling and on some animations, for example scrolling installed apps), battery consumption will become slightly higher and battery stats will disappear soon. At the same time, logcat will be full of errors like: PowerKit: PG Server is not found. calling pid xxxx.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

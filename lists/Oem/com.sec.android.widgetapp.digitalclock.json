@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.widgetapp.digitalclock",
+  "description": "Clock (digital) widget",
+  "list": "Oem",
+  "removal": "Recommended"
+}

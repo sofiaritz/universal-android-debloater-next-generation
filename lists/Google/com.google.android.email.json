@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.email",
+  "description": "AOSP Mail client\nNewer versions of AOSP Mail are renamed to com.android.email and Gmail was migrated to com.google.android.gm",
+  "list": "Google",
+  "removal": "Recommended"
+}

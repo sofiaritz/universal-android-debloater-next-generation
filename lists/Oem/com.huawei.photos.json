@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.photos",
+  "description": "Huawei Gallery app.\nNote: The official camera app refuses to open photos in another gallery (you can't review your picture from the camera app)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

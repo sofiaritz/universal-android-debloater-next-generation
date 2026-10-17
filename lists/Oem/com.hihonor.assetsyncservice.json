@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.assetsyncservice",
+  "description": "It's for 'com.hihonor.securityserver' for start this service app.\nNeeded for HiCloud sync security.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

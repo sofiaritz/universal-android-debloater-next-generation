@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.screenrecorder",
+  "description": "Stock screen recorder\nUseful only in pre-Android Pie for having system audio recording without root\nNot sure if it's an app, but I can't find it on my phone. Safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

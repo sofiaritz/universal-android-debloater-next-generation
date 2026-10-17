@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.market",
+  "description": "GetApps\nChina Mi App Store.\nEssential for installing the Google Play Store and updating key system applications, such as the System Launcher.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

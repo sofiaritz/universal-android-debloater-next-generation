@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.childmode",
+  "description": "Kids Mode\nPhone monitoring app to control what the user the can do on the phone. Intrusive and use Firebase so it's sends data back to Google servers.\n\nPithus analysis: https://beta.pithus.org/report/ca30c6d1d7c7625e0850c4114dfea5aab5118d391191d2c074cde1414bbccd8c",
+  "list": "Oem",
+  "removal": "Recommended"
+}

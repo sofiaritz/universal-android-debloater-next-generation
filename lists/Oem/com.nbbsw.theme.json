@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nbbsw.theme",
+  "description": "The com.nbbsw.theme package is likely related to theme management or customization features provided by the OEM, allowing users to apply and manage themes or visual styles on the device. Since many third-party launchers and theme apps available on Google Play offer similar or enhanced customization options, removing this package is generally recommended.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

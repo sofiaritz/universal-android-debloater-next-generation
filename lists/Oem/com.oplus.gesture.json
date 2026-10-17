@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.gesture",
+  "description": "Always-on screen gestures.",
+  "list": "Oem",
+  "removal": "Expert"
+}

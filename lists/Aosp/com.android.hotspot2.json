@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.hotspot2",
+  "description": "Provides wifi tethering (lets you share your mobile device's Internet connection with other devices)\nhttps://en.wikipedia.org/wiki/Tethering)",
+  "list": "Aosp",
+  "removal": "Expert"
+}

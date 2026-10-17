@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.voicesearch",
+  "description": "Google Voice Search (Speech-To-Text)",
+  "list": "Google",
+  "removal": "Recommended"
+}

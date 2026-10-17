@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.themestore",
+  "description": "Theme Store with 73 permissions! (including CAMERA, CALL_PHONE, READ_CONTACTS, REQUEST_INSTALL_PACKAGES...) and 2 trackers.\n\nPithus analysis: https://beta.pithus.org/report/e8c4fc2bae420cf5f094ce914f25accdede5152f9d801db6eb32a4020a7726b2",
+  "list": "Oem",
+  "removal": "Recommended"
+}

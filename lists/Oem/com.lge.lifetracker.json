@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lifetracker",
+  "description": "LG Health (https://play.google.com/store/apps/details?id=com.lge.lifetracker)\nAccording to users reviews, it is a very bad activity tracking app.\nPrivacy wise, you should never use this kind of thing obviously.\nhttps://www.lg.com/us/support/help-library/lg-android-lg-health-CT30013120-20150103629401",
+  "list": "Oem",
+  "removal": "Recommended"
+}

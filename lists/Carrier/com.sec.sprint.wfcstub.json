@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.sprint.wfcstub",
+  "description": "Seems to be related to Wifi-Calling on Samsung phone.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

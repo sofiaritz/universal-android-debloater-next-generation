@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.sceneservice",
+  "description": "Data Services Platform\nData Services Platform (the entire Breeno option in the settings menu disappears after deletion)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

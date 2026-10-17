@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.pass",
+  "description": "Mi Pass is an App allows Xiaomi NFC phones to replace cards and keys in real life usage.\nSupport NFC payment, bus card, key card, door and car lock features all together.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

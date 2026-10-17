@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.android.attsmartwifi",
+  "description": "AT&T Smart Wi-Fi (https://play.google.com/store/apps/details?id=com.att.android.attsmartwifi)\nFinds and auto-connects to available hotspots to minimize cellular data consumption.\nAuto-connects is not a good idea.\nWorth reading :\nhttps://www.europol.europa.eu/activities-services/public-awareness-and-prevention-guides/risks-of-using-public-wi-fi\nhttps://www.eff.org/deeplinks/2020/01/why-public-wi-fi-lot-safer-you-think\nYou are ok if you go on HTTPS websites.\nUse a VPN if you want to hide the domain names you visit, avoid usage restriction (no P2P, blacklisted websites...) and encrypt HTTP traffic.\n==> https://thatoneprivacysite.net/choosing-the-best-vpn-for-you/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

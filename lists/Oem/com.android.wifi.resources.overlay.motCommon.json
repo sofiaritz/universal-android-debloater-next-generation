@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.motCommon",
+  "description": "Related to Motorola's custom overlay for Wi-Fi connections.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

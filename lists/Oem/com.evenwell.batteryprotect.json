@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.batteryprotect",
+  "description": "Battery protect is advertised to improve battery performance, but in practice it drains your battery and kills apps aggressively.\nhttps://dontkillmyapp.com/nokia\nNokia decided to stop using this app-killer in the future:\nhttps://www.androidpolice.com/2019/08/27/nokia-hmd-phones-disable-evenwell-background-process-app-killer/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

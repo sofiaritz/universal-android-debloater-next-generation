@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.sdm.sdmviewer",
+  "description": "Lets you view installed updates?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

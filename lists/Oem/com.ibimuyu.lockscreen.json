@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ibimuyu.lockscreen",
+  "description": "Dynamic theme service lockscree\nDynamic theme service lockscreen? Some people recommend removing that.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

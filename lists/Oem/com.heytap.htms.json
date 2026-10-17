@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.htms",
+  "description": "Mobile Services\nMobile services (removal may not be able to log in to OPPO account).",
+  "list": "Oem",
+  "removal": "Expert"
+}

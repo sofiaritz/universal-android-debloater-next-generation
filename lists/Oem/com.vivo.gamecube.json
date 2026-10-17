@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.gamecube",
+  "description": "Ultra Game Mode\nUsed for game optimization. Questionable if anyone is using this.",
+  "list": "Oem",
+  "removal": "Expert"
+}

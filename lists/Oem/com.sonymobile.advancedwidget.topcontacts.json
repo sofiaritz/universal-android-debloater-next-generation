@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.advancedwidget.topcontacts",
+  "description": "Top Contacts widget\nIt will show pictures of your most frequently used contacts right on your home screen.\nREMINDER : Widgets are small applications that you can use directly on the window screen. They also function as shortcuts",
+  "list": "Oem",
+  "removal": "Recommended"
+}

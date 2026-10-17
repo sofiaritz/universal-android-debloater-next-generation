@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.widgetapp.easymodecontactswidget",
+  "description": "Favourite Contacts widget\nLets you add favorite contacts to home screen\nhttps://www.samsung.com/au/getstarted/advanced/create-favourite-contacts-on-your-home-screen/\nIs it only usable when enabling the\"simple use\" senior mode?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

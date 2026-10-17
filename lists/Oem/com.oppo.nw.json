@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.nw",
+  "description": "RadioInfo\nOnly has radioinfo activity. Not needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.os.overlay",
+  "description": "Icon user found, overlay to 'com.android.systemui'.",
+  "list": "Oem",
+  "removal": "Expert"
+}

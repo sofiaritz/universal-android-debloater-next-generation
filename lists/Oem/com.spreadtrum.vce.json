@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.spreadtrum.vce",
+  "description": "Useless logs (dialer google, volte)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

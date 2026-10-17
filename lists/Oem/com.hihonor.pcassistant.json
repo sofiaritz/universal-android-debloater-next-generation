@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.pcassistant",
+  "description": "HiSuite service. Used by HiSuite PC software.\nHiSuite enables you to backup your data and restore them from/to your phone.\nhttps://consumer.huawei.com/en/support/hisuite/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

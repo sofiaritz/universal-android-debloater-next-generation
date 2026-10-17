@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.ims",
+  "description": "Hidden IMS Settings activity not available for users.\nIn this app you can only turn on option:\nAuto reject incoming calls.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

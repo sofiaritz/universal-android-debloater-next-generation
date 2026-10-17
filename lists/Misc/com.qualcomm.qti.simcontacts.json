@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.simcontacts",
+  "description": "SimContacts\nHidden Qualcomm sim contacts editor app.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

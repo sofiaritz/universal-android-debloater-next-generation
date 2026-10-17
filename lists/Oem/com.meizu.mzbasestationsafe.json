@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.mzbasestationsafe",
+  "description": "Base Station Guard\nUseless location things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

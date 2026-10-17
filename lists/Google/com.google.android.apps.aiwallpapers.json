@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.aiwallpapers",
+  "description": "Provides the ability to create wallpapers by using AI and several presets.\nNot sure how this can be useful to the average user + collects device info.",
+  "list": "Google",
+  "removal": "Recommended"
+}

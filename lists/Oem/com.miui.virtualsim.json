@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.virtualsim",
+  "description": "Mi Roaming\nIt enables users to connect to roaming data on-demand via virtual SIM technology.\nhttps://alertify.eu/xiaomi-mi-roaming/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

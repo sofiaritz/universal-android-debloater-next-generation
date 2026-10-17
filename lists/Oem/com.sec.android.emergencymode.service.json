@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.emergencymode.service",
+  "description": "Emergency mode enables you to extend your device\u2019s standby time when in an emergency situation and want your device to conserve power for as long as possible. When activated, screen brightness will decrease, some of functionality will be limited and the home screen is changed to a black theme, all to reduce battery drain (OLED screens draw less power when showing black, cuz black = pixel off).\nNOT related to SOS messages/911.\nhttps://www.samsung.com/uk/support/mobile-devices/what-is-emergency-mode/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

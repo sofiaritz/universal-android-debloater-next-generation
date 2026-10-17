@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.appupgrader",
+  "description": "Built-in App Updates\nBased on the name I'm guessing it's an upater for built-in Oneplus apps?\nSeems safe to disable, but only seems to run on boot, so there's little to be gained from disabling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

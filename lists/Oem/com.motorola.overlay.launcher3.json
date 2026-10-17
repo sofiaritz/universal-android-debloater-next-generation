@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.overlay.launcher3",
+  "description": "Useless overlay config default to Launcher3 default launcher Moto (com.motorola.launcher3)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

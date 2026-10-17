@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.ofviewer",
+  "description": "Samsung selective focus camera mode.\nSafe to remove (but it's pretty useful)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.batterycare",
+  "description": "This package is part of Motorola's battery management system, specifically related to features or optimizations for battery care.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

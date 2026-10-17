@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.ocrscanner",
+  "description": "ColorOS Optical character recognition scanner",
+  "list": "Oem",
+  "removal": "Recommended"
+}

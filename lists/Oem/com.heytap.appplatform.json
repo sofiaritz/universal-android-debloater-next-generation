@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.appplatform",
+  "description": "Needed for OTA Updates also causes bootloop on some phones after uninstall.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

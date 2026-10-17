@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.oneplus.nvbackup",
+  "description": "NVBackupUI\nRuns in the background on some phones.\nHandles things related to OTA system updates?\nSafe to disable, but might break OTA updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

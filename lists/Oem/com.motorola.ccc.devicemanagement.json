@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.ccc.devicemanagement",
+  "description": "Mobile Device Management (MDM) allows company\u2019s IT department to reach inside your phone in the background, allowing them to ensure\nyour device is secure, know where it is, and remotely erase your data if the phone is stolen.\nYou should NEVER install a MDM tool on your phone. Never.\nhttps://onezero.medium.com/dont-put-your-work-email-on-your-personal-phone-ef7fef956c2f\nhttps://blog.cdemi.io/never-accept-an-mdm-policy-on-your-personal-phone/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

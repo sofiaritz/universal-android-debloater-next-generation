@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.maintenancemode",
+  "description": "Maintenance Mode\nThe maintenance mode of the cell phone, the cell phone maintenance time into an empty user data system mode, to ensure the safety of cell phone data.\nAlso has child mode. Not useful if you are not in China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.assistantmenu",
+  "description": "Assistant menu\nDesigned for individuals with motor control or other physical impairments.\nBy using Assistant menu, you can access hardware buttons and all parts of the screen by simply tapping or swiping.\nhttps://www.samsung.com/uk/accessibility/mobile-assistant-menu/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

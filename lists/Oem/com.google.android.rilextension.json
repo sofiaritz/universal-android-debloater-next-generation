@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.rilextension",
+  "description": "Google Assistant extension for enhanced functionality.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

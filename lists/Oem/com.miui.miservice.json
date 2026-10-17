@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.miservice",
+  "description": "Services & feedback\nUsed to send feedbacks (and data) to Xiaomi. Integration in Wechat\nSeems to be able to launch 'Baidu location service'\nHas too many permissions, runs in the background all the time and can be removed without issue.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

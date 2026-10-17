@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.fastdormancy",
+  "description": "Provide Fast Dormancy feature/setting in the dialer (reduce battery consumption and network utilization during periods of data inactivity)\nhttps://en.wikipedia.org/wiki/Fast_Dormancy",
+  "list": "Misc",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.hiddenpersomenu",
+  "description": "Used to unlock LG phones remotely, from carriers like Sprint.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

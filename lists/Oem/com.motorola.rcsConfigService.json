@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.rcsConfigService",
+  "description": "RCS Config Service\nNeeded for IMS, RCS. WiFi Calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

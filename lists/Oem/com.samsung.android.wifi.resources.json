@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.resources",
+  "description": "Better keep this for wifi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

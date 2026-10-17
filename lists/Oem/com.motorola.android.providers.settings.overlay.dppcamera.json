@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.providers.settings.overlay.dppcamera",
+  "description": "This package is part of Motorola's custom settings overlay, specifically related to settings for the camera application.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

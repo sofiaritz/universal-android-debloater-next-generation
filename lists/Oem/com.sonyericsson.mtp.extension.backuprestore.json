@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.mtp.extension.backuprestore",
+  "description": "Backup/Restore Sony feature.\nEnables you to backup contacts, call logs, text messages, calendar, settings, bookmarks & media files.\nNOTE: I don't think this feature can backup your messages or calendars for instance if you don't use the Sony stock app.\nhttps://support.sonymobile.com/global-en/xperiaz2/userguide/backing-up-and-restoring-content-on-a-device/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

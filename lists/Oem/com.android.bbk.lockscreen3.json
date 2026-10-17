@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bbk.lockscreen3",
+  "description": "Lock\nNeeded for lockscreen?",
+  "list": "Oem",
+  "removal": "Expert"
+}

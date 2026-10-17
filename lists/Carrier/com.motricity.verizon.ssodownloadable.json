@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motricity.verizon.ssodownloadable",
+  "description": "Verizon Login by Motricity (now Voltari)\nVoltari provides relevance-driven mobile advertising, mobile marketing, mobile merchandising, and predictive analytics solutions.\nNeeded for My Verizon.\nhttps://en.wikipedia.org/wiki/Voltari\nhttps://www.lightreading.com/motricity-holds-on-to-verizon-account/d/d-id/678478?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

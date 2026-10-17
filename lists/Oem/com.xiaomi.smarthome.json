@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.smarthome",
+  "description": "Mi Home (https://play.google.com/store/apps/details?id=com.xiaomi.smarthome)\nIoT. Lets you control with Xiaomi Smart Home Suite devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

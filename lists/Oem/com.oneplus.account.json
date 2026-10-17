@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.account",
+  "description": "OnePlus Account\nEnables Oneplus account login on device.\nProbably handles authentication for Oneplus apps. Safe to remove if you don't use them.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

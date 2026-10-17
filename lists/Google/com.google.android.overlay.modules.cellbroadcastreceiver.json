@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.cellbroadcastreceiver",
+  "description": "Overlay (theme/notification) module for com.google.android.cellbroadcastreceiver",
+  "list": "Google",
+  "removal": "Expert"
+}

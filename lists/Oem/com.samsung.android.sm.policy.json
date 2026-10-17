@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sm.policy",
+  "description": "SCPM (Samsung Cloud Platform Manager) client.\nAllows the app to read data from the Samsung Cloud Platform Manager in order to authenticate your phone and configure your apps and services. Surely linked to Smart Manager. On some devices, the app icon is cloud-shaped.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

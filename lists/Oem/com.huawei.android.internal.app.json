@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.internal.app",
+  "description": "Component of Huawei sharing\nMay break the sharing function in several applications (in particular, apps will crash).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.assist",
+  "description": "Xperia Assist (https://play.google.com/store/apps/details?id=com.sonymobile.assist)\nLearns how you use your phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

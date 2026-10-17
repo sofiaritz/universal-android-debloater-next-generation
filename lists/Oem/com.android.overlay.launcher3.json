@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.launcher3",
+  "description": "Overlay to 'com.android.launcher3' icons png.",
+  "list": "Oem",
+  "removal": "Expert"
+}

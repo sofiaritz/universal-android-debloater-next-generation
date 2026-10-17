@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.UpdateLauncher",
+  "description": "Updater Launcher\nRemove if you dont need it Launcher updates.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

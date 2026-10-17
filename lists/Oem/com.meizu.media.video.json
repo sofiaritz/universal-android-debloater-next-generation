@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.media.video",
+  "description": "Video Player\nStock Video Player app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

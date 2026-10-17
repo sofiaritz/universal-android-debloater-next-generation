@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.knnr",
+  "description": "Knox Neural Network Runtime. ML runtime used by some Knox/enterprise features.",
+  "list": "Oem",
+  "removal": "Expert"
+}

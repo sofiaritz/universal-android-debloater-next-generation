@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.protips",
+  "description": "Home screen tips\nRuns on boot.\nThe tip popups you get on the homescreen.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

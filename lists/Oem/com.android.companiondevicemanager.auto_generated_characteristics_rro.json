@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.companiondevicemanager.auto_generated_characteristics_rro",
+  "description": "Companion device manager for Android device connections.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

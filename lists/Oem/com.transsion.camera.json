@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.camera",
+  "description": "Camera\nStock camera app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.coresettings",
+  "description": "Contains Sony-specific customisations and settings overlays. Needed for Xperia custom features",
+  "list": "Oem",
+  "removal": "Expert"
+}

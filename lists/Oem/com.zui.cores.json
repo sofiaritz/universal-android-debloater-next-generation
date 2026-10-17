@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.cores",
+  "description": "Removing will affect a lot of other ZUI functions like the game assistant, etc. so it's a bad idea.",
+  "list": "Oem",
+  "removal": "Expert"
+}

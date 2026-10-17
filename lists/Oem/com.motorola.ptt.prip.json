@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.ptt.prip",
+  "description": "Prip (https://play.google.com/store/apps/details?id=com.motorola.ptt.prip)\nPush-To-Talk app. Allows to you send calls over any wireless carrier\u2019s 3G or 4G networks or a WiFi connection.\nIt offers unlimited calling between other users and Nextel phone owners, rather than universal calling credit,\nand works on a monthly subscription basis.\nhttps://prip.me/#get\nNo longer in Android 10 image",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.bugreportsender",
+  "description": "BugReportSender\nBug reports app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

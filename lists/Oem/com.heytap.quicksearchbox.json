@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.quicksearchbox",
+  "description": "Global Search\nRealme. This will remove the single swipe from top to bottom search that has lots of Chinese in it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

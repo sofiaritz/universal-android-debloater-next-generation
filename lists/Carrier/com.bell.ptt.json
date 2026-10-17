@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bell.ptt",
+  "description": "Bell Push to Talk app. Apparently the 'most advanced carrier-grade Push-to-talk coomunicates technology available today.' (doubt). Realistically, no one is using this, safe to remove.\n https://play.google.com/store/apps/details?id=com.bell.ptt",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

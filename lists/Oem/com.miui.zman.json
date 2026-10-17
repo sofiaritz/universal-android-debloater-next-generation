@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.zman",
+  "description": "Mi Secure sharing\nProvides an option in the settings of the Xiaomi Gallery to automatically remove location and metadata from images\nyou want to share. This do not remove metadata of the picture in the gallery but only the shared copy.\nThere's also a\"Secure sharing\" watermark that shows up when you share photos on WeChat without metadata.\nThe question is does this really remove all EXIF tags? Can someone test?\nThis is a useful app anyway but do not forget that all your photos/vidoes taken with the Xiaomi camera are still geo-tagged\n(+ all others exif tags) by default.\nWhat you can do is at least revoke the GPS permission to the camera.\nFOSS alternative to this app :\nhttps://f-droid.org/fr/packages/com.jarsilio.android.scrambledeggsif/\nhttps://f-droid.org/fr/packages/de.kaffeemitkoffein.imagepipe/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

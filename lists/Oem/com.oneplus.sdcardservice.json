@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.sdcardservice",
+  "description": "Needed for sdcard?",
+  "list": "Oem",
+  "removal": "Expert"
+}

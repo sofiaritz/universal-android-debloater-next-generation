@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.realme.securitycheck",
+  "description": "Have useless ads and security checks.\nWhy do we need more security when Play Protect is already good?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.stickerplugin",
+  "description": "StickerPlugin\nNot sure if this package also provides stickers for camera. I don't have it so I can't test\nhttps://developer.samsung.com/galaxy/stickers",
+  "list": "Oem",
+  "removal": "Recommended"
+}

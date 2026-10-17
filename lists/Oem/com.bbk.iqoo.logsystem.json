@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.iqoo.logsystem",
+  "description": "User experience service\nTelemetry app.\nNote:Disabling this will break trial version system upgrade feature.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

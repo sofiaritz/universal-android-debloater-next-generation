@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.widgetapp.SPlannerAppWidget",
+  "description": "Calendar Widget",
+  "list": "Oem",
+  "removal": "Recommended"
+}

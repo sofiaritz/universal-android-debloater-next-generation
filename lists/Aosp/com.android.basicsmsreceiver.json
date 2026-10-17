@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.basicsmsreceiver",
+  "description": "Gets SMS and creates notifications:\nhttps://android.googlesource.com/platform/packages/apps/BasicSmsReceiver/+/jb-dev/src/com/android/basicsmsreceiver/BasicSmsReceiverApp.java",
+  "list": "Aosp",
+  "removal": "Expert"
+}

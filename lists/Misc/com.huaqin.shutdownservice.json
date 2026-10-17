@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huaqin.shutdownservice",
+  "description": "ShutdownAfterScreenOff10MinutesService. Not needed",
+  "list": "Misc",
+  "removal": "Recommended"
+}

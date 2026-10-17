@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.igetshop",
+  "description": "Onyx iGetShot app, UNSAFE to remove because it will crash the Onyx Launcher but safe to DISABLE",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

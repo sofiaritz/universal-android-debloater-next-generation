@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.leccp",
+  "description": "LG Connectivity Service\nIt has only Alert Dialogs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.bluetooth",
+  "description": "Contact import via blueooth on Honor devices, probably safe to remove if you don't plan using this function.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

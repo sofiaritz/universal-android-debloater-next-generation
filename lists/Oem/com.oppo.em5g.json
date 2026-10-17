@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.em5g",
+  "description": "EM NR5G\n5G Disable Mode, Probably needed for mobile data internet.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "androidx.camera.extensions.impl",
+  "description": "Camera extensions for Huawei like Tags,HDR effects\nand other things to video, photos.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

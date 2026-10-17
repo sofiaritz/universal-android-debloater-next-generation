@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.yadayada",
+  "description": "Disclaimer show to user, feedback, first boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

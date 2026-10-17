@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.assistant",
+  "description": "ZTE Voice Assistant",
+  "list": "Oem",
+  "removal": "Recommended"
+}

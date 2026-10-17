@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.favorite",
+  "description": "Favorites\nIt's used to add text from the clipboard to favorites. Probably requires cloud. Contains untranslated Chinese things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

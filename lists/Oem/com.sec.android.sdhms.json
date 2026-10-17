@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.sdhms",
+  "description": "Samsung Device Health Manager Service\nBattery estimation service for Samsung Care/Device maintenance (com.samsung.android.lool)\nThere is some weird stuff in the java code. I don't understand why there is a need to parse torrent files for instance\nor why there is a string\"googleapis.com/drive\"\nhttps://developers.google.com/drive/api/v3/reference",
+  "list": "Oem",
+  "removal": "Advanced"
+}

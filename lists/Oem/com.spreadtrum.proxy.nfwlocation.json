@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.spreadtrum.proxy.nfwlocation",
+  "description": "Carrier location\nCarrier location? Sends location to carrier probably. Useless Map Collections, also probably it's for testing location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

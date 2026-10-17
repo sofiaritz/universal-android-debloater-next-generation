@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.ld.appstore",
+  "description": "LD Gaming Appstore\nLDPlayer is an Android Gaming emulator for PC (https://ldplayer.net/)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwdetectrepair",
+  "description": "Huawei Smart diagnosis (discontinued?)\nUseless features and run in background.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

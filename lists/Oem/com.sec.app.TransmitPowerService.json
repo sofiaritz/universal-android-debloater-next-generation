@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.app.TransmitPowerService",
+  "description": "This app manages settings related to the transmit power of wireless communications on Samsung devices, such as Wi-Fi and Bluetooth.",
+  "list": "Oem",
+  "removal": "Expert"
+}

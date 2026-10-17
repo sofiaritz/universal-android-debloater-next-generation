@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.coreapps",
+  "description": "Samsung Enhanced features\nFiles and profiles sharing feature. It may be called\"Enhanced messaging\".\nUsing this service lets Samsung to automatically collect your phone number, contact list and messages\nhttps://forums.androidcentral.com/samsung-galaxy-s6-edge/523172-enhanced-features.html\nhttps://www.samsung.com/za/support/mobile-devices/what-is-enhanced-messaging/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

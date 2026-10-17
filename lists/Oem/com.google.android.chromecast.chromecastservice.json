@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.chromecast.chromecastservice",
+  "description": "Needed for broadcast support?",
+  "list": "Oem",
+  "removal": "Expert"
+}

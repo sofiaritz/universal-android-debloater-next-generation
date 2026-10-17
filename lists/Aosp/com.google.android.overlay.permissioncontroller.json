@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.permissioncontroller",
+  "description": "Breaks Google Play System updates (GPSu), related to Project Mainline. Page on Settings will crash altogether, or ask Play Store to be updated.\nhttps://support.google.com/product-documentation/answer/14343500",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

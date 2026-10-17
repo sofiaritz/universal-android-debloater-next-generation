@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.ccc.mainplm",
+  "description": "plm = Product Lifecycle Management ? No noticeable consequences after removal",
+  "list": "Oem",
+  "removal": "Recommended"
+}

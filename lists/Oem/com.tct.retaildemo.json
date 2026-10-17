@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.retaildemo",
+  "description": "Demo Mode is intended for use on shop demo devices only and it should never be activated on a normal user's device. Explained by TCL.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

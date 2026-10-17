@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.safecenter.overlay.thinarmor",
+  "description": "Overlay to theme icon Security app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

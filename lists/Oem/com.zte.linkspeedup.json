@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.linkspeedup",
+  "description": "Causes bootloop",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

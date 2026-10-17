@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dolby.daxservice",
+  "description": "Dolby\nRuns in the background as part of the system. Runs even if disabled.\n\"Optimizes system audio performance\" or something like that. This is likely the backend audio service, possibly applying settings from com.oneplus.sound.tuner (\"Dolby Atmos\") to the audio processing.",
+  "list": "Misc",
+  "removal": "Expert"
+}

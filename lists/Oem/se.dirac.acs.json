@@ -1,0 +1,6 @@
+{
+  "pkg_name": "se.dirac.acs",
+  "description": "Dirac Control Service\nSound-system backend?\nRuns in the background as part of the system. Runs even if disabled.",
+  "list": "Oem",
+  "removal": "Expert"
+}

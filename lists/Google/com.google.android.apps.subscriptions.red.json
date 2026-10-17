@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.subscriptions.red",
+  "description": "Google One (https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red)\nLets you manage your Google cloud storage.\nOccasionally runs in the background.",
+  "list": "Google",
+  "removal": "Recommended"
+}

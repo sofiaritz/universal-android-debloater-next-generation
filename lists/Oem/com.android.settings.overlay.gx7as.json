@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.gx7as",
+  "description": "Configs to settings auto generated but better keep.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.trustspace",
+  "description": "TrustSpace useless security to payment. Settings > Security > TrustSpace\nHas something to unrooting rooted phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

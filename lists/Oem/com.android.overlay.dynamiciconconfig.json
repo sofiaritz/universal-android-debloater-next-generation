@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.dynamiciconconfig",
+  "description": "Overlay to 'com.android.launcher3' calendar, clock component name.",
+  "list": "Oem",
+  "removal": "Expert"
+}

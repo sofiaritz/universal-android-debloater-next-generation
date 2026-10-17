@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wifi.p2p",
+  "description": "LG P2p Service\nWifi-drect P2P allows the device to discover the services of nearby devices directly, without being connected to a network.\nNeeded for LG Wifi-direct feature.\nhttps://developer.android.com/training/connect-devices-wirelessly/nsd-wifi-direct",
+  "list": "Oem",
+  "removal": "Recommended"
+}

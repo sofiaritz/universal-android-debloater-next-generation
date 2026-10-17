@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.manufacture.wificonnect",
+  "description": "Wifi Connect\nNeeded for WiFi connection?",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.udfpsoverlay",
+  "description": "Configs to fingerprints FRP auto generated.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

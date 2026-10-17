@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.roamingsettings",
+  "description": "Hidden settings menu for tweaking roaming settings? How exactly do you access this menu?",
+  "list": "Misc",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hicloud.android.clone",
+  "description": "Huawei Phone Clone (https://play.google.com/store/apps/details?id=com.hicloud.android.clone)\n171 Permissions (https://reports.exodus-privacy.eu.org/fr/reports/144565/)\nData migration application between Huawei phones.\nKeep in mind that all your data will be synchronised in the Huawei cloud and collected by the company.\nhttps://cloud.huawei.com/privacyStatementTransit",
+  "list": "Oem",
+  "removal": "Recommended"
+}

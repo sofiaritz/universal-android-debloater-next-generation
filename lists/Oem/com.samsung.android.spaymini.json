@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.spaymini",
+  "description": "Samsung Pay Mini\nSame service as Samsung Pay but for online payments only and is available on all compatible android devices (not only Samsung devices)\nhttps://www.samsung.com/in/samsung-pay/mini/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

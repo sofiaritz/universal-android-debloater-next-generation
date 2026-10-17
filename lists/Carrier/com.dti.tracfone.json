@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.tracfone",
+  "description": "Installs sponsored apps automatically on Tracfone and affiliated carriers (Straight Talk, Total Wireless, etc)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

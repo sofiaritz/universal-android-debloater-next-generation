@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.redteamobile.roaming",
+  "description": "ORoaming\nLets you buy RedTeaMobile data plan to access Internet in foreign country with a virtual SIM card\nSee https://support.oppo.com/uk/answer/?aid=neu9139\nPithus analysis: https://beta.pithus.org/report/d017d4f6623bf8e71456e6bffe551ef6f3ff3095c62cef3df6d968354898c097",
+  "list": "Misc",
+  "removal": "Recommended"
+}

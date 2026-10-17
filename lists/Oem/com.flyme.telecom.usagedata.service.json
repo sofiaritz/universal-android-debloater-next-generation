@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.flyme.telecom.usagedata.service",
+  "description": "Phone services\nIt's just Usage data and it will be sent to cloud probably.",
+  "list": "Oem",
+  "removal": "Expert"
+}

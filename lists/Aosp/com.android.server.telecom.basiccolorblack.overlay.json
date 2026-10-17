@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.server.telecom.basiccolorblack.overlay",
+  "description": "Dark theme for something related to call network management?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

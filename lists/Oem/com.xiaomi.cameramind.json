@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.cameramind",
+  "description": "The core of all AI features for Xiaomi's camera app. Won't impact other camera apps' AI features.\nSafe to delete if you use another camera app, otherwise, removal may cause background connection issues.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

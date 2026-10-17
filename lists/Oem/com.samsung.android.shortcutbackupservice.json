@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.shortcutbackupservice",
+  "description": "ShortcutBNR\nRelated to smartSwitch Samsung Cloud features",
+  "list": "Oem",
+  "removal": "Recommended"
+}

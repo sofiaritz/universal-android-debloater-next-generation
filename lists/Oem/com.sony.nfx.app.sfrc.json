@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.nfx.app.sfrc",
+  "description": "Tied to Sony's recommendations and can be safely got rid of, maybe break suggestions/recommendations",
+  "list": "Oem",
+  "removal": "Advanced"
+}

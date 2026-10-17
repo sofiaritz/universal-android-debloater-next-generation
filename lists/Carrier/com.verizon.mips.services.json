@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.mips.services",
+  "description": "My Verizon Services\nRelated to My Verizon app.\nRequired for hotspot",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

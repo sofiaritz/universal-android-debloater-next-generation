@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.companiondevicemanager",
+  "description": "Companion Device Manager\nThis handles connections to nearby (usually not remote) devices, desktop Operating Systems, etc...\nWARNING: removing this package may result in the inability to read the SD card from your computer's file manager (via USB).",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.cameracontroller",
+  "description": "Mirrors phone's camera to your watch. I can't find a use case for my usage. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

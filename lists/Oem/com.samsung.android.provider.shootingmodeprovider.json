@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.provider.shootingmodeprovider",
+  "description": "Provide camera modes (when you swipe left from the camera app)\nSafe to remove (but it is quite useful)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.overlay.motcommon",
+  "description": "Related to Motorola's custom overlay for Phone and other UI elements.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

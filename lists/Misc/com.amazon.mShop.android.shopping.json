@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amazon.mShop.android.shopping",
+  "description": "Amazon Shopping (https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping)\nSame package as com.amazon.mShop.android.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

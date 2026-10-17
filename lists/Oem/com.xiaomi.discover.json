@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.discover",
+  "description": "System Apps Updater\nWARNING: Disable System app updates (but not firmware updates)",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.calendar",
+  "description": "Default calendar app.\n50 permissions for a calendar app. What could go wrong?\n\nPithus analysis: https://beta.pithus.org/report/db107cb828a1ec9b7cbcd9fd86542da877fdf4cf947c18c8a48a2b09e568ad10",
+  "list": "Oem",
+  "removal": "Advanced"
+}

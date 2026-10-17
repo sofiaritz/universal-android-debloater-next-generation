@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek",
+  "description": "Core system services and drivers for MediaTek-powered devices.\nMediatek is a Taiwanese chipset manufacturer.\nCan someone share the apk? This package name is really weird.\nIt is most likely a set of general APIs for accessing general mediatek functionalities.\nCause Bootloop.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

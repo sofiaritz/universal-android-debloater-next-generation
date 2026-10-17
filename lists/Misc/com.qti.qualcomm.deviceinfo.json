@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.qualcomm.deviceinfo",
+  "description": "Device Info\nHidden device info activity not available for users.\nit's safe to remove and you will not lose device info in settings.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

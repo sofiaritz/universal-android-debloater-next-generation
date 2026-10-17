@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.tv.settings",
+  "description": "Needed for settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

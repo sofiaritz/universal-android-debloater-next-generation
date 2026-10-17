@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.oobe.ml",
+  "description": "Aura from Unity\nPersistent notification until you click on it and agree to install games. Sort of game cloud pre-installed in some Motorola\nSafe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

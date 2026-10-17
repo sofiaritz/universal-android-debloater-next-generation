@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.appfilter",
+  "description": "AppFilter\nHas something to powersaving like prevent autostart apps.",
+  "list": "Oem",
+  "removal": "Expert"
+}

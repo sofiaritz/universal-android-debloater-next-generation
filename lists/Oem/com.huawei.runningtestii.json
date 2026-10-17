@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.runningtestii",
+  "description": "Testing hardware things like Audio, Camera, VideoPlayer, etc.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

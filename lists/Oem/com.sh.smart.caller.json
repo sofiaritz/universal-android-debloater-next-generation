@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sh.smart.caller",
+  "description": "Bloated Phone caller app with a lot of features. These apps have telemetry on them and are completely replaceable.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

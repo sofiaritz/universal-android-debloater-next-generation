@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.lockassistant",
+  "description": "You can't remove this app using adb.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motofpstouch",
+  "description": "Moto Power Touch.\nAllows the user to create custom actions depending on how the user presses the power button.\nhttps://play.google.com/store/apps/details?id=com.motorola.motofpstouch&gl=US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

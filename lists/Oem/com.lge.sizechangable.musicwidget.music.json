@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.sizechangable.musicwidget.music",
+  "description": "Music widget\nIt breaks when LG Music is removed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

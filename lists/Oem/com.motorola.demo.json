@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.demo",
+  "description": "Moto Demo Mode\nEnable retail demonstration mode.\nhttps://source.android.com/devices/tech/display/retail-mode",
+  "list": "Oem",
+  "removal": "Recommended"
+}

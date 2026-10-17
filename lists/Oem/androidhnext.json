@@ -1,0 +1,6 @@
+{
+  "pkg_name": "androidhnext",
+  "description": "EMUI Graphical User Interface:\nhttps://fixyourandroid.com/about/androidhwext\nThe framework responsible for the themes (even the standard one) of EMUI to launch. Also, it's the core for the Themes app. REMOVING IT CAUSES A BOOTLOOP!",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

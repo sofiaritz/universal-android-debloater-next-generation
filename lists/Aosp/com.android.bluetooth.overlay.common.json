@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bluetooth.overlay.common",
+  "description": "Overlays are usually themes.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

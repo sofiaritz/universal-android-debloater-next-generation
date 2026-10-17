@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.synchronoss.dcs.att.r2g",
+  "description": "AT&T Ready2Go (discontinued)\nIts purpose was to help you migrating your data to your new Android device.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

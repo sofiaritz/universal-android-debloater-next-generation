@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.omadm.vzw",
+  "description": "OMA Device Management for Verizon\nHandles configuration of the device (including first time use), enabling and disabling features provided by carriers.\nhttps://en.wikipedia.org/wiki/OMA_Device_Management\nI believe it's only useful if you want to use a Verizon service with a non branded phone (not sure at all)\nhttps://www.androidpolice.com/2015/03/10/android-5-1-includes-new-carrier-provisioning-api-allows-carriers-easier-methods-of-setting-up-services-on-devices-they-dont-control/\nDisplays annoying notifications if you unlocked your bootloader",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

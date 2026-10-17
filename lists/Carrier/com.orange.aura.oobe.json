@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.orange.aura.oobe",
+  "description": "Orange Manual Selector\nMakes unnecessary notifications",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

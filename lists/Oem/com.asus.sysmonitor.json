@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.sysmonitor",
+  "description": "Device Health\nDevice Health? It collects your data.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

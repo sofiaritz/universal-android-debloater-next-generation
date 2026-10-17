@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.fmradio",
+  "description": "FMRadioService\nRequired by\"com.motorola.fmplayer\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.smartcapture",
+  "description": "Samsung Capture\nSamsung's implementation of screenshot. Show the bottom toolbar after taking a screenshot\nLets you group widgets on OneUI 4 (?)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

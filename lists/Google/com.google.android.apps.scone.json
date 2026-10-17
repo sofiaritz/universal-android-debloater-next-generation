@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.scone",
+  "description": "Automatically switches basebands between LTE and 5G on demand",
+  "list": "Google",
+  "removal": "Recommended"
+}

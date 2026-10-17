@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.backupconfirm",
+  "description": "Restores Google settings with Google Backup restore.\nDisplays confirmation popup when doing ADB backup. Disabling this package breaks ADB Backup.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

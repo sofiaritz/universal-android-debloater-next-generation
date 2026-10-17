@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wearable.app",
+  "description": "Wear OS Smartwatch (https://play.google.com/store/apps/details?id=com.google.android.wearable.app)",
+  "list": "Google",
+  "removal": "Recommended"
+}

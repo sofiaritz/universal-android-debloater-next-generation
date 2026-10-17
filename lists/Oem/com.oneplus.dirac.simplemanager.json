@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.dirac.simplemanager",
+  "description": "Runs in the background.\nMain Dirac service.\nAudio fidelity improvement from the Swedish company Dirac.\nAttempts to achieve a flat frequency response curve(i.e: fidelity). Should mainly improve speaker fidelity as it can be pre-calculated and stored as a corrective EQ curve, something not possible for most devices connected through the 3.5mm jack; presets only exist for a very limited number of headphones. Change for non-preset 3.5mm jack devices is just a generic EQ curve that could decrease fidelity just as likely as it could increase it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.fuelsummary",
+  "description": "FuelSummary\nBattery testing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

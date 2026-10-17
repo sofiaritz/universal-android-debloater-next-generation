@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.app.imei",
+  "description": "IMEI Tool: Change MEID's & IMEI's of both SIM's\nEnter *#*#08#*#* in the dial pad to access",
+  "list": "Oem",
+  "removal": "Expert"
+}

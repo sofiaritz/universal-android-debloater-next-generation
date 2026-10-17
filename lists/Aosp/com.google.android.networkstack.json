@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.networkstack",
+  "description": "Network Stack Components\nhttps://source.android.com/devices/architecture/modular-system/networking\nProvides common IP services, network connectivity monitoring, and captive login portal detection.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

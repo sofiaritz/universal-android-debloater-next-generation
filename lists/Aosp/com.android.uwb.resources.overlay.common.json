@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.uwb.resources.overlay.common",
+  "description": "Overlay for UWB (Ultra-Wideband) resources. Used for device-to-device ranging and location features.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

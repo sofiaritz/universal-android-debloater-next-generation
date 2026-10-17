@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wificall",
+  "description": "Needed for Wi-Fi Calling on LG devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

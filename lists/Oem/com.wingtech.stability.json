@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wingtech.stability",
+  "description": "Stability Test. Tests hardware things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

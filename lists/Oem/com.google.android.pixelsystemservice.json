@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.pixelsystemservice",
+  "description": "System service app for Pixel device management.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.calculator",
+  "description": "Google Calculator (https://play.google.com/store/apps/details?id=com.google.android.calculator)",
+  "list": "Google",
+  "removal": "Recommended"
+}

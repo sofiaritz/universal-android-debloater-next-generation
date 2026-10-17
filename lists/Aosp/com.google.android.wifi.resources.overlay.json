@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wifi.resources.overlay",
+  "description": "A google mainline module overlay for com.android.wifi.resources, which might be useless if gms is removed, as it only provides gms customizations for Wi-Fi, not android system customizations.\n Only safe to remove if you have removed gms.\n There's no such package as com.google.android.wifi.resources, but only com.android.wifi.resources. And there are multiple packages with such names, that cause no damage when removed.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

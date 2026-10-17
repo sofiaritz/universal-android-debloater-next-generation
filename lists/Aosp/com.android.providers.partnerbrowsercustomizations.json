@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.partnerbrowsercustomizations",
+  "description": "Provides browser customizations from partners (for chrome only). Total bloatware, especialy useless if you use another browser than Chrome.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

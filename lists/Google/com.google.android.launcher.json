@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.launcher",
+  "description": "Google Now Launcher (https://play.google.com/store/apps/details?id=com.google.android.launcher)\nDO NOT REMOVE THIS IF YOU DON'T HAVE ANOTHER LAUNCHER INSTALLED.",
+  "list": "Google",
+  "removal": "Advanced"
+}

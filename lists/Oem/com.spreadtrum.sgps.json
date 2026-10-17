@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.spreadtrum.sgps",
+  "description": "A Chinese spyware GPS system app, consider removing if your phone doesn't have a GPS sensor.\nThis app is developed by a company called Zhantang, the same organization that made a dropper malware (com.redstone.ota.ui):\nhttps://www.malwarebytes.com/blog/news/2021/04/pre-installed-auto-installer-threat-found-on-android-mobile-devices-in-germany\nhttps://thehackernews.com/2021/04/pre-installed-malware-dropper-found-on.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

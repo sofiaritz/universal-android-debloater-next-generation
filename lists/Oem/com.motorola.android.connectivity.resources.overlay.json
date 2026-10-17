@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.connectivity.resources.overlay",
+  "description": "Configs to bad wifi better keep it.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

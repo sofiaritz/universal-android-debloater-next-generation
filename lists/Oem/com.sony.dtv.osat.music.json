@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.osat.music",
+  "description": "Music app which streams from your files.\nhttps://play.google.com/store/apps/details?id=com.sonyericsson.music&hl=en_US\nCan be removed if you don't need it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

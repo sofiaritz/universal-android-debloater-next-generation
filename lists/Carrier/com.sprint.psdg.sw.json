@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.psdg.sw",
+  "description": "Carrier Setup Wizard\nThe first time you turn your device on, a Welcome screen is displayed. It guides you through the basics of setting up your device.\nHere it handles the setup of Sprint features/services.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

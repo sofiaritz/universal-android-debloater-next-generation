@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.themeservice",
+  "description": "Needed to apply themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

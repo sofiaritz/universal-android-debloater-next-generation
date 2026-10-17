@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.logkit.plugin.upload",
+  "description": "Useless plugin for logs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

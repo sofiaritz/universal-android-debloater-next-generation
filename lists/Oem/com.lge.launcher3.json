@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.launcher3",
+  "description": "LG Home (v3)\nStock launcher\nIt's basically the home screen, the way icons apps are organized and displayed.\nDON'T REMOVE THIS IF YOU DIDN'T INSTALL ANOTHER LAUNCHER!\nNOTE : Yeah there is 3 packages described as\"launcher\". Normally, you only have one of them on your phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

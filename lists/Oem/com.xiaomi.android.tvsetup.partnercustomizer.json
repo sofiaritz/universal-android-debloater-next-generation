@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.android.tvsetup.partnercustomizer",
+  "description": "SetupCustomizer\nOn first boot setup installs bloatware.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

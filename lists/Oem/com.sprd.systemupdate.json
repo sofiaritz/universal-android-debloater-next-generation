@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.systemupdate",
+  "description": "Another update app by Zhantang, this one seems to provide updates unlike other app com.redstone.ota.ui, which is a dropper. Removing it after your update support ends is probably the safest option.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

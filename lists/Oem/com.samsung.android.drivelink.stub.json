@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.drivelink.stub",
+  "description": "Stub for car mode\nREMINDER : Stub = https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java",
+  "list": "Oem",
+  "removal": "Recommended"
+}

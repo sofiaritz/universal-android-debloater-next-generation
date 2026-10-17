@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.music",
+  "description": "Samsung's proprietary music app, allows you to play local music or connect your Spotify account (https://play.google.com/store/apps/details?id=com.sec.android.app.music). Safe to uninstall, and there's much better open source alternatives for both local music and Spotify.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

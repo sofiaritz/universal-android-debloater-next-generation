@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.accessory",
+  "description": "Oneplus Link\nI'm guessing this has to do with connecting to Oneplus accessories, like the Oneplus Buds (wireless earbuds). Might wanna keep it enabled if you use oneplus accessory devices.\nNoticed no negative effects from disable after weeks of use.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

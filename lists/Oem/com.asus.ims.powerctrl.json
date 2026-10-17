@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.ims.powerctrl",
+  "description": "Not needed, unused frameworks",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.mldapchecker",
+  "description": "MLDAP log\nLDAP (Lightweight Directory Access Protocol; I don't know what the M means. Mobile?) is an open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an IP network.\nDirectory service refers to the collection of software, hardware, and processes that store and organize everyday items and network resources(folders, files, printers, users, groups, devices, telephone numbers...)\nIt looks like a database but it's different.\nDirectory services excel at fast lookups for rarely changing data (email, username etc...)\nDifferences between database and Directory Service : https://www.c-sharpcorner.com/article/directory-services-vs-rdbms/\nLDAP uses a relatively simple, string-based query to extract information from Active Directory. LDAP can store and extract objects such as usernames and passwords in Active Directory, and share that object data throughout a network.\nExample of LDAP usage : https://stackoverflow.com/questions/239385/what-is-ldap-used-for/592339\n\nI don't know why and how Samsung uses LDAP. This package, according to its name only does logging.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.setupwizard",
+  "description": "Android Setup\nThe factory reset device basic configuration setup guides you through the basics of setting up your device.\nWARNING: Oddly enough, disabling/uninstalling this package will break mobile identity management which could be used by apps (for example your bank) to authenticate you. Also breaks syncing of Google accounts setup after this package is removed.\nSee https://en.wikipedia.org/wiki/Mobile_identity_management for Mobile Identity Management.",
+  "list": "Google",
+  "removal": "Advanced"
+}

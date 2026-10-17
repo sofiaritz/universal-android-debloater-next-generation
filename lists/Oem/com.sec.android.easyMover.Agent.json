@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.easyMover.Agent",
+  "description": "Smart Switch Agent\nNeeded to use Smart Switch. See\"com.sec.android.easyMover\".",
+  "list": "Oem",
+  "removal": "Recommended"
+}

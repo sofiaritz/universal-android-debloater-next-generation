@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.smartshare.provider",
+  "description": "Provider for Smart Share.\nNeeded by com.lge.smartshare.\nREMINDER : content providers help an application manage access to data stored by itself, stored by other apps,\nand provide a way to share data with other apps. They encapsulate the data, and provide mechanisms for defining data security",
+  "list": "Oem",
+  "removal": "Recommended"
+}

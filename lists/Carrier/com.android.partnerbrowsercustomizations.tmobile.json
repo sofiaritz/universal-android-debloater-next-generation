@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.partnerbrowsercustomizations.tmobile",
+  "description": "The proprietary application of the mobile operator T-Mobile, presumably displays ads, is responsible for the operation of some of the operator's settings",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

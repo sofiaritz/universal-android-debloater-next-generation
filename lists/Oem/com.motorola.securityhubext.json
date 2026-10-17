@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.securityhubext",
+  "description": "This package is related to Motorola's Security Hub, an extension or enhancement for the device\u2019s security features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.setupwizard",
+  "description": "Setup Wizard\nYou don't need it after first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.DeviceMonitorControl",
+  "description": "Some form of device monitoring?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.shannon.rcsservice",
+  "description": "Verizon RCS service.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

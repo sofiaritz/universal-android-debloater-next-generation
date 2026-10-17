@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.healthservice",
+  "description": "Health service\nAnother thing related to health check",
+  "list": "Oem",
+  "removal": "Recommended"
+}

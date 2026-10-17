@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.iftttmanager",
+  "description": "LG Smart settings\nIFTTT = \u201cif this, then that.\u201d. Smart Settings can be seens as IFTTT.\nSome events automatically triggers actions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

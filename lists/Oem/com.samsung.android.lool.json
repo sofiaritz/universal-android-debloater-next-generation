@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.lool",
+  "description": "Samsung Device Care\n(https://play.google.com/store/apps/details?id=com.samsung.android.lool)\nWhile this package was suspected previously to send lots of data to Chinese servers it has since been debunked - only connects to Chinese server to retrieve database, but still sends some very basic data about the phone like model number, storage capacity, and a randomly generated identifier\nhttps://www.reddit.com/r/Android/comments/el99r0/samsung_members_koreas_official_reply_has_arrived/\nWARNING: disabling/removing this package may remove the option to manage Power Saving, Fast Charging & Battery Protection on some devices",
+  "list": "Oem",
+  "removal": "Advanced"
+}

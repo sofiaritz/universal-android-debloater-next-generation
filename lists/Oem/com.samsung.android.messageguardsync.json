@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.messageguardsync",
+  "description": "Handles synchronizing and updating Samsung Message Guard policies.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

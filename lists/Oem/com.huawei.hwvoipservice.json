@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwvoipservice",
+  "description": "Voice over IP service for Huawei MeeTime (com.huawei.meetime)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

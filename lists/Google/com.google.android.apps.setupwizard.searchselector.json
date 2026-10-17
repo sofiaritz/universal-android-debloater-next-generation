@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.setupwizard.searchselector",
+  "description": "Search engine selector\nThe search selection screen in the setupwizard you see on new/factory reset phones.\nRuns on boot, but doesn't seem to run in the background beyond that.",
+  "list": "Google",
+  "removal": "Recommended"
+}

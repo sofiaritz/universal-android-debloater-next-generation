@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.mlt",
+  "description": "LG MLT\nRun in background all the time and probably serves purpose to help LG remote support. The thing is this acts as a good spyware.\nIt tries to track all your activity and logs GPS position together with the details gathered, and that includes calls, apps starting etc...\nAll data is collected and placed on /mpt partition, it seems not to be per reboot, but actually kept during flash and upgrades.\n#\nhttps://forum.xda-developers.com/showthread.php?t=2187920",
+  "list": "Oem",
+  "removal": "Recommended"
+}

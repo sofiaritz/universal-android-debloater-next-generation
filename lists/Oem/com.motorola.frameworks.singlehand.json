@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.frameworks.singlehand",
+  "description": "Provide the Single/One hand mode\nI don't know why frameworks appears in the package name because it's not only the framework.\nhttps://support.motorola.com/us/en/documents/MS116403/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

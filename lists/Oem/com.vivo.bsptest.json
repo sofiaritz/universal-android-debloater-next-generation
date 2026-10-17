@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.bsptest",
+  "description": "BSPTest\nHidden app for testing things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.coldwalletservice",
+  "description": "Samsung Blockchain Keystore\nSecure and convenient place to manage your private key used for cryptocurrency transactions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.tycho",
+  "description": "Google Fi Wireless\nhttps://play.google.com/store/apps/details?id=com.google.android.apps.tycho",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.qti.imsdatachannel",
+  "description": "Needed for IMS.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

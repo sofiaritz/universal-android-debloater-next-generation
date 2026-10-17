@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.insulet.myblue.pdm",
+  "description": "App to control OmniPod insulin pumps. Preinstalled on the OmniPod DASH and OmniPod 5 PDMs. If you're seeing this package you're probably on a modded PDM, so you almost certainly know what this is and it's absolutely unsafe to remove if you're actively using OmniPod.\nhttps://play.google.com/store/apps/details?id=com.insulet.myblue.pdm",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

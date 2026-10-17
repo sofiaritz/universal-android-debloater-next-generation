@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.camera2",
+  "description": "Xiaomi Camera (I don't know why they kept this package name. It's really confusing.)\nIt's a proprietary app based on the AOSP sources:\nhttps://android.googlesource.com/platform/packages/apps/Camera2/+/master/src/com/android/camera",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.fmradio",
+  "description": "Sony's FM radio app, safe to remove if you don't use it",
+  "list": "Oem",
+  "removal": "Recommended"
+}

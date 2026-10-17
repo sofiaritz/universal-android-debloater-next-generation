@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.dmenu2",
+  "description": "d-menu\nWeb page shortcut and notification receiver.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

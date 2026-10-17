@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.adservices.api",
+  "description": "Android AdServices. Introduced in Android 13 privacy sandbox beta components disabled on default.\nhttps://source.android.com/docs/core/ota/modular-system/adservices",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

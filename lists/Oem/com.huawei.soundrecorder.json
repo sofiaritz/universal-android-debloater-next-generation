@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.soundrecorder",
+  "description": "Sound Recorder app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.connectivity.resources.overlay",
+  "description": "Cause bootloop?\nFound in TECNO phone, in overlay there's a notification saying 'No Internet As Dialog When High Priority'.\nCan someone test it?",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

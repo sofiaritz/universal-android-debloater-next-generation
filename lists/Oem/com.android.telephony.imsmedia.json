@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.telephony.imsmedia",
+  "description": "IMS media management for VoLTE and video calling.",
+  "list": "Oem",
+  "removal": "Expert"
+}

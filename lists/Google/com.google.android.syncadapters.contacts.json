@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.syncadapters.contacts",
+  "description": "Synchronisation for Google Contacts.",
+  "list": "Google",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mdm",
+  "description": "MDMApp (Mobile Device Management app)\nUsed to monitor and manage remotely  mobile devices.\nFor example locking split-screen, blocking safe mode boot, enabling branding logo in the lock screen, remotely configuring IMAP email...\nMost likely related to KNOX\nhttps://www.samsungknox.com/en/solutions/it-solutions/knox-manage\nhttps://developer.samsung.com/tech-insights/knox/mobile-device-management",
+  "list": "Oem",
+  "removal": "Recommended"
+}

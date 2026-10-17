@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bbc.fileprovider",
+  "description": "KNOX BBC Provider.\nProvider for KNOX BBC\nContent providers encapsulate data, providing centralized management of data shared between apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

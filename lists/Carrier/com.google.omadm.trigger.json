@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.omadm.trigger",
+  "description": "OemDmTrigger\nOMA Device Managment Verizon.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

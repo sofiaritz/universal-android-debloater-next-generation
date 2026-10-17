@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.longcheertel.cit",
+  "description": "Cit test\nHidden hardware tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

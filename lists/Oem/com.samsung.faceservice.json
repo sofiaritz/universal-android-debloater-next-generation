@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.faceservice",
+  "description": "Face service detection\nAnalyzes all the photos in the Samsung Gallery to detect human faces using Samsung\u2019s built-in face detection technology. Once FaceService identifies that the photo contains a face, it shows a button that allows users to add name tags to the photo and create a People Album of similar photos by selecting the name tag.\n\nSame shared user id as com.samsung.ipservice, com.samsung.mlp, com.samsung.cmh\nNeeded for face recognition in the Gallery\nNOTE : Removing this package does not break face unlock",
+  "list": "Oem",
+  "removal": "Recommended"
+}

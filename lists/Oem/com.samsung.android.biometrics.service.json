@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.biometrics.service",
+  "description": "Intelligent Scan for Samsung Galaxy S9(+) and Note 9.\nNOTE: Removing this will break Intelligent Scan.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.themecenter",
+  "description": "Galaxy Themes Service.\nRuns at startup and allows you to apply themes from `com.samsung.android.themestore`. On some devices, it provides the built-in wallpaper images to the Theme Store.\nIt will enable itself if you disable it, so try uninstalling (may throw an error).\nHas of lot of permissions (including `INTERNET` and `INSTALL_PACKAGES`) and connects to Samsung domains for analytics.\n\nPithus analysis: https://beta.pithus.org/report/973ba78ddd74a13dcf5268e980010a64ba42a3d2a1c4c62df277ead5a17cd10c",
+  "list": "Oem",
+  "removal": "Advanced"
+}

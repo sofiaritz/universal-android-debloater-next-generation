@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mmifm",
+  "description": "FM Radio_wrh\nIt looks like unused FM Radio stuff without activity, adding favorite channels.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

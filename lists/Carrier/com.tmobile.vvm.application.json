@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tmobile.vvm.application",
+  "description": "T-Mobile Visual VoiceMail (https://play.google.com/store/apps/details?id=com.tmobile.vvm.application)\nLets you use your voice mail and manage your inbox without dialing into your voicemail.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

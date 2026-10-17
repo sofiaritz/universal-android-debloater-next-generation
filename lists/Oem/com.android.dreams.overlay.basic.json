@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dreams.overlay.basic",
+  "description": "Overlay to 'com.android.dreams.basic' has icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

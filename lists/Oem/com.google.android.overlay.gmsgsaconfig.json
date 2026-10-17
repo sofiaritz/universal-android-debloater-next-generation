@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsgsaconfig",
+  "description": "Not needed overlay, only has code to set `googlequicksearchbox`(Google App) as default assistant",
+  "list": "Oem",
+  "removal": "Advanced"
+}

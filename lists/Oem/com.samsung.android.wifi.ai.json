@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.ai",
+  "description": "No activities, provides WiFi diagnostics, has several ai models that it is not clear how useful they are.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

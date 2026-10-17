@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.hardwarestub",
+  "description": "HardwareStub Services\nHas components for optimization game.",
+  "list": "Oem",
+  "removal": "Expert"
+}

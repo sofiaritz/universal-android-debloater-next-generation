@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.visualvoicemail",
+  "description": "Verizon Visual Voicemail (https://play.google.com/store/apps/details?id=com.motorola.visualvoicemail)\nOn non-Verizon phones it has a generic\"Voicemail\" name and icon, and doesn't seem to active.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.mifavor.launcher.resource",
+  "description": "Needed for Stock ZTE Launcher",
+  "list": "Oem",
+  "removal": "Expert"
+}

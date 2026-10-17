@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon_pack.filled.launcher",
+  "description": "Android icon pack only for google pixel or aosp or motorola",
+  "list": "Oem",
+  "removal": "Advanced"
+}

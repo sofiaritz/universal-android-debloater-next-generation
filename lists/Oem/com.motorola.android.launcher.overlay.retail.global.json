@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.launcher.overlay.retail.global",
+  "description": "This package is part of Motorola's custom launcher overlay designed for retail or global versions of their devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

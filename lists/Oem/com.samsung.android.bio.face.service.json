@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bio.face.service",
+  "description": "Handles Face recognition unlock\nhttps://kp-cdn.samsungknox.com/b60a7f0f59df8f466e8054f783fbbfe2.pdf\nNOTE: removing this package causes biometric prompts in apps to be delayed by 5-8 seconds before appearing. Selecting 'Biometrics and security' in the settings app also locks up the Settings app for about 5-8 seconds but eventually loads and functions as normal.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

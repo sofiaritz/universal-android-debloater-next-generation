@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.perfdump",
+  "description": "Performance dump (logging)\nEnable a more accurate overview of the running services (and maybe how much power/RAM they take?)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

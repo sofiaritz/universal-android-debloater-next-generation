@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mt6983.gamedriver",
+  "description": "Arm GPU Game Driver",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

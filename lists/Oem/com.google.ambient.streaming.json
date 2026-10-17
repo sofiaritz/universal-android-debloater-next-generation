@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.ambient.streaming",
+  "description": "Access and use your Android phone's apps from your Chromebook",
+  "list": "Oem",
+  "removal": "Recommended"
+}

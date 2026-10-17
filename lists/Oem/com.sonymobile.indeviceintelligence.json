@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.indeviceintelligence",
+  "description": "Xperia Intelligence Engine\nThis app is supposed to understand how you use the phone, the apps you prefer, and will suggest tips\nand options based on app usage, how often you use an app, what time of day...\nFor me this just looks like a AI bullshit app who has a huge list of permissions and launch in background at boot\nThis app performs geofencing (check if your are located in a certain perimeter, near your home for instance)\nand this doesn't looks great privacy-wise (https://en.wikipedia.org/wiki/Geo-fence)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

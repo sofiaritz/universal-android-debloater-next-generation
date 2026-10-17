@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.systemui.devices.overlay",
+  "description": "The empty space between the status bar and the edges of the screen\nElements at edges ignore screen fillets and cutouts when removed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

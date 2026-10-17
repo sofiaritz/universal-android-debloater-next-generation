@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wernicke.nlp",
+  "description": "Natural-language processing for LG intelligent assistant.\nUsed to understand what a human is saying when they speak.\nNeeded by QVoice",
+  "list": "Oem",
+  "removal": "Recommended"
+}

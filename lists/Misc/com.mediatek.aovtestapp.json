@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.aovtestapp",
+  "description": "It tests in camera something.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

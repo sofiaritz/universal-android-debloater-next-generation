@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.scloud.quota",
+  "description": "Literally all this app does is tell you when you're out of storage on your Samsung Cloud. Why this isn't part of the main Samsung Cloud app? I have no idea.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.watchmanagerstub",
+  "description": "Stub for the Galaxy Wearable app.\nStub = https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java",
+  "list": "Oem",
+  "removal": "Recommended"
+}

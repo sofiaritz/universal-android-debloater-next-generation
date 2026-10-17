@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.gms",
+  "description": "Useless overlay to systemui gms",
+  "list": "Oem",
+  "removal": "Recommended"
+}

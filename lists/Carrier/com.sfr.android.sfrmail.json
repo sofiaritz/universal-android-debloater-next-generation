@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sfr.android.sfrmail",
+  "description": "SFR Mail (https://play.google.com/store/apps/details?id=com.sfr.android.sfrmail)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

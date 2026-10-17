@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wifi.resources.xiaomi",
+  "description": "An overlay-xiaomi addition for com.android.wifi.resources, presumably xiaomi bloat. No issues with Wi-Fi found after removal.\nThere's no such package as com.google.android.wifi.resources, but only com.android.wifi.resources, so it's likely a part of a google addition for Wi-Fi services, so likely bloat. Safe to delete.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

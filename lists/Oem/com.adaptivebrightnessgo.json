@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.adaptivebrightnessgo",
+  "description": "Not related to adaptive brightness in the sliding bar. The APK is called `CameraLightSensor`, so I guess it's for the camera.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

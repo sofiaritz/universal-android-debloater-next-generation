@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.chsc.semitouchtester",
+  "description": "Semi touch test, debug.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

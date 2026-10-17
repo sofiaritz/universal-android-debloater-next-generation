@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gm.exchange",
+  "description": "Microsoft Exchange ActiveSync support for Gmail. Now part of the Gmail (com.google.android.gm) app.",
+  "list": "Google",
+  "removal": "Recommended"
+}

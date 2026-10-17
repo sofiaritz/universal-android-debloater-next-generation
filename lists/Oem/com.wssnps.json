@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wssnps",
+  "description": "Samsung Backup and restore Manager (on Samsung Galaxy S7)\nWas replaced by\"com.sec.android.easyMover\" (Samsung Smart Switch Mover)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

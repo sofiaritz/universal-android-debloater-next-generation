@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.autoregistration",
+  "description": "Collects device activation data to remotely activate phone warranty.\nIn 2019 this package sent private data (IMEI, CELLID, CCID) in clear-text to zzhc.vnet.cn (chinese server). According to HMD (Nokia) it was a mistake:\nhttps://www.androidauthority.com/nokia-7-plus-user-info-967901/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

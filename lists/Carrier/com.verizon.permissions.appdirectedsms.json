@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.permissions.appdirectedsms",
+  "description": "Custom permissions for some verizon stuff?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

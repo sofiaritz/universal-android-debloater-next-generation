@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.devicelockcontroller",
+  "description": "Pixel device lock configuration overlay.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.networkstack.overlay",
+  "description": "WiFi will not work after remove.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

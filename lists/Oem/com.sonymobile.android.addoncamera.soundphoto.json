@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.android.addoncamera.soundphoto",
+  "description": "Sony Sound Photo\nLets you record a background sound and take a photo at the same time with the Sound Photo app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

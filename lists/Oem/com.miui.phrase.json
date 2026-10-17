@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.phrase",
+  "description": "Frequent Phrases\nThis adds a button next to paste on input fields containing a list of phrases you can edit and paste at any time.\nIn any case it has access to internet, is linked to MiCloud and contains a weird CloudTelephonyManager java class in the code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

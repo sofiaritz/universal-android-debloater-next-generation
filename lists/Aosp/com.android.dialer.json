@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dialer",
+  "description": "AOSP Dialer/Phone app\nDefault phone app on some older phones(like Oneplus 3). WARNING: Uninstalling it may break the entire phone app; emergency calls; SIM card detection, and the software update screen on Samsung.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

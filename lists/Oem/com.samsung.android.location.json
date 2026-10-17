@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.location",
+  "description": "Slocation.\nIt handles GPS queries for some Samsung (Galaxy) apps, such as Camera location tagging. Apps exclusively using raw GPS and/or Google Location API are unaffected\nhttps://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/762#issuecomment-2567149732",
+  "list": "Oem",
+  "removal": "Advanced"
+}

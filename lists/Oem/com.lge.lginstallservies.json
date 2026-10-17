@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lginstallservies",
+  "description": "LG Install Service\nUsed by LG to install some of its apps on the phone. Not needed unless you use the LG apps manager.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

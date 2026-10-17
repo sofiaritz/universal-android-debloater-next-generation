@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.flashlight",
+  "description": "Samsung Flashlight",
+  "list": "Oem",
+  "removal": "Advanced"
+}

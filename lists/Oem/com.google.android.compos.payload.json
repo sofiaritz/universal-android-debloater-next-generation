@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.compos.payload",
+  "description": "Payload for Google's Compose system handling notifications and widgets.",
+  "list": "Oem",
+  "removal": "Expert"
+}

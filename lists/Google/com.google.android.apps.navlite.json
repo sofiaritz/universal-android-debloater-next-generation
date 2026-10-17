@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.navlite",
+  "description": "Google Maps GPS (https://play.google.com/store/apps/details?id=com.google.android.apps.navlite)",
+  "list": "Google",
+  "removal": "Recommended"
+}

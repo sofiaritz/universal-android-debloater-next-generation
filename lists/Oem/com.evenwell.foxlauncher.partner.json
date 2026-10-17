@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.foxlauncher.partner",
+  "description": "Partner Launcher Customization\nRelated to the Nokia launcher",
+  "list": "Oem",
+  "removal": "Recommended"
+}

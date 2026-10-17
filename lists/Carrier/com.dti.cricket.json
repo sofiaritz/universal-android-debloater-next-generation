@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.cricket",
+  "description": "it's app for installing recommended apps? it's only used on first-boot setup and it's useless.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.backupagent",
+  "description": "Backup Agent\nhidden app for chinese phones backups SMS,MMS,Contacts",
+  "list": "Oem",
+  "removal": "Recommended"
+}

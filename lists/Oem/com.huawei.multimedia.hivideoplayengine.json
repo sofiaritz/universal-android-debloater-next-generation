@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.multimedia.hivideoplayengine",
+  "description": "hivideoplayengine\nHwVideoKitImpl, sdk tools for developers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

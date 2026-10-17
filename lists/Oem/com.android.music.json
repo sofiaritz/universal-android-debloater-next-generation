@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.music",
+  "description": "The com.android.music package is the default music player app that comes pre-installed on many Android devices. It provides basic music playback functionality and may include features like playlists and library management. Since there are many better and more feature-rich music player apps available on Google Play, and this app does not offer any unique features specific to your device, removing it should not impact the core functionality of the operating system.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

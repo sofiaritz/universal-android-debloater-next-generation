@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.exchange",
+  "description": "Handles all aspects of starting, maintaining, and stopping the various sync adapters for the email accounts.\nIs it only needed for the email stock app?",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

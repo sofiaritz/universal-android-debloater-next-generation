@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.stk.overlay.miui",
+  "description": "'SIM Toolkit' name app only found.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

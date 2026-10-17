@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dialer",
+  "description": "Stock Samsung Phone dialer",
+  "list": "Oem",
+  "removal": "Advanced"
+}

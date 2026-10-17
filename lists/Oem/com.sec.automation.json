@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.automation",
+  "description": "Tethering Automation enables sharing phone internet to the PC with a usb cable.\nSafe to remove (but it's a useful feature)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

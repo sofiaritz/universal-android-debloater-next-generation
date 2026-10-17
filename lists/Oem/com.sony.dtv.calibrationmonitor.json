@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.calibrationmonitor",
+  "description": "Screen calibration app\nhttps://play.google.com/store/apps/details/Calman%20for%20BRAVIA?id=com.sony.dtv.calibrationmonitor&hl=en_US\nUseful app, but can be removed if you don't need it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

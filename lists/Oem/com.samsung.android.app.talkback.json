@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.talkback",
+  "description": "Voice assistant. Accessibility feature\nScreen Reader to provide audible feedback to assist blind and low-vision users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

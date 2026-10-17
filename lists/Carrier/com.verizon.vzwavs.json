@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.vzwavs",
+  "description": "Has a scary list of permissions. Does seems to break anything if removed",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

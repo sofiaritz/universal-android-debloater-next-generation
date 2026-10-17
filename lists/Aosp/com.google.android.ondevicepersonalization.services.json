@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.ondevicepersonalization.services",
+  "description": "OnDevicePersonalization.\nAnother thing to AdServices privacy sandbox.\nIntroduced in Android 13.\nhttps://source.android.com/docs/core/ota/modular-system/ondevicepersonalization",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

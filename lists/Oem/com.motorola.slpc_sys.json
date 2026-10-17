@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.slpc_sys",
+  "description": "Motorola Slpc System\nWould be weird if it's not related to Motorola Modality Services (https://play.google.com/store/apps/details?id=com.motorola.slpc)\nHelps your Motorola phone respond more intelligently to motion, phone orientation (e.g. face up/down) and stowed state (e.g in/out-of-pocket).\nHas a noticeable impact on battery ? (https://forum.xda-developers.com/moto-x-2014/help/location-modality-services-battery-t2982752)\nFYI : It uses location services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

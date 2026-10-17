@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.soundrecorder",
+  "description": "AOSP Sound recorder\nOEMs often use their own solution\nNOTE: On some phones, Huawei & Xiaomi also use this package name for their own browser app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

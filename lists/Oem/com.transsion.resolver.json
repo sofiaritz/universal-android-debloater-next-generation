@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.resolver",
+  "description": "Replacement to Android Share dialog (com.android.intentresolver), but with e.g. removal of image metadata. Note: tested disabled only.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

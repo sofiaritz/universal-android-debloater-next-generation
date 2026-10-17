@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.security",
+  "description": "Dashboard\nRuns\"WidgetViewService\" and\"SecureService\" in the background.\nManages widget data access? Noticed no apparent ill effects on disable in Android 9.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

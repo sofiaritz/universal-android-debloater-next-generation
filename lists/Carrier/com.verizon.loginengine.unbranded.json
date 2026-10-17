@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.loginengine.unbranded",
+  "description": "Carrier Login Engine\nNeeded for wifi-calling. (To be confirmed)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

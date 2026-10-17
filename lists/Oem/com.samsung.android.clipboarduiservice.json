@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.clipboarduiservice",
+  "description": "User interface for clipboard",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.fresco.logging",
+  "description": "Fresco Logging Service\nFresco is an android library for managing images and the memory they use (https://github.com/facebook/fresco)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

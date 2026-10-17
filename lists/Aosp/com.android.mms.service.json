@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mms.service",
+  "description": "Provides support for sending MMS.\nIt doesn't cause bootloop.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

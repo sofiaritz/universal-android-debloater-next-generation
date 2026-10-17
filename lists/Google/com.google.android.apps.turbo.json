@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.turbo",
+  "description": "Device Health Services.\nBreaks battery settings.",
+  "list": "Google",
+  "removal": "Expert"
+}

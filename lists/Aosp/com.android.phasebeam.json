@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phasebeam",
+  "description": "\"Phase beam\" live wallpaper",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

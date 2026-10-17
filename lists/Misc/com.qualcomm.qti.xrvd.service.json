@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.xrvd.service",
+  "description": "XRVD\nThe real name of this app is XRVDTest. It has accessibility testing,\ncollects some data? It's something for developers probably.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

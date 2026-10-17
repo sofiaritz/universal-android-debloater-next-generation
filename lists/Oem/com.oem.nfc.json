@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oem.nfc",
+  "description": "OnePlus NFC tester",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.overlay.dcmconfig",
+  "description": "Static overlay that sets \"config_systemContacts\" to \"docomo phonebook\" (customized com.android.contacts).\nNOTE: Safe to remove, reboot needed after uninstalling.\n\"docomo phonebook\" itself is safe to remove whether this overlay is installed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.android.fmradio",
+  "description": "Honor's stock radio player. Remove if FM isn't relevant for you.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

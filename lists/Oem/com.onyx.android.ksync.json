@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.android.ksync",
+  "description": "Ksync app. UNSAFE to remove because it will crash the Onyx launcher but you can safely disable it",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

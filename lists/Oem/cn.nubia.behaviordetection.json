@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.behaviordetection",
+  "description": "Chinese useless frameworks.\nUsed to collect application behavior data to understand users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

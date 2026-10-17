@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.crashmonitor",
+  "description": "Sony's crash monitor",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lockscreensettings",
+  "description": "LockScreenSettings\nLock Screen Settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

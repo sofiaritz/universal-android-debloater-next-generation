@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.livingfit",
+  "description": "Turns your tv into an accessory by showing pictures. This is different to the screensaver and won't affect it.\nhttps://play.google.com/store/apps/details?id=com.sony.dtv.livingfit&hl=en_US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.privacy.wildlife",
+  "description": "VPN by Google One. Discontinued. Succeeded by VPN by Google and Google Fi VPN.",
+  "list": "Google",
+  "removal": "Recommended"
+}

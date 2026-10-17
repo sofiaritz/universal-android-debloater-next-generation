@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.ledcoverdream",
+  "description": "I think it enable doing things with LEDs on the cover\nhttps://www.samsung.com/hk_en/mobile-accessories/led-cover-for-galaxy-s10/EF-KG973CBEGWW/\nHOW IT WORKS : https://forum.xda-developers.com/galaxy-note-8/accessories/how-led-cover-t3686694",
+  "list": "Oem",
+  "removal": "Recommended"
+}

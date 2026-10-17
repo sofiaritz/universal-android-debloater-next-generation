@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.magazineservice.hios",
+  "description": "Shows trending news, games and wallpapers on the lockscreen. Talks to ads services\nPithus analysis: https://beta.pithus.org/report/fcda43fab1ed9cdc95281cdb96b77938afc8ca4b6e0ada418cac282a78f0cc9f",
+  "list": "Oem",
+  "removal": "Recommended"
+}

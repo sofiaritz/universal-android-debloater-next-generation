@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wallpaper.live",
+  "description": "Samsung official app for dynamic and live wallpapers with generative AI capabilities.\nBecause it provides a wallpaper service, it runs in the background and starts automatically when the phone boots.\nIf you remove it while using a wallpaper created by it, that wallpaper will be removed as well.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

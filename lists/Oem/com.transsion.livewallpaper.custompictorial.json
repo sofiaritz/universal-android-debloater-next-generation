@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.livewallpaper.custompictorial",
+  "description": "Custom wallpapers use this live wallpaper service. Needed to edit lock- and home screen.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.provider.signboard",
+  "description": "Needed for Always on display.\nNOTE: May crash Settings app after removal.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.printservice.recommendation",
+  "description": "Recommends 3rd-party print services apps in the PlayStore. Printing will probably still works without (by using the default print service).",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.accessibility.soundamplifier",
+  "description": "Accessibility sound amplifier (https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)",
+  "list": "Google",
+  "removal": "Recommended"
+}

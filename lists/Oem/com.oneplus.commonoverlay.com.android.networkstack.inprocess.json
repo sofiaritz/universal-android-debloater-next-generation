@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.commonoverlay.com.android.networkstack.inprocess",
+  "description": "Needed for DHCP hostname?, captive portal HTTP URLs?",
+  "list": "Oem",
+  "removal": "Expert"
+}

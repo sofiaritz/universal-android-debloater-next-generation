@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.engineermode.network",
+  "description": "Related to com.oppo.engineermode. This application likely doesn't work without that app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.contacts",
+  "description": "ASUS Contacts\nStock ASUS Contacts app. Contains Google trackers.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

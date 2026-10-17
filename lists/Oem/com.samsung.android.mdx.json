@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mdx",
+  "description": "Link to Windows Service\nWorks in conjunction with the Microsoft Your Phone app and activates a connection to your PC on Windows",
+  "list": "Oem",
+  "removal": "Recommended"
+}

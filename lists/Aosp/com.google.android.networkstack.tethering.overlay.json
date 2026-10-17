@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.networkstack.tethering.overlay",
+  "description": "it's needed for tethering?. I found: arrays.xml\narray name (config_tether_usb_regexs)\nitem rndis d\nitem usb d",
+  "list": "Aosp",
+  "removal": "Expert"
+}

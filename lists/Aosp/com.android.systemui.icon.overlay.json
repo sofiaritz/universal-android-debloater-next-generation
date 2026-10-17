@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.icon.overlay",
+  "description": "In code found configs icon mask.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

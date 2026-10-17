@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.location.nsflp2",
+  "description": "Samsung Location SDK\nIt seems to only be used by Samsung (Galaxy) apps",
+  "list": "Oem",
+  "removal": "Recommended"
+}

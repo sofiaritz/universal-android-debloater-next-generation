@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.mis",
+  "description": "Xiaomi Connected Car Service for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.systemcolor",
+  "description": "System color scheme\nNeeded for changing wallpapers?",
+  "list": "Oem",
+  "removal": "Expert"
+}

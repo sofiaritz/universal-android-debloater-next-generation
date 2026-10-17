@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.voiceassistoverlay",
+  "description": "Overlay to Mi AI 'com.miui.voiceassist'.\nThe overlay won't show up when you trigger it, which makes the voice-to-command features largely inaccessible.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

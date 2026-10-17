@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.setupwizardoverlay",
+  "description": "Weird package related to the SetupWizard (the menu which assists you to setup your phone for the first time)\nA user said he needed to remove this package to be able to properly apply a dark theme to the Settings app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

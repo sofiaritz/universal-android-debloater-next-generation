@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.synchub",
+  "description": "Sony Backup & restore feature to/from Google drive ?\nCan someone confirm ? Does it impact com.sonyericsson.mtp.extension.backuprestore ?\nhttps://support.sonymobile.com/global-en/xperia10/faq/apps-&-settings/801930747866b72a016b307df3b6007faf/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

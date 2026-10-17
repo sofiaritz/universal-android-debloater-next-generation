@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.location",
+  "description": "LocationServices\nRuns in the background as part of the system. Runs even if disabled, so probably pointless to disable.\nPeriodically sends a unique software ID, location (lat, long, alt, and their uncertainty), nearby cellular towers and Wi-Fi hotspots and their signal strength to Qualcomm servers.\nhttps://www.qualcomm.com/site/privacy/services",
+  "list": "Misc",
+  "removal": "Recommended"
+}

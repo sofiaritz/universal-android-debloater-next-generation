@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.emodeservice",
+  "description": "Logs to emode Testing Hardware Components",
+  "list": "Oem",
+  "removal": "Recommended"
+}

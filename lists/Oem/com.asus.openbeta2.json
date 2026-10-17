@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.openbeta2",
+  "description": "OpenBeta2\nBeta program server that collects a lot of data.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

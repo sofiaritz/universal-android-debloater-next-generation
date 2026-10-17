@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.applocker",
+  "description": "App locker\nOptional app for locking apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

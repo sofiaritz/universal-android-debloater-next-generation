@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gametools.gamerecorder",
+  "description": "Screen recording\nScreen recording for game tools.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

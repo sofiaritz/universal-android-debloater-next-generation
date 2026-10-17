@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.oda.service",
+  "description": "SamsungOdaService\nDisabling causes SIM Manager to instantly crash on dual sim setup.Requires google play services.\nAnother spying app collects sim info and other things.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

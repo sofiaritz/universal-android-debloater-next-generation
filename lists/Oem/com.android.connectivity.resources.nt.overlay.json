@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.connectivity.resources.nt.overlay",
+  "description": "WiFi configs. Better don't risk",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

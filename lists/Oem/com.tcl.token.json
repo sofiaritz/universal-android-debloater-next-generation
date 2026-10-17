@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.token",
+  "description": "Token\nit's for ECID number but it's safe to remove. Secret code 7383243.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

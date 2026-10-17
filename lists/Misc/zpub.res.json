@@ -1,0 +1,6 @@
+{
+  "pkg_name": "zpub.res",
+  "description": "third-party app pre-installed on ZTE phones.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

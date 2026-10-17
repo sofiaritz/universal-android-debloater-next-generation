@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.qti.imsrcs",
+  "description": "IMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling). Also have RCS.",
+  "list": "Misc",
+  "removal": "Expert"
+}

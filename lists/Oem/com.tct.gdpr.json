@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.gdpr",
+  "description": "Whenever TCL updates their Privacy Policy, this app shows a notification prompting the user to read it. May include the\"User Experience Improvement Program\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

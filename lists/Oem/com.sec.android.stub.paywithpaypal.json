@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.stub.paywithpaypal",
+  "description": "Pay with PayPal\nHidden app that wanna to install PayPal to your phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

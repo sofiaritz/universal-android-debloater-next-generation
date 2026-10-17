@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.accessibility",
+  "description": "Mi Ditto\nAccesibility feature. Dictation (TTS) and speech output,\nmaking mobile devices more convenient for people who have difficulties using conventionally designed smartphones.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

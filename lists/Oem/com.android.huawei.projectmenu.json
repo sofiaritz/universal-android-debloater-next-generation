@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.huawei.projectmenu",
+  "description": "ProjectMenu\nHidden settings not available for users. it's useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

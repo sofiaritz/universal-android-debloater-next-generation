@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qtisystemservice",
+  "description": "Seems to only log stuff related to telephony?\nA user removed this without noticing any issues.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

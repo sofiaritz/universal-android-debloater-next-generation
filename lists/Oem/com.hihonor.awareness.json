@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.awareness",
+  "description": "Dependency of YOYO Assistant and Honor AI ? Didn't notice anything when removed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

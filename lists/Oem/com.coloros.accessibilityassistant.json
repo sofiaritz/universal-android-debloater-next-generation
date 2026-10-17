@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.accessibilityassistant",
+  "description": "AI VoiceScribe.\nIt's used to convert speech to text in real-time for accessibility purposes. Can be safely deleted if you don't use AI services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

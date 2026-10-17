@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.smartcard.manager",
+  "description": "Smart Card Manager\nSmart Card enables communication with Secure Elements (SIM card, embedded Secure Elements, Mobile Security Card...)\nThese packages seem to be Samsung implementation.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

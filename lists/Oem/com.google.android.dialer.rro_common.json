@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.dialer.rro_common",
+  "description": "Useless overlay code for Google Dialer",
+  "list": "Oem",
+  "removal": "Recommended"
+}

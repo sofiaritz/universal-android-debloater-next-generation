@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.shutdownmonitor",
+  "description": "Shows the shut down animation when powering off or rebooting LG devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

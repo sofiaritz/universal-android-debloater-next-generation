@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.exsystemservice",
+  "description": "Has a lot of permissions. The screenshot function will stop working when the app is disabled.\nCan cause bootloop on some phones\nhttps://gist.github.com/zxdawn/21771f89f0e6ee01bcb0bb740058e2a0\nhttps://xdaforums.com/t/extreme-debloat-op12.4688984/\nhttps://www.apkmirror.com/apk/oneplus-ltd/system-service-2/system-service-2-1-1-5-release/system-service-1-1-5-2-android-apk-download/",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

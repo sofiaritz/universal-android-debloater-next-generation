@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.soundrecorder",
+  "description": "Sound Recorder\nAn audio and screen recorder, lets you change voice.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

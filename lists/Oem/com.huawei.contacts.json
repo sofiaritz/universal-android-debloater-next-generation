@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.contacts",
+  "description": "Huawei Contacts app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

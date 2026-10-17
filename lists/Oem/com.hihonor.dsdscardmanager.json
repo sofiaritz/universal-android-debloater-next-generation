@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.dsdscardmanager",
+  "description": "Dual card management\nIt's sim card management in Honor settings.\nAfter removing, sim card management in settings will not work.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

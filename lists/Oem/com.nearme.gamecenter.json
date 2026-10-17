@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nearme.gamecenter",
+  "description": "Game Center\nActs like QooApp that has a game forum, news, etc. Contains trackers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

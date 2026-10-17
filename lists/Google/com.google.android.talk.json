@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.talk",
+  "description": "Google Hangouts (https://play.google.com/store/apps/details?id=com.google.android.talk)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mobitv.client.sprinttvng",
+  "description": "Sprint TV & Movies provided by mobitv (https://en.wikipedia.org/wiki/MobiTV)\nLets you watch live TV and VOD.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.vsimservice",
+  "description": "VSim Service\nLets you use a virtual sim\nhttps://www.quora.com/What-is-VSIM-virtual-SIM-technology\nHas a LOT of permissions (and involving IMS service)\nRun at startup.\nFYI : https://security.stackexchange.com/questions/223290/esim-vs-sim-card-what-is-more-secure",
+  "list": "Oem",
+  "removal": "Advanced"
+}

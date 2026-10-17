@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.promos",
+  "description": "Sony's promotion app with offers. You need an account to use it",
+  "list": "Oem",
+  "removal": "Recommended"
+}

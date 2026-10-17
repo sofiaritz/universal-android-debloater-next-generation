@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.atfwd",
+  "description": "Used to send AT command messages from/to the modem\nAttention commands commands are a collection of short-string commands developed in the early 1980s\nthat were designed to be transmitted via phone lines and control modems. Different AT command strings can be merged together\nto tell a modem to dial, hang up, or change connection parameters.\nSmartphones include a basic modem component inside them, which allows the smartphone to connect to the Internet\nvia its telephony function.\nThis can be abused. It's been known for many years that Android devices are vulnerable to attacks carried out via AT commands:\nhttps://www.bleepingcomputer.com/news/security/smartphones-from-11-oems-vulnerable-to-attacks-via-hidden-at-commands/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

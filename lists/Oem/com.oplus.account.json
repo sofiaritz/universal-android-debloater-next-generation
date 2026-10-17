@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.account",
+  "description": "Account Center. Required for most OnePlus features. Removal gets rid of Login with OnePlus Account notification.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

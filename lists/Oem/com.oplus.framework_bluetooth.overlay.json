@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.framework_bluetooth.overlay",
+  "description": "Needed to bluetooth?",
+  "list": "Oem",
+  "removal": "Expert"
+}

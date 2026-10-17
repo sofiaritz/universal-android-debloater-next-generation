@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wtk.factory",
+  "description": "FactoryMode\nHardware testing things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

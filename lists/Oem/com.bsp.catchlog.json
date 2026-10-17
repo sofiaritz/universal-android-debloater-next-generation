@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bsp.catchlog",
+  "description": "bsp = Board support package\nUsed to catch log files obviously.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

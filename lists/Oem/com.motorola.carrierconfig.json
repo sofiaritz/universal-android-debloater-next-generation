@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.carrierconfig",
+  "description": "Carrier Services\nNeeded for IMS, WiFi Calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

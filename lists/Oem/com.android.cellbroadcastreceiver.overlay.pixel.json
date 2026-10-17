@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastreceiver.overlay.pixel",
+  "description": "Useless code to cellbroadcastreceiver",
+  "list": "Oem",
+  "removal": "Recommended"
+}

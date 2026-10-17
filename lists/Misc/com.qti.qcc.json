@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.qcc",
+  "description": "QCC\nHave a lot of stuff about logs, testing framework for Android with Robolectric, LTE Broadcast.\nIntroduced in android 13.\nHave png file qdma = Qualcomm Device Management and Analytics.\nSo it's only spyware.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

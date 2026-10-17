@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.nfc.resources.default",
+  "description": "Provides default NFC configuration resources (booleans and polling delays). Contains no executable code.",
+  "list": "Oem",
+  "removal": "Expert"
+}

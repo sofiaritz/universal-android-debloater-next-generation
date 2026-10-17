@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.server.wigig.tethering.rro",
+  "description": "Only found dhcp range? Only the specified lists were found: 192.168. ...\nIt have a lot random of this.\nLooks very unused.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

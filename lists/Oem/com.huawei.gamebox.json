@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.gamebox",
+  "description": "GameCenter\nRequires HMS Core to run.\nIt's app for installing games.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

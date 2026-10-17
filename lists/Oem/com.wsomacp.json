@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wsomacp",
+  "description": "omacp = OMA Client Provisioning. It is a protocol specified by the Open Mobile Alliance (OMA).\nConfiguration messages parser. Used for provisioning APN settings to Samsung devices via SMS\nIn my case, it was automatic and I never needed configuration messages.\nMaybe it's useful if carriers change their APN. But you still can change the config manually, it's not difficult.\nKeep in mind these special types of SMS can be abused (though you would need to select to apply the APN in the popup):\nhttps://research.checkpoint.com/2019/advanced-sms-phishing-attacks-against-modern-android-based-smartphones/\nhttps://www.zdnet.com/article/samsung-huawei-lg-and-sony-phones-vulnerable-to-rogue-provisioning-messages/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

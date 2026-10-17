@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.pong",
+  "description": "Better keep this for config temperature? Better don't risk.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

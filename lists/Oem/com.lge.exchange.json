@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.exchange",
+  "description": "It looks like the Microsoft outlook/email in the logo. Believe this is some sort of microsoft integration.\nI don't 100% remember if I was able to add accounts to the phone still (eg. Nextcloud), I need to test that soon.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

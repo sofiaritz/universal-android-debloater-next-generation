@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.services.systemhelper",
+  "description": "System Helper Service\nRuns\"SysHelperService\" in the background as part of the system.\nPermissions: DEVICE_POWER, READ_PHONE_STATE, READ_PRIVILEGED_PHONE_STATE, RECEIVE_BOOT_COMPLETED, WRITE_SETTINGS, WAKE_LOCK and ACCESS_SURFACE_FLINGER.\nAndroid simple network firewall utility service. On a RedMi Note 13 running HyperOS 2.6.0, no application is running after uninstalling this package.",
+  "list": "Misc",
+  "removal": "Expert"
+}

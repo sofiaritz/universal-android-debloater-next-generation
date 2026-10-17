@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.uimGbaApp",
+  "description": "Contains a\"GbaService\", Related to uim card (R-UIM is a type of SIM card mainly used in Asia)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

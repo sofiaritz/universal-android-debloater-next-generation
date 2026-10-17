@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.color.dorange",
+  "description": "Android color accent only for Google Pixel or AOSP or Motorola",
+  "list": "Oem",
+  "removal": "Advanced"
+}

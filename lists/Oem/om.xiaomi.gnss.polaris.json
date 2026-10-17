@@ -1,0 +1,6 @@
+{
+  "pkg_name": "om.xiaomi.gnss.polaris",
+  "description": "Polaris\nBeidou satellite navigation system. Only for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

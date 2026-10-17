@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.mdl.radio",
+  "description": "Samsung Milk Music (discontinued in 2016)\nIt was a freemium online music streaming service, with music streams and a recommendation engine powered by Slacker Radio.\nhttps://en.wikipedia.org/wiki/Milk_Music_(streaming_service)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

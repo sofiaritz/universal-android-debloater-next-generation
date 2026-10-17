@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.regservice",
+  "description": "RegService\nRegister for celluar network services, not needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

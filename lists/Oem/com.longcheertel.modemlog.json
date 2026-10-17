@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.longcheertel.modemlog",
+  "description": "Modem log\nHidden app that includes TcardLog, modem log, Tcpdump.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

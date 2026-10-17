@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.safecenter.overlay.redstorm",
+  "description": "Overlay to theme icon Security app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

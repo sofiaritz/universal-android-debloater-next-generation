@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.singletake.service",
+  "description": "Single Take\nIt's face unlock I guess.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

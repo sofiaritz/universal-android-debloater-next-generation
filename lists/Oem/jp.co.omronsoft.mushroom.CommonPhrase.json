@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.omronsoft.mushroom.CommonPhrase",
+  "description": "Provides a feature called \"Mushroom\" that is a phrase table shared between Japanese keyboards.\nJapanese keyboards still work without this.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

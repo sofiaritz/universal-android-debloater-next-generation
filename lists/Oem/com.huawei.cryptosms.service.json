@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.cryptosms.service",
+  "description": "SMS Encryption Service, looks made for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

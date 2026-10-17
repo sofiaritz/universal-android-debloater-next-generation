@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.simcontacts",
+  "description": "Sim Contacts\nProbably handles syncing(exporting/importing) contacts to/from the SIM card. Usually not a feature anybody cares about.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

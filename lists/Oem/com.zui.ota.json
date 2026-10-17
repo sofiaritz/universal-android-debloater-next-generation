@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.ota",
+  "description": "Lenovo system update\nProvides system updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

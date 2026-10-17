@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tencent.android.location",
+  "description": "Useless Tencent Chinese location",
+  "list": "Oem",
+  "removal": "Recommended"
+}

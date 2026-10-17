@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.email.widget",
+  "description": "Email Widget on some old samsung phones like S6",
+  "list": "Oem",
+  "removal": "Recommended"
+}

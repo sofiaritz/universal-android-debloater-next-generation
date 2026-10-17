@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.uvexposurereporter",
+  "description": "UvExposureReporter, logs, VendorAtom.\nUnknown.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

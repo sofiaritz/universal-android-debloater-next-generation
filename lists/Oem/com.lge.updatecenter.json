@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.updatecenter",
+  "description": "LG Update Center\nProvide Android upgrade and LG updates (Settings --> System --> Update Center)\nI believe you won't receive any updates if this packages is deleted.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

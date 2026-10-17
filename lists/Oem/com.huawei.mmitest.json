@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.mmitest",
+  "description": "MMITest\nHidden hardware tests. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

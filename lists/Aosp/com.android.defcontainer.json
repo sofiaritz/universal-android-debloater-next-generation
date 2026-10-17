@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.defcontainer",
+  "description": "Package Access Helper\nDetermines the recommended install location for packages and if there is enough free space for the package.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

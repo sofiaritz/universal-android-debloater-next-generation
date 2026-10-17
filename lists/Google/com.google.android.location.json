@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.location",
+  "description": "Handles location services on older devices. On newer ones Google location services is part of Google Play Services and Android location service is provided by com.android.location.fused or com.android.location.",
+  "list": "Google",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.codeaurora.btmultisim",
+  "description": "it's app without code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

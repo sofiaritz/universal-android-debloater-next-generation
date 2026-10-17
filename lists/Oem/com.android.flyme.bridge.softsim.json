@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.flyme.bridge.softsim",
+  "description": "it's for softsim? No activities, looks like a useless framework.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

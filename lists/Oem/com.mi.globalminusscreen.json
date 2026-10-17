@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.globalminusscreen",
+  "description": "Xiaomi App Vault\nhttps://play.google.com/store/apps/details?id=com.mi.android.globalminusscreen&gl=US\nThe screen on the left on the first page of the launcher; mostly useless, especially when you use a third party launcher. Displays tonns of ads and clutter and constantly works in background.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

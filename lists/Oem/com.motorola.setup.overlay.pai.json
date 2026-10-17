@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.setup.overlay.pai",
+  "description": "Useless component of (com.motorola.setup)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

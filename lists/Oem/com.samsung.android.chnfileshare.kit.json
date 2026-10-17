@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.chnfileshare.kit",
+  "description": "S Share\nChinese app to Secure transfer files using bluetooth.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

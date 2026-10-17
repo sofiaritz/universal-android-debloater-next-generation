@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.spotify.music",
+  "description": "Spotify app (https://play.google.com/store/apps/details?id=com.spotify.music)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

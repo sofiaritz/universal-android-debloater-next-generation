@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.LGSetupView",
+  "description": "Setup View\nLG first setup (related to com.android.LGSetupWizard).\nThe first time you turn your device on, a Welcome screen is displayed. It guides you through the basics of setting up your device.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

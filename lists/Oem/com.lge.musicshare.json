@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.musicshare",
+  "description": "LG Audio Share\nEnables you to connect two devices so that you can share the sound from music or video files with another LG devices.\nhttps://www.lg.com/hk_en/support/product-help/CT30007700-20150123957406-others",
+  "list": "Oem",
+  "removal": "Recommended"
+}

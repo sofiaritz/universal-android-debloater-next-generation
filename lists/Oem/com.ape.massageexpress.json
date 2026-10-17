@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.massageexpress",
+  "description": "Provides Wiko screen message feature",
+  "list": "Oem",
+  "removal": "Advanced"
+}

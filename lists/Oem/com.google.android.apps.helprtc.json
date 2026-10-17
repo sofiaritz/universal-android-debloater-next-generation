@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.helprtc",
+  "description": "Google Support Services\nAllows you to share your Android device screen with a Google customer support agent for a personalized support experience.\nhttps://play.google.com/store/apps/details?id=com.google.android.apps.helprtc",
+  "list": "Oem",
+  "removal": "Recommended"
+}

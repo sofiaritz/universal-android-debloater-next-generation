@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ideashower.readitlater.pro",
+  "description": "Pocket (https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro)\nAllows you to save an article or web page to remote servers for later reading\nWas purchased by Mozilla in 2017 but is still close source for now.\nhttps://getpocket.com/privacy\nOpen-source alternative : https://wallabag.org/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

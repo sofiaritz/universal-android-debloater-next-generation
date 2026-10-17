@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.firewall",
+  "description": "Blocked calls'msgs\nChinese blocking calls and spam.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

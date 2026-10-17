@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nearme.browser",
+  "description": "Default web browser",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mt6879.gamedriver",
+  "description": "Mediatek Arm GPU Game Driver\nGPU Game drivers for Mediatek MT6879CPU.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

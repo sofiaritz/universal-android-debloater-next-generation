@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.app.floating.res",
+  "description": "Multitasking framework\nAllows you to use multitasking features like multiple apps in one screen.\nDoes not remove screen pinning feature.\nI don't know if this removes the floating windows feature that you have to enable with ADB (to make it look more like a desktop)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

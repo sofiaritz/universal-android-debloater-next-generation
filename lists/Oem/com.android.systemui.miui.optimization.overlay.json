@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.miui.optimization.overlay",
+  "description": "In the code founded: navigationcolor to red.\nUnused overlay.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

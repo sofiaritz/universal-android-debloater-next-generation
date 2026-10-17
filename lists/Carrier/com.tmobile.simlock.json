@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tmobile.simlock",
+  "description": "Device Unlock.\nAllows you to request and apply a mobile device unlock directly from the device.\nhttps://support.t-mobile.com/docs/DOC-14011",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.fingerprintvit",
+  "description": "Fingerprint testing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

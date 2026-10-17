@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.telephony.auto_generated_characteristics_rro",
+  "description": "Telephony characteristics for phone app and services.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

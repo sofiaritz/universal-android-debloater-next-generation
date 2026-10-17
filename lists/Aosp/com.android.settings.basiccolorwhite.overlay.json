@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.basiccolorwhite.overlay",
+  "description": "Light theme overlay for the Settings app?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

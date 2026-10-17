@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.systemblur.server",
+  "description": "System blur render engine\nSystem blur render engine, logs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

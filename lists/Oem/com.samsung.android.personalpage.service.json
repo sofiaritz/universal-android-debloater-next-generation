@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.personalpage.service",
+  "description": "Private mode (was replaced by Secure Folder)\nhttps://www.samsung.com/uk/support/mobile-devices/what-is-private-mode-and-how-do-i-use-it/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

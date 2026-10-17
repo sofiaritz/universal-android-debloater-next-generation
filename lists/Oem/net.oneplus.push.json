@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.push",
+  "description": "Push\nOnePlus push notifications.\nOnly used by OnePlus' pre-installed apps. Pushes\"surveys and other junk\" according to a user.\nhttps://forums.oneplus.com/threads/psa-non-root-root-stop-oneplus-push-notifications.580058/\nOnePlus can remotely send push notifications:\nhttps://www.androidpolice.com/2019/07/01/oneplus-accidentally-pushed-a-cryptic-notification-to-all-7-pro-users/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

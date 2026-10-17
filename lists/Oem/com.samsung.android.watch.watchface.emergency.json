@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.watchface.emergency",
+  "description": "Watchface in the emergency launcher.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

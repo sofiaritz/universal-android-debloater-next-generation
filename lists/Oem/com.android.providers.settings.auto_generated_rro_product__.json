@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.settings.auto_generated_rro_product__",
+  "description": "Useless overlay to Backup google. Backup works without it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

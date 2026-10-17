@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.desktopmode.uiservice",
+  "description": "Samsung DeX\nExtends your smartphone into a\"desktop computing experience\".\nConcretely this lets you access all your mobile apps and content from a computer.\nOnly works on Windows/MacOS. You will need to install the Samsung DeX app on your computer.\nhttps://en.wikipedia.org/wiki/Samsung_DeX\nhttps://www.samsung.com/global/galaxy/apps/samsung-dex/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

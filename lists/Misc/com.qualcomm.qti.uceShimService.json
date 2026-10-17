@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.uceShimService",
+  "description": "The Qualcomm telephony support service that acts as a shim layer between IMS and qualcomm modem stack.\nWill likely break RCS, VoLTE, VoWiFi and some carrier preference customizations. Not worth deleting.",
+  "list": "Misc",
+  "removal": "Expert"
+}

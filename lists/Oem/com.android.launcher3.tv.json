@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.launcher3.tv",
+  "description": "TV\nNot sure if it's useless frameworks or for the launcher or TV launcher.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.fmradio",
+  "description": "FM Radio\n Plug in Head phones & listen to the Radio!\nUninstalling will break FM Radio until reinstalled, and no other FM apps can be downloaded from app stores",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.factory.iris.usercamera",
+  "description": "Camera Iris User Test (by dialing *#0*#)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

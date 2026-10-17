@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.felicanetworks.mfs",
+  "description": "Initial setup application for FeliCa. Payments with FeliCa still works after uninstalling this.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

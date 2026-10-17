@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.service.health",
+  "description": "Health Platform (https://play.google.com/store/apps/details?id=com.samsung.android.service.health)\n\nIt is a data aggregator. You can use it to link multiple health apps (like Strava, google fit etc) together. This app will unify their collected data and store them all together.\nConstantly phones to Samsung servers.\n\nPithus analysis: https://beta.pithus.org/report/968364daf4fbb1828dfe9d8dbcce6d5f7f9a79522a5267c4be5bba19e6cd88b0",
+  "list": "Oem",
+  "removal": "Advanced"
+}

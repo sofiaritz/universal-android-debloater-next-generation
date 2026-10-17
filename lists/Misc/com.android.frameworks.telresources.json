@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.frameworks.telresources",
+  "description": "Completely empty package. Safe to remove.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

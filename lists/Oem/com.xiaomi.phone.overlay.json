@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.phone.overlay",
+  "description": "An overlay needed for com.xiaomi.phone. Safe to remove if com.xiaomi.phone has been removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

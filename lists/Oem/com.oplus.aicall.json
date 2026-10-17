@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.aicall",
+  "description": "Provides AI summaries in the ODialer app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

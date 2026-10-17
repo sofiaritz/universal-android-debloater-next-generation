@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.callenhancement",
+  "description": "Supposed to enhance call quality (I'll let you test if it really does)\nThis can record your phone calls. A vulnerability was found in 2019, allowing unauthorized microphone audio recording by 3rd-party apps.\nhttps://nvd.nist.gov/vuln/detail/CVE-2019-15472",
+  "list": "Misc",
+  "removal": "Recommended"
+}

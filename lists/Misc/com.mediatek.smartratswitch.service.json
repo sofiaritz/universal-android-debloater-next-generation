@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.smartratswitch.service",
+  "description": "it handles switching connection between network types. (4G/5G)",
+  "list": "Misc",
+  "removal": "Expert"
+}

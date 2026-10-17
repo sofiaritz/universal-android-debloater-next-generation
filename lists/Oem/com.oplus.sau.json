@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.sau",
+  "description": "System Upgrade Service\nAllows you to update your phone.\nRuns at boot and could cause bootloop when removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

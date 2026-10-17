@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.homezozo",
+  "description": "docomo LIVE UX\ndocomo's default home screen (launcher).\nSafe to remove ONLY IF another launcher is installed. Certain devices such as dtab may not have any other home screen apps preinstalled.\ndocomo application manager (com.nttdocomo.android.applicationmanager) must be installed to use this.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

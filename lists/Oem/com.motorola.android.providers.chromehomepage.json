@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.providers.chromehomepage",
+  "description": "Seems to provide the\"Home\"-button functionality in Chrome.\nhttps://forum.xda-developers.com/android/apps-games/app-chrome-homepage-t3695804",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.smartwidget",
+  "description": "Samsung screenshot\nYou will still be able to take screenshots without this package.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

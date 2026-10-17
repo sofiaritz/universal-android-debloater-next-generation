@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wcmurlsnetworkstack",
+  "description": "China URL connection. generate_204 (it's only config, not sure if it's needed for checking wifi connection)",
+  "list": "Oem",
+  "removal": "Expert"
+}

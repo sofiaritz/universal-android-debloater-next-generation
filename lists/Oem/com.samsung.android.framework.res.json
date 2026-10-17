@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.framework.res",
+  "description": "This package is part of Samsung\u2019s custom system framework and manages various resources for Samsung-specific features and UI enhancements.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

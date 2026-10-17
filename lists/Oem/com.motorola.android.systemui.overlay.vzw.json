@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.systemui.overlay.vzw",
+  "description": "Needed for Moto Stats WiFi, it's useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

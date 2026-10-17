@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwpolicyservice",
+  "description": "HwPolicyService\nAnother debugging, logs app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

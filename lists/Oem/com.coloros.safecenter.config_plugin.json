@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.safecenter.config_plugin",
+  "description": "This plugin doesn't have any important things. It's safe to remove, useless logs code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

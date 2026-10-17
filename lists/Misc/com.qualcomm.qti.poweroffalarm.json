@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.poweroffalarm",
+  "description": "Probably what enables alarms to start the device from an off state.\nRuns on boot and when you open a clock app.",
+  "list": "Misc",
+  "removal": "Expert"
+}

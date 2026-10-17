@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.policydm",
+  "description": "Samsung security policy update (https://play.google.com/store/apps/details?id=com.policydm)\nUpdatable policy files designed to increase android security and detect malicious behaviour.\nHas nothing to do with OTA updates or Android Security patches.\nCan be removed without issue (https://gitlab.com/W1nst0n/universal-android-debloater/-/issues/15)\nSee\"com.samsung.android.spdclient\" for more information.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

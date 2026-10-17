@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.mtp.extension.update",
+  "description": "Update service for MTP Extension.\nUpdates something for the MTP extension?",
+  "list": "Oem",
+  "removal": "Expert"
+}

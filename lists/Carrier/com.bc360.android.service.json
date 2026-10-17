@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bc360.android.service",
+  "description": "Verizon Adaptive Sound\nProvides Voice Enhance, but according to the carrier.\nDoes the same thing as the 'com.bc360.control' app.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

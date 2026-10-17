@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hxy.ramtest",
+  "description": "ram test\nHidden ram test. Tests ram size.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

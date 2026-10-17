@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.splitsound",
+  "description": "SplitSoundService\nProvides ability to play music on the smartphone and an external speaker at the same time\nhttps://www.samsung.com/nz/support/mobile-devices/samsung-separate-app-sound/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

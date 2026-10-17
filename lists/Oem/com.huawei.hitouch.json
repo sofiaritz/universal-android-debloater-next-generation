@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hitouch",
+  "description": "Huawei HiTouch\nAssistant capable to recognize the objects in a photo and to search them through various shopping sites.\nhttps://consumer.huawei.com/uk/support/faq/have-you-tried-the-new-hitouch-assistant/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

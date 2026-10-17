@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.settings.future.biometrics.faceenroll",
+  "description": "Needed to face unlock.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

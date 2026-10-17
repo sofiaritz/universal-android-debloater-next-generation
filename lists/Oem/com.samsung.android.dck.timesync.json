@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dck.timesync",
+  "description": "DckTimeSyncService\nOnly logs found",
+  "list": "Oem",
+  "removal": "Recommended"
+}

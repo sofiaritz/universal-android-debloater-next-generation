@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.quicktool",
+  "description": "The Quick Tools panel includes a ruler, a compass and a torch. To add this to the Edge Panel (com.samsung.android.app.clipboardedge)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

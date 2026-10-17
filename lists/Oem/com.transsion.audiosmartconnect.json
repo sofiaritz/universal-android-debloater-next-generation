@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.audiosmartconnect",
+  "description": "Affected by CVE-2025-9056. Doesn't seem to relate to earbuds. Note: tested disabled only.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

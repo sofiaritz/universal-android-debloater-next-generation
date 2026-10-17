@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hy.system.fontserver",
+  "description": "Font Server\nNeeded for fonts?",
+  "list": "Oem",
+  "removal": "Expert"
+}

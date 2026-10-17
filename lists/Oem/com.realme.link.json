@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.realme.link",
+  "description": "RealMe Link (https://play.google.com/store/apps/details?id=com.realme.link)\nCompanion app for various realme IoT devices. Useless if you don't have a realme watch/band",
+  "list": "Oem",
+  "removal": "Recommended"
+}

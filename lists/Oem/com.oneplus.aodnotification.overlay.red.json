@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.aodnotification.overlay.red",
+  "description": "AOD notification red",
+  "list": "Oem",
+  "removal": "Recommended"
+}

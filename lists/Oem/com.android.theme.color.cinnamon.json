@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.color.cinnamon",
+  "description": "Android color accent only for google pixel or aosp or motorola",
+  "list": "Oem",
+  "removal": "Recommended"
+}

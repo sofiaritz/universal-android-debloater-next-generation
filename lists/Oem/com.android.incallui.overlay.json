@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.incallui.overlay",
+  "description": "App without code and safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

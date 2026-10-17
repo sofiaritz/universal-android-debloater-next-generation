@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.usbcamera",
+  "description": "Toolbox >\"USB Camera\" Only usefull if you want to use a USB Camera",
+  "list": "Oem",
+  "removal": "Recommended"
+}

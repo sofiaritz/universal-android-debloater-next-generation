@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gametuner",
+  "description": "Settings/features for games, such as resolution and frame rate limiting.\nA little side note, any games installed in the work profile can't use gametuner (maybe if you install this package into the work profile it'll work)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

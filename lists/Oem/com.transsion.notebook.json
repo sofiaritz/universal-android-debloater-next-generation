@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.notebook",
+  "description": "Notepad app\nThese apps have telemetry on them and are completely replaceable.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

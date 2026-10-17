@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.mimage.photoretouching",
+  "description": "Samsung Photo Editor\nDisabling this will disable the inbuilt photo editor accessed via the stock gallery.\nSafe to remove if you don't use Samsung gallery.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

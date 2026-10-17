@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.appstore",
+  "description": "Vivo app store.\nNote: apps from this store can still be upgraded with the built-in check upgrade feature even with this package removed",
+  "list": "Oem",
+  "removal": "Advanced"
+}

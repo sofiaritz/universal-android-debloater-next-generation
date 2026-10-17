@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.clock",
+  "description": "LG Clock app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.setting.multisound",
+  "description": "Samsung Separate app sound\nUsed to split audio different apps between phone speaker and bluetooth speaker. Pretty handy.",
+  "list": "Oem",
+  "removal": "Expert"
+}

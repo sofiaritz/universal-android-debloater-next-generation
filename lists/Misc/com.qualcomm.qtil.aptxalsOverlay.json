@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qtil.aptxalsOverlay",
+  "description": "Overlay hidden aptxals Audio Bluetooth sample improvement. Useless 96kHz sample.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

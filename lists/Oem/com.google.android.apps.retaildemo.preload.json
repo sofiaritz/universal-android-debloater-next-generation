@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.retaildemo.preload",
+  "description": "Retail Demo Services\nShould not be used for normal users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

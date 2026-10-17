@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.shealthmonitor",
+  "description": "Samsung Health Monitor\n\nEnables you to record ECG and blood pressure.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

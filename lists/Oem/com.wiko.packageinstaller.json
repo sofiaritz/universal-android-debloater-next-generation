@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wiko.packageinstaller",
+  "description": "Provides first time app install for Wiko mobile",
+  "list": "Oem",
+  "removal": "Recommended"
+}

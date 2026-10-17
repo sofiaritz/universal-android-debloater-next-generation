@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.romstats",
+  "description": "Misleading package name. This is a Xiaomi-only package.\nCan someone provide the .apk?\nTelemetry stuff",
+  "list": "Oem",
+  "removal": "Recommended"
+}

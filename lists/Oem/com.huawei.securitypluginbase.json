@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.securitypluginbase",
+  "description": "HwSecurityPluginBase\nAntivirus Service supports bad antiviruses, HwLog, not needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.harassintercept",
+  "description": "Mainly used to intercept harassing and fraudulent phone calls and text messages,\nwhile the user can also customize the way to intercept.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

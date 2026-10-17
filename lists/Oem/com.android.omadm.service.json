@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.omadm.service",
+  "description": "Oma Device Management, There are carrier tools, no firmware update found.\nThe code also includes Subscription Index and configures FOTA.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

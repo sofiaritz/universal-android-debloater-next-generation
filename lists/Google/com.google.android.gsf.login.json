@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gsf.login",
+  "description": "Support for managing Google accounts.\nSafe to remove if you don't use a Google account.",
+  "list": "Google",
+  "removal": "Advanced"
+}

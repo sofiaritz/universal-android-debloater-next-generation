@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.mediaeditor",
+  "description": "Xiaomi Gallery Editor\nExtension for MIUI Gallery that's used to edit photos and videos.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

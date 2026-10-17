@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.mascot",
+  "description": "my daiz (https://www.docomo.ne.jp/service/mydaiz/)\ndocomo's information (e.g. weather, news) app. Also displays a mascot (looks like tofu) on docomo LIVE UX. Requires lots of permissions.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

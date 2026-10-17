@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.weather",
+  "description": "ZTE Weather app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

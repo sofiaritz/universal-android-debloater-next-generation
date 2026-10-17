@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.qr",
+  "description": "MUI Qr code scanner",
+  "list": "Oem",
+  "removal": "Recommended"
+}

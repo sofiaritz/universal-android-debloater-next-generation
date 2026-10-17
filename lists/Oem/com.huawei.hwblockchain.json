@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwblockchain",
+  "description": "Probably blockchain related, no noticeable consequences when removed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

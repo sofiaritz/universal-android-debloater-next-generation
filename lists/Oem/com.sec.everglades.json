@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.everglades",
+  "description": "Samsung Hub (discontinued)\nIt was a cloud-based music service launched by Samsung. It allowed users to listen to music from a variety of Samsung devices\nhttps://en.wikipedia.org/wiki/Samsung_Music_Hub",
+  "list": "Oem",
+  "removal": "Recommended"
+}

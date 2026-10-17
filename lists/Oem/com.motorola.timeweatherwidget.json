@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.timeweatherwidget",
+  "description": "Provides time/weather widget on the home screen.\nhttps://en.wikipedia.org/wiki/Widget",
+  "list": "Oem",
+  "removal": "Recommended"
+}

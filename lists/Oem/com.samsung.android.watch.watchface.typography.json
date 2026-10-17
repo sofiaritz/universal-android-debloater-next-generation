@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.watchface.typography",
+  "description": "Preinstalled watchface.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

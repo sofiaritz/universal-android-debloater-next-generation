@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.smartpanel",
+  "description": "Smart Panel (Settings -> Smart Assistant)\nProvides\"easy\" access to your most used apps + features like gamemode and videoAssistant. Collects data and talks with the outside\n\nPithus analysis: https://beta.pithus.org/report/40d4b527fc650a9029e596d14aff7d640a6289e7aa50f471b142391b55eefe4a",
+  "list": "Oem",
+  "removal": "Recommended"
+}

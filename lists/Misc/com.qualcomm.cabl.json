@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.cabl",
+  "description": "Content Adaptative Backlight Settings\nCABL will try to adjust the image being displaye by changing the contrast/quality/image backlight depending on\nthe content on the screen.\nDownside to this is loss of dynamic range which results in some colors being washed out/clipped.\nCABL != Auto brightness (which doesn't change the content of the screen, only the brightness)\nNOTE: You may want to remove this. It does not work very well on many phones\nhttps://mobileinternist.com/disable-adaptive-brightness-android",
+  "list": "Misc",
+  "removal": "Recommended"
+}

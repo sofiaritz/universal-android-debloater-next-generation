@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.powermonitor",
+  "description": "Power monitor\nLogging component to upload temperature control logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

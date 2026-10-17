@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.android.connectivity.mainline.common.resources.overlay",
+  "description": "Better keep for connectivity.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

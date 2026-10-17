@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.camerakit.impl",
+  "description": "HwCameraKit\nIn the code it was found that it's for testing camera functions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

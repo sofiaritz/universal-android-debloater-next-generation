@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.videoplayer",
+  "description": "TouchWiz video player.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

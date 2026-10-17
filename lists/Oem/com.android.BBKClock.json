@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.BBKClock",
+  "description": "Clock\nVivo clock app. App for manage alarms.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

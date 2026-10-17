@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.joyose",
+  "description": "GPU Tuner\nOptimizes your game for gaming. Some people have noticed that it locks the fps at 60 after selecting 90.\nhttps://youtu.be/gavEuH3Ck5o?t=550. If you want, you can test it by yourself.",
+  "list": "Oem",
+  "removal": "Expert"
+}

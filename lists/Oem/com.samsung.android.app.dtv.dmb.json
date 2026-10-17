@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.dtv.dmb",
+  "description": "TV app on Samsung phones and it's only available on Japanese or Korean variants.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

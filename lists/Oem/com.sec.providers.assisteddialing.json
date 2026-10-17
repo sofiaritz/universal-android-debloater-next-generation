@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.providers.assisteddialing",
+  "description": "Assisted Dialing\nI found mcc countrycode OTA lookup, not needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tiqiaa.remote",
+  "description": "ZazaRemote (https://play.google.com/store/apps/details?id=com.tiqiaa.remote)\nA Universal infrared control app full of trackers and with unecessary permissions.\n\nPithus analysis: https://beta.pithus.org/report/93eed47a45c00998f2111907afc26b5697aaf7fb19c0efb6b42d46addf0e297c",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.locationlabs.cni.att",
+  "description": "AT&T Smart Limits\nParental Control tool.\nhttps://m.att.com/shopmobile/wireless/features/smart-limits.html",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

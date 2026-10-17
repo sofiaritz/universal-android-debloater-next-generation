@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.screenshot",
+  "description": "Screenshot\nScreenshot utility triggered when double tapping the Red Button",
+  "list": "Oem",
+  "removal": "Advanced"
+}

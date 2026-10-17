@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wm.shell",
+  "description": "Profile installer? App looks like a 'com.android.shell'.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

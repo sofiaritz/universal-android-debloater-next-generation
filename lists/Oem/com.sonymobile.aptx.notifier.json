@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.aptx.notifier",
+  "description": "Aptx Notifier\naptX (formerly apt-X) is a family of proprietary audio codec compression algorithms owned by Qualcomm.\nIf you don't mind closed source codec, aptX has lower latency and is less of a drain on your battery than default codec (AAC)\nThis package is used to display a notification when a device using aptX (bluetooth headphone typically) is connected.\nIts only use is to tell you that you use aptX bluetooth with the connected device.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.systemappsupdater",
+  "description": "System apps update\nUnless you want to manually update system apps, do not remove.",
+  "list": "Oem",
+  "removal": "Expert"
+}

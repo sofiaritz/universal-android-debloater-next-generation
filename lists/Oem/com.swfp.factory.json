@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.swfp.factory",
+  "description": "Fingerprint test\nHidden app that tests your fingerprint not available for users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

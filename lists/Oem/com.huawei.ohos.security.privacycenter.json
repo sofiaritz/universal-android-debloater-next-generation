@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ohos.security.privacycenter",
+  "description": "It's shell to app 'com.huawei.security.privacycenter'?\nDisable instead of uninstalling if you don't want to lose the widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

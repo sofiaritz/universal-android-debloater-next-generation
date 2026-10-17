@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.hybrid",
+  "description": "Quick Apps\nIt's basically an app which shows you ads and tracks you...\nFunny thing, Xiaomi's Quick Apps was reportedly being blocked by Google Play Protect.\nhttps://www.androidpolice.com/2019/11/19/xiaomi-quick-apps-flagged-blocked-google-play-protect/\n#\nReverse engineering of the app :\nhttps://medium.com/@gags.gk/reverse-engineering-quick-apps-from-xiaomi-a1c9131ae0b7\nSpoiler : you really should delete this package.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

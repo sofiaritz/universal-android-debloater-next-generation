@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.qualcomm.mstatssystemservice",
+  "description": "Useless network statistics, package usage.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

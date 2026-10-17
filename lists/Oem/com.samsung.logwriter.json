@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.logwriter",
+  "description": "LogWriter\nWrites data in a logs SQL database.\nRuns at boot and is triggered when an download from an Iron Source (Iron Source is an Israeli advertising company)\napp is completed (probably\"com.aura.oobe.samsung\")",
+  "list": "Oem",
+  "removal": "Recommended"
+}

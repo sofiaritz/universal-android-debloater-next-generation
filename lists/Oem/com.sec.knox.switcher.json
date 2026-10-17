@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.switcher",
+  "description": "Knox Secure Folder",
+  "list": "Oem",
+  "removal": "Advanced"
+}

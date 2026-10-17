@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.xmsf",
+  "description": "Xiaomi Service Framework\nContains a set of API's for Xiaomi apps. Expect widespread breakage of Xiaomi apps/functionality if disabled.\nDisabling will mess with Alarm clock functionality(according to issue#136) and break Mi Cloud and Mi account (and all features that depend on them).\nI don't know about now, but in 2016 this app constantly tried to establish tcp connections in the background.",
+  "list": "Oem",
+  "removal": "Expert"
+}

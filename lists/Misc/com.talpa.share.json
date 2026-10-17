@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.talpa.share",
+  "description": "XShare Mini\nFile Sharing App (via Bluetooth) with Google and Facebook trackers.\nAsks for a lot of permissions including ACCESS_FINE_LOCATION, REQUEST_INSTALL_PACKAGES.\nPithus analysis : https://beta.pithus.org/report/949bf802e335ad0db47b1551cde46af2b2ef13da4b38be969c60c9439b94f05b",
+  "list": "Misc",
+  "removal": "Recommended"
+}

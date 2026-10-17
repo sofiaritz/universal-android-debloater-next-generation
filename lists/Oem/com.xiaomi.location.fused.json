@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.location.fused",
+  "description": "It has china location, ads & analytics.\nYou dont need it for location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

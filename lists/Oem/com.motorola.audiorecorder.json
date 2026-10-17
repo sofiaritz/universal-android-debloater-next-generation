@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.audiorecorder",
+  "description": "Audio recorder\nStock Audio recorder for Motorola\nhttps://play.google.com/store/apps/details?id=com.motorola.audiorecorder",
+  "list": "Oem",
+  "removal": "Advanced"
+}

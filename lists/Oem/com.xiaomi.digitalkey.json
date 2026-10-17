@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.digitalkey",
+  "description": "digitalkey\nSmart door locks, can also be used as a car key. Only for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

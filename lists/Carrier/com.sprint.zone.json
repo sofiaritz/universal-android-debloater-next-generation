@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.zone",
+  "description": "My Sprint Launcher?\nApparently helps the user find new apps, in addition to some carrier-specific functionality.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

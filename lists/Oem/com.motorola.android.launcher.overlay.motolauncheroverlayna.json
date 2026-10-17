@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.launcher.overlay.motolauncheroverlayna",
+  "description": "This package is part of Motorola's custom launcher overlay, specifically tailored for their devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

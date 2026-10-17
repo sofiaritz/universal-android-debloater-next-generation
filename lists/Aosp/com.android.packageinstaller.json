@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.packageinstaller",
+  "description": "Handles installation, upgrade, and removal of applications.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bbklog",
+  "description": "Log Collection\nLogs everything.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

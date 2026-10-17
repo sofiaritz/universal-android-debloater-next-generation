@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ru.yandex.disk",
+  "description": "Yandex' file cloud storage\nMay be installed with Samsung firmware update to comply with http://publication.pravo.gov.ru/Document/View/0001202011230051 if you're Russian. Can be installed manually from Google Play.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

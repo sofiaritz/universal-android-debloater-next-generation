@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.nttdocomo.lcsapp",
+  "description": "docomo location information\nProvides \"Keitai-Osagashi Service\" (Mobile Phone Finder Service) and \"imadoco search\" (parental tracking) by docomo.\ncom.nttdocomo.android.docomoset is needed to launch settings screen.\nSafe to remove, but you may want to check https://mydocomo.docomo.ne.jp for subscriptions and \"imadoco search\" Opt-Out at https://spf.spmode.ne.jp/location/posinfo_sp (spf.spmode.ne.jp is only accessible via mobile network).\nGoogle's \"Find Hub\" and \"Family Link\" are free and better alternatives integrated with Android.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

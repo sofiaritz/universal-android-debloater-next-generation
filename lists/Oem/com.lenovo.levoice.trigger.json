@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lenovo.levoice.trigger",
+  "description": "Wake up with voice",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.systemmanager",
+  "description": "System Manager\nHonor's stock phone cleaner. Consumes a lot of battery power for useless 'security' checks.\n NOTE: breaks the functionality of closing and cleaning background apps.\nThis is more than a phone cleaner, you will lose a lot of settings like battery and notifications management if you remove this.\n WARNING: apparently needed for managing app permissions, not safe to remove.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

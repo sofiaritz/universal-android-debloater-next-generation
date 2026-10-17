@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.localbackup",
+  "description": "Huawei Backup\nhas a lot permissions and can backup your data",
+  "list": "Oem",
+  "removal": "Recommended"
+}

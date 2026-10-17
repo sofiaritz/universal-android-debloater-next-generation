@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wear.contacts.sync",
+  "description": "Handles 'open on phone' events. Also, settings often crash when this is uninstalled.",
+  "list": "Oem",
+  "removal": "Expert"
+}

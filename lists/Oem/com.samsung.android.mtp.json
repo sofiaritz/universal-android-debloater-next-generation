@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mtp",
+  "description": "MTP application\nIt doesn't cause a bootloop, but its highly not recommended to remove it.\nThis app is needed for transfer files to PC/Phone.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

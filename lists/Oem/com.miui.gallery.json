@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.gallery",
+  "description": "MIUI Gallery app.\nNote: Removing the Gallery will break the send screenshot feature (swipe 3 fingers to show the screenshot preview).\nIt has several trackers and sometimes connects to micloud, even if the account is not added.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.android.overlay.modules.documentsui",
+  "description": "Useless overlay to documentsui bools.xml: is_launcher_enabled true",
+  "list": "Oem",
+  "removal": "Recommended"
+}

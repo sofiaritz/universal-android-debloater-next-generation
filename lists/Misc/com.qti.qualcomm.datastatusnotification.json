@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.qualcomm.datastatusnotification",
+  "description": "Sends you a message when you reach a specified data limit?\nContains a service, but I've never it run. But I've also never run out of data or used the Android data warning system. WARNING: on HyperOS, disabling this package results in the mobile networks section to break as well as SIMs showing no service.",
+  "list": "Misc",
+  "removal": "Expert"
+}

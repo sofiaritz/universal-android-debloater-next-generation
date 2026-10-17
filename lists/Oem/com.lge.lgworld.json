@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgworld",
+  "description": "LG SmartWorld\nLG Store. Enables you to install LG apps, theme, keyboard layout, fonts...",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.st.nfc.dta.mobile",
+  "description": "STNFCDta\nUnknown checking app (NFC UID gen mode, NFC CDL value, CR version, Extended RF frame size, T4AT priority over P2P).",
+  "list": "Oem",
+  "removal": "Expert"
+}

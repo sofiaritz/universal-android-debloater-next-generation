@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.interconnectcollectkit",
+  "description": "InterconnectCollectKit\nIt may have something to do with the device's fast connection by name. BUT I see only it collects system logs and it has something to com.heytap.accessory.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.intelligence",
+  "description": "Settings Suggestions\nHandles the search and suggestions features in the settings app.\nDisabling this package makes the Settings app crash when you tap on search.\nDoesn't run in the background, so there's little benefit in disabling.\nUses location, nearby devices, notifications permissions by default\nhttps://gitlab.com/W1nst0n/universal-android-debloater/-/issues/51",
+  "list": "Aosp",
+  "removal": "Expert"
+}

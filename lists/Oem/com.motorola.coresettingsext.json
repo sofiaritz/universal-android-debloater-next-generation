@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.coresettingsext",
+  "description": "Core Settings extension\nSafe to remove (no bootloop) but its usefulness remains unkown.\nIt's an app for random settings, but it's unused?",
+  "list": "Oem",
+  "removal": "Expert"
+}

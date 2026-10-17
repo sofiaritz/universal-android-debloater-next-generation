@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.systemupdate",
+  "description": "System Update\nProvides system updates for nubia",
+  "list": "Oem",
+  "removal": "Expert"
+}

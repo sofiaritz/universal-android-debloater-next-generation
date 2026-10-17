@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.health.connect.backuprestore",
+  "description": "Health Connect for Android backup/restore.",
+  "list": "Google",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.slsi.telephony.oem.oemrilhookservice",
+  "description": "Part of the Samsung cellular modem infrastructure used by the OS to provide cellular support.",
+  "list": "Carrier",
+  "removal": "Expert"
+}

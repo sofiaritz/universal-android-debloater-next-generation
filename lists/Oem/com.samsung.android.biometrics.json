@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.biometrics",
+  "description": "Provide biometric support",
+  "list": "Oem",
+  "removal": "Advanced"
+}

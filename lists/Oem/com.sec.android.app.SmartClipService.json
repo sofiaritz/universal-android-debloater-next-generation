@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.SmartClipService",
+  "description": "Default image editor on older Samsung devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

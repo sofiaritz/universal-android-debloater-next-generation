@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.simprocessor",
+  "description": "This controls and imports contacts saved on a SIM card. Not needed if you don't store your contacts on the SIM card",
+  "list": "Misc",
+  "removal": "Advanced"
+}

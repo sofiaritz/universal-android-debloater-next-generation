@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.CPClient",
+  "description": "CP = Client Provisioning.\nSurely used to push new carrier internet/MMS settings automatically\nMaybe it's useful if carriers change their APN... but you still can change it manually, it's not difficult.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

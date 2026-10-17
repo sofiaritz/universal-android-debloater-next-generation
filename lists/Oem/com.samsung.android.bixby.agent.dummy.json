@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bixby.agent.dummy",
+  "description": "Bixby Voice Stub",
+  "list": "Oem",
+  "removal": "Recommended"
+}

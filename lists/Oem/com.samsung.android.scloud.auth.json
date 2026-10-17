@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.scloud.auth",
+  "description": "Handle authentication for Samsung cloud",
+  "list": "Oem",
+  "removal": "Recommended"
+}

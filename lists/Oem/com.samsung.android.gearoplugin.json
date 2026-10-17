@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.gearoplugin",
+  "description": "Gear S Plugin (https://play.google.com/store/apps/details?id=com.samsung.android.gearoplugin)\nPlugin for com.samsung.android.app.watchmanager",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.soagent",
+  "description": "System application that is responsible for checking and installing software updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

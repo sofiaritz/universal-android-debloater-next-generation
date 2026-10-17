@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.matchboxmobile.wisp",
+  "description": "AT&T Hot Spots\nRun in background. Automatically connects you to a free AT&T wifi hotspot at one of their participating partner locations\nsuch as Starbucks.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

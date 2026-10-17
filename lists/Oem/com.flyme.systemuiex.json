@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.flyme.systemuiex",
+  "description": "System UI Ext\nLooks like an important app, has webview activity only.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.scloud",
+  "description": "Samsung Cloud (https://www.samsung.com/us/support/owners/app/samsung-cloud)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

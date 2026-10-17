@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vzw.hss.widgets.infozone.large",
+  "description": "My InfoZone Widget\nGives weekly tips, access to device info and account information.\nhttps://www.droid-life.com/2013/02/12/verizon-introduces-my-infozone-widget-allows-easy-access-to-tips-device-info-and-account-information/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

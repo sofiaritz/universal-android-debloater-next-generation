@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.cameracalibration",
+  "description": "Camera calibration, tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

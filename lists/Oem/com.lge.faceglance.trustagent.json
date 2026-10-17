@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.faceglance.trustagent",
+  "description": "Face Recognition\nRemove if you don't need it. If you want security I don't think this is a good idea to use it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

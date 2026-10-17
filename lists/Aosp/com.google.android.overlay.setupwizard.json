@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.setupwizard",
+  "description": "An overlay for com.google.android.setupwizard. Safe to remove if com.google.android.setupwizard has been removed.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.autoinstallapkfrommcc",
+  "description": "Auto Install apk from mcc\nAuto Install apk from mcc? it's only information and logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

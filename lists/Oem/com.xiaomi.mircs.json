@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.mircs",
+  "description": "Mi RCS\nHidden unused Xiaomi free web messaging.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

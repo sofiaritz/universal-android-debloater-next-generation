@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.warrantytime",
+  "description": "Lets you see some info about your warranty and how long it will last.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

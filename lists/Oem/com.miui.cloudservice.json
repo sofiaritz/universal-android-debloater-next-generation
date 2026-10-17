@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.cloudservice",
+  "description": "Dependency for synchronizing data with Xiaomi Cloud, including photos, contacts, messages, etc.\nThis feature is essential for Xiaomi phone users in China, as Xiaomi Cloud is their primary cloud storage service.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

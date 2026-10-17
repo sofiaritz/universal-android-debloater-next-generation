@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.aon",
+  "description": "'I always on' found in code and a lot statistics. Also Miui analytics permissions.\nRegion of the tracking device, found things Mi Face, spy on your face and everything you do on your phone?\nAONEventTracking uses and sends to 'com.miui.analytics'.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

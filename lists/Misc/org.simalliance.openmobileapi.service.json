@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.simalliance.openmobileapi.service",
+  "description": "The SmartCard API is a reference implementation of the SIMalliance Open Mobile API specification that enables Android applications\nto communicate with Secure Elements, (SIM card, embedded Secure Elements, Mobile Security Card or others)\nhttps://github.com/seek-for-android/pool/wiki/SmartcardAPI\nSafe to remove if you think you don't need this",
+  "list": "Misc",
+  "removal": "Advanced"
+}

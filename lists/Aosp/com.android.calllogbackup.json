@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.calllogbackup",
+  "description": "Call Logs Backup/Restore feature.\nRuns in the background.\nhttps://android.googlesource.com/platform/packages/providers/CallLogProvider/+/refs/heads/master/src/com/android/calllogbackup",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

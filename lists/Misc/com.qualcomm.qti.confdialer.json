@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.confdialer",
+  "description": "ConfDialer\nLTE Conferencing Service.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

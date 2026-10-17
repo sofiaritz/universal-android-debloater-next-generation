@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.stitchimage.service",
+  "description": "Stitch image\nIt's for the stock gallery app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

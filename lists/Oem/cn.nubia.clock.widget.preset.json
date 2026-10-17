@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.clock.widget.preset",
+  "description": "ClockWidget\nIt has more permissions than it should have and DaemonService",
+  "list": "Oem",
+  "removal": "Recommended"
+}

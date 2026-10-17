@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.calculator",
+  "description": "MIUI Calculator (https://play.google.com/store/apps/details?id=com.miui.calculator)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

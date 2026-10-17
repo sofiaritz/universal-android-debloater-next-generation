@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.weather",
+  "description": "Weather\nBlackview's weather app. Can be disabled via Settings.\nhttps://www.blackview.hk/privacy",
+  "list": "Oem",
+  "removal": "Recommended"
+}

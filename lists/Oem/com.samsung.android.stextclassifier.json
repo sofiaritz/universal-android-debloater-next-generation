@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.stextclassifier",
+  "description": "From https://developer.android.com/reference/android/view/textclassifier/TextClassifier:\nInterface for providing text classification related features.\n\nThe TextClassifier may be used to understand the meaning of text, as well as generating predicted next actions based on the text.\n\nSo it got something to do with text/spelling correction? But a samsung implementation of it. It needs some further testing, so far it doesn't affect even the auto-correct.\nNote: this app has no permission and doesn't run in background when not in used",
+  "list": "Oem",
+  "removal": "Expert"
+}

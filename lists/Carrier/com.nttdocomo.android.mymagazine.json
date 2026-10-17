@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.mymagazine",
+  "description": "SmartNews for docomo\nNews app. Special version of SmartNews for docomo user.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

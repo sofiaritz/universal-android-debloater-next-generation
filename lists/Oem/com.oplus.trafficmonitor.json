@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.trafficmonitor",
+  "description": "OnePlus Data usage / OnePlus traffic monitor (monthly data usage, etc). If removed, the 'Data Usage' option under 'Mobile network' will not work. Also App Info screen's 'Data usage' option will disappear. Required to restrict an app from accessing the network via settings > app info.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

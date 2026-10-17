@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.interactivepanoramaviewer",
+  "description": "Visual. photo virt.\nSamsung Virtual Shot Viewer enable sharing virtual shot\nSafe to remove if you don't want virtual photos.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

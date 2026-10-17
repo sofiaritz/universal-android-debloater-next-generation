@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.bnr.launcher",
+  "description": "LG Mobile Switch Launcher\nThis doesn't remove the default launchers.\nIt is most likely to backup/restore the user's launcher configuration.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

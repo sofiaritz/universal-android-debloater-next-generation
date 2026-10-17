@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.habit.analysis",
+  "description": "Most likely used to track your habits from IoT HeyTap devices [TO BE CONFIRMED]",
+  "list": "Oem",
+  "removal": "Recommended"
+}

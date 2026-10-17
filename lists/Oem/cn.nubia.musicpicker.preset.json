@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.musicpicker.preset",
+  "description": "Ringtones\nMusic Picker for nubia phones.",
+  "list": "Oem",
+  "removal": "Expert"
+}

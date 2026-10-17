@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.googleanalyticsproxy",
+  "description": "Google Analytics Proxy\nAllows you to publicly share your Google Analytics reporting data\nhttps://developers.google.com/analytics/solutions/google-analytics-super-proxy",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.providers.media.module",
+  "description": "Media Storage\nIn Android 11+ this provides file access to apps without\"Manage All Files\" permission. In previous versions it's just an index of all audio-visual (no text) files in the user's file-system (`/sdcard/`, `/storage/emulated/0/`, etc...). This allows music-players and photo-galleries to list files quickly, without caching their own indices.\nSafe to disable, but NOT recommended; breaks file browsers and other forms of file access.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Aosp",
+  "removal": "Expert"
+}

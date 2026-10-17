@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.scpm",
+  "description": "Samsung Cloud Platform Manager\nRelated to Samsung Cloud.\nNOTE: Uninstalling or disabling this app causes the \"Sound Quality and Effects\" app (com.sec.android.app.soundalive) to crash regularly, resulting in a crash dialog that might become annoying. (However, the sound seems to work fine)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

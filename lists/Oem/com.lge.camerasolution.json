@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.camerasolution",
+  "description": "Needed for Stock camera app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

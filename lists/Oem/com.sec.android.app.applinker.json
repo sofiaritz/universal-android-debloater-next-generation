@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.applinker",
+  "description": "Related to FeliCa Networks (https://en.wikipedia.org/wiki/FeliCa / https://www.felicanetworks.co.jp/en/).\nFeliCa is contactless RFID smart card system mainly used for wallet function on mobile devices\n#\nHas the permission INSTALL_PACKAGES",
+  "list": "Oem",
+  "removal": "Recommended"
+}

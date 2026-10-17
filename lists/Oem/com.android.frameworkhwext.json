@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.frameworkhwext",
+  "description": "There is not much info but others seem to have disabled this and similar, see:\nhttps://forum.xda-developers.com/t/guide-list-of-bloatware-safe-to-remove-how-to-do-it.3866647.",
+  "list": "Oem",
+  "removal": "Expert"
+}

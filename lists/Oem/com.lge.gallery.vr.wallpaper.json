@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gallery.vr.wallpaper",
+  "description": "LG 360 Image Wallpaper\nProvides VR (360\u00b0) wallpapers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

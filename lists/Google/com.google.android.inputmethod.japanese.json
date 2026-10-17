@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.inputmethod.japanese",
+  "description": "Google Keyboard + Japanese characters (https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese)",
+  "list": "Google",
+  "removal": "Advanced"
+}

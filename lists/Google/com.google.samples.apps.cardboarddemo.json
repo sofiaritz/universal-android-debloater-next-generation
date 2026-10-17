@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.samples.apps.cardboarddemo",
+  "description": "Google Cardboard (VR stuff) (https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo)",
+  "list": "Google",
+  "removal": "Recommended"
+}

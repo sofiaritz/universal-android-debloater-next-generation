@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.gallery20",
+  "description": "AI Gallery (https://play.google.com/store/apps/details?id=com.gallery20)\nStock gallery app with picture editing (filters, crop, add text, watermark, frame, bloor. The phone comes with Photos app which is a better alternative and disabling it doesn't break anything.\nPithus analysis: https://beta.pithus.org/report/d9cf633450ed90d2c89c941c5c202845b2789ceffe6d6337ecf772d223d157de",
+  "list": "Oem",
+  "removal": "Recommended"
+}

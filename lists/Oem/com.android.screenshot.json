@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.screenshot",
+  "description": "Default android screenshot tool",
+  "list": "Oem",
+  "removal": "Advanced"
+}

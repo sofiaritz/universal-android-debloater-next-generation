@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.healthfitness.forframework",
+  "description": "Another part of health fitness system, useless for most users along with all other health fitness packages.\nSafe to delete, obviously, unless if you use health fitness services.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

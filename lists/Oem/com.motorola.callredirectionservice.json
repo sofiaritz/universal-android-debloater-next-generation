@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.callredirectionservice",
+  "description": "Added in Android 10. Provide support for call redirection/cancellation if your Carrier supports it (when someone call.\nSee https://motorola-global-portal.custhelp.com/app/answers/prod_answer_detail/a_id/140542\nhttps://en.wikipedia.org/wiki/Call_forwarding",
+  "list": "Oem",
+  "removal": "Recommended"
+}

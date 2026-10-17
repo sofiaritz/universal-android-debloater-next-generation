@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.factory",
+  "description": "Checks Build.SERIAL and ro.build.type\nAll permissions and activities (camera, mic, battery, radio, led, sim, gps, nfc). Reads/writes to External Storage",
+  "list": "Oem",
+  "removal": "Advanced"
+}

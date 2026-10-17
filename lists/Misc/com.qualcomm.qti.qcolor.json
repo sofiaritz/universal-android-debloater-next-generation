@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qcolor",
+  "description": "QColor\nQTI enhanced color mode? I found 1 png file, color service, it's not needed for any app.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.search",
+  "description": "HiSearch\nAllows you to search through settings, files, contacts and notes while keeping a record of your search history.\nHi Search is really annoying because it's triggered as soon as you wipe down from the middle part of the home.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

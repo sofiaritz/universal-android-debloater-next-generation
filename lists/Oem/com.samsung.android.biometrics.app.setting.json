@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.biometrics.app.setting",
+  "description": "Biometric settings",
+  "list": "Oem",
+  "removal": "Advanced"
+}

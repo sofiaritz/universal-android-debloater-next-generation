@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.setupwizard",
+  "description": "The Oneplus portion of the first-boot setup.\nRuns on boot, but not in the background beyond that.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

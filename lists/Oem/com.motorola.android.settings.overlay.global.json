@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.settings.overlay.global",
+  "description": "This package is part of Motorola's custom settings overlay and is designed for global settings that apply across different regions or device configurations.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

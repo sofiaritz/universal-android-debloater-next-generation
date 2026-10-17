@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.uiengine",
+  "description": "Needed for themes? I found a lot of gameloading things, Proguard?, lists of apps idk for what. Remove it not bricks anything probably.",
+  "list": "Oem",
+  "removal": "Expert"
+}

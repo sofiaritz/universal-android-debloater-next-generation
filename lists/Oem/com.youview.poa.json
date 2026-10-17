@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.youview.poa",
+  "description": "Youview live tv app\nhttps://play.google.com/store/apps/details?id=com.youview.poa&hl=en_US/\nSometimes a remote on your button opens this but that can be changed in the settings. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

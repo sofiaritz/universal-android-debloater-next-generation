@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.htc.weather",
+  "description": "HTC Weather",
+  "list": "Oem",
+  "removal": "Advanced"
+}

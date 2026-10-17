@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.zdmdaemon",
+  "description": "Useless logs, data collection.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

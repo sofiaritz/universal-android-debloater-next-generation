@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.automotive.drivelink",
+  "description": "Car mode\nit's hidden app and has a lot duplicate settings. Not needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

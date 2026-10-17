@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.behaviorauth",
+  "description": "BehaviorAuth\nIt seems to be related to verifying the authenticity of user behavior and enhancing password security. User can disable it so it's safe to remove.\nhttps://www.android-hilfe.de/forum/huawei-p30-p30-pro-p30-lite.3510/was-ist-die-behaviorauth-app-fuer-das-p30.1008750.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

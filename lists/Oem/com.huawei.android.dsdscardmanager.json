@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.dsdscardmanager",
+  "description": "Dual card management\nIt's sim card management in Huawei settings.\nAfter removing, sim card management in settings will not work.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

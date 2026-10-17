@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.service.vzw.entitlement",
+  "description": "Deleting this package whill disable Hotspot functionality if you're a Verizon client.\nWhat you can do is preventing the phone from notifying the carrier about when you use hotspot :\nhttps://android.stackexchange.com/questions/226580/how-is-verizon-suddenly-tracking-my-hot-spot-usage-on-android-and-how-do-i-disab",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

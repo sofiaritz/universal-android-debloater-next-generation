@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.userdictionary",
+  "description": "Handles user dictionary for keyboard apps.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html. WARNING: Removing this package may cause settings menu to crash on some Huawei phones",
+  "list": "Aosp",
+  "removal": "Expert"
+}

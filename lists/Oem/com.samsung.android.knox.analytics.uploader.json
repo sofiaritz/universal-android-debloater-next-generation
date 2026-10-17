@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.analytics.uploader",
+  "description": "Knox Analytics Uploader\nSends analytics to Samsung",
+  "list": "Oem",
+  "removal": "Recommended"
+}

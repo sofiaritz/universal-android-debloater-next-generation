@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.dataoptimization",
+  "description": "OPDataOptimization\nDoesn't contain any services and I've never seen it run.",
+  "list": "Oem",
+  "removal": "Expert"
+}

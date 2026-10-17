@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.scloud.backup",
+  "description": "Samsung Backup only for Samsung Cloud",
+  "list": "Oem",
+  "removal": "Recommended"
+}

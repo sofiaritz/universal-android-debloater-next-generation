@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.improvetouch.service",
+  "description": "A improve touch things was found in the code, but it is not available to users, only to developers.\nThe size of the app is 36.40 KB, so why would this improve touch?\nThis app does not exist on some xiaomi phones, and the touch works the same.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

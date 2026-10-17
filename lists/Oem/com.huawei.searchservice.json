@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.searchservice",
+  "description": "Fusion Search Service\nNeeded for searching? Found out that it uses `com.huawei.hwddmp` this app is for debugging errors\nalso found trackers components that connects to Huawei servers unnecessarily.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

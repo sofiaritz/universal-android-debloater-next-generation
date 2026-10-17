@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.vrro",
+  "description": "This overlay has display configs",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

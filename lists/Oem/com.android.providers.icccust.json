@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.icccust",
+  "description": "Looks to be linked to SIM management. I would advise keeping it",
+  "list": "Oem",
+  "removal": "Advanced"
+}

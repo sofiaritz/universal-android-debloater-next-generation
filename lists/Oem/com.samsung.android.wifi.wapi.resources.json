@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.wapi.resources",
+  "description": "Needed for WiFi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

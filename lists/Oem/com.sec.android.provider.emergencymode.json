@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.provider.emergencymode",
+  "description": "Provider for emergency mode (com.sec.android.emergencylauncher)\nContent providers encapsulate data, providing centralized management of data shared between apps.\nFor example: the Settings provider. It stores all the settings from your Settings app in a database, which apps can query for info on whether you for example have Dark Mode turned on or off.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Advanced"
+}

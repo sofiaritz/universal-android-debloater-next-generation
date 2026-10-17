@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.hybrid.accessory",
+  "description": "Xiaomi Hybrid Accessory\nSmartphone accessories support for Quick Apps (com.miui.hybrid)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

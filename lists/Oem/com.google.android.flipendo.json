@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.flipendo",
+  "description": "Extreme Battery Saver\nIt can be found in settings, lets you to choose which app are important to you to use when this feature is enabled.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.permissioncontroller.overlay",
+  "description": "Found help app permissions - only link to Google site in code, overlay to permission things like buttons, dialogs, etc.\nBut it's not needed?",
+  "list": "Oem",
+  "removal": "Expert"
+}

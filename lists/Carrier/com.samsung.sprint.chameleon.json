@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.sprint.chameleon",
+  "description": "Chameleon service which is a service designed to store sprint-specific properties (customizes some apps).",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

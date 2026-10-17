@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.sdm",
+  "description": "Handles OTA system Updates.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

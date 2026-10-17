@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.aod.basiccolorblack.overlay",
+  "description": "Theme overlay for AOD? (Always On Display)",
+  "list": "Oem",
+  "removal": "Expert"
+}

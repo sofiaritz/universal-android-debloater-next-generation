@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.viewtalk",
+  "description": "ViewTalk\nApplication for recognizing text in an image and reading it out loud.\nDid not figure out how it works.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

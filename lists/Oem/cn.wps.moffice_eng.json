@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.wps.moffice_eng",
+  "description": "WPS Office\nChinese WPS Office pre-installed on Xiaomi devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

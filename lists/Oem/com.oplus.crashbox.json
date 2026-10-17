@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.crashbox",
+  "description": "Sends system failure data to developers. Automatically runs at boot.\n\nPithus analysis: https://beta.pithus.org/report/6031048af7434e9cfe3435244dd105ac70e3bfe1f25ecdcca9b2a40b356590a2",
+  "list": "Oem",
+  "removal": "Recommended"
+}

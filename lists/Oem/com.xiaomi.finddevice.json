@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.finddevice",
+  "description": "Find My Device feature (in the Settings)\nAllows you to locate a lost phone and wipe it remotely, provided it has an active Wi-Fi/mobile data connection.\nBefore uninstalling, !!! log out of your Mi Account !!! Removing this breaks factory reset from UI, the Security Status page in Settings, and prevents Mi Account sign-in.\nConfirmed not to bootloop on HyperOS 1.0 and HyperOS 2.0, but other MIUI versions/devices may still bootloop\nsee https://github.com/0x192/universal-android-debloater/issues/641\nSends and receives around 1,5MB-2MB of data per day to/from an unknown source on HyperOS 2.0, even with Data Saver on and on mobile data. The UI blocks you from denying any kind of mobile data access.\nConsider replacing it with Google's find device. It's much more optimized, has offline location tracking feature and is already preinstalled even on the devices with Xiaomi's Find Device.",
+  "list": "Oem",
+  "removal": "Expert"
+}

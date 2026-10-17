@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.enterprise.mdm.services.simpin",
+  "description": "Enterprise Sim Pin Service\nI couldn't find information about this package. No permissions asked. It's quite strange.\n#\nMobile device management (MDM) is a type of security software used by an IT department to monitor employees' mobile devices.\nKNOX-dependent.\nhttps://developer.samsung.com/tech-insights/knox/mobile-device-management",
+  "list": "Oem",
+  "removal": "Recommended"
+}

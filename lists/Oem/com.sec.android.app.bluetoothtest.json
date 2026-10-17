@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.bluetoothtest",
+  "description": "Bluetooth Test\nHidden feature accessible by entering *#*#232331#*#* in the Samsung dialer.\nIt was found to be calling home back in 2015:\nhttps://forum.xda-developers.com/galaxy-s5/help/bluetoothtest-apk-calling-home-t3035182",
+  "list": "Oem",
+  "removal": "Recommended"
+}

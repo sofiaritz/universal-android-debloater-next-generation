@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.mpos",
+  "description": "Knox mPOS Enabler offers a range of security/usability features, enabling secure and contactless payments on Samsung devices.\nhttps://play.google.com/store/apps/details?id=com.samsung.android.knox.mpos",
+  "list": "Oem",
+  "removal": "Advanced"
+}

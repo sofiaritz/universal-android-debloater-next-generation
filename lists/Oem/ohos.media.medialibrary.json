@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ohos.media.medialibrary",
+  "description": "MediaLibrary\nhas hwddmp components `com.huawei.hwddmp` debugging errors, remote device manager that depends on Huawei account",
+  "list": "Oem",
+  "removal": "Recommended"
+}

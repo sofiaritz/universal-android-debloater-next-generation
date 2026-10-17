@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.softwinner.explore",
+  "description": "File Manager of SoftWinner\nCan be disabled via system settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

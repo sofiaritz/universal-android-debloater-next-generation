@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.stdid",
+  "description": "StdID\nNeeded for tracking battery usage on per app basis. Dependency for GameSpace\n\n [MORE INFO NEEDED / APK NEEDED]",
+  "list": "Oem",
+  "removal": "Advanced"
+}

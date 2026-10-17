@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.zbackup.platservice",
+  "description": "ZteBackupService\nZteBackupService with a lot of permissions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

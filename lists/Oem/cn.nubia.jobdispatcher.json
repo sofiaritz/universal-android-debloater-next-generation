@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.jobdispatcher",
+  "description": "Mainly through the network to modify the basic data and functions of the self-developed application\nmodule part of the cell phone system in the background. Also has neopush.",
+  "list": "Oem",
+  "removal": "Expert"
+}

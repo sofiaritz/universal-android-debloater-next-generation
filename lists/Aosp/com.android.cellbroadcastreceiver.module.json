@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastreceiver.module",
+  "description": "Same as com.android.cellbroadcastreceiver.\nCell broadcasting used to send emergency alerts.\nhttps://en.wikipedia.org/wiki/Cell_Broadcast.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

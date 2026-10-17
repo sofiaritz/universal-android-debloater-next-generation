@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.bug2go",
+  "description": "Bugs reporting app that sends info about crash report.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

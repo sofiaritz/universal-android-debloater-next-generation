@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.servicemenu",
+  "description": "Provides access to service menus for testing",
+  "list": "Oem",
+  "removal": "Advanced"
+}

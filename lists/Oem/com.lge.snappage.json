@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.snappage",
+  "description": "Snap Page\nPart of the QuickMemo+ app, lets you capture the text/images/URL from a web page without grabbing ads.\nIt\u2019s much like instapaper or pocket app, but it works locally, like reading mode on some browsers, saving only the body of the article.\nhttp://www.lg.com/us/mobile-phones/g4/display",
+  "list": "Oem",
+  "removal": "Recommended"
+}

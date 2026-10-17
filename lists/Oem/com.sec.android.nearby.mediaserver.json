@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.nearby.mediaserver",
+  "description": "Samsung nearby share, part of AllShare. Discontinued.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

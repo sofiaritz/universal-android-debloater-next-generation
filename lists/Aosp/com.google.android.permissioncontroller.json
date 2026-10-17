@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.permissioncontroller",
+  "description": "Permission controller\nControls app permissions.\nhttps://source.android.com/devices/architecture/modular-system/permissioncontroller",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

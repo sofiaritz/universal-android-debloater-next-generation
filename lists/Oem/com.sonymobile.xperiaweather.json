@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.xperiaweather",
+  "description": "Sony weather app (https://play.google.com/store/apps/details?id=com.sonymobile.xperiaweather)\nNote : Not all location are supported.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

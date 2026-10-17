@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qtisettings",
+  "description": "In code found getting info about device Ram Size, Rom Size, get Wifi Mac Address, is Settings Task Done.\nAlso in app found qtisystemservice code.\nIt looks like the app is for developers only, so it may be removed.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

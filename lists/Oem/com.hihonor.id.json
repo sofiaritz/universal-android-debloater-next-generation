@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.id",
+  "description": "Honor Mobile Services\nHonor\u2019s alternative to Google Play Services. Needed to access advanced Honor features.\nA Honor ID is required to access services, like Themes. This may break an app like InPost Mobile, see:\nhttps://github.com/0x192/universal-android-debloater/issues/477\nSee more about Honor Mobile Services: https://www.xda-developers.com/huawei-hms-core-android-alternative-google-play-services-gms/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.systemservice",
+  "description": "It should be safe to remove. Only secret code to info about system but not sure.",
+  "list": "Oem",
+  "removal": "Expert"
+}

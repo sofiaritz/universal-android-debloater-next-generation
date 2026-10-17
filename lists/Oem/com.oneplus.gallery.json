@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.gallery",
+  "description": "Oneplus Gallery (https://play.google.com/store/apps/details?id=com.oneplus.gallery)\nOccasionally runs in the background. Some old versions of the app (like for Oneplus 3 on Android 9) don't run in the background.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

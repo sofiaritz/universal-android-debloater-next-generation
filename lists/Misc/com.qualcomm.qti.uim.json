@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.uim",
+  "description": "Runs\"RemoteSimLockService\" in the background.\nThis might be the only remote SIM lock service, just called UIM because R-UIM(Removeable-UserIdentityModule) is a variant of SIM commonly used in Asia.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

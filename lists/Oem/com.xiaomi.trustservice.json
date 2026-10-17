@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.trustservice",
+  "description": "MiTrustService\nIFAASecCam, security things or 'Remote Control trust'.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

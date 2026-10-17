@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.setupwizard.res.overlay_305",
+  "description": "Overlays setup wizard during first boot or after factory reset, safe to remove. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

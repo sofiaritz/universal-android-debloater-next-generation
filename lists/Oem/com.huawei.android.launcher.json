@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.launcher",
+  "description": "Huawei launcher app.\nIt's basically the home screen, the way icons apps are organized and displayed.\nDON'T REMOVE THIS IF YOU DIDN'T INSTALL ANOTHER LAUNCHER !\nYou will maybe need this package for the recent apps feature to work (even if you have another launcher)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

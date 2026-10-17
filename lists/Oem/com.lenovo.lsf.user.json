@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lenovo.lsf.user",
+  "description": "Lenovo ID adds an option in Settings>Accounts where you can login to a Lenovo ID account.\nFeatures include\"exclusive features directly from Lenovo and our partners\" and\"syncing users information across devices\"\nlsf = Lenovo Service Framework",
+  "list": "Oem",
+  "removal": "Recommended"
+}

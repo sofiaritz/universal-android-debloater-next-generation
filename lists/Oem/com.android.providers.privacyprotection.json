@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.privacyprotection",
+  "description": "It has permission protect and logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

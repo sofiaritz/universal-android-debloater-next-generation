@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.provider.logsprovider",
+  "description": "LogsProvider\nIt's app used for logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

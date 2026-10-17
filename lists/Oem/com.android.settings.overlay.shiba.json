@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.shiba",
+  "description": "Device-specific settings overlay for internal features.",
+  "list": "Oem",
+  "removal": "Expert"
+}

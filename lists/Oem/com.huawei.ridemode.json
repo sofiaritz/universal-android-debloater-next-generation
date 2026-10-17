@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ridemode",
+  "description": "Uses google maps website to track your ride when RideMode is Enabled.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

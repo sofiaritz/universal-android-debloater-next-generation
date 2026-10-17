@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.mobilemanagerservice",
+  "description": "Mobile Manager Service\nLooks like a unused framework, but not sure.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.apnsw",
+  "description": "APN switching control\nResource-only stub. Safe to remove.\nMay potentially cause tethering issues on legacy (pre-2016) models due to docomo's APN-switching requirements?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

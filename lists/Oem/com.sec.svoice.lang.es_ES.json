@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.svoice.lang.es_ES",
+  "description": "This is the Spanish language pack for Samsung's old S Voice assistant, enabling speech recognition and responses.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lms2",
+  "description": "Needed for LG account.",
+  "list": "Oem",
+  "removal": "Expert"
+}

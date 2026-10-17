@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.audioeffect",
+  "description": "AudioEffect from Xiaomi (https://developer.android.com/reference/android/media/audiofx/AudioEffect)\nUsed by the equalizer (to be confirmed)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

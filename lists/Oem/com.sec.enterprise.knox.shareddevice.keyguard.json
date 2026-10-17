@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.enterprise.knox.shareddevice.keyguard",
+  "description": "KNOX shared device keyguard.\nKnox Configure Shared Device feature enables multiple users to access the same device without sharing data across multiple devices.\nhttps://docs.samsungknox.com/KC-Getting-Started/Content/about-shared-device.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

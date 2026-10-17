@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tripledot.solitaire",
+  "description": "Solitaire (https://play.google.com/store/apps/details?id=com.tripledot.solitaire)\nPreinstalled game on some Samsung phones. 30 permissions, 23 trackers: https://reports.exodus-privacy.eu.org/reports/com.tripledot.solitaire/latest/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

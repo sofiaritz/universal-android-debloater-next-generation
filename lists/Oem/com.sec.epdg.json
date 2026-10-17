@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.epdg",
+  "description": "Safe to remove if you're not using VoWifi.\nYou need to know that:\n3GPP is a standards organization for mobile telephony (2G/3G/4G/5G).\nNon-3GPP RAT refers to wireless connection methods not specified by 3GPP, including Wi-Fi.\nePDG (evolved Packet Data Gateway) secures connections over untrusted non-3GPP access, commonly used for VoWiFi (Voice over Wi-Fi). For more information:\n- https://www.3gpp.org/technologies/keywords-acronyms/100-the-evolved-packet-core\n- https://www.aptilo.com/solutions/mobile-data-offloading/3gpp-wifi-access/\n- https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)",
+  "list": "Oem",
+  "removal": "Expert"
+}

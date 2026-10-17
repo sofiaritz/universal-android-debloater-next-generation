@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.setupwizard",
+  "description": "Setup Wizard\nNeeded for first-boot setup",
+  "list": "Oem",
+  "removal": "Recommended"
+}

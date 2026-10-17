@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wearable.pixel.aspen",
+  "description": "Fitbit's Connected Fitness feature for the Pixel Watch. Can be safely removed if you don't need/use it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

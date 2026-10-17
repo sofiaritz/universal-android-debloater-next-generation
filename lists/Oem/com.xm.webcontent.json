@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xm.webcontent",
+  "description": "WebContent\nNeeded for messages like 'App installing'. Also WebView.",
+  "list": "Oem",
+  "removal": "Expert"
+}

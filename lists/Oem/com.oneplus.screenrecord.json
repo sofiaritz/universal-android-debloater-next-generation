@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.screenrecord",
+  "description": "Screen Recorder\nThe Android 11 screen recorder with some Oneplus modifications.\nRuns the\"SystemUITileService\" when you have it as one of the quicksettings tiles, but doesn't seem to run in the background outside of that.\nDoesn't have an app icon, but you can create a shortcut to it with the Activity Launcher app (to avoid the background service).\nhttps://f-droid.org/en/packages/de.szalkowski.activitylauncher/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.music.youtubeplugin",
+  "description": "YouTube plugin for sony music app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

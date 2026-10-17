@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gnss.airtest",
+  "description": "GNSS Air Test\nGNSS test, used to test... GNSS. Not needed, and GPNSS will continue to work.\nNOTE : GNSS = Global Navigation Satellite System and is the standard generic term for satellite navigation systems.\nThis term includes e.g. the GPS, GLONASS, Galileo, Beidou and other regional systems.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

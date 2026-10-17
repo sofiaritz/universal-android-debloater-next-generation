@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.weather",
+  "description": "Weather application from Samsung.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

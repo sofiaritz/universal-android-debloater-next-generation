@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.iaft",
+  "description": "iaft\nHas permission dump, trace errors probably.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

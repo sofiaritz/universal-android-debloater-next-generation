@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.omronsoft.iwnnime.ml",
+  "description": "iWnn IME\nJapanese keyboard pre-installed on some Huawei and Kyocera phones. Some phones cannot be unlocked without it.",
+  "list": "Carrier",
+  "removal": "Unsafe"
+}

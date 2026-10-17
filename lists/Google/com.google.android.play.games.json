@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.play.games",
+  "description": "Google Play Games (https://play.google.com/store/apps/details?id=com.google.android.play.games)",
+  "list": "Google",
+  "removal": "Recommended"
+}

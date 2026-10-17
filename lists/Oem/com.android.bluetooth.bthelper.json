@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bluetooth.bthelper",
+  "description": "BtHelper\nit's only for Apple Air Pods. it's used to check the battery level of AirPods headphones.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

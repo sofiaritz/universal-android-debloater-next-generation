@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ia.task.smartsetting",
+  "description": "SmartSetting\nTurns on/off or changes features, settings and more according to where you are or what you do.\nhttps://www.lg.com/us/support/help-library/lg-android-smart-settings-CT10000025-20150103623722",
+  "list": "Oem",
+  "removal": "Recommended"
+}

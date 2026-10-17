@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.android.launcher",
+  "description": "Smart Launcher\nStock Launcher app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

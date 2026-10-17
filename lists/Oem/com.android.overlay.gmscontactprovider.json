@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.gmscontactprovider",
+  "description": "Checked in miui 14.\nIncorrect named thing to sync metadata contacts or gms?\nmetadata_sync_pacakge com.google.android.gms\nNo effects after remove.\n(detected on miui 14 with android 13 phones)\nit's an unused overlay.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

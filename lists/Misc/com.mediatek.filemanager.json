@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.filemanager",
+  "description": "The com.mediatek.filemanager package is MediaTek\u2019s proprietary file management app, designed to handle file browsing, organization, and management on devices with MediaTek chipsets. While it provides basic file management functions, there are many more advanced and feature-rich file manager apps available on Google Play.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

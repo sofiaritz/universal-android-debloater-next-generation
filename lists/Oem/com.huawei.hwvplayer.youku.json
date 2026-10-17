@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwvplayer.youku",
+  "description": "Video Youku\nVideo Player on Chinese Huawei. Has some ads and bad privacy.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

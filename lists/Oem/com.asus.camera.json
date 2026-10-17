@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.camera",
+  "description": "Stock ASUS camera app. It has Google Analytics, so better disable internet for this app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

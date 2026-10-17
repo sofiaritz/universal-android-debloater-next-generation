@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gm.lite",
+  "description": "Gmail Go (https://play.google.com/store/apps/details?id=com.google.android.gm.lite)\nLite version of the Gmail app (hah! Because the base one is too bloated?). Don't use this app",
+  "list": "Google",
+  "removal": "Recommended"
+}

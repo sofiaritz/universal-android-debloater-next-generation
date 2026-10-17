@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.systemuiwmshellresoverlay",
+  "description": "config pip_corner_radius only found.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

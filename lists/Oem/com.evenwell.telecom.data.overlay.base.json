@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.telecom.data.overlay.base",
+  "description": "Overlay related to Telecom data? Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

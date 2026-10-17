@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.net.nativelockscreen",
+  "description": "NativeLockScreen\nI guess it's needed for lockscreen.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

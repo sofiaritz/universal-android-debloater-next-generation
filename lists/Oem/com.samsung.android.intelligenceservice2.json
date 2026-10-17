@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.intelligenceservice2",
+  "description": "It seems that this package is a kind of spyware. Very difficult to find information about this.\nSome people say it's linked to Carrier IQ (which is a carrier rootkit for the NSA).\nhttps://en.wikipedia.org/wiki/Carrier_IQ\nhttps://forum.xda-developers.com/showpost.php?s=c85df628dfc39c3a971e6f9cfa98cbb8&p=54071328&postcount=6\nThis package also have very strange permissions : READ_PLACE / WRITE_PLACE. I couldn't find any explanation on the web.\nSo either it's a useless samsung package either it's a spyware. I delete it and I didn't notice anything bad.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

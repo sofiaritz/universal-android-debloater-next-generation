@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.camera.overlay",
+  "description": "Unused? In code found some sounds to camera app\nand random images that looks like a calibration.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

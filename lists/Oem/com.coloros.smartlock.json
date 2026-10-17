@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.smartlock",
+  "description": "\"Phone stays unlocked when using a wearable device\" feature support component.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

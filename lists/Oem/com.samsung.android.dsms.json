@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dsms",
+  "description": "Dsms\nHidden diagmonagent logs components.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

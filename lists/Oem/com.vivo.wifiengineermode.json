@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.wifiengineermode",
+  "description": "Needed for WiFi info? it's engineermode so probably not.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

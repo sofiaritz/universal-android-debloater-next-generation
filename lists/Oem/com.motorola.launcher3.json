@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.launcher3",
+  "description": "Motorola system launcher\nA default home screen app, provides a layout and display for app icons and listing.\nWARNING: Do not remove this package if you did not switch to a 3rd-party launcher.\nKeep in mind that removing this package will break the `recent apps` button (even from another launcher).",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.himovie",
+  "description": "Huawei Video Player\nBloated on newer versions. Can be safely removed if you don't want it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

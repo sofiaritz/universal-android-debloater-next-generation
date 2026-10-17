@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.SecSetupWizard",
+  "description": "Samsung Setup Wizard\nThe first time you turn your device on, a welcome screen is displayed. It guides you through the basics of setting up your device. It's the setup for Samsung services. Both `com.sec.phone` & `com.sec.android.app.SecSetupWizard` must be enabled to be able to add new ESIMs to device. Otherwise menu will spin indefinitely.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

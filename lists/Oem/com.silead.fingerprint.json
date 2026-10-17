@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.silead.fingerprint",
+  "description": "Fingerprint silead manager\nHidden app for testing Fingerprint things. Not needed for normal users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.itc.autotest",
+  "description": "ITC_Base\nHidden camera testing, also its Chinese.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

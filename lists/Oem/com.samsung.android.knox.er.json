@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.er",
+  "description": "Knox ER component. Part of Samsung Knox enterprise features; safe to remove only if you do not use Knox/enterprise functionality.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

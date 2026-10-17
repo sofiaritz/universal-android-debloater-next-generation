@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mifavor.callsetting",
+  "description": "Additional call features and WiFi Calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

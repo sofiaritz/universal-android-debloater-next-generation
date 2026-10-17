@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mmisubtest",
+  "description": "P-Sensor Calibration\nIt's useless and hidden.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

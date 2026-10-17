@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.logkitservice",
+  "description": "Probably same as\"com.oem.oemlogkit\", which is a shady logging package on Oneplus devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

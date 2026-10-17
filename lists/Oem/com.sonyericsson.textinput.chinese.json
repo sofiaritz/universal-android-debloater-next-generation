@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.textinput.chinese",
+  "description": "Sony chinese keyboard",
+  "list": "Oem",
+  "removal": "Recommended"
+}

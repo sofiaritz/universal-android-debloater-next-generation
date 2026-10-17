@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.smartfpsadjuster",
+  "description": "SmartFPSAdjuster\nResponsible for thermal camera adjustment and dynamic FPS control based on device temperature and hardware conditions\nLogging this data to feed an optimization algorithm using Q\u2011learning.\nSafe to delete.\nhttps://docs.samsungknox.com/CCMode/G985F_Q.pdf",
+  "list": "Oem",
+  "removal": "Recommended"
+}

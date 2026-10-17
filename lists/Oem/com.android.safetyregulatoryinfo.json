@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.safetyregulatoryinfo",
+  "description": "Unused? This is what you can find probably in settings:\nsetSavePassword, setSaveFormData, setBlockNetworkLoads, setJavaScriptEnabled.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

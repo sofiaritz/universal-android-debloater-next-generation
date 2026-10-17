@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.providers.photos",
+  "description": "Photos Types Storage\nBokeh, portrait, FDR, AI photo.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

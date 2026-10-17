@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.incall.contentprovider",
+  "description": "CallContentProvider\nAfter remove, some features will not be available:\nFace AR, AR Emoji, filter, sticker.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

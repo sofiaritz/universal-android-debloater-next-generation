@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay",
+  "description": "System UI Overlay. DO NOT remove this.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

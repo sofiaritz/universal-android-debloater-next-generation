@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.memorysaver",
+  "description": "Helps you to free up space by letting you delete duplicates and move contents and apps on an SD card.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

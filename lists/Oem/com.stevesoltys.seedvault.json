@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.stevesoltys.seedvault",
+  "description": "Seedvault: https://github.com/seedvault-app/seedvault\nOpen source component for custom ROMs for backuping up apps (and files) with Android's internal backup APIs\nUseful but should be safe to remove, there aren't other rootless backup tools\nDoes not run in the background unless the user uses it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

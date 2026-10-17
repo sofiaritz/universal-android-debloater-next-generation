@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.taro",
+  "description": "Better keep this for config wifi? Better don't risk.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.bluetoothagent",
+  "description": "Bluetooth Agent\nBluetooth test service.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

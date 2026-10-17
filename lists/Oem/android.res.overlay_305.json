@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.res.overlay_305",
+  "description": "An overlay that draws over android. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

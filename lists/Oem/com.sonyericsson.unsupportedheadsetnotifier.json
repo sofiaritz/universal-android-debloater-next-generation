@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.unsupportedheadsetnotifier",
+  "description": "Given its name, I think it displays a notification when you insert a headset not compatible with your phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

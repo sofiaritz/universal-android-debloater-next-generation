@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcast.overlay",
+  "description": "Unused overlay without code. Only for Test message.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

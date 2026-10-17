@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sdk.professionalaudio.app.audioconnectionservice",
+  "description": "AudioConnectionService\nI believe it allows to modulate an audio signal. I didn't find a lot of apps using this package.\nNothing really worrying but safe to remove if you want.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

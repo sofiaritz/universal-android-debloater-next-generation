@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.calculator",
+  "description": "Calculator app\nHas internet access because it can convert exchange rate, but I don't know whether it's used for other things as well or not.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

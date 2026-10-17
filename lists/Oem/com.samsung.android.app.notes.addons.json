@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.notes.addons",
+  "description": "Allows for marking up/drawing on notes in the Samsung Notes app (designed for use with S Pen).\nRemoval likely breaks com.samsung.android.app.notes. Safe to remove otherwise.\nMay reinstall itself automatically (removal has persisted for me this time around, and through multiple reboots).\nhttps://galaxystore.samsung.com/prepost/000005769652?appId=com.samsung.android.app.notes.addons",
+  "list": "Oem",
+  "removal": "Advanced"
+}

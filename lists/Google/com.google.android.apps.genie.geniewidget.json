@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.genie.geniewidget",
+  "description": "News and weather widget. App was discontinued in 2018 and no longer works, therefore there is no point to have it anymore.",
+  "list": "Google",
+  "removal": "Recommended"
+}

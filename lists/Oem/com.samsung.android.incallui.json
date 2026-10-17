@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.incallui",
+  "description": "UI when\"being called/in call\". It's basically the screen that shows you who is calling, lets you answer and hang up, switch to speaker, etc",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.filemanager",
+  "description": "ColorOS File Manager",
+  "list": "Oem",
+  "removal": "Advanced"
+}

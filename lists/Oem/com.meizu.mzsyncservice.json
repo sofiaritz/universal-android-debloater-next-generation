@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.mzsyncservice",
+  "description": "Flyme cloud service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dsi.ant.service.socket",
+  "description": "ANT Radio Service (https://play.google.com/store/apps/details?id=com.dsi.ant.service.socket)\nANT is a wireless protocol, similar to Bluetooth, that is mainly used for sport and fitness trackers.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.ifaaservice",
+  "description": "IFAA = (China\u2019s) Internet Finance Authentication Alliance\nProvides biometric authentication for Alipay. Safe to disable if you don't use it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

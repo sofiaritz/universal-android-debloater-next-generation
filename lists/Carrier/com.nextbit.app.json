@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nextbit.app",
+  "description": "docomo LIVE UX backup\nit's on some japanese phones",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

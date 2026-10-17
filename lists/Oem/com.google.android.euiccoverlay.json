@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.euiccoverlay",
+  "description": "Partner customization on first boot Setup, overlay.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

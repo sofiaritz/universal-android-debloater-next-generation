@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.networkstack.overlay.mcc460",
+  "description": "This package is part of Motorola's custom network stack overlay, specifically related to the network configuration for a particular Mobile Country Code (MCC), in this case, MCC 460 (which corresponds to China).",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.gbaservice",
+  "description": "Generic Bootstrapping Architecture. A \u2018common ground\u2019 of code used for many MediaTek apps.\nCan be removed if all other MediaTek apps are removed.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

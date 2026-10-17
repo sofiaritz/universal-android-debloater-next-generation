@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ma.android.com.mafactory",
+  "description": "Factory Test\nIt's for hardware components testing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

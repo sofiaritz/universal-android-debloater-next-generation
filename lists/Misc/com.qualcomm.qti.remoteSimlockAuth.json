@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.remoteSimlockAuth",
+  "description": "Enable you to lock/unlock your eSIM remotely.\nSeems more of a security risk to me than anything else.\nit's used to phishing.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

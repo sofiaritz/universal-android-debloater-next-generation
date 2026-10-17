@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.bluetooth",
+  "description": "KNOX bluetooth\nhttps://docs.samsungknox.com/knox-platform-for-enterprise/admin-guide/bluetooth.htm\nNOTE : This does not affect regular bluetooth.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.clockwork.oemsetup",
+  "description": "Installs carrier apps after the first time setup. Haven't noticed any consequences after uninstalling. I also saw some similar bloatware packages on the net, ending with clockwork.gestures.tutorial - first time use tutorial or clockwork.flashlight, clockwork.nfc, clockwork.brightness",
+  "list": "Oem",
+  "removal": "Recommended"
+}

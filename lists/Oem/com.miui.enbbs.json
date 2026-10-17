@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.enbbs",
+  "description": "Xiaomi Forums old package.\nNow com.mi.global.bbs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.setupwizard.overlay.ontim",
+  "description": "Useless overlay to welcome image First-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

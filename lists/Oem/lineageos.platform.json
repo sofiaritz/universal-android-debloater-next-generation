@@ -1,0 +1,6 @@
+{
+  "pkg_name": "lineageos.platform",
+  "description": "LineageOS System",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.misettings",
+  "description": "Xiaomi Settings app",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

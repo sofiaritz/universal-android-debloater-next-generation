@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.safecenter.overlay.steellegion",
+  "description": "Overlay to theme icon Security app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

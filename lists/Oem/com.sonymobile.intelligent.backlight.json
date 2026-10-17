@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.intelligent.backlight",
+  "description": "Smart backlight control\nKeeps the screen on as long as the device is held in your hand. Once you put down the device, the screen turns off according to your sleep setting.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

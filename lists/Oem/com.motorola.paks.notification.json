@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.paks.notification",
+  "description": "Notifications from (com.motorola.paks)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

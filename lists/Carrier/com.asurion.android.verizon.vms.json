@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asurion.android.verizon.vms",
+  "description": "Verizon Digital Secure (https://play.google.com/store/apps/details?id=com.asurion.android.verizon.vms)\nNote : This app is developed by Asurion, a US company whose business is to sell insurances.\nAll US carriers use Asurion for the phone insurances.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

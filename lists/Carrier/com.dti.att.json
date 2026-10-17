@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.att",
+  "description": "AT&T App Select\nI guess it lets you choose AT&T apps to install.\nIt has a LOT of permissions : https://knowledge.protektoid.com/apps/com.dti.att/7a36d4f5f00bae044566221400719c75ea2f4f33bc2578a7f8210f36d718a8d6\nSomeone knows what\"dti\" is/means ?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.overlay.common",
+  "description": "It has some important configs. Better don't risk.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

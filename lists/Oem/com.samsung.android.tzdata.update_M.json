@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.tzdata.update_M",
+  "description": "Samsung Timezone Data Updater",
+  "list": "Oem",
+  "removal": "Advanced"
+}

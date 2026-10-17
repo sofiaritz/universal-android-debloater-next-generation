@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.storagemanager",
+  "description": "Storage manager (Maintenance/Storage panel in the settings)\nClean up unused files, show size of files regrouped by categories...",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

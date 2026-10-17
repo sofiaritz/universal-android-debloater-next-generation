@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.svoice.lang.en_GB",
+  "description": "Language Pack for S-voice, the Samsung assistant (com.samsung.android.svoice)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

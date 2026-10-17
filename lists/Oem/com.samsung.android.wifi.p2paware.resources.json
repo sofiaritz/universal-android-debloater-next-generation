@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.p2paware.resources",
+  "description": "Related to WiFi Direct",
+  "list": "Oem",
+  "removal": "Advanced"
+}

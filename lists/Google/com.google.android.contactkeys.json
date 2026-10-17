@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.contactkeys",
+  "description": "Android System Key Verifier is a system service for verifying interlocutors using messengers with end-to-end encryption.\nIts job is to verify end-to-end encryption keys across chat apps.\nIt has no internet permissions and performs local key comparisons only.\nIt doesn\u2019t access your chats, contacts, or files.\nIt doesn\u2019t run in the background unless called by another apps\nhttps://grouphowto.com/com-google-android-contactkeys/\nhttps://developers.google.com/android/binary_transparency/google1p/overview",
+  "list": "Google",
+  "removal": "Expert"
+}

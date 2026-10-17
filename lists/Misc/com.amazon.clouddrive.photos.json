@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amazon.clouddrive.photos",
+  "description": "Amazon Photos (https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

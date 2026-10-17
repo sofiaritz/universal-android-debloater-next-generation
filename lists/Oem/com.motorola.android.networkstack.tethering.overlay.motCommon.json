@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.networkstack.tethering.overlay.motCommon",
+  "description": "This package is part of Motorola's custom overlay for the network stack, specifically related to tethering and hotspot functionalities.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

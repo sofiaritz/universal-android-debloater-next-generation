@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.launcher3",
+  "description": "The AOSP launcher. OEMs frequently use this to deliver their own launcher.\nYou need to install another launcher before removing it.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

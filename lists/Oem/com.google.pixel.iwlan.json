@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.pixel.iwlan",
+  "description": "IWlan optimization for Pixel Wi-Fi connections.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

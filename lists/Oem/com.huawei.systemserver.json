@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.systemserver",
+  "description": "Huawei System Services\nIt depends on (com.huawei.systemmanager).\nNeeded for navigation with a fingerprint reader that is on Mate 10, but fingerprint unlock will still work if you remove it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

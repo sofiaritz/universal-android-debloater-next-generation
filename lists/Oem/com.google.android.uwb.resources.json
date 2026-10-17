@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.uwb.resources",
+  "description": "UWB technology resources for location tracking.",
+  "list": "Oem",
+  "removal": "Expert"
+}

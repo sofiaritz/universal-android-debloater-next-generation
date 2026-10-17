@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.gallery",
+  "description": "Gallery\nVivo gallery app with Chinese trackers.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

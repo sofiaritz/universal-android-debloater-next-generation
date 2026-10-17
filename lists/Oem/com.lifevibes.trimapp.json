@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lifevibes.trimapp",
+  "description": "Video trimmer used by the default Samsung Gallery app on some older Samsung devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

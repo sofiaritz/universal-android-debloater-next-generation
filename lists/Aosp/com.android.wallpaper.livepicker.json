@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wallpaper.livepicker",
+  "description": "Enables you to pick a live wallpaper. Removing it will break some weather applications (especially ones with widgets) and wallpaper applications like Muzei.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

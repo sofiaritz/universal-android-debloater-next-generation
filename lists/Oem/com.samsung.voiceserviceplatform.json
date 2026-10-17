@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.voiceserviceplatform",
+  "description": "Samsung Voice (for Galaxy S7)\nVirtual mobile personal assistant capable of running basic tasks through voice\nhttps://www.samsung.com/global/galaxy/what-is/s-voice/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.snapdragon.qdcm_ff",
+  "description": "Qualcomm Display Color Management tool\nAttempts to\"make colors look vibrant and true to life\". No idea if it actually does something useful or if it's only some garbage dynamic color tuning (they tend to destroy colors).\nContains a service, but I've never seen it run on my Oneplus 9. Could be tied to color\"improvement\" settings in Settings->Display (all of which are off for me).",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fido.fido2client",
+  "description": "FIDO UAF1.0 ASM\nRelated to app fingerprint unlocking and payments. Safe to remove if you don't use passwordless authentication to access online services.\n'com.fido.asm' is the same app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

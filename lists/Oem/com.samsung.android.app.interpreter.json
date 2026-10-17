@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.interpreter",
+  "description": "Samsung Interpreter app, enables Live translation of foreign languages",
+  "list": "Oem",
+  "removal": "Advanced"
+}

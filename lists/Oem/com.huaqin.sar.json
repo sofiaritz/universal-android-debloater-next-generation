@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huaqin.sar",
+  "description": "SetTransmitPower\nI can't access the apk but I'm pretty sure it is another hidden test app not meant to be used by end-user\nGiven its name it could be used to adjust the transmit power of the cell phone antennas\nSAR = Specific Absorption Rate (https://en.wikipedia.org/wiki/Specific_absorption_rate)\nXDA users removed this without any issues. To be 100% sure it would be good to test the SAR without this package (just in case)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

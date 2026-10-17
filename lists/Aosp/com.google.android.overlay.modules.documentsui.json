@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.documentsui",
+  "description": "WARNING: Uninstalling it breaks the Scheduled power on/off page of the Settings app for Android 15, Blackview Tab 60 WiFi!",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.batterycare.overlay",
+  "description": "This package is part of Motorola\u2019s custom battery care overlay and is likely responsible for providing Motorola-specific enhancements or visual elements related to battery management.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.ridemodeaudio",
+  "description": "Ridemode Recording list\nHidden app, not available for users that should be the audio playback of the drive mode.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

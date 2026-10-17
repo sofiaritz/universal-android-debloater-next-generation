@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.cmfa.AuthTouch",
+  "description": "Continuous Multi-Factor Authentication AuthTouchService\nRelated to `com.samsung.android.cmfa.framework`.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

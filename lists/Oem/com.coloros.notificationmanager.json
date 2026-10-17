@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.notificationmanager",
+  "description": "Needed for notification manager and scheduled do not disturb.",
+  "list": "Oem",
+  "removal": "Expert"
+}

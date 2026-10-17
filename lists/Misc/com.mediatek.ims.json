@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.ims",
+  "description": "Mediatek's implementation of IMS (low-level implementation?)\nhttps://www.programmersought.com/article/50164530665/\nIMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling).",
+  "list": "Misc",
+  "removal": "Expert"
+}

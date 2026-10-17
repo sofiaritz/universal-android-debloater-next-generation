@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.operator.hiddenmenu",
+  "description": "Operator HiddenMenu\nHidden tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

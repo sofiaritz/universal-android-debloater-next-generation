@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.messaging",
+  "description": "Overlay to 'com.android.messaging' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

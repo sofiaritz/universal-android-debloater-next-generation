@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.accessibility.accessibilitymenu.auto_generated_rro_product__",
+  "description": "Product RRO for Accessibility menu.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

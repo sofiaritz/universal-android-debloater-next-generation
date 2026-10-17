@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gba.android",
+  "description": "Needed for proper VoLTE functionality on LG devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

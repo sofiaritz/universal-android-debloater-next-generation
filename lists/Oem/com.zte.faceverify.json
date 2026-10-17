@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.faceverify",
+  "description": "Needed for face unlock screen",
+  "list": "Oem",
+  "removal": "Recommended"
+}

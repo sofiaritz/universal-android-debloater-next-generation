@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.mmiautotest",
+  "description": "MMIAutoTest\nHidden testing hardware things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

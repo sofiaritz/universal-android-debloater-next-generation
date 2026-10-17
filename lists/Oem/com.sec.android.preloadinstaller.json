@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.preloadinstaller",
+  "description": "Very shady apk. According to if you're chinese or not, Samsung mount an hidden partition during the first boot and install some apps.\nhttps://web.archive.org/web/20200107110205/https://nitter.net/fs0c131y/status/1046689524691218432",
+  "list": "Oem",
+  "removal": "Recommended"
+}

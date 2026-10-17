@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.greenguard",
+  "description": "Security Guard Service\nThe app includes three different antivirus brands built in that the user can choose from to keep their phone protected: Avast, AVL, and Tencent.\nUpon selecting the app, the user selects one of these providers as the default Anti-Virus engine to scan the device.\nIt the app that scans an app before installing it\nNOTE : A vulnerability was found in 2019 : https://research.checkpoint.com/2019/vulnerability-in-xiaomi-pre-installed-security-app/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

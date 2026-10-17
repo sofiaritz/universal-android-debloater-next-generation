@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.mirrorshare",
+  "description": "MirrorShare feature (Miracast rebranded by Huawei)\nUsed to mirror screen of you smartphone on a TV.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

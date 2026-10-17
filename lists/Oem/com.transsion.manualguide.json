@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.manualguide",
+  "description": "Digital version of your phone manual.\nYou can view it from (Settings > System > Manual Guide)\nCan be safely removed if you don't need it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

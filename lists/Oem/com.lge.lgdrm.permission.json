@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgdrm.permission",
+  "description": "Handle permissions for LG DRM (com.lge.drmservice).\nWhy does LG need a whole package for this?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

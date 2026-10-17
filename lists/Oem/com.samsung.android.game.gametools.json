@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.game.gametools",
+  "description": "Samsung Game Tools/Booster (https://www.samsung.com/au/support/mobile-devices/how-to-use-game-tools/)\nLet you record and share screenshots of your game-play.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

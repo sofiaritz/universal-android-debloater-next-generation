@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.sauhelper",
+  "description": "SAUHelper\nIt's very much a placeholder app with no real functionality, but it can't be uninstalled or deactivated, and it can be SUSPENDED.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

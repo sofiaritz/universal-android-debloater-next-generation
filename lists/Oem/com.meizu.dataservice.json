@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.dataservice",
+  "description": "A lot of permissions and collects user data.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

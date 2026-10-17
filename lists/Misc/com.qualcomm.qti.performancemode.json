@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.performancemode",
+  "description": "Performance Mode\nHidden Performance Mode activity not available for users.\nit's on xiaomi, oneplus.\nRemoval does not brick performance mode.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

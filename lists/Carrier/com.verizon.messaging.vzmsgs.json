@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.messaging.vzmsgs",
+  "description": "Verizon Messages (https://play.google.com/store/apps/details?id=com.verizon.messaging.vzmsgs)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

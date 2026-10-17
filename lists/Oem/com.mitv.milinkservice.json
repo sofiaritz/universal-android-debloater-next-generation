@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mitv.milinkservice",
+  "description": "MiLink\nMiui screen casting service.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

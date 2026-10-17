@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xrz.bookself",
+  "description": "App that collects epub files and other documents to read on the Bigme HiBreak Pro.\nCan work together with xReader to act as a libary.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

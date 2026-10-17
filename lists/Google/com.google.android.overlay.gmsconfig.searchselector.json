@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.searchselector",
+  "description": "Removal will crash most apps like settings, clock, firefox, github, termux etc.",
+  "list": "Google",
+  "removal": "Expert"
+}

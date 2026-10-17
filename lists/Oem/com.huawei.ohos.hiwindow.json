@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ohos.hiwindow",
+  "description": "HiWindow\nHave loading, waiting png files\ncollaboration devices, hardware things, screen projection on activities shows Window Shell.\nAfter remove you will lose animations and loading screen.\nDisable instead of uninstalling if you don't want to lose the widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

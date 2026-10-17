@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.cellbroadcastservice",
+  "description": "Cell broadcast is designed to deliver messages to multiple users in an area.\nThis is notably used by ISP to send Emergency/Government alerts.\nhttps://en.wikipedia.org/wiki/Cell_Broadcast\nhttps://www.androidcentral.com/amber-alerts-and-android-what-you-need-know",
+  "list": "Aosp",
+  "removal": "Expert"
+}

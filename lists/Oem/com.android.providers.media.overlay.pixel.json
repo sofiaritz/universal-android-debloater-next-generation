@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.media.overlay.pixel",
+  "description": "Useless code to photos cloudpicker.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

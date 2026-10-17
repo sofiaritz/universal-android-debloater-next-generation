@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.notes",
+  "description": "Samsung Notes app (https://play.google.com/store/apps/details?id=com.samsung.android.app.notes)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

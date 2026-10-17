@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.enterprise.adapter.service",
+  "description": "Moto Thinkshield\nAdditional security frameworks.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.featurelayer.sharedfeature.map",
+  "description": "Huawei Map Service\nRequire FeatureFramework.\nOnly uses Chinese AMap to get location.\nUsed to show maps inside Calendar and Gallery, they will complain if you uninstall it, disable instead.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.upgradeservice",
+  "description": "Needed for upgrade service.",
+  "list": "Oem",
+  "removal": "Expert"
+}

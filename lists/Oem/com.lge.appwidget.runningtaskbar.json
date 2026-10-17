@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.appwidget.runningtaskbar",
+  "description": "Recent Task App Widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

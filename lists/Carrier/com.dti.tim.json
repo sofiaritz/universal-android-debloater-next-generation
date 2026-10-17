@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.tim",
+  "description": "Mobile Service Manager\nIt's a system app that can't be opened but keeps running in the background. It can install/uninstall apps without notifying you, access internet, run at the boot of the system, kill background processes, ads and other permissions.\nit's only bloatware, OTA updates work the same without it. Uninstalling didn't give any negative side-effects.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

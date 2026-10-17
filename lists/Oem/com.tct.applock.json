@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.applock",
+  "description": "App lock\nIt's just app lock with password or pin.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.phonemanagement",
+  "description": "Smart Doctor App\nEnables you to shut down idle apps and delete temporary files.\nLets you also see phone battery, mobile data, apps, network status and usage patterns.\nOn the paper it seems good but in practise, Android handle 8+ handles very well idles apps.\nhttps://www.lg.com/ca_en/support/product-help/CT20098088-20150129256824-others",
+  "list": "Oem",
+  "removal": "Recommended"
+}

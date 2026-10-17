@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.t2m.euiccoverlay",
+  "description": "Possibly needed for eSIM (eUICC)",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.devicediagnostics.auto_generated_rro_vendor__",
+  "description": "Device diagnostics and vendor-specific overlays for troubleshooting.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.gpslocationupdate",
+  "description": "Info about gps and notifications. Probably not needed for location.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

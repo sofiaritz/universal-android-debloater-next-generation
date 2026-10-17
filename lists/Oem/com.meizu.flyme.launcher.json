@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.flyme.launcher",
+  "description": "System launcher\nNeeded for launcher.",
+  "list": "Oem",
+  "removal": "Expert"
+}

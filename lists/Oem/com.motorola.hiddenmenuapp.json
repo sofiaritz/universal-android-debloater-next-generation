@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.hiddenmenuapp",
+  "description": "Added in Android 10. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.simlockunlockapp",
+  "description": "Sim Lock\nProvide menu (type *#*#7378423#*#* in dialer) to see if your device is locked to a network carrier\nIt need confirmation because it also could be related to SIM network unlock code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.opencalendar",
+  "description": "Samsung Subscription Calendars.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

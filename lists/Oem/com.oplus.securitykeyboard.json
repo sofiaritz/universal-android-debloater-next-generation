@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.securitykeyboard",
+  "description": "Secure Keyboard\nKeyboard that appears only when typing a password on apps and webpages, if enabled on Keyboard and Input settings",
+  "list": "Oem",
+  "removal": "Recommended"
+}

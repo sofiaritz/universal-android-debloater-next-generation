@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.RilConfigService",
+  "description": "May break calls after remove.",
+  "list": "Oem",
+  "removal": "Expert"
+}

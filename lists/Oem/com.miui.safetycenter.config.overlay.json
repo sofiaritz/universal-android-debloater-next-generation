@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.safetycenter.config.overlay",
+  "description": "An overlay for com.miui.safetycenter providing configurations and preferences. Safe to delete if com.miui.safetycenter is removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.notification",
+  "description": "Notifications are working without this app.\nIt is possible to access the app notification settings by long pressing on the notification without the app. However notification settings in the settings menu will be broken without this package. The app is mandatory to enable notifications of apps that have been disabled before.\nNote: embeds a tracking statistics service\n(usage tracking : `id`,`pkgName`,`latestSentTime`,`sentCount`,`avgSentDaily`,`avgSentWeekly)",
+  "list": "Oem",
+  "removal": "Expert"
+}

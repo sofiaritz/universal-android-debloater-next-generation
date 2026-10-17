@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.ons",
+  "description": "Opportunistic Network Service\nFrom what I can glean in the source code it seems like this provides a list of available networks and assigns each network a priority.\nI've never seen it run on its own, so this might be part of some automatic network switching setting that I have turned off.\nhttps://cs.android.com/android/platform/superproject/+/master:packages/services/AlternativeNetworkAccess/src/com/android/ons/OpportunisticNetworkService.java\nhttps://developer.android.com/reference/android/telephony/AvailableNetworkInfo\nhttps://cs.android.com/android/platform/superproject/+/master:frameworks/base/telephony/java/android/telephony/AvailableNetworkInfo.java",
+  "list": "Aosp",
+  "removal": "Expert"
+}

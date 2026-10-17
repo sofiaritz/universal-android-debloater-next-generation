@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.phone",
+  "description": "TCT Phone Services\nSim card settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

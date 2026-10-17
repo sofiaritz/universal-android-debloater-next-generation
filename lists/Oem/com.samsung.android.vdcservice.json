@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.vdcservice",
+  "description": "This app depends on Virtual Device Center app.\nHas network connection frameworks.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

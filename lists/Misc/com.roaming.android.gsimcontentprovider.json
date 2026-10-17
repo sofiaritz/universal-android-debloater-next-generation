@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.roaming.android.gsimcontentprovider",
+  "description": "gsim = Global SIM? (SIM = Subscriber Identity Module, as in SIM-card)\nConsidering the\"roaming\" context that's my best guess.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

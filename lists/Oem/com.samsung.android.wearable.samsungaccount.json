@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wearable.samsungaccount",
+  "description": "Samsung account settings. Breaks settings app if uninstalled.",
+  "list": "Oem",
+  "removal": "Expert"
+}

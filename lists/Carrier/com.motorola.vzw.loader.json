@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.vzw.loader",
+  "description": "????\nDoesn't seem to break anything once removed.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

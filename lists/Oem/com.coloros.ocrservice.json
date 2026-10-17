@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.ocrservice",
+  "description": "Extract text from images.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

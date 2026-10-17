@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.subsys",
+  "description": "Its app for virtual communication. Depends on 'com.oplus.virtualcomm'.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

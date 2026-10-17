@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.rcsserviceapplication",
+  "description": "Huawei Rich Communication Service\nProvides sending messages to another Huawei phone\nHidden RCS Chats with 49 permissions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.duokan.phone.remotecontroller.peel.plugin",
+  "description": "Peel Mi Remote (https://play.google.com/store/apps/details?id=com.duokan.phone.remotecontroller.peel.plugin)\nPeel Mi Remote is a TV guide extension for Xiaomi Mi Remote by\"Peel Smart Remote\".",
+  "list": "Oem",
+  "removal": "Recommended"
+}

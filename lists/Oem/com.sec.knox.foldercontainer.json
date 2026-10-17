@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.foldercontainer",
+  "description": "Needed by KNOX Secure folder (com.samsung.knox.securefolder)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.internal.systemui.navbar.gestural_no_hint",
+  "description": "Gestural Navigation Bar",
+  "list": "Oem",
+  "removal": "Expert"
+}

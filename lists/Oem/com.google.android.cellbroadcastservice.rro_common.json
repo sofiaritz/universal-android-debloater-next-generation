@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.cellbroadcastservice.rro_common",
+  "description": "Useless overlay code for cellbroadcastservice",
+  "list": "Oem",
+  "removal": "Recommended"
+}

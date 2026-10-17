@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.devicelockcontroller",
+  "description": "Device lock and security controller for Android devices.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

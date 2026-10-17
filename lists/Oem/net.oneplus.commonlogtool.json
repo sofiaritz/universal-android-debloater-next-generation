@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.commonlogtool",
+  "description": "OnePlus Common Log Tool\n9 permissions and given what we know about OnePlus logging apps, it's a good idea to disable this.\nSee com.oneplus.opbugreportlite, com.oem.oemlogkit and net.oneplus.odm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

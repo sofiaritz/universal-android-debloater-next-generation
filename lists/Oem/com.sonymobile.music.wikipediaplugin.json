@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.music.wikipediaplugin",
+  "description": "Wikipedia plugin for sony music app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

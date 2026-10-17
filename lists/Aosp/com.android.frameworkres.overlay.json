@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.frameworkres.overlay",
+  "description": "Runtime Resource Overlay\nThis framework provides the ability to replace application resources while the application is running. More info:\nhttps://source.android.com/docs/core/runtime/rros",
+  "list": "Aosp",
+  "removal": "Expert"
+}

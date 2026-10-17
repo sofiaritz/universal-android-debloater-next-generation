@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.sve",
+  "description": "SecVideoEngineService is arguably a Samsung video engine service (handling enconding/decoding?) for displaying video through Samsung apps.\n3 permissions: RECORD_AUDIO, CAMERA, INTERACT_ACROSS_USERS_FULL\n\nNote: Removing it will break WiFi Calling.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

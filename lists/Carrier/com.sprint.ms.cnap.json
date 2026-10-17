@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.ms.cnap",
+  "description": "Caller ID\ncnap = Caller Name Presentation (https://en.wikipedia.org/wiki/Calling_Name_Presentation)\nLets you change the name that is displayed on caller ID when making a call.\nStrange is it the same thing than\"com.sprint.ecid\" ?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

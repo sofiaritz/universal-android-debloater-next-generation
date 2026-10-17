@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.dictionary",
+  "description": "Samsung Dictionary is is an app that enables you to manage all the dictionaries stored on your Samsung device.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.systemmanager",
+  "description": "System Manager\nHuawei's stock phone cleaner. Consumes a lot of battery power for useless 'security' checks.\nSafe to remove unless you need any anti-virus (while there are better ones to be found). NOTE: breaks the functionality of closing and cleaning background apps.\nThis is more than a phone cleaner, you will lose a lot of settings like battery and notifications management if you remove this.",
+  "list": "Oem",
+  "removal": "Expert"
+}

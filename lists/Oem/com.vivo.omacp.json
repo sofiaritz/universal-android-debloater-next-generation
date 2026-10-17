@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.omacp",
+  "description": "Configuration SMS",
+  "list": "Oem",
+  "removal": "Expert"
+}

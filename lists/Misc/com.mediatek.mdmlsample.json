@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mdmlsample",
+  "description": "It looks like debugging app.\nBut I found some words SUBSCRIBE_TRAP, OTA, VoLTE\nOther data is a lot of debugging code so it's not needed.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

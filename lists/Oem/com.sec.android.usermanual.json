@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.usermanual",
+  "description": "Opens the device\u2019s built\u2011in user manual PDF",
+  "list": "Oem",
+  "removal": "Recommended"
+}

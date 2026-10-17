@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.privacylock",
+  "description": "LG Content lock\nYou can lock the LG Gallery with a password or pattern. When connected to a PC, Content Lock prevents file previews.\nhttps://www.lg.com/us/support/help-library/lg-g4-content-lock-CT10000027-1432774759427",
+  "list": "Oem",
+  "removal": "Recommended"
+}

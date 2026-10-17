@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.teleserv.overlay.odm",
+  "description": "overlay to default config ims.",
+  "list": "Oem",
+  "removal": "Expert"
+}

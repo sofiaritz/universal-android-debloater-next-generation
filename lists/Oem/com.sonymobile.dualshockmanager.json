@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.dualshockmanager",
+  "description": "DUALSHOCK\nProvide PlayStation DualShock controller support for Android (Settings > Device connection > Dualshock)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

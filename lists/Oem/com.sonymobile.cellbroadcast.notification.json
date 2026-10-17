@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.cellbroadcast.notification",
+  "description": "Cell information\nCell broadcast is designed to deliver messages to multiple users in an area.\nThis is notably used by ISP to send Emergency/Government alerts.\nhttps://en.wikipedia.org/wiki/Cell_Broadcast\nhttps://www.androidcentral.com/amber-alerts-and-android-what-you-need-know\nI think this package only handles notifications for broadcasts, not the implementation.\nIt seems like broadcast SMS use normal notifications so there is a chance this package provides special notification for Sony SMS app?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

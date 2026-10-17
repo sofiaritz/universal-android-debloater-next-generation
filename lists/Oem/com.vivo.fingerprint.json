@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.fingerprint",
+  "description": "Fingerprints and passwords\nNeeded for fingerprint settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

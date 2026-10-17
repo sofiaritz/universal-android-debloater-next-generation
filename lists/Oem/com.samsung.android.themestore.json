@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.themestore",
+  "description": "Galaxy Themes.\nForces you to login to a Samsung Account if you want to download ANY content (icons, wallpapers, themes...). If you already downloaded something, you can apply it\"freely\".\nNot needed for Wallpaper API, so any app (Samsung or not) can set Home & Lock wallpapers. However, on some devices, this app is required to view/apply built-in wallpapers (in that case, it requires `themecenter` service)\n\nhttps://www.samsung.com/global/galaxy/apps/galaxy-themes/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

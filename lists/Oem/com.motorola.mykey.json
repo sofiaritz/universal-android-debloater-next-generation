@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.mykey",
+  "description": "This package is related to Motorola\u2019s 'MyKey' feature, which is a tool designed to manage key settings and restrictions for device usage.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

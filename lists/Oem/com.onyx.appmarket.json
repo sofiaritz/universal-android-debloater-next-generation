@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.appmarket",
+  "description": "The Onyx Store app, you will not have any other way to install app if you uninstall it\nYou will need to install an alternative store via adb",
+  "list": "Oem",
+  "removal": "Expert"
+}

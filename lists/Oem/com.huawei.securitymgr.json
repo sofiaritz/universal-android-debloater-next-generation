@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.securitymgr",
+  "description": "PrivateSpace\nLets you store private information in a hidden space within your device that can only be accessed\nwith your fingerprint or password.\nTODO: Data at rest encryption? If not, this is useless\nhttps://consumer.huawei.com/en/support/content/en-us00754246/)\nThis is the password vault or password manager too.",
+  "list": "Oem",
+  "removal": "Expert"
+}

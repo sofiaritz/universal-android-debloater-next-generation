@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.myWireless",
+  "description": "My AT&T (https://play.google.com/store/apps/details?id=com.att.myWireless)\nLets you manage your AT&T account.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

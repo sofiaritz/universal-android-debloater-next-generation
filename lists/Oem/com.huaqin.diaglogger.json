@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huaqin.diaglogger",
+  "description": "Secret logging menu only accessible by dialing using a\"secret code\" (*#*#CODE#*#*)\nYou can use any of these code :\"995995\",\"996996\",\"9434\",\"334334\",\"5959\",\"477477\"\nUsed to log Bluetooth traffic and send them to com.miui.bugreport\nWrite logs to\"/sdcard/diag_logs/\" |\"/sdcard/wlan_logs/\" |\"/sdcard/MIUI/debug_log/common/\"\n#\nFYI Huaqin is a Chinese mobile phone research and development company.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.systemui.overlay.sprint",
+  "description": "Needed for Moto Stats WiFi, it's useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

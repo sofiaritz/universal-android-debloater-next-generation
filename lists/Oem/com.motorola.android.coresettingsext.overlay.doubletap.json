@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.coresettingsext.overlay.doubletap",
+  "description": "Double tap to put display to sleep",
+  "list": "Oem",
+  "removal": "Recommended"
+}

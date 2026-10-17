@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.setup.overlay.dataenable",
+  "description": "This package is used during the Motorola device setup process, specifically for managing or presenting settings related to mobile data.",
+  "list": "Oem",
+  "removal": "Expert"
+}

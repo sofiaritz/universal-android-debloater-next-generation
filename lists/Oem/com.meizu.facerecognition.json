@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.facerecognition",
+  "description": "Needed for face recognition, face unlock lock screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

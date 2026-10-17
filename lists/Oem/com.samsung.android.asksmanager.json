@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.asksmanager",
+  "description": "Samsung device protection manager.\nIt's anti-theft feature. I couldn't find exactly what does the samsung layer to the already existing android device protection :\nhttps://www.greenbot.com/article/2904397/everything-you-need-to-know-about-device-protection-in-android-51.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

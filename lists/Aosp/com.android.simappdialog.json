@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.simappdialog",
+  "description": "Sim App Dialog\nCreates a pop-up asking if the user wants to install the carrier app when a SIM is inserted. Seems to be event-triggered, i.e: doesn't run in the background.\nhttps://android.googlesource.com/platform/frameworks/base/+/master/packages/SimAppDialog/src/com/android/simappdialog/InstallCarrierAppActivity.java",
+  "list": "Aosp",
+  "removal": "Expert"
+}

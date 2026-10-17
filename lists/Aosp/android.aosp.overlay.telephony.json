@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.aosp.overlay.telephony",
+  "description": "Likely an important overlay for telephony services and com.android.providers.telephony. Not safe to delete.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

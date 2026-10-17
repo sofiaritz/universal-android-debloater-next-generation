@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.navbar.hidegestural",
+  "description": "Allows 'Gesture hint' to be disabled in Navigation bar > Swipe gestures.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.frameworkhwnext.honor",
+  "description": "Framework necessary for Themes app to launch",
+  "list": "Oem",
+  "removal": "Expert"
+}

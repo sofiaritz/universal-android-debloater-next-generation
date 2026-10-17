@@ -1,0 +1,6 @@
+{
+  "pkg_name": "de.telekom.tsc",
+  "description": "AppEnabler\ntsc = Telecom Service Center\nUsed to display ads in notifications panel.\n)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

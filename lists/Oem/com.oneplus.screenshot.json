@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.screenshot",
+  "description": "Needed for Power + Volume Down screenshot.",
+  "list": "Oem",
+  "removal": "Expert"
+}

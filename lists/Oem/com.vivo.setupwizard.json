@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.setupwizard",
+  "description": "It's only for first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

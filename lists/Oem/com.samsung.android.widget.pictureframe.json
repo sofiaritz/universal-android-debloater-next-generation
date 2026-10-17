@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.widget.pictureframe",
+  "description": "Samsung gallery widget, shows your selected photos as widget",
+  "list": "Oem",
+  "removal": "Advanced"
+}

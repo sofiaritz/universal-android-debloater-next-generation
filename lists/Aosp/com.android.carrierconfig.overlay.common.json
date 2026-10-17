@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.carrierconfig.overlay.common",
+  "description": "Needed for (com.android.carrierconfig).",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

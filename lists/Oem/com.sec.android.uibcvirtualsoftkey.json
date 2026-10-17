@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.uibcvirtualsoftkey",
+  "description": "UIBC (User input back channel)\nAllows users to experience the dual monitor function, with the keyboard and mouse having the ability to control your smartphone device.\nEither discontinued (for the benefit of Smart View : com.samsung.android.smartmirroring) or related to Smart View.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

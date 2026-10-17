@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.audiofx",
+  "description": "Audio effect\nNeeded for sound effects.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.userfeedback",
+  "description": "User feedback\nRequires agreeing to a Privacy Policy (that allows Blackview to sell your location to data brokers) to send feedback to Blackview. Can be disabled via Settings.\nhttps://www.blackview.hk/privacy\nhttps://www.virustotal.com/gui/file-analysis/NWNjODQ4OWEwZjU5MzkzZTFmN2MxNjkwMzcyZTExNjc6MTc2MjAwNzkxNQ==",
+  "list": "Oem",
+  "removal": "Recommended"
+}

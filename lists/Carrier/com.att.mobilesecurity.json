@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.mobilesecurity",
+  "description": "AT&T Mobile Security (https://play.google.com/store/apps/details?id=com.att.mobilesecurity)\nAT&T android antivirus.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

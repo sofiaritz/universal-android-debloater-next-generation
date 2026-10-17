@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.launcher",
+  "description": "Launcher\nStock Nubia Launcher.",
+  "list": "Oem",
+  "removal": "Expert"
+}

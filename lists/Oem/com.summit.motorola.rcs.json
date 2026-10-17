@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.summit.motorola.rcs",
+  "description": "Summit IMS Service\nA lot of logs and it's only for RCS messages. Anyway, it's a bad idea to use this app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

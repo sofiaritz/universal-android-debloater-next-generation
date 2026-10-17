@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.orange.miorange",
+  "description": "Lets you access to your Orange account",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

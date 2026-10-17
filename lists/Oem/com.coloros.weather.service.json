@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.weather.service",
+  "description": "Name indicates it's for the weather, but removing this causes the screen to flash and the phone will eventually become unresponsive.\nhttps://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/585. Disabling instead does not seem to cause this problem, see \nhttps://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/585#issuecomment-3796739025",
+  "list": "Oem",
+  "removal": "Expert"
+}

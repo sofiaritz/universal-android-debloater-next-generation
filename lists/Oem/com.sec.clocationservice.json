@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.clocationservice",
+  "description": "CLocationService\nNetwork location provider only to Chinese.\nBad privacy.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

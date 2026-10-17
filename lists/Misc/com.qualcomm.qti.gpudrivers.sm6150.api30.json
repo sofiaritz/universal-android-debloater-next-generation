@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.gpudrivers.sm6150.api30",
+  "description": "Adreno Graphics Drivers\nGPU drivers for Snapdragon 675.\nBut actually I have Snapdragon 732G\nit's weird but keep it.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.qosindicator",
+  "description": "QOS - quality of service, but it's only for diagnostics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

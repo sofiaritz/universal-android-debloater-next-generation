@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.syncadapters.bookmarks",
+  "description": "Synchronisation for Google Chrome bookmarks",
+  "list": "Google",
+  "removal": "Recommended"
+}

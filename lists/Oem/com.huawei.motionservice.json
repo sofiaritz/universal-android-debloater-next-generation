@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.motionservice",
+  "description": "Gesture Service\nNot very useful gestures available in settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

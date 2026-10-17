@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.stylus.floatmenu",
+  "description": "AI Lens. Shop for objects that you take a picture of. This de-clutters the camera interface by removing the AI Lens button on the top left corner and does not break the AR Measure app.\n\nFloating menu with M-Pen feature.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

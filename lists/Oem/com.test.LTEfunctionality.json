@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.test.LTEfunctionality",
+  "description": "LTE, VoLTE testing app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

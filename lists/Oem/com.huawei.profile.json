@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.profile",
+  "description": "Profile Services\nIt's an app needed for HUAWEI ID, depends on HMSCore, also has analytics and trackers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

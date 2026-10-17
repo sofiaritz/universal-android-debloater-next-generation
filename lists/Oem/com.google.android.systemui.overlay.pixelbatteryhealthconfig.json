@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.systemui.overlay.pixelbatteryhealthconfig",
+  "description": "Battery health overlay for Pixel devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

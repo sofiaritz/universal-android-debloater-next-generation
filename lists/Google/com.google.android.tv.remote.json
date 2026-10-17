@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.remote",
+  "description": "Android TV remote control (https://play.google.com/store/apps/details?id=com.google.android.tv.remote)",
+  "list": "Google",
+  "removal": "Recommended"
+}

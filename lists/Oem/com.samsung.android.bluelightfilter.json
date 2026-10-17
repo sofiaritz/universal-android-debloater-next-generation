@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bluelightfilter",
+  "description": "Blue light filter\nUsing the sunrise/sunset option uses the ACCESS_FINE_LOCATION permission. It's better to program the activation of the filter according to the time.\nNote: reducing blue light can prevent eyestrain and other health issues. See https://www.webmd.com/eye-health/blue-light-reduce-effects",
+  "list": "Oem",
+  "removal": "Advanced"
+}

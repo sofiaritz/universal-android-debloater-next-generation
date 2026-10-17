@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.repairmode",
+  "description": "Repair mode to Pixel, not sure how it works.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

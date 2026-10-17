@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tmobile.pr.mytmobile",
+  "description": "T-mobile app (https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

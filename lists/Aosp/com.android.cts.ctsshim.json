@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cts.ctsshim",
+  "description": "Compatibility Test Suite\nUsed by manufacturer to test your copy of the device for performance. It just exists and doesn't run in background. More info:\nhttps://source.android.com/docs/compatibility/cts",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

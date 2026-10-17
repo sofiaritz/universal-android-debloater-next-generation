@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.email.provider",
+  "description": "Samsung email app (https://play.google.com/store/apps/details?id=com.samsung.android.email.provider)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

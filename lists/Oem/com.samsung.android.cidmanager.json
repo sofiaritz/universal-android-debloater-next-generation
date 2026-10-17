@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.cidmanager",
+  "description": "Sets the CSC for the phone depending on the SIM card. This is responsible for forcing you to restart when to activate the so-called features when inserting new SIM card. It may also revert band settings after OTA update in some cases. WARNING: it may be needed to receive OTA updates, currently unknown.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.oobe.vodafone",
+  "description": "Vodafone AppBox\nIt is some kind of post-install recommended apps setup from the carrier.\nAsks for your age and gender and then recommends you to install popular apps.\nDevelopped by IronSource, an Israeli advertising company.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

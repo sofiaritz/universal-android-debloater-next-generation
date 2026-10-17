@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.capctrl.service",
+  "description": "It have mtkradioex components used for corporate device management and telephony control.\nRemoving this will break key telephony functions such as SIM detection and carrier configuration, and cause com.android.phone to crash repeatedly.",
+  "list": "Misc",
+  "removal": "Expert"
+}

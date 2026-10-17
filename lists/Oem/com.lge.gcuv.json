@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gcuv",
+  "description": "GCUV\nNot 100% sure but @siraltus from XDA thinks it refers to\"Gauce Components\" which seems to be the LG's version of CSC\n(carrier sales code - automatic carrier-specific customization).\nIt gets run on first boot after factory reset, sets up the ROM features based on which carrier and country code is specified\nin the build.prop, and then gets frozen so it doesn't reconfigure things on subsequent boots.\nIt's basically the only person to mention\"Gauce components\" on the web (other than restricted LG webpages when using Google dorks).\nhttps://forum.xda-developers.com/tmobile-lg-v10/development/rom-lg-v10-h901-10c-debranded-debloated-t3277305/page12/page12",
+  "list": "Oem",
+  "removal": "Recommended"
+}

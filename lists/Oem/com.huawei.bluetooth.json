@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.bluetooth",
+  "description": "Lets you import your contacts via Bluetooth\nBluetooth will still work if you remove this package.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

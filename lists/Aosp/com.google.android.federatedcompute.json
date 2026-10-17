@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.federatedcompute",
+  "description": "FederatedCompute.\nAnother component of OnDevicePersonalization. But this app learns things about users.\nIntroduced in Android 13.\nhttps://source.android.com/docs/core/ota/modular-system/ondevicepersonalization",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

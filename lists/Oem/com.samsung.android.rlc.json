@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.rlc",
+  "description": "Samsung Biz Service\nRemote Lock Control? Remote Mobile Manager? It has not needed notification components.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

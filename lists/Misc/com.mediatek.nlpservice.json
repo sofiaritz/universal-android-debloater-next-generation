@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.nlpservice",
+  "description": "Mediatek Network Location Provider\nProvides periodic reports on the geographical location of the device. Each provider has a set of criteria under which it may be used. For example, some providers require GPS hardware and visibility to a number of satellites, while others require the use of the cellular radio, or access to a specific carrier's network, or to the internet.\nI don't understand why this is needed; there already is one in 'com.google.android.gms'\nI wonder if NLP can be replaced by https://github.com/microg/UnifiedNlp\nI suggest testing if you get a better signal/battery performance with Mediatek NLP on or off.",
+  "list": "Misc",
+  "removal": "Expert"
+}

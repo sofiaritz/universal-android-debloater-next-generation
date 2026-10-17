@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.rro_product",
+  "description": "Better don't touch it.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

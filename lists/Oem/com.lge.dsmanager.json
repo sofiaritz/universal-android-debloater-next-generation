@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.dsmanager",
+  "description": "Dual Screen Updater\nIf you dont use dual screen feature then it's safe to remove?",
+  "list": "Oem",
+  "removal": "Expert"
+}

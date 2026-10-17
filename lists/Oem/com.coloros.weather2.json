@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.weather2",
+  "description": "ColorOS weather app. Removal seems to trigger a bootloop on some phones. You should try, several users removed this app without any trouble on Oppo/Realme device with Android 11+\nSee: https://github.com/0x192/universal-android-debloater/issues/211",
+  "list": "Oem",
+  "removal": "Expert"
+}

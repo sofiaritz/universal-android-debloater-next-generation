@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.telephonyui",
+  "description": "Samsung Dialer UI.\nDisabling breaks Phone app settings and SIM Manager.",
+  "list": "Oem",
+  "removal": "Expert"
+}

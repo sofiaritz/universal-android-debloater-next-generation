@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ar.measure",
+  "description": "Ar Measure\nMeasure length, depth, area and volume.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

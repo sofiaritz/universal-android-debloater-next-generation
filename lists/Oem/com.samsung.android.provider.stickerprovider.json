@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.provider.stickerprovider",
+  "description": "One more package related to camera stickers.\nDO NOT REMOVE THIS IF YOU USE STOCK CAMERA (Samsung camera-app closes after about 4s!)\nadb shell 'pm disable-user com.samsung.android.provider.stickerprovider' can be used as a workaround if you want to stop this running in the background.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

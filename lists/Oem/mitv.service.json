@@ -1,0 +1,6 @@
+{
+  "pkg_name": "mitv.service",
+  "description": "TvService\nHas shutdown delay.\nSafe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

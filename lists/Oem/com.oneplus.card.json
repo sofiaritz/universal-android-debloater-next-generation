@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.card",
+  "description": "Card Package\nWidget which lets you add membership card in Shelf.\nYou enter numbers for a club card or something and it'll store it and generate a barcode for you.\nShelf is a page on your home screen that allows you to take memos, add widgets, gain access to your most-used apps, and get a quick glimpse of the weather. Swipe right (from the left edge of your home screen) to reveal it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

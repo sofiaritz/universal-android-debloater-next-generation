@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.updater",
+  "description": "System update\nProvides system updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.locationhistory",
+  "description": "It's only location logs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

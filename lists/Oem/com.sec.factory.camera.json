@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.factory.camera",
+  "description": "Camera Test (dial *#34971539# to open CameraFirmware Standard)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

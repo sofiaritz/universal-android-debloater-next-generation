@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.headlines",
+  "description": "Flipboard app for Samsung devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

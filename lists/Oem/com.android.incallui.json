@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.incallui",
+  "description": "Xiaomi Phone 11\nXiaomi's phone (dialer, incallui, etc.) app. Fetches APN lists on some phones. Package name is highly misleading.",
+  "list": "Oem",
+  "removal": "Expert"
+}

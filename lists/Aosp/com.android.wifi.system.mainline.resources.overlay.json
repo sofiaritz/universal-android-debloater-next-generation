@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.system.mainline.resources.overlay",
+  "description": "Related to the Wi-Fi module and its resources overlay.\nThe Wi-Fi module in Android is updatable, meaning it can receive updates to functionality outside of the normal Android release cycle.\nThe module provides a consistent Wi-Fi experience across Android devices and allows for fixes to interoperability issues through module updates\nhttps://source.android.com/docs/core/ota/modular-system/wifi",
+  "list": "Aosp",
+  "removal": "Expert"
+}

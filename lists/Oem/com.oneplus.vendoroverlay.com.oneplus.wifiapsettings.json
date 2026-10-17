@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.vendoroverlay.com.oneplus.wifiapsettings",
+  "description": "OP_white_mode?",
+  "list": "Oem",
+  "removal": "Expert"
+}

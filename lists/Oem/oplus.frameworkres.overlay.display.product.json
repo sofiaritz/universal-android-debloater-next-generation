@@ -1,0 +1,6 @@
+{
+  "pkg_name": "oplus.frameworkres.overlay.display.product",
+  "description": "Display cutout.\nA display cutout is an area on some devices that extends into the display surface. It allows for an edge-to-edge experience while providing space for important sensors on the front of the device.\nhttps://developer.android.com/develop/ui/views/layout/display-cutout",
+  "list": "Oem",
+  "removal": "Expert"
+}

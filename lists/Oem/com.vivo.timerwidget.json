@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.timerwidget",
+  "description": "Alarm widget\nWidget clock in launcher, home screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

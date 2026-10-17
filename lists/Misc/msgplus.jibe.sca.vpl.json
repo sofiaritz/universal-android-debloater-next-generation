@@ -1,0 +1,6 @@
+{
+  "pkg_name": "msgplus.jibe.sca.vpl",
+  "description": "Messaging Plus. Messings using the RCS protocol (https://en.wikipedia.org/wiki/Rich_Communication_Services)\n\tRelated to Google Jibe (https://jibe.google.com/)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

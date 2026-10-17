@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wallpaper",
+  "description": "Styles editor\nNeeded for editing style UI",
+  "list": "Oem",
+  "removal": "Advanced"
+}

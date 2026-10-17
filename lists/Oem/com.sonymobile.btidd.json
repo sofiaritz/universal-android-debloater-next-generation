@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.btidd",
+  "description": "Bluetooth stack identifier, may be tied to pairing/security. Best to keep enabled",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.icecone",
+  "description": "Keyboard Content Center\nLets you choose media content (e.g. stickers and music) from the Galaxy Keyboard.\nThis app always runs in background.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

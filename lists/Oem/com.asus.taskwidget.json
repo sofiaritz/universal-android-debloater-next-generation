@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.taskwidget",
+  "description": "ASUS Task Manager widget\nTask manager widget to System optimization",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.extsettings",
+  "description": "Needed for hotspot, some chinese phones uses qualcomm names apps",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.tvsideview.phone",
+  "description": "Sony's TV remote control app\nhttps://play.google.com/store/apps/details?id=com.sony.tvsideview.phone",
+  "list": "Oem",
+  "removal": "Recommended"
+}

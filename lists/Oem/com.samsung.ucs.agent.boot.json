@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.ucs.agent.boot",
+  "description": "Boot agent\nUCS is a company which has partnered with Samsung to provide licenses for Samsung Knox\nhttps://www.ucssolutions.com/blog/samsung-knox/\nI don't have precise information about the package itself but there are chances that it verifies some files on boot. If these files are not verified then it may prevent the phone from booting.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

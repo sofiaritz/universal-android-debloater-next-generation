@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.gpudrivers.lito.api30",
+  "description": "Adreno Graphics Drivers\nGPU drivers for Snapdragon 765G.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

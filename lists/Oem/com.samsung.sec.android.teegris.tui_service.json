@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.sec.android.teegris.tui_service",
+  "description": "TuiService\nSecurity-related, but not necessary.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

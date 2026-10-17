@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.clocks.flex",
+  "description": "Flexible clock interface for system UI customization.",
+  "list": "Oem",
+  "removal": "Expert"
+}

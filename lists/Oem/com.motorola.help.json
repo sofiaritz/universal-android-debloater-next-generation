@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.help",
+  "description": "Moto feedback (https://play.google.com/store/apps/details?id=com.motorola.help)\nLets you rate your device and share feedback with Motorola.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

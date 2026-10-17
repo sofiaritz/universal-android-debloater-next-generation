@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.modemdebug",
+  "description": "Hidden running in the background debugs for data traffic and all that, not useful for the average person.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.healthconnect.overlay",
+  "description": "Health Connect overlay for fitness data integration.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

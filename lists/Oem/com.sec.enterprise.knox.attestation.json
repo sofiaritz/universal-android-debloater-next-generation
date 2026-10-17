@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.enterprise.knox.attestation",
+  "description": "KNOX Attestation\nLets you check the integrity of a Samsung Android device by connecting to a Samsung Attestation server.\nhttps://docs.samsungknox.com/admin/whitepaper/kpe/attestation.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

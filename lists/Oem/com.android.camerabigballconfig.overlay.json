@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.camerabigballconfig.overlay",
+  "description": "Configures default Qr Code component\ncom.google.android.gms .mlkit.barcode.ui.PlatformBarcodeScanningActivityProxy. Not needed to camera or scan QR Code.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

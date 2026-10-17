@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.entitlement.fcm",
+  "description": "it's only FCM(Firebase Cloud Messaging). No activities, google firebase. Not needed.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

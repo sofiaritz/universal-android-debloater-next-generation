@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.securepay",
+  "description": "Payment system from Oppo allowing you to pay with your phone\n\nPithus analysis: https://beta.pithus.org/report/65246664d3795a5ac1b402d28456903e1b3bd76176de8298b3ea96c6c592ae9a",
+  "list": "Oem",
+  "removal": "Recommended"
+}

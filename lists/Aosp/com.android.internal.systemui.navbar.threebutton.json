@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.navbar.threebutton",
+  "description": "The default system navbar? It's what you use when you don't use gesture navigation.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

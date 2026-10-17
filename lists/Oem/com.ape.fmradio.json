@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.fmradio",
+  "description": "FM Radio app for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

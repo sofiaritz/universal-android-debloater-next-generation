@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bio.face.service",
+  "description": "Handles facial regognition.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

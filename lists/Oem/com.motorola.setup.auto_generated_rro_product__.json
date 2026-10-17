@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.setup.auto_generated_rro_product__",
+  "description": "This package is involved in Motorola's setup process, particularly handling automatically generated resources related to the setup of the device.",
+  "list": "Oem",
+  "removal": "Expert"
+}

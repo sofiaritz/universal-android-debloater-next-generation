@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.dynamicddsservice",
+  "description": "Dynamic DDS Service\nDDS = Direct Digital Synthesizer. Supposedly useful for testing, communication and frequency sweep applications. Some apps may use this for local communication between devices? I'm guessing this is related to sending data through audio(a bunch of rapid beeps outside of the range of human hearing), which I believe Google Home used(still uses?) at one point as an option to connect to a Chromecast.\nhttps://www.qualcomm.com/news/releases/1996/05/07/qualcomm-introduces-new-high-speed-dual-direct-digital-synthesizer\nInfo about DDS: https://www.allaboutcircuits.com/technical-articles/direct-digital-synthesis/",
+  "list": "Misc",
+  "removal": "Advanced"
+}

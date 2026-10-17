@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.oobe.ntt",
+  "description": "Aura from Unity\nPersistent notification until you click on it and agree to install games. Sort of game cloud pre-installed in some docomo carrier phones\nSafe to remove.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

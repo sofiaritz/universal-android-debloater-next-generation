@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hmdglobal.datago",
+  "description": "Sends diagnostic data to HMD (Company behind Nokia)?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motocit",
+  "description": "CQATest\nCQA = Custom Quality Assurance\nHidden menu (accessible by typing *#*#2486#*#* in the Moto Dialer) which lets you run hardware tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

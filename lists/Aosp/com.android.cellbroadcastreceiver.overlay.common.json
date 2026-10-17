@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastreceiver.overlay.common",
+  "description": "In code I found unused things: show_brazil_settings, show_cmas_settings, show_etws_settings.\nit's unavailable and useless.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.experimental",
+  "description": "Experimental features like CONNECT TO TESLA",
+  "list": "Oem",
+  "removal": "Recommended"
+}

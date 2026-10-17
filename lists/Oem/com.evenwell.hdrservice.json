@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.hdrservice",
+  "description": "HDR Service (https://play.google.com/store/apps/details?id=com.evenwell.hdrservice)\nEnhances contrast and sharpness for normal photos, games and videos dynamically.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

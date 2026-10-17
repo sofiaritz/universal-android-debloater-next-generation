@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mms.appservice",
+  "description": "Provides Voice message, Video message, Fax message, Text message in a messaging app?",
+  "list": "Misc",
+  "removal": "Advanced"
+}

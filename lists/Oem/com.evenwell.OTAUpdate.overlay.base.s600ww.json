@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.OTAUpdate.overlay.base.s600ww",
+  "description": "Theme overlay for OTA Update UI?",
+  "list": "Oem",
+  "removal": "Expert"
+}

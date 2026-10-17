@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.theme.blackgold",
+  "description": "LG Black Bold theme.\nSafe to remove, but also probably pointless to do so as most theme packages are just data containers.\nMake sure you don't delete the package for the theme you're currently using. I don't know what will happen then.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.forbid.selfstart.provider",
+  "description": "Mainly used to manage application self-startup, convenient for users to adjust the policy of application self-startup.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

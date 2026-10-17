@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tripledot.woodoku",
+  "description": "Woodoku (https://play.google.com/store/apps/details?id=com.tripledot.woodoku)\nPreinstalled game on some Samsung phones.28 permissions, 24 trackers: https://reports.exodus-privacy.eu.org/reports/com.tripledot.woodoku/latest/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

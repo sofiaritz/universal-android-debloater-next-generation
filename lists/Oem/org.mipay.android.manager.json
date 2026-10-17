@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.mipay.android.manager",
+  "description": "MipayService\nXiaomi Payment related services, not used!",
+  "list": "Oem",
+  "removal": "Recommended"
+}

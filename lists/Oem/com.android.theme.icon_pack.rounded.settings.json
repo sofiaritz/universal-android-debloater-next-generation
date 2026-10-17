@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon_pack.rounded.settings",
+  "description": "Android icon pack only for google pixel or aosp or motorola",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.imsservice",
+  "description": "IMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling).\nVideo calling is also affected.\nNote: Samsung Dialer will crash if you disable this package and have wifi-calling activated in the Dialer's settings.\nMay be unsafe to disable. Needs more testing.",
+  "list": "Oem",
+  "removal": "Expert"
+}

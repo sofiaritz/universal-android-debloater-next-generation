@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qwes.AndroidService",
+  "description": "qms, qwes it's used for collecting user data.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

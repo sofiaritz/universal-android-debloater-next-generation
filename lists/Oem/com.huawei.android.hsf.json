@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.hsf",
+  "description": "Huawei Services Framework\n3 permissions : DELETE_PACKAGES, INSTALL_PACKAGES, PACKAGE_USAGE_STATS\nSafe to remove according to huawei users",
+  "list": "Oem",
+  "removal": "Recommended"
+}

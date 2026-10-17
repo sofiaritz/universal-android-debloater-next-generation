@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.livepicker",
+  "description": "Overlay to 'com.android.wallpaper.livepicker' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

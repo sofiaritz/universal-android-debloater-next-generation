@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.loguploader",
+  "description": "Log Tool\nCaptured logs, Generate Log, Report Log.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

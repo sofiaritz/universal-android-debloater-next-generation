@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ellievision",
+  "description": "Smart Cam & AI Tips\nDelete if not using default camera.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

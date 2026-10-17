@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.WifiResSoftap80211axEnable",
+  "description": "Important configs to wifi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

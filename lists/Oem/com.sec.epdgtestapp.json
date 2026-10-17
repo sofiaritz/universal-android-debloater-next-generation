@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.epdgtestapp",
+  "description": "Test app for ePDG (see com.sec.epdg)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.packageinstaller",
+  "description": "Removing it is Unsafe if there is no alternative.",
+  "list": "Oem",
+  "removal": "Expert"
+}

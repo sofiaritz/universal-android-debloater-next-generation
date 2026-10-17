@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.mirror",
+  "description": "MIUI+ Beta\nTransfer files, sync copy text to PC without USB.\nhttps://plus.miui.com",
+  "list": "Oem",
+  "removal": "Recommended"
+}

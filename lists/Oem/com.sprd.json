@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd",
+  "description": "Unisoc's hidden aging test. Uninstalling it doesn't seem to break anything for Android 10 GO, S21 Plus 2021_EEA.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

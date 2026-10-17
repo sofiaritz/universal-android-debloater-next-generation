@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.secondlauncher",
+  "description": "It's needed for wallpaper choose and multi-app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

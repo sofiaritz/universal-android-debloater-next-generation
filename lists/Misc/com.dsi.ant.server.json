@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dsi.ant.server",
+  "description": "ANT Radio Service Test. ANT HAL(Hardware Abstraction Layer) Server\nANT is a wireless protocol, similar to Bluetooth, that is mainly used for sport and fitness trackers.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

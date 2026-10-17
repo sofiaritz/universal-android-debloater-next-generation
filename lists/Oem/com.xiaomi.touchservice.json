@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.touchservice",
+  "description": "No activities, uses miui analytics looks like a tracking touch.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

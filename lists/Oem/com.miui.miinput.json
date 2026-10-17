@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.miinput",
+  "description": "Removing this package breaks\"Gesture shortcuts\" under\"Additional settings\".",
+  "list": "Oem",
+  "removal": "Advanced"
+}

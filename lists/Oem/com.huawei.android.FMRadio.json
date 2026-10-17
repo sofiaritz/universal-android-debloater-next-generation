@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.FMRadio",
+  "description": "FM-Radio\nHuawei's stock radio player. Remove if FM isn't relevant for you.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

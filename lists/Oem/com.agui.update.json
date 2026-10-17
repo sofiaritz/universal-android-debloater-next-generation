@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.update",
+  "description": "\"Wireless Update\" Settings > About Phone : Sytem update.\nRemoving will prevent Automatic Wireless Updates",
+  "list": "Oem",
+  "removal": "Expert"
+}

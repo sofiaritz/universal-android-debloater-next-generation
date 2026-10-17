@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.knox.appsupdateagent",
+  "description": "This app is part of Samsung Knox, managing updates for apps within the Knox security framework.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

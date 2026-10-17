@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.hotspot2.osulogin",
+  "description": "The sole purpose of the OsuLogin App is to provision credentials from the Wi-Fi network to the device and allow them to connect to Wi-Fi Hotspot 2.0. See https://hackanons.com/2021/07/osulogin-android-everything-you-need-to-know.html for more information.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

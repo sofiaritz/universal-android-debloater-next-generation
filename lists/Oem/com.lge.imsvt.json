@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.imsvt",
+  "description": "Video Call, another component of com.lge.ims = debugging app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

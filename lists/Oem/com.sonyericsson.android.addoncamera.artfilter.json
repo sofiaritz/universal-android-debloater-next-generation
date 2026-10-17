@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.addoncamera.artfilter",
+  "description": "Sony Creative effect\nGives options for various photographic toning effects in the Sony camera app.\nI'm not 100% sure for this one. Can someone confirm ?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

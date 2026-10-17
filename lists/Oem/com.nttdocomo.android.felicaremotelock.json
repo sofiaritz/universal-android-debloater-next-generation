@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.felicaremotelock",
+  "description": "This is used to lock the Osaifu-Keitai (FeliCa), works with Omakase-lock (com.nttdocomo.android.remotelock).\nSafe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

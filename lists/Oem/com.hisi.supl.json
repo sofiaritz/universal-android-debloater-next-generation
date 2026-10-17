@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hisi.supl",
+  "description": "SUPL20Services\nNot needed for location and dont have code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

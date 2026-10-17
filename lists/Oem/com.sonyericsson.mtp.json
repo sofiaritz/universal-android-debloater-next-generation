@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.mtp",
+  "description": "MTP extension service\nNeeded to transfer data from phone to PC through MTP? (Media Transfer Protocol)",
+  "list": "Oem",
+  "removal": "Expert"
+}

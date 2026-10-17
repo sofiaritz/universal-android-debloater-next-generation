@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.qmemoplus",
+  "description": "LG QuickMemo+\nAllows you to capture screen shots and use them to create memos. You can also insert a reminder, location information, image, video, and audio.\nhttps://www.lg.com/us/support/help-library/lg-android-quickmemo-CT10000025-20150103629575",
+  "list": "Oem",
+  "removal": "Recommended"
+}

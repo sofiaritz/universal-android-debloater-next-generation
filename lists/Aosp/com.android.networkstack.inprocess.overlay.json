@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.networkstack.inprocess.overlay",
+  "description": "Related to the Network Stack module,\nwhich is an updatable Mainline module that ensures Android can adapt to evolving network standards and allows for interoperability with new implementations\nhttps://source.android.com/docs/core/ota/modular-system/networking",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

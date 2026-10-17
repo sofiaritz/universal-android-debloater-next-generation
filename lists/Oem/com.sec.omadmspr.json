@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.omadmspr",
+  "description": "OMADM\nhas activation things and firmware updates",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sdk.spenv10",
+  "description": "Samsung Pen engine, Pen settings, SPen Engine Update.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

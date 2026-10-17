@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.system",
+  "description": "Called 'MIUI System Launcher' but it's not the launcher itself (com.miui.home is)\nThis package is another core MIUI app you can't remove. It centralizes a lot of default configuration values",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge",
+  "description": "Main LG system framework. Do not remove, will bootloop your device.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

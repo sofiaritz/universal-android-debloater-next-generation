@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.soundalive",
+  "description": "Responsible for Dolby Atmos and other equalizer stuff (accessible from the Settings app).\nNeeded by Adapt Sound (com.sec.hearingadjust) which is a pretty useful feature.\nNOTE: If the app crashes regularly, even when you don't use Dolby or other features, check to see if you have \"com.samsung.android.scpm\" installed & enabled. If not, try installing/enabling it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

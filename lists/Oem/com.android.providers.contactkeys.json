@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.contactkeys",
+  "description": "Contact key manager for Android interactions.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

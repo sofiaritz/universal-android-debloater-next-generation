@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.gpudrivers.kalama.api33",
+  "description": "Adreno Graphics Drivers",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

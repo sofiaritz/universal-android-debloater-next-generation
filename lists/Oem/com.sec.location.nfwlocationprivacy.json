@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.location.nfwlocationprivacy",
+  "description": "Service provider location\nNot needed for location, I found something like that:\n(This app enables your carrier to access your location for network improvement or other reasons)\nThis app is hidden so idk how useful it is.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

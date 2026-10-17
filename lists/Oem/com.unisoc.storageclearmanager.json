@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.unisoc.storageclearmanager",
+  "description": "StorageClearManager\nUninstalling it doesn't seem to break anything for Android 10 GO, S21 Plus 2021_EEA.\nhttps://www.virustotal.com/gui/file/478e3ac5a3f7a69b73ae34d58ac246507deb0fdec439f9f5f6c7a2b28d450ae0",
+  "list": "Oem",
+  "removal": "Recommended"
+}

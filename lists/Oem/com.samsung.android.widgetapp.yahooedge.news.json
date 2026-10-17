@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.widgetapp.yahooedge.news",
+  "description": "Special edge panel widget for Yahoo News",
+  "list": "Oem",
+  "removal": "Recommended"
+}

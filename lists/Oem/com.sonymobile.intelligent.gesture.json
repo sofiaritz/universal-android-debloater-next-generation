@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.intelligent.gesture",
+  "description": "Smart call handling\nLets you handle incoming calls without touching the screen.\nhttps://support.sonymobile.com/global-en/xperiaxz/userguide/smart-call-handling/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.camerasdkservice",
+  "description": "SCameraService\nCamera SDK, probably used for the main camera app?\nThere are a lot of features that I do not know if it is not only available to developers.\nApp has many permissions like arcsoft, smartcamerascan, supernight, too many to write here.\nA strange app with many things sometimes mentioned in the code that it is used for calibration.",
+  "list": "Oem",
+  "removal": "Expert"
+}

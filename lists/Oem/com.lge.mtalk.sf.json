@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.mtalk.sf",
+  "description": "Voice Mate Speech Pack\nVoice Mate (now Q Vocie) is the LG Personal assistant (https://en.wikipedia.org/wiki/Voice_Mate)\nThis package provides speech pack. Is it the main Q-voice package ? I don't think so but I need confirmation.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

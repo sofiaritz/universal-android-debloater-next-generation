@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.xdivert",
+  "description": "Smart-Divert\nIf enabled, diverts your calls to another number.\nYou can choose to divert all calls, divert on no reply or divert when the line is busy.\nWhere can you enable/disable this feature?",
+  "list": "Misc",
+  "removal": "Recommended"
+}

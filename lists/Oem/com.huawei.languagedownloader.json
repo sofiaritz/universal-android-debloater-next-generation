@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.languagedownloader",
+  "description": "Allows you to load the system languages when changing them",
+  "list": "Oem",
+  "removal": "Advanced"
+}

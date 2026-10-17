@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.personalsafety",
+  "description": "Not needed for (com.google.android.apps.safetyhub).",
+  "list": "Google",
+  "removal": "Expert"
+}

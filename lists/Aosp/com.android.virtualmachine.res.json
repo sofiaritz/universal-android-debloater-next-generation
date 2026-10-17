@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.virtualmachine.res",
+  "description": "Empty app with no code that declares permissions to Use, Manage, Debug: Virtual Machine for use by other apps. Deleting this app may cause potential security issues because another app could redefine the permissions with lower restriction level. Nothing to gain by removing.\nIntroduced in Android 14.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.spdclient",
+  "description": "Security policy updates (part of KNOX)\nUpdates the SELinux policies according to Security Enhancements for Android (SE for Android)\nThere are privacy implications to the data collected by Samsung\nhttps://security.stackexchange.com/questions/161190/does-samsungs-security-enhancements-for-android-offer-anything-for-consumers\nNot mandatory if you know what you are doing and if you don't install software from unknown sources.\nNeeds confirmation but removing this package could change SELinux mode (enforcing by default)\nhttps://source.android.com/security/selinux",
+  "list": "Oem",
+  "removal": "Advanced"
+}

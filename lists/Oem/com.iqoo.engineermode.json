@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.iqoo.engineermode",
+  "description": "Factory test\nTesting things, AT Commands - no one uses them.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.KoBackup",
+  "description": "As of writing this, Huawei phones cannot be rooted.\nThis Backup application is probably able to backup more than any other 3rd party backup app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

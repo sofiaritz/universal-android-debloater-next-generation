@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.wifiplaytogether",
+  "description": "Play music together over Wi-Fi",
+  "list": "Oem",
+  "removal": "Recommended"
+}

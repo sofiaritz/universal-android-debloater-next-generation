@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huaqin.factory",
+  "description": "Hidden test app (dial *#*#64663#*#*)\nUsed by technician in factory to test the hardware. Not intented to be run by end-users.\nHas a huge amount of permissions.\nA vulnerability was found in 2019 (CVE-2019-15340) allowing any app co-located on the device to\nprogrammatically disable and enable Wi-Fi, Bluetooth, and GPS silently (and without the corresponding access permission)\nhttps://nvd.nist.gov/vuln/detail/CVE-2019-15340",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bc360.control",
+  "description": "Verizon Adaptive Sound\nProvides Voice Enhance, but according to the carrier.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

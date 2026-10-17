@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.svoice",
+  "description": "Samsung Voice (S Voice) was replaced by bixby on Samsung Galaxy S8(+) and newer phones.\nVirtual mobile personal assistant capable of running a  basic tasks through voice command alone.\nhttps://www.samsung.com/global/galaxy/what-is/s-voice/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

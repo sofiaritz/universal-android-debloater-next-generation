@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.spaceservice",
+  "description": "Huawei Geofence Services\nUses Chinese Location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

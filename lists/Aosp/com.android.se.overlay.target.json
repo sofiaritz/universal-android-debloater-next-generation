@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.se.overlay.target",
+  "description": "Looks like needed to 'com.android.se'.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

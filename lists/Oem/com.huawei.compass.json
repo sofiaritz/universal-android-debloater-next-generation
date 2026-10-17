@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.compass",
+  "description": "Huawei Compass app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

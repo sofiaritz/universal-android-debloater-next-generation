@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.systemupdate",
+  "description": "SystemUpdate\nSystem updater for Samsung phones.\nhttps://docs.samsungknox.com/CCMode/G985F_Q.pdf",
+  "list": "Oem",
+  "removal": "Expert"
+}

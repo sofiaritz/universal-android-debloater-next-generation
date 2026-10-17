@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ime",
+  "description": "LG Stock Keyboard\nDo not remove if you don't have an alternate keyboard available. Personally, I keep the stock keyboard just in case the keyboard app crash/fails (this happened to me once) locking me out of entering password.",
+  "list": "Oem",
+  "removal": "Expert"
+}

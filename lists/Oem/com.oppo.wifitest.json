@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.wifitest",
+  "description": "Wi-Fi RF, RX test",
+  "list": "Oem",
+  "removal": "Recommended"
+}

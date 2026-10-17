@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.magicshow",
+  "description": "(Bad) video Player with Ads and weak security (including an unsecured WebView implementation that can lead to XSS attacks.\nPithus analysis: https://beta.pithus.org/report/33cd478cc18f3a2c0d5f7fd33c7350127ee2cff7acdf87f70641ca21dd2b2dcb",
+  "list": "Oem",
+  "removal": "Recommended"
+}

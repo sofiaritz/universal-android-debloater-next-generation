@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sohu.inputmethod.sogou.nubia",
+  "description": "Chinese keyboard Closed-source (install other keyboard before removing this)\nBetter alternative: https://f-droid.org/en/packages/dev.patrickgold.florisboard/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

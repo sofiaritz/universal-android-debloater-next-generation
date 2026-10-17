@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.fingerprint.service",
+  "description": "Fingerprint service",
+  "list": "Oem",
+  "removal": "Advanced"
+}

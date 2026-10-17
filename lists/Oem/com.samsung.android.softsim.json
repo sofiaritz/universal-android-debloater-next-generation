@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.softsim",
+  "description": "Softsim Service\nInstalls softsim and it's full Chinese.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.qvaoverlay.common",
+  "description": "This app has no code and is safe to remove.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

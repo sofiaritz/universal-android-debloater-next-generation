@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.samsung",
+  "description": "Mobile Services Manager\nDigital Turbine app, pre-install some apps/games to your phone and its made by advertising company.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

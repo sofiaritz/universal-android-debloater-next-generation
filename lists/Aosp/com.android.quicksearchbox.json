@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.quicksearchbox",
+  "description": "Google quick search box. OEMs (e.g. Xiaomi) can modify this for their use.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

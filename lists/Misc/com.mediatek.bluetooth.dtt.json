@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.bluetooth.dtt",
+  "description": "Bluetooth logging.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

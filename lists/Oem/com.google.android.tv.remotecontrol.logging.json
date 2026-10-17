@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.remotecontrol.logging",
+  "description": "Needed for logging?",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.encryption",
+  "description": "Private Safe\nRemoving breaks the stock launcher? Private Safe (located in Privacy Settings)",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.comcast.settings.extensions",
+  "description": "Most likely provides a special settings menu for Comcast stuff.\nI think it's installed on Xfinity branded phones.\nSafe to remove (tested only on non-Comcast phone).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

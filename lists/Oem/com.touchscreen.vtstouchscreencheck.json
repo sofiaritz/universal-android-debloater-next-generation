@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.touchscreen.vtstouchscreencheck",
+  "description": "VtsTouchscreenCheck\nIt's testing things app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

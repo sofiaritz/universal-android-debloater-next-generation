@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.crucialsoft.asm",
+  "description": "Doesn't seem to do anything, but has permissions to read and write storage. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

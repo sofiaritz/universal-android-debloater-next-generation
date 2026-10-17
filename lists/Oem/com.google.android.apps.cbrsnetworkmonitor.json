@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.cbrsnetworkmonitor",
+  "description": "it's used for spying on you. (citizen broadband network monitor)\nRequire google play services and have location permission.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

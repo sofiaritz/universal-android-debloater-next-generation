@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.basiccolorwhite.overlay",
+  "description": "Light theme for phone app?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

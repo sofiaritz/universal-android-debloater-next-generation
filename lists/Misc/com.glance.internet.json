@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.glance.internet",
+  "description": "Displays unsolicited\"trending\" stories on Lockscreen",
+  "list": "Misc",
+  "removal": "Recommended"
+}

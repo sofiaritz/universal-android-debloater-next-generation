@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evernote.promohelper",
+  "description": "Companion for the Evernote app, seems to drain battery.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.msg",
+  "description": "+Message\nA messaging app using a carrier-customized RCS implementation by Softbank, au, and docomo. It adds LINE-like features to the standard SMS/RCS.\nSafe to remove, but recommended to have an alternative SMS app for OTPs.\nGoogle Messages is a simpler and more standard alternative.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

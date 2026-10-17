@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.selfmotionpanoramaviewer",
+  "description": "Selfie panorama viewer\nLets you see the result of a selfie motion panorama\nhttps://www.samsung.com/global/galaxy/what-is/motion-panorama/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

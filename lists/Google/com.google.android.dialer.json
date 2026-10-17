@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.dialer",
+  "description": "Google Dialer (https://play.google.com/store/apps/details?id=com.google.android.dialer)\nDefault dialer on some phones.\nGoogle Analytics are embedded in the app, assume everything is datamined.\nhttps://www.virustotal.com/gui/file/a978d90f27d5947dca33ed59b73bd8efbac67253f9ef7a343beb9197c8913d1a/details",
+  "list": "Google",
+  "removal": "Advanced"
+}

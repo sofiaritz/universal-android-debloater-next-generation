@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.omacp",
+  "description": "Provisioning message\nUsed for provisioning APN settings to devices via SMS. I think you shouldnt touch it if you want sms messages.",
+  "list": "Oem",
+  "removal": "Expert"
+}

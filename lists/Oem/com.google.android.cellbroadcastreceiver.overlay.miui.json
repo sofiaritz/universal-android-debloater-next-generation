@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.cellbroadcastreceiver.overlay.miui",
+  "description": "Disable opt out dialog to cellbroadcastreceiver? I never seen that. Unused.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.appdirectedsmsproxy",
+  "description": "An Application directed SMS (or rather a Port directed SMS) is an SMS directed to a specific port.\nApps need to listen to this port to get the SMS message.\nI don't know if this package allows port directed SMS or if it just provide a proxy feature.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

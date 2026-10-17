@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.imonitor",
+  "description": "imonitor\nHidden logs founded in app.\nDetects app launch anomaly and runs safe mode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

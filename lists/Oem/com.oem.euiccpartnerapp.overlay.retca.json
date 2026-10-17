@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oem.euiccpartnerapp.overlay.retca",
+  "description": "This package is related to the eUICC (embedded Universal Integrated Circuit Card) partner application, specifically an OEM overlay that deals with eSIM functionality and management.",
+  "list": "Oem",
+  "removal": "Expert"
+}

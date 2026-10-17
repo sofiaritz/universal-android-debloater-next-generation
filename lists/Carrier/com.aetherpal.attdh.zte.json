@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aetherpal.attdh.zte",
+  "description": "Device Help for AT&T ZTE devices.\nDeveloped by Aetherpal, a company which sells smart remote controls tools (https://en.wikipedia.org/wiki/AetherPal)\nI guess this app is used for tech support.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

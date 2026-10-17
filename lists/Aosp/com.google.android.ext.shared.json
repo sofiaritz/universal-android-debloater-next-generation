@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.ext.shared",
+  "description": "Android Shared Library.\nMaybe people thinking it's safe to remove or it's useless because it's empty.\nbut it cause bootloop on my miui 14.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

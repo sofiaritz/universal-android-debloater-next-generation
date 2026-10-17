@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.accessory.beansmgr",
+  "description": "Gear IconX Plugin (https://play.google.com/store/apps/details?id=com.samsung.accessory.beansmgr)\nAllows you to use features such as device settings and status view when connected to a Samsung Gear IconX (2018) device.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

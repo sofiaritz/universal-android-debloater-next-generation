@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.fmradiooverlay",
+  "description": "Overlay app for com.ape.fmradio.\n If we uninstall com.ape.fmradio this package should be removed also.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.storagemanager",
+  "description": "Storage management app for Android devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

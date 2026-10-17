@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.mapslite",
+  "description": "Google Maps Go (lite web app of Maps) (https://play.google.com/store/apps/details?id=com.google.android.apps.mapslite)",
+  "list": "Google",
+  "removal": "Recommended"
+}

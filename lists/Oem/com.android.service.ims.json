@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.service.ims",
+  "description": "It's for subscribing to the presence information using RCS.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

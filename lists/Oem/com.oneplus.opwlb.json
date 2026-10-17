@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.opwlb",
+  "description": "Work-Life Balance\nNot present in most Oneplus phones? This functionality might have been superseded by other similar apps, like for example Zen Mode.\nHaven't tested, but probably safe to disable.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

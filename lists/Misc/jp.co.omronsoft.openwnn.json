@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.omronsoft.openwnn",
+  "description": "Japanese keyboard/IME (don't know why it's pre-installed on US/european devices)\nNote : IME = input method editor",
+  "list": "Misc",
+  "removal": "Recommended"
+}

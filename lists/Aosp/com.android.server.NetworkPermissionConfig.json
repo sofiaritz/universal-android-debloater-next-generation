@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.server.NetworkPermissionConfig",
+  "description": "Network configurations.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

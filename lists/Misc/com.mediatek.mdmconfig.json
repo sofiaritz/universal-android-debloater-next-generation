@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mdmconfig",
+  "description": "Mobile Device Management (MDM) allows company\u2019s IT department to reach inside your phone in the background, allowing them to ensure\nyour device is secure, know where it is, and remotely erase your data if the phone is stolen.\nIt's a way to ensure employees stay productive and do not breach corporate policies\nYou should NEVER have a MDM tool on your personal phone. Never.\nhttps://blog.cdemi.io/never-accept-an-mdm-policy-on-your-personal-phone/\nThis package probably isn't a MDM tool on its own but you definitively don't need it on your phone.\nCan someone share the apk?",
+  "list": "Misc",
+  "removal": "Recommended"
+}

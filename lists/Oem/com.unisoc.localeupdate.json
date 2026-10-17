@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.unisoc.localeupdate",
+  "description": "Local System Update\nNeeded for system updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

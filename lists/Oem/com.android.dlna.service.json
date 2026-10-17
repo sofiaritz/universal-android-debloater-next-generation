@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dlna.service",
+  "description": "Screen cast OPPO.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

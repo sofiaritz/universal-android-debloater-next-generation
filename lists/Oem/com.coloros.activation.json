@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.activation",
+  "description": "E-warranty card\nLets you check if your registered phone is still under warranty (will send your IMEI to esa-reg-eup.myoppo.com. Has a lot of permissions and run at boot\n\nPithus analysis: https://beta.pithus.org/report/2a1dc5caedd2347fa009563e9b4d1c11b1cb42726f9046151934c456fdd77d88",
+  "list": "Oem",
+  "removal": "Advanced"
+}

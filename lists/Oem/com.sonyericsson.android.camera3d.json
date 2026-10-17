@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.camera3d",
+  "description": "Sony camera app (on older phones)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

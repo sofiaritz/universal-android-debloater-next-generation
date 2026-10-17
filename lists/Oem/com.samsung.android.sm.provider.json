@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sm.provider",
+  "description": "Smart Manager Provider\nSCPM Client? A lot debugging stuff",
+  "list": "Oem",
+  "removal": "Recommended"
+}

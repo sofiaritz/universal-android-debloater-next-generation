@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.paramupdater",
+  "description": "I am not sure what this app is for.\nCollects systeminfo, time, has notification about update.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

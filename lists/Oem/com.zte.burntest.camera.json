@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.burntest.camera",
+  "description": "Possibly a hidden stress testing app for camera.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.lockscreen2",
+  "description": "Lockscreen\nIt should be important for lockscreen.",
+  "list": "Oem",
+  "removal": "Expert"
+}

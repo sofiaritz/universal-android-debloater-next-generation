@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.fm",
+  "description": "Samsung Radio\nListen to FM radio stations",
+  "list": "Oem",
+  "removal": "Advanced"
+}

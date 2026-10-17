@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.packageinstaller",
+  "description": "Package installer\nHardcoded in Xiaomi China Rom.\nCauses BOOTLOOP on Chinese ROM When remove.\nIt's weird when after a month this app is gone from my phone for no reason and Android enabled stock package installer.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

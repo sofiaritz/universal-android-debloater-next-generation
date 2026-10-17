@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.autoinstalls.config.motorola.layout",
+  "description": "Device configuration for Motorola\nAutoInstalls a set of OEM apps on device setup (first boot/factory reset).\nA layout?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

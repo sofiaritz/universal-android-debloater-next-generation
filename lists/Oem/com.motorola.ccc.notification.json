@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.ccc.notification",
+  "description": "Motorola Notifications (https://play.google.com/store/apps/details?id=com.motorola.ccc.notification)\nIf you opt-in, it sends periodic product-related information, including notifications on software updates, tips & tricks, survey and information\nabout new Motorola products and services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwdockbar",
+  "description": "Huawei Multi-Window dock\nProbably fine to remove if you're not using Huawei Multi-Window features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

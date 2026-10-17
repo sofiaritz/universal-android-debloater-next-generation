@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.recorder",
+  "description": "AOSP Call recorder function. Most of the time OEM use their own code for this.\nNOTE: Some OEMs (like Huawei & Xiaomi) use the same package name for their app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

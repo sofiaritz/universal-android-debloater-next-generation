@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.systemservice",
+  "description": "System Server\nNot sure if iths important app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

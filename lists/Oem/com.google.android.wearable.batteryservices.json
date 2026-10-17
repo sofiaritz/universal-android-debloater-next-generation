@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wearable.batteryservices",
+  "description": "It's used to manage battery-related things on Android smartwatches, like monitoring the battery level, managing power consumption (auto battery saving I think), and handling battery-related events (pop-up when battery at 15%, etc.). It is typically used by developers to create battery-aware applications for wearable devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

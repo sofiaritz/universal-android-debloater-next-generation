@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.channel",
+  "description": "Mi Talk\nMi instant messaging app that lets you do practically the same thing as Whatsapp.\nNOTE: You should use Signal or Wire instead Whatsapp/Mi Talk for more privacy.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

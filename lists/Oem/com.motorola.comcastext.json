@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.comcastext",
+  "description": "See above. Provides special (useless) features from Comcast? App title is\"Activation\". Safe to remove (tested only on non-Comcast phone).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.intentresolver",
+  "description": "'Share' functionality will be disabled after uninstalling this package on Android 14 and up. Additionally, motion photos will become broken.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

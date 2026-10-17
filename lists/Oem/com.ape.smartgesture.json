@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.smartgesture",
+  "description": "Provide smart gesture feature for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

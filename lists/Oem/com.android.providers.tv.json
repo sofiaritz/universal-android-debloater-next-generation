@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.tv",
+  "description": "TV Storage\nProvides TV listings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

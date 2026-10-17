@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.QRreader",
+  "description": "Samsung QR code reader.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

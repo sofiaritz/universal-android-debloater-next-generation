@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.faceid",
+  "description": "Needed for Face Unlock lock screen.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.printservice.recommendation",
+  "description": "I think this has to do with recommending a printservice app you can get from the Play store.\nI think printing still works with this off.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

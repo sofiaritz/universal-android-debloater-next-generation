@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.advancedcallservice",
+  "description": "Advanced Calling feature on an Android is a feature that allows you to make calls while using other applications with the use of CELLULAR DATA. In order for this feature to work, HD Voice must be enabled in settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

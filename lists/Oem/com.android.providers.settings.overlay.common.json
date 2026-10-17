@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.settings.overlay.common",
+  "description": "Better keep this for acceleration? Better don't risk.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

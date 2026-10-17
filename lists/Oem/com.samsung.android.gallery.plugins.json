@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.gallery.plugins",
+  "description": "SamsungGallery Plugins\nChinese mapcamera plugin.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "asusims.overlay.common",
+  "description": "It have important configs better dont risk.\nImportant configs to android.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

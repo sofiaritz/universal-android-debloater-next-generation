@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.setup.overlay.gabuttonrighttop",
+  "description": "Useless component of (com.motorola.setup)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.sdencryption",
+  "description": "Encryption devices like SD card.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

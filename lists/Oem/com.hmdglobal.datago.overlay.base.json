@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hmdglobal.datago.overlay.base",
+  "description": "Theme overlay for a Nokia telemetry package?",
+  "list": "Oem",
+  "removal": "Expert"
+}

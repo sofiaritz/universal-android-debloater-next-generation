@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.desktopsystemui",
+  "description": "Samsung DeX UI\nExtends your smartphone into a\"desktop computing experience\".\nhttps://developer.samsung.com/samsung-dex/how-it-works",
+  "list": "Oem",
+  "removal": "Recommended"
+}

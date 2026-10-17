@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miuix.editor",
+  "description": "textaction\nIt's probably used for FrequentPhrase(`com.miui.phrase`) but also Frequent Phrases is unknown app so it's safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

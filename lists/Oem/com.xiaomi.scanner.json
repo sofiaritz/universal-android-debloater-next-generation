@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.scanner",
+  "description": "Mi Scanner\nQR code scanner with a lot of questionable permissions : `ACCESS_FINE_LOCATION`, `CALL_PHONE`, `READ_CONTACTS`, `REQUEST_INSTALL_PACKAGES`, `QUERY_ALL_PACKAGES`, `FOREGROUND_SERVICE`, `INTERNET`",
+  "list": "Oem",
+  "removal": "Recommended"
+}

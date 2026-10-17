@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.partnerbrowsercustomizations.example",
+  "description": "This hidden Chinese/Romanian adware changes Google Chrome's home page, it varies by manufacturers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

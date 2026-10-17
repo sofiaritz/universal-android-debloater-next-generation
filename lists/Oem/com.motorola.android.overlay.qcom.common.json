@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.overlay.qcom.common",
+  "description": "This package is part of Motorola\u2019s custom overlay and is associated with Qualcomm (Qcom) related functionality or optimizations.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

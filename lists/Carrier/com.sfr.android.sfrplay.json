@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sfr.android.sfrplay",
+  "description": "SFR Play (https://play.google.com/store/apps/details?id=com.sfr.android.sfrplay)\nVOD streaming from SFR.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

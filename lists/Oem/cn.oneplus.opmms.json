@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.oneplus.opmms",
+  "description": "OPMmsLocation\nDetermines your location when sending SMS/MMS?\nChina-only? (\"cn\" is China's country code)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

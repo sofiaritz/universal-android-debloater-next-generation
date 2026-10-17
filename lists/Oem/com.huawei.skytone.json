@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.skytone",
+  "description": "SkyTone Data Service. Frameworks to 'com.huawei.hiskytone' SkyTone Overseas Data Service.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

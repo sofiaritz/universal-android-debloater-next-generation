@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.headset",
+  "description": "HeyTap Melody App used to manage Oppo Bluetooth Earphones.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

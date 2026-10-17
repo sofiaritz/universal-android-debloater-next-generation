@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nt.android.overlay.gmsconfig.safetycenter",
+  "description": "Useless overlay to nothing gmsconfig safetycenter",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.LGSetupWizard",
+  "description": "The first time you turn your device on, a Welcome screen is displayed. It guides you through the basics of setting up your device.\nIt's the setup for LG services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

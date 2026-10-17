@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.hardwareinfo",
+  "description": "Has a lot statistics and takes info about device.\nRequires Google Play Services, also assumes call notifications?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

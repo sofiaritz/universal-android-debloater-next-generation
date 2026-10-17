@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.appupdater",
+  "description": "Discontinued app to update Samsung's proprietary apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

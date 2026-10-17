@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.core.internal.services",
+  "description": "I only found: array name= config_deviceSpecificSystemServices\nitem: com.miui.me.server.auto_install.InstallService\nWhat does this mean? I have to check com.miui.core what it does and it's for autoinstall miui apps updates from GetApps 'com.xiaomi.market'.",
+  "list": "Oem",
+  "removal": "Expert"
+}

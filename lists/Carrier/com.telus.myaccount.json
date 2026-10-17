@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.telus.myaccount",
+  "description": "My TELUS app\nIt's used for managing your telus account\nSafe to remove if you don't use it",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

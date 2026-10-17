@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.managedprovisioning",
+  "description": "Work Setup/Work profile setup\nManages Android user account profiles.\nThe typical use-case is setting up a corporate profile that is controlled by the employer on an employee's personal device, to keep personal and work data separate.\nhttps://support.google.com/work/android/answer/6191949?\nhttps://developers.google.com/android/work/requirements/work-profile\nNeeded for sandbox's apps like Shelter/Island.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

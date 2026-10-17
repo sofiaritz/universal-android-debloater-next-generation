@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.eltest",
+  "description": "ELTest\nDevice hardware tests settings",
+  "list": "Oem",
+  "removal": "Recommended"
+}

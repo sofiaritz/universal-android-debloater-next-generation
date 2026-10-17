@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.settings.diag_mdlog",
+  "description": "Diag_mdlog is a small proprietary Qualcomm program which can store DIAG logs on the filesystem.\nNo longer in Android 10 image",
+  "list": "Oem",
+  "removal": "Recommended"
+}

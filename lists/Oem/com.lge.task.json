@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.task",
+  "description": "LG Tasks\nNeeded by LG Calendar or it will force close.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

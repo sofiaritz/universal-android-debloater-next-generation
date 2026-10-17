@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.cleanassist",
+  "description": "Provides junk cleaner feature for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

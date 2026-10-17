@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.aliveprivacy",
+  "description": "Content Suggestions is an AI-based app inside the Secure Folder, and its on-device AI-powered engine automatically suggests users to move private images of pre-selected categories to the Secure Folder. For this to happen users have to simply select specific faces or a type of image they want to tag as private and keep them secured in the private gallery of the Secure Folder. Once the initial setup is complete, the AI engine kicks in and identifies relevant images from the entire gallery. As this is an on-device AI solution, no information or image ever leaves the smartphone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}
