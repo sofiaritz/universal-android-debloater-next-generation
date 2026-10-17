@@ -1,12 +1,4 @@
 {
-  "Info.Plateau.Einkbro": {
-    "dependencies": [],
-    "description": "Open source web browser designed to fit E-ink devices, https://github.com/plateaukao/einkbro",
-    "labels": [],
-    "list": "Misc",
-    "neededBy": [],
-    "removal": "Advanced"
-  },
   "air.com.playtika.slotomania": {
     "dependencies": [],
     "description": "Slotomania (https://play.google.com/store/apps/details?id=air.com.playtika.slotomania)\nPreinstalled game on some Samsung phones. 31 permissions, 13 trackers: https://reports.exodus-privacy.eu.org/reports/air.com.playtika.slotomania/latest/",
