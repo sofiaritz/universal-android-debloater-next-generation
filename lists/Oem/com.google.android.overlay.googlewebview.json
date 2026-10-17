@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.googlewebview",
+  "description": "Once configs webview default to google. Bricks google login functionality.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

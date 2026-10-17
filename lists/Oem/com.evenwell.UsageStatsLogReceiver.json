@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.UsageStatsLogReceiver",
+  "description": "Logging stuff",
+  "list": "Oem",
+  "removal": "Advanced"
+}

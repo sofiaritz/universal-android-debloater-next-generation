@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.videoplayer",
+  "description": "LG Video Player\nNB : This is a bad one. VLC is much better.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

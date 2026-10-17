@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.cleanassistoverlay",
+  "description": "Overlay app for com.ape.cleanassist.\n If we uninstall com.ape.cleanassist this package should be removed also.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

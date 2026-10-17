@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.nttdocomo.saigaiban",
+  "description": "Disaster kit (https://www.docomo.ne.jp/info/disaster/disaster_kit/)\nA dedicated app for docomo's safety registration service used during major emergencies. It allows users to post and search for safety status.\nNOTE: This is not related to the core functionality of Area Mail (early warning). For checking Area Mail history, you can find it in system settings.\nSafe to remove; use web171.jp, Disaster Message Dial (171) or LINE's safety status feature instead for about safety status.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

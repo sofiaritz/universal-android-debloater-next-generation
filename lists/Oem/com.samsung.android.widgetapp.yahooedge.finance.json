@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.widgetapp.yahooedge.finance",
+  "description": "Special edge panel widget for Yahoo Finance",
+  "list": "Oem",
+  "removal": "Recommended"
+}

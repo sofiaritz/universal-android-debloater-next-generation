@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.widget.smallweather",
+  "description": "It is classified as a Safe app to remove. It is a widget that displays clock and weather, weather warnings, the clock, 15-day forecasts, etc.\nDoes not work with the at a Glance Google widget",
+  "list": "Oem",
+  "removal": "Advanced"
+}

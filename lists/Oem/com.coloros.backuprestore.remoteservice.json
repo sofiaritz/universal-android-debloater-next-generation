@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.backuprestore.remoteservice",
+  "description": "It has something to scan always Wi-Fi but it's probably unused.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

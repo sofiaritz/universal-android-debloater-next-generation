@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.felicanetworks.mfw.a.boot",
+  "description": "Osaifu-Keitai Web Plugin (https://play.google.com/store/apps/details?id=com.felicanetworks.mfw.a.boot)\nUsed by websites on your browser to get payment information and process payments with FeliCa.\nSafe to remove if you don't use Osaifu-Keitai online.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

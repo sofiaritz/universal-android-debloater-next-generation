@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.ims.pco",
+  "description": "Protocol Configuration Options service for IMS\nIMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling). This package enable automatic configuration pushed by your carrier. You could possibly remove it if you don't use IMS.",
+  "list": "Misc",
+  "removal": "Expert"
+}

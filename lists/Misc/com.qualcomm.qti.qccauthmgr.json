@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qccauthmgr",
+  "description": "QCC-AUTHMGR\nIt have something to (com.qualcomm.qti.smq).\nFeedback stuff, something about key: blacklist, download or whatever.\nAll looks like telemetry and it's all not available for users.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

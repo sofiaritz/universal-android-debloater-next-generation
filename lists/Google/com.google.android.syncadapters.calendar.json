@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.syncadapters.calendar",
+  "description": "Synchronisation for Google Calendar.",
+  "list": "Google",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.twinappsservice",
+  "description": "Twin Apps Service\nNeeded for Twin Apps for duplicate apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

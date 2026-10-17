@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amazon.fv",
+  "description": "Amazon App suite. Provides access to Amazon digital content",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.tuface",
+  "description": "It's for faceid and probably needed for face unlock lock screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

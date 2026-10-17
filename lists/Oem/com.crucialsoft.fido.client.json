@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.crucialsoft.fido.client",
+  "description": "Does absolutely nothing. Despite the package name saying 'Fido', it is unrelated to Fido, it is an LG package. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

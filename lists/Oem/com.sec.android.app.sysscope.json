@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.sysscope",
+  "description": "Checks after every boot if the ROM and kernel have been modified. This package is usually present on Verizon-locked phones.\nVerizon has the ability to check if your device has root access (content://com.verizon.security/ROOT_STATUS)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.videoplayer.overlay",
+  "description": "Mi Video overlay\nOverlays are usually themes.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

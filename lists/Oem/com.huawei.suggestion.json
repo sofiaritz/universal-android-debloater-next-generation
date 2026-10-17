@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.suggestion",
+  "description": "HiSuggestion\nHw intelligence permissions found and logs, also maybe has suggestions on widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

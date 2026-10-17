@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.deskclock.overlay.thinarmor",
+  "description": "Overlay to theme icon Clock app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

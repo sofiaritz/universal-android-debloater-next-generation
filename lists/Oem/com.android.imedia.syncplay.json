@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.imedia.syncplay",
+  "description": "Party Mode\nParty Mode lets you sync music playback across multiple devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

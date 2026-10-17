@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.backuprestore",
+  "description": "Most likely Oppo backup/restore feature",
+  "list": "Oem",
+  "removal": "Recommended"
+}

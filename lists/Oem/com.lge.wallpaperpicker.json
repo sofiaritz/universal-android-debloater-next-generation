@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wallpaperpicker",
+  "description": "Wallpaper\nNeeded for wallpaper preview.",
+  "list": "Oem",
+  "removal": "Expert"
+}

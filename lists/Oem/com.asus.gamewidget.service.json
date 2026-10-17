@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.gamewidget.service",
+  "description": "Game genie service\nGame genie service needed for (`com.asus.gamewidget`)\nIt's probably useful for gaming.",
+  "list": "Oem",
+  "removal": "Expert"
+}

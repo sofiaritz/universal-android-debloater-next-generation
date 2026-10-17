@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.android.globalpersonalassistant",
+  "description": "MI Vault aka the\"assistant\" you open swiping left from MI Home",
+  "list": "Oem",
+  "removal": "Recommended"
+}

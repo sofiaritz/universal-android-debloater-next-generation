@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.miwallpaper",
+  "description": "Mi Wallpaper app, causes a lot of UI damage when removed, but not bootloop.\nRemoving this makes it impossible to set a lock or home screen wallpaper, resulting in a black solid wallpaper everywhere.\nNote: it may also result in longer boot times (~+10s) because the system tries to call Mi Wallpaper during boot.\nOn HyperOS 2.0, The fingerprint outline disappears on lock screen after removing this. The fingerprint recognicion itself works properly.\nEverything in the status bar is becoming colored black on the lock screen after removing this, and you can only see the battery color. Elsewhere the status bar is colored properly.\nOn HyperOS 2.0, you will have to remove this package and reboot 3-5 times. It constantly restores itself after each reboot until around 3rd-5th attempt. It vanishes fully only around 3-5 attempts.\nOn HyperOS 2.0, the default color for system icons is also being reset to brown after removing this package. Similar behavior to as described here might also be observed on other devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

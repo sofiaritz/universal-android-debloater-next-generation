@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gsf",
+  "description": "Google Services Framework\nSupports the Play Services application in application updates, user authentication, location services, user searches & more.\nhttps://android.stackexchange.com/questions/216176/what-is-the-exact-functionality-of-google-play-services-google-services-framew\nhttps://stackoverflow.com/questions/37337448/what-is-the-difference-between-google-service-frameworkgsfgoogle-mobile-servi\nSame recommendation as com.google.android.gms except I've never seen a bootloop because of deleting this package.",
+  "list": "Google",
+  "removal": "Expert"
+}

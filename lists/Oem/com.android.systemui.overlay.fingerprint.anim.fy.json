@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.fy",
+  "description": "Fingerprint Animation Fy when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

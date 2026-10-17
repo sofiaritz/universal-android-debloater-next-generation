@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.configupdater",
+  "description": "ASUS Config Updater\nSome people have removed this. Needed for ASUS autoupdate apps probably, also found debugging code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

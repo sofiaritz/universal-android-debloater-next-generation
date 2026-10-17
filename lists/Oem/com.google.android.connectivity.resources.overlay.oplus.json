@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.connectivity.resources.overlay.oplus",
+  "description": "Needed for network, may cause bootloop.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

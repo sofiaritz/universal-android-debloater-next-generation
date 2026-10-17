@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.email",
+  "description": "LG Email app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

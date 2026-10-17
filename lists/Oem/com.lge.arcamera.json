@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.arcamera",
+  "description": "ARCamera\nThis application requires google play services for ar. Not sure what for it is but probably for VR.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

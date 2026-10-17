@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.ses",
+  "description": "OPSes\nApk file name: OPSesAuthentication.\nContains a\"SesService\", but I've never seen it run.\nRelated to Amazon SES?(Simple Email Service) https://aws.amazon.com/ses/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

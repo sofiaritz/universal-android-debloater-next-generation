@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.launcher",
+  "description": "BvLauncher\nBlackview's launcher app.\nDON'T REMOVE IF YOU HAVEN'T INSTALLED ANOTHER LAUNCHER!\nhttps://www.blackview.hk/privacy",
+  "list": "Oem",
+  "removal": "Expert"
+}

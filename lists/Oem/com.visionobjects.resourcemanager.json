@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.visionobjects.resourcemanager",
+  "description": "Handwriting DB Updater (discontinued?)\nLanguage Updater from site http://samsungresources.visionobjects.com/\nBut it's tracker. I guess it's to Handwriting Service but not needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dreams.phototable.overlay",
+  "description": "Overlay for the phototable daydream? Overlays are usually themes, but not sure about this one.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

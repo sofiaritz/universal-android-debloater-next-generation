@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.omacp",
+  "description": "OTA Config and Settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.eyeprotect",
+  "description": "Eye protection mode\nSafe to remove if you dont use this feature. It can be found in the settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

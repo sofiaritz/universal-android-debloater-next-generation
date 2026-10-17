@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.hwouc",
+  "description": "OTA updates. Safe to remove if you have a very outdated device or flashed recovery.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.overlay.dcmconfig.sms",
+  "description": "Static overlay that sets \"config_defaultSms\" to \"+Message\" (com.nttdocomo.android.msg).\nNOTE: Safe to remove, reboot needed after uninstalling.\n\"+Message\" itself is safe to remove whether this overlay is installed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

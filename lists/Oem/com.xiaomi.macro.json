@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.macro",
+  "description": "MiMacro is an automation task from Xiaomi like touch on MIUI Game Turbo.\nHas INTERNET and READ_PHONE_STATE permission allowing access to the phone number, serial number, whether a call is active, the number that a call is connected to...\nWhat is sure (from the code) is that the app collects the IMEI.\n\nPithus analysis: https://beta.pithus.org/report/2b056ed84fe500552a58184035b962ba68af29457c24930c0aa8c9eba4af7bcf",
+  "list": "Oem",
+  "removal": "Recommended"
+}

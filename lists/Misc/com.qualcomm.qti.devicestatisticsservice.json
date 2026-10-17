@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.devicestatisticsservice",
+  "description": "Device statistics service Statistics of the phone's usage:data, Wifi, battery, the use of various software, number of SMS and emails sent, etc.\nis not very useful, can be removed.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

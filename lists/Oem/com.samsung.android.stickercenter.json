@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.stickercenter",
+  "description": "Sticker center. Used to retrieve stickers from the web in the camera app.\nhttps://developer.samsung.com/galaxy/stickers",
+  "list": "Oem",
+  "removal": "Recommended"
+}

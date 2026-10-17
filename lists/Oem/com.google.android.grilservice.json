@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.grilservice",
+  "description": "Has too much random logging, metrics stuff.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

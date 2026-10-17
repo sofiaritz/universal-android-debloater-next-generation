@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.cameraextension.permission",
+  "description": "Provides third party apps access to AR effect and other plugins, removing will break camera functionality",
+  "list": "Oem",
+  "removal": "Expert"
+}

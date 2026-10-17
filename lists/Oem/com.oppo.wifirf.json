@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.wifirf",
+  "description": "Wifi Rf Test",
+  "list": "Oem",
+  "removal": "Recommended"
+}

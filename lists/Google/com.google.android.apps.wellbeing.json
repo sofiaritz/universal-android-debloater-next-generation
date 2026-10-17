@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.wellbeing",
+  "description": "Digital Wellbeing (https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)\nLets you track device and app usage and set usage limits.\nWARNING: It is now a hard dependency for the Settings app on Android 12+ for Pixel phones. After uninstalling, there will be an empty entry on Settings. Rebooting should make it disappear..",
+  "list": "Google",
+  "removal": "Advanced"
+}

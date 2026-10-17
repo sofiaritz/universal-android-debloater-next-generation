@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.overlay.carriersettings",
+  "description": "Overlay to (com.google.android.carrier)\nAnyway, this app doesn't exist on your phone I guess.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.pixelmigrate",
+  "description": "Data Transfer Tool\nIt's probably restore apps on setup wizard first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

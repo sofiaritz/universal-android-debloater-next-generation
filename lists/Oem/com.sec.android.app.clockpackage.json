@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.clockpackage",
+  "description": "Samsung clock",
+  "list": "Oem",
+  "removal": "Advanced"
+}

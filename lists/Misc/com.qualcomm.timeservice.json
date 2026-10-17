@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.timeservice",
+  "description": "Qualcomm Time Service\nUpdates time-services user time offset when user changes time of the day and Android sends a TIME_CHANGED or DATE_CHANGED intents.\nTime-services restores the time of the day after reboot using this offset:\nhttps://github.com/bcyj/android_tools_leeco_msm8996/blob/master/time-services/src/com/qualcomm/timeservice/TimeServiceBroadcastReceiver.java",
+  "list": "Misc",
+  "removal": "Expert"
+}

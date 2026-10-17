@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.tzdata.update",
+  "description": "App for updating time zone changes on Samsung devices. Now discontinued and completely useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

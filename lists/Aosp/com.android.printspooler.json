@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.printspooler",
+  "description": "Print Spooler\nManages the printing process.\nRuns on boot, but not beyond that.\nWARNING: Disabling breaks the connection preferences submenu in the settings app on most devices, but other than that it only breaks printing functionality and is safe to disable.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

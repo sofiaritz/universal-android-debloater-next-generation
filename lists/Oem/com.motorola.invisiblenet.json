@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.invisiblenet",
+  "description": "Invisible net\nApp for Alias ID, Shortcut Installer(Most of the apps I have seen are Chinese apps).\nIt's some kind of a stub application launcher, if you open any of it's activities it goes to the play store or to the browser.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

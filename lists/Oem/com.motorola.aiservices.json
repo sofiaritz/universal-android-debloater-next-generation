@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.aiservices",
+  "description": "Moto AI Services\nService to supply artificial intelligence models to Motorola apps\nhttps://play.google.com/store/apps/details?id=com.motorola.aiservices",
+  "list": "Oem",
+  "removal": "Recommended"
+}

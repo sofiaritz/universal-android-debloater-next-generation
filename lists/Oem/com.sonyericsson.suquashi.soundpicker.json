@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.suquashi.soundpicker",
+  "description": "Ringtone/notification/alarm time picker",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

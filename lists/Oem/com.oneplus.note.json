@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.note",
+  "description": "OnePlus Notes app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

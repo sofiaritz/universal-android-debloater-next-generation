@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.eula.downloader",
+  "description": "Privacy Policy Update\nNot tested but probably safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

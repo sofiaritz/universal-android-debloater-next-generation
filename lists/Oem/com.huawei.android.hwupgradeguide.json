@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.hwupgradeguide",
+  "description": "hwupgradeguide\nit's guide menu at first start AppGallery.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

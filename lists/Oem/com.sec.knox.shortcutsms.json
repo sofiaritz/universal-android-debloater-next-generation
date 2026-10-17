@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.shortcutsms",
+  "description": "Knox shortcut to switch to workspace\nhttps://docs.samsungknox.com/knox-platform-for-enterprise/admin-guide/workspace-shortcuts.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

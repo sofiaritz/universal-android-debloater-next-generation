@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ia.task.incalagent",
+  "description": "InCalAgent\nRelated to interface while you're in a call. Seems also related to tasks list stuff.\nCan someone tell me what happens when you delete it ? I think it is safe.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sdm.plugins.dcmo",
+  "description": "Carrier OMADM\nAnother thing to VoLTE.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

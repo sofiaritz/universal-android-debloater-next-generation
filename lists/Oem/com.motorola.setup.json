@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.setup",
+  "description": "Related to Motorola Account setup (only during first boot?) DO NOT REMOVE unless you don't care about security patches. Freezing this package completely halts Google Play System Updates (Project Mainline), preventing the device from receiving security fixes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

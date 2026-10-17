@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.android.addoncamera.dual",
+  "description": "Provides an addon to enable dual camera functionality, safe to remove if you don\u2019t need camera add-ons",
+  "list": "Oem",
+  "removal": "Advanced"
+}

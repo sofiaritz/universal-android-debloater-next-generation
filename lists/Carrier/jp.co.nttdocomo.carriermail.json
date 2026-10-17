@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.nttdocomo.carriermail",
+  "description": "docomo mail\nCarrier mail app. Safe to remove.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

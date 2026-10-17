@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.ctautoregist",
+  "description": "Has something related to IMS SMS",
+  "list": "Oem",
+  "removal": "Advanced"
+}

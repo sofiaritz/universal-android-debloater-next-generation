@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.rkpdapp",
+  "description": "The Remote Provisioner app. Provisions cryptographic keys remotely from google servers instead of generating them only on-device.\nIt's likely to break security apps and services, such as bank apps, payment services, authentication, and other security-requiring operations if removed, as they won't work without cryptographic keys.\nPlay Integrity is also likely fail.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

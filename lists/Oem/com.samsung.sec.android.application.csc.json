@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.sec.android.application.csc",
+  "description": "Do something related to Country Specific Code (CSC). Maybe it only let you change your CSC\nEvery Android device from Samsung has a folder called CSC.\nThis folder contains some XML files that keep the configuration codes for the country and carrier-based customization options.\nMaybe it's safe to remove if you'll never change your CSC but it needs testing and I lack time for this.\n(I already have plenty of other packages uninstallation to test)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

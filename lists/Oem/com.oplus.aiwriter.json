@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.aiwriter",
+  "description": "AI Writer\nPop-up for AI text generation, often appears in places that are not text input fields.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

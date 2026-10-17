@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.bttestmode",
+  "description": "OnePlus Bluetooth test mode\nType *#*#232339#*#* in the OnePlus dialer to access this hidden test menu.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

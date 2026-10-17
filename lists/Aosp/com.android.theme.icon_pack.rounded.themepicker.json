@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon_pack.rounded.themepicker",
+  "description": "Obviously related to the\"rounded\" icon pack but the full package is strange. A themepicker class only for a specific icon package?\nSafe to remove if you don't use them, but there's no point in doing so.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

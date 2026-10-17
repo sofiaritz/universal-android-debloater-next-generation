@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.SSRestartDetector",
+  "description": "SubSystem Restart Service, Collects ram dump, crash count.\nStill unknown.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

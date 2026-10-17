@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.server.telecom.a_overlay",
+  "description": "Overlay for com.android.server.telecom?",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

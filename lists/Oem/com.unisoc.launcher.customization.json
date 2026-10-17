@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.unisoc.launcher.customization",
+  "description": "Unisoc Home Screen\nPartner Customization launcher.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

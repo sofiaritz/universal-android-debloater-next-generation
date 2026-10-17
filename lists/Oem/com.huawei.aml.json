@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.aml",
+  "description": "Huawei AML\nA hidden app, which has phone, location and SMS permissions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

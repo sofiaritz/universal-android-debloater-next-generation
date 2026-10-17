@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.duokan.phone.remotecontroller",
+  "description": "Mi Remote Controller (https://play.google.com/store/apps/details?id=com.duokan.phone.remotecontroller)\nControl your electric appliances with your phone using Mi Remote.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

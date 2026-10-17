@@ -20,6 +20,7 @@
         let
           inherit (pkgs) lib stdenv;
           runtimeLibs = [
+            pkgs.python315
             pkgs.fontconfig
             pkgs.freetype
           ]

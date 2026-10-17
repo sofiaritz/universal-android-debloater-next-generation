@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asurion.android.protech.att",
+  "description": "AT&T ProTech (https://play.google.com/store/apps/details?id=com.asurion.android.protech.att)\nHelp and support app. Lets you call or chat with a live U.S.-based AT&T ProTech support\"expert\".\nNote : This app is developed by Asurion, a US company whose business is to sell insurances.\nAll US carriers use Asurion for the phone insurances.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

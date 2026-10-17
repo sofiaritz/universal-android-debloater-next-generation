@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.partnerbrowsercustomizations.chromeHomepage",
+  "description": "Horrible stuff for Google Chrome. This package bypass your DNS settings (for letting pass Google ads)",
+  "list": "Google",
+  "removal": "Recommended"
+}

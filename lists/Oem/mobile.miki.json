@@ -1,0 +1,6 @@
+{
+  "pkg_name": "mobile.miki",
+  "description": "Samsung's Factory Mode app for hardware testing and diagnostics.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

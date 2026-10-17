@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.entitlement.o2",
+  "description": "Unknown, seems to be United Kingdom, Germany specific to the O2 carrier.\nhttps://en.wikipedia.org/wiki/O2_(brand)\nIf you don't use O2 carrier, it's safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

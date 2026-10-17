@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.smart5g",
+  "description": "Battery saving for 5G.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.commonoverlay.com.android.systemui",
+  "description": "Needed for wellbeing or notifications?",
+  "list": "Oem",
+  "removal": "Expert"
+}

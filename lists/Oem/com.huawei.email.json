@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.email",
+  "description": "Huawei Email app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

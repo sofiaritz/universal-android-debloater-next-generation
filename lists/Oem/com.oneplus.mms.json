@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.mms",
+  "description": "OnePlus Messages (https://play.google.com/store/apps/details?id=com.oneplus.mms)\nOnly used on OnePlus 8 / 8 Pro according to the description.\nProbably safe to remove, just make sure to install another SMS app to not lose that functionality; QKSMS is a good FOSS replacement for basic SMS functionality and Google Messages is an option if you need full RCS support.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

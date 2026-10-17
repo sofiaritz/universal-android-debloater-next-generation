@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.vr.inputmethod",
+  "description": "Daydream virtual keyboard (VR stuff) (https://play.google.com/store/apps/details?id=com.google.android.vr.inputmethod)",
+  "list": "Google",
+  "removal": "Recommended"
+}

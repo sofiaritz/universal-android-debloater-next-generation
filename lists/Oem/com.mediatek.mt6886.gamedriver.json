@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mt6886.gamedriver",
+  "description": "Mediatek GPU Driver",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

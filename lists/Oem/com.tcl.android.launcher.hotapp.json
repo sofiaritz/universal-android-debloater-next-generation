@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.android.launcher.hotapp",
+  "description": "Hot Apps. Unrelated to Recent Apps (launcher and/or app-switcher).\nSeemingly empty, but requests network+internet access. The manifest references `com.bumptech.glide.integration.okhttp3.OkHttpGlideModule`",
+  "list": "Oem",
+  "removal": "Recommended"
+}

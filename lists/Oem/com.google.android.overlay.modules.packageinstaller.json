@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.packageinstaller",
+  "description": "Package installer ui changes to the classic after uninstallation.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

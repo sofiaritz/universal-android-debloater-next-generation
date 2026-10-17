@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.traceur",
+  "description": "System Tracing\nRecording device activity over a short period of time is known as system tracing. System tracing produces a trace file that can be used to generate a system report.\nNot useful if you're not a developer.\nhttps://developer.android.com/topic/performance/tracing",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.calculator",
+  "description": "Calculator - unit converter (https://play.google.com/store/apps/details?id=com.asus.calculator)\nHas more permissions than a Calculator app reasonably should have.\nConnects to a few Google and currency exchange-rate servers.\nhttps://beta.pithus.org/report/817514371bbdb76ec52da4c8456bbc116deec179603099deabbe6fcce6f6ccdb",
+  "list": "Oem",
+  "removal": "Recommended"
+}

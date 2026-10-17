@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.instantapps.supervisor",
+  "description": "Lets you try new games directly on Google Play.\nhttps://www.zdnet.com/article/googles-instant-apps-goes-live-now-you-can-try-android-apps-before-installing-them/",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.camerasaver",
+  "description": "Weird app that has BootCameraService. Probably you can't uninstall it.\nIn the code found things: createCameraPreviewSession, generateTextureIds, openCamera, setUpCameraOutputs.",
+  "list": "Oem",
+  "removal": "Expert"
+}

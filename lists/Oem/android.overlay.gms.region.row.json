@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.gms.region.row",
+  "description": "Useless overlay to setupwizard things",
+  "list": "Oem",
+  "removal": "Recommended"
+}

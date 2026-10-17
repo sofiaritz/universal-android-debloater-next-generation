@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.pixeldisplayservice",
+  "description": "Display management service for Pixel devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

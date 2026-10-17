@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.whitepages.nameid.tmobile",
+  "description": "T-mobile NAME ID by WhitePages (https://www.whitepages.com/)\nDiscontinued. Replaced by com.tmobile.services.nameid\nhttps://www.fiercewireless.com/wireless/t-mobile-to-offer-name-id-service-from-whitepages\nhttps://www.geekwire.com/2016/whitepages-spins-caller-id-spam-blocking-app-startup-hiya/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

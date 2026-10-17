@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.pushagent",
+  "description": "push notification agent\nSeems to only be used for Huawei apps\nThe recompiled java code makes it look like it's once again mainly used for analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

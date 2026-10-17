@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sharedstoragebackup",
+  "description": "Used during backup. Backs up the shared storage? (files accessible by every app with STORAGE permission)\nThings have changed with Android 10. Don't know if this package is still relevant for new phones.\nhttps://blog.mindorks.com/understanding-the-scoped-storage-in-android.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

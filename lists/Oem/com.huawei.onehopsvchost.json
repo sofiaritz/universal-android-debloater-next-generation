@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.onehopsvchost",
+  "description": "OneHopSvcHost\nTriggerservice opens hardware things by secret code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

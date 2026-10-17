@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.sarlevel",
+  "description": "Mobile phone SAR\nHidden SAR Level Activity.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

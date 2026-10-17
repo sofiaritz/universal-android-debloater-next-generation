@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ohos.collaborationcenter",
+  "description": "Sometimes ohos apps is configuration app before building.\nIn code I found it's for app cast transfer.\nDisable instead of uninstalling if you don't want to lose the widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

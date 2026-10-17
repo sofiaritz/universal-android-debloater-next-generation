@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.partnerbrowsercustomizations",
+  "description": "Oppo Bookmarks\nOppo default browser customization. Injects Oppo bookmarks",
+  "list": "Oem",
+  "removal": "Recommended"
+}

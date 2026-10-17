@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.taboola.mip",
+  "description": "Intrusive background module (Taboola) that keeps pushing a lock-screen stories feed \u2014 spam-ads and irrelevant articles (often from foreign/hostile sources).\nRuns in background, uses data, nags user until it is enabled. No system function \u2014 safe to remove.\nhttps://techissuestoday.com/motorola-lock-screen-ads-articles/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

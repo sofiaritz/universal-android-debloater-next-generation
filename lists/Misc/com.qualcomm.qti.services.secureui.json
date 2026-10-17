@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.services.secureui",
+  "description": "Qualcomm Secure UI Service\nIt collects your data about screen:gravity, orientation, id, layout_width.\nIt has a Wifi Display Service. QC_WFD\nDoes not run in the background.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

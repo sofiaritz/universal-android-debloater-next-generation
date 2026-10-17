@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.dm",
+  "description": "Subscriber Device Management\nHas only privacy online agreement activity.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

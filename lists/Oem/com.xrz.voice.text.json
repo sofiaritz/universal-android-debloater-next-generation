@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xrz.voice.text",
+  "description": "Bigme HiBreak Pro app that doesn't show up in the app list. Likely used as voice to text application. Installed as the DaWoYuJi.apk.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

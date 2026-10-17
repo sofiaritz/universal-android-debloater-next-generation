@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.oca",
+  "description": "Has something related to wallet smart card",
+  "list": "Oem",
+  "removal": "Recommended"
+}

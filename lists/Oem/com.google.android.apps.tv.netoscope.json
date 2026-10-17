@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.tv.netoscope",
+  "description": "Connectivity Diagnostics\nDiagnoses not only connectivity but also time, not needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

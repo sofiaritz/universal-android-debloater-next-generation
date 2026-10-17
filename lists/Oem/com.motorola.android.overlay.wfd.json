@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.overlay.wfd",
+  "description": "It has config to enable wifi display.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

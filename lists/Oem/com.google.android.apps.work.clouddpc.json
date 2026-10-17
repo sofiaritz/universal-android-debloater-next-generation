@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.work.clouddpc",
+  "description": "Device Policy\nwork apps handling",
+  "list": "Oem",
+  "removal": "Recommended"
+}

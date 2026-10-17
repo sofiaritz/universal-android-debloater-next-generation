@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.stk.product.res.overlay.common",
+  "description": "SIM Tool Kit overlay, best kept. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

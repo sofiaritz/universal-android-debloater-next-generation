@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nearme.romupdate",
+  "description": "Update Service\nProbably it's only for notifications. Anyway, better remove it if you want to remove updates too.",
+  "list": "Oem",
+  "removal": "Expert"
+}

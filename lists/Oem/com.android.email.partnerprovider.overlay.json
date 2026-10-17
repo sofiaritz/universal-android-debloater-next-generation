@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.email.partnerprovider.overlay",
+  "description": "Theme overlay for partnerprovider?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

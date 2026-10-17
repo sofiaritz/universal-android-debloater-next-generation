@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.securitycore",
+  "description": "Core features of the\"com.miui.securitycenter\"\nProvides Enterprise Mode, Dual App, Second Space, Fingerprint Add, Gesture Settings\nREMOVING THIS MAY BOOTLOOP YOUR DEVICE! Depends on your MIUI version and device, see\nhttps://github.com/0x192/universal-android-debloater/issues/641\nOn MIUI 13 and above it doesn't bootloop and performance appears similar, but this app shows annoying notifications when running new apps.",
+  "list": "Oem",
+  "removal": "Expert"
+}

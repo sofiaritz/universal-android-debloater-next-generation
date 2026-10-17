@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastreceiver.overlay.base.s600ww",
+  "description": "Nokia theme overlay for com.android.cellbroadcastreceiver",
+  "list": "Oem",
+  "removal": "Expert"
+}

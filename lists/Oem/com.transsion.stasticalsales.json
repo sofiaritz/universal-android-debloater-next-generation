@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.stasticalsales",
+  "description": "Sends after-sales telemetry data (including at least the phone number and the IMSI). You don't want this. This app can be launched from this secret dialer code: 862016\n\nPithus analysis: https://beta.pithus.org/report/35fa58c779ac80bcf44875e279cc4a6ba08678b0004e9c8f0816426cf0c584ab",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.omadl",
+  "description": "Provides carrier/APN updates and OTA in some cases. Sony phone says 'OMA download client', best left enabled",
+  "list": "Oem",
+  "removal": "Expert"
+}

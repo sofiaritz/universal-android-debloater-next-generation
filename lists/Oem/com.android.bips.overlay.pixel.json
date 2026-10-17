@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bips.overlay.pixel",
+  "description": "it's overlay only to icon color.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

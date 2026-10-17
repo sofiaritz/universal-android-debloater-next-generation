@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.smartprovider",
+  "description": "Samsung File Provider\nProvides intelligent classification, search and image/video favorite when selecting images/videos to send to friends/Moments/Channels in WeChat app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

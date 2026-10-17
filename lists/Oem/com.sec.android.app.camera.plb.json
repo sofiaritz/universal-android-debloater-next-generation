@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.camera.plb",
+  "description": "Looks like an app to record videos for Facebook. Despite having 'camera' in the name, it is not needed for the camera at all.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

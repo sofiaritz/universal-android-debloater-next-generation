@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.safecenter",
+  "description": "Security Center\nIt breaks 'display over other apps' permission and also breaks screen lock on OnePlus Android 14",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

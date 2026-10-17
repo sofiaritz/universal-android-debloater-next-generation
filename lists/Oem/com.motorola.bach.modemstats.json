@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.bach.modemstats",
+  "description": "ModemStatsService\nStatistics and events logs from the modem activity.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.redteamobile.roaming.deamon",
+  "description": "ORoaming\nRedtea Roaming service deamon for com.redteamobile.roaming",
+  "list": "Misc",
+  "removal": "Recommended"
+}

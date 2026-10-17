@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.smartunlock",
+  "description": "smart unlock device\nit's used for unlock device using bluetooth devices probably.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

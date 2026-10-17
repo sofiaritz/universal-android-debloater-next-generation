@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.voiceassist",
+  "description": "Mi AI\nChinese voice assist.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zaz.translate",
+  "description": "Hi Translate (https://play.google.com/store/apps/details?id=com.zaz.translate)\nBloated translation app with a lot of trackers and permissions (https://reports.exodus-privacy.eu.org/fr/reports/com.zaz.translate/latest/)\nIt has the Camera and microphone permissions and use the Google Translate API for the translations.\nPithus analysis: https://beta.pithus.org/report/fdd787d96c3e069f983320c84c32fc6b8cdf205df17244d190b181edf0c14f68",
+  "list": "Misc",
+  "removal": "Recommended"
+}

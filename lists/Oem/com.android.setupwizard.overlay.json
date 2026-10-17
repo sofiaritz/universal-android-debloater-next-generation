@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.setupwizard.overlay",
+  "description": "It's needed only on first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

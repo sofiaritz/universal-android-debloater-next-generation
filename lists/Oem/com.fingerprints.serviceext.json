@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.serviceext",
+  "description": "Fingerprint test, fingerprint authentication.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

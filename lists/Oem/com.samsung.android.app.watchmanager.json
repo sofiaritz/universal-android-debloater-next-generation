@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.watchmanager",
+  "description": "Samsung Galaxy Wearable (Samsung Gear) (https://play.google.com/store/apps/details?id=com.samsung.android.app.watchmanager)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

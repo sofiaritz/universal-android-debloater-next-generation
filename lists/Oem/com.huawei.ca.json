@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ca",
+  "description": "CA\nUses permissions: GET_TASKS, LOCATION_HARDWARE, etc.\nThis app looks like a backdoor or logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

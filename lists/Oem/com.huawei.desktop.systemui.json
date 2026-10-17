@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.desktop.systemui",
+  "description": "Huawei desktop mode switching\nIt has also Take Screenshot Service.\nRequire HMS, has a lot tracking.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

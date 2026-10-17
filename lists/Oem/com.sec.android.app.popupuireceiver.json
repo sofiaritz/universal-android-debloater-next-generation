@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.popupuireceiver",
+  "description": "Not needed popupui with battery animation charging or other system notifications.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

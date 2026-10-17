@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.mediacontroller",
+  "description": "Can be disabled via Settings. Will disable the media controls in quick settings. Won't remove them however.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

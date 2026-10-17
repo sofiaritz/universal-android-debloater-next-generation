@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.dialog",
+  "description": "Needed for wifi dialogs.\nCan brick basic functionality android.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.wikosetupwizard",
+  "description": "Provides first time app install for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dreams.phototable",
+  "description": "Photographic screensavers\nDaydream stuff, see com.android.dreams.basic",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

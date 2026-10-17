@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.wfdft",
+  "description": "Wi-Fi Direct feature.\nNote: Wifi direct enables devices to establish a direct Wi-Fi connection (without a router) over which the two can send and receive files.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.smart.lostmode",
+  "description": "Remote Lock\nIt's for lost mode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

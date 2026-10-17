@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.gcs",
+  "description": "Internet services for Pixel and Nexus devices, including Wi-Fi/Mobile data switching, enabling a Google VPN on public networks, and Call Casting for Chromebooks. https://play.google.com/store/apps/details?id=com.google.android.apps.gcs",
+  "list": "Google",
+  "removal": "Advanced"
+}

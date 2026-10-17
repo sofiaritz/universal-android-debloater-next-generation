@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.markup",
+  "description": "Google Markup app made for modifying pictures, shipped by default on every Pie+ device.\nRemoves the button to quickly edit screenshots once taken.",
+  "list": "Google",
+  "removal": "Advanced"
+}

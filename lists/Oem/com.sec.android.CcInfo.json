@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.CcInfo",
+  "description": "CcInfo\nSamsung logs/analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.hwmoduletest",
+  "description": "HwModuleTest, a hardware hidden test app (dial *#0*# to open it).\nHas stuff to quickly check the phone's hardware. Removing it does not break anything, but no point in removing it. Note: opening this menu is required to change CSC with PC programs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

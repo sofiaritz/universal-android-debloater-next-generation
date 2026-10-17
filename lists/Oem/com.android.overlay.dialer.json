@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.dialer",
+  "description": "Overlay to 'com.android.dialer' png icons.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

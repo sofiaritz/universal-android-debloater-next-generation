@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.appservice",
+  "description": "Nothing System Service\nNot sure if you need this.",
+  "list": "Oem",
+  "removal": "Expert"
+}

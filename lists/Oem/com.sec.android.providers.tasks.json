@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.providers.tasks",
+  "description": "Tasks provider\nThis app have nothing in code, only name and useless permissions",
+  "list": "Oem",
+  "removal": "Recommended"
+}

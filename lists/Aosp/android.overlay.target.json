@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.target",
+  "description": "It has some important settings and configurations related to Android.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

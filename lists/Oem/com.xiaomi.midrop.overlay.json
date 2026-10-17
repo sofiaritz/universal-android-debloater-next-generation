@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.midrop.overlay",
+  "description": "Mi Drop overlay\nOverlays are usually themes.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

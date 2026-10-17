@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.kies",
+  "description": "No activities, only useless frameworks in classes.dex",
+  "list": "Oem",
+  "removal": "Recommended"
+}

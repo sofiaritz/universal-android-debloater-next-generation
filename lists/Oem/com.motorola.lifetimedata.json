@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.lifetimedata",
+  "description": "It's most likely the Total Call Timer or more generally it handles info like the date of manufacture of your device,\nusage time since first boot etc...\nTotal Call Timer gives you the time you spent calling.\nIt's surely a hidden menu.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

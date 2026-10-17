@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.contactscamcard",
+  "description": "CamCard is a business card reader app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

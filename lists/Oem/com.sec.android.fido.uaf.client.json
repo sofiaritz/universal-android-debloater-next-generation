@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.fido.uaf.client",
+  "description": "Fido UAF client. It's a layer that connects authenticator and RP (the application owner) and ensures validity of the connection.\nSo it can be browser, desktop application, mobile application, platform(i.e. android/ios).\nSee above\n\nSafe to remove if you don't use password-less authentication to access online services",
+  "list": "Oem",
+  "removal": "Recommended"
+}

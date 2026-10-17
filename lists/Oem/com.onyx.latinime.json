@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.latinime",
+  "description": "The Onyx Keyboard. The Google STT keyboard might be available to replace it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

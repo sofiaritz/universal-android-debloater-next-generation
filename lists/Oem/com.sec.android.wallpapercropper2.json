@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.wallpapercropper2",
+  "description": "Samsung Wallpaper. Needed to set a wallpaper on the launcher.\nNote: it is possible to change the wallpaper and then disable this package.\nUsed wallpapers are stored in /data/data/com.sec.android.wallpapercropper2/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

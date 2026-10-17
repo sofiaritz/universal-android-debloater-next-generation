@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.contacts",
+  "description": "Samsung Contacts\nSafe to debloat if you use another contacts app. NOTE: if you do, you will no longer be able to access Contacts from the Samsung dialer app.\nRemoving the contacts app will disable the user from being able to modify the Safety and emergency tab within the Samsung Android native settings app. Specifically the Medical info & Emergency contacts. This information is pulled on the lockscreen by first responders or in emergency sharing mode for emergency contacts.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

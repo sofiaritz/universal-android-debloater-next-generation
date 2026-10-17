@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wear.blockednumber",
+  "description": "Blocked number storage. Doesn't affect the dialer or contacts.",
+  "list": "Oem",
+  "removal": "Expert"
+}

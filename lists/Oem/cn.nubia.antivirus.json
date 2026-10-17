@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.antivirus",
+  "description": "We don't need antivirus if we have Play Protect.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

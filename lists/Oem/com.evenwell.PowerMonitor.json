@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.PowerMonitor",
+  "description": "Drains more battery than it saves.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

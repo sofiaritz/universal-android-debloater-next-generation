@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.smq",
+  "description": "QTR (Qualcomm Technology Reporting)\nRuns on boot.\nSeems like a telemetry package, supposedly sending hardware & software type, configuration and performance data.\nContains a\"QtiFeedbackActivity\" called\"Hardware Feedback\". When that hidden activity is launched through Activity Launcher you get a screen showing just a checkbox and this text:\n\"Collecting hardware and software type, configuration, and performance data helps Qualcomm improve next generation device battery life, security, and performance. Untick to disable.\"\nUnticking isn't remembered; it's ticked again next time you enter. There's also a\"Learn More\" link that leads to: http://reporting.qti.qualcomm.com/learnmore_en.html which doesn't load for me.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.llkagent",
+  "description": "Used for Verizon store demo mode.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

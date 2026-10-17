@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.jvtcmd",
+  "description": "Java Tcmd Helper\ntcmd = commands types. Seems to be a tools which help find Java commands types.\nUseless for normal user.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

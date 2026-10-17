@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.mt",
+  "description": "Mobile tracker security feature. If someone inserts a new SIM card in your device the device will automatically\nsends the SIM contact number to specified recipients to help you locate and recover you device.\nhttps://www.samsung.com/nz/support/mobile-devices/what-is-mobile-tracker/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

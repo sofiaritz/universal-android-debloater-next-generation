@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.hangoutsdialer",
+  "description": "Google Hangout Dialer (https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer)",
+  "list": "Google",
+  "removal": "Recommended"
+}

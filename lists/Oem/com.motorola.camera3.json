@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.camera3",
+  "description": "Moto Camera 3\nMoto camera app\nhttps://play.google.com/store/apps/details?id=com.motorola.camera3",
+  "list": "Oem",
+  "removal": "Advanced"
+}

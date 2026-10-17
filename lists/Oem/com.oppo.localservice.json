@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.localservice",
+  "description": "It's an app without activities, and in the code, I found it's for Set Mode Daemon Point, but how can we use that? I guess it's for testing, so remove it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

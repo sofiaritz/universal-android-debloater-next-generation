@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ihealth",
+  "description": "MotionService package, it's required for actions like shaking the phone to shut off the alarm, ecc.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

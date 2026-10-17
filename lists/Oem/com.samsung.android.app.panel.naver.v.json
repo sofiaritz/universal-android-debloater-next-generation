@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.panel.naver.v",
+  "description": "Naver V Panel\nSpecial samsung panel for the very useless V LIVE (formerly Naver V) app (https://play.google.com/store/apps/details?id=com.naver.vapp)\nV LIVE is an app that features personal video broadcasts of South Korean celebrities\nThis panel also includes Naver Shopping (https://shopping.naver.com/)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

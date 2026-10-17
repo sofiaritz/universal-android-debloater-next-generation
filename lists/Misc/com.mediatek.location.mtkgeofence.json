@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.location.mtkgeofence",
+  "description": "Mtk Geofence\nOnly logs in code",
+  "list": "Misc",
+  "removal": "Recommended"
+}

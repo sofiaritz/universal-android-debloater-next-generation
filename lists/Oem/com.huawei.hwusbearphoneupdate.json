@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwusbearphoneupdate",
+  "description": "Huawei digital earphones come with built-in software that can be updated regularly to enhance your audio experience.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

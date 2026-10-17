@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.advp.imssettings",
+  "description": "Needed for VoLTE (Voice over LTE) https://en.wikipedia.org/wiki/Voice_over_LTE\nIMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling).\nNOTE: This package could be needed for messaging apps that send SMS/RCS code to verify your phone number.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

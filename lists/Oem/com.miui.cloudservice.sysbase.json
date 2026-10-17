@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.cloudservice.sysbase",
+  "description": "Another Mi Cloud dependency",
+  "list": "Oem",
+  "removal": "Recommended"
+}

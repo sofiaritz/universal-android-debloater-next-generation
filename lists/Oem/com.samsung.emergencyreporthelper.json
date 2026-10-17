@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.emergencyreporthelper",
+  "description": "Only for KOREA emergency report.\nAlso no activities, only warn.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

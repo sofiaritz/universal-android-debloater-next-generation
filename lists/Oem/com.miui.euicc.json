@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.euicc",
+  "description": "The LPA app that is constantly running in background, consuming RAM and battery. This app is the core of all the eSIM services on Xiaomi devices, runs and drains resources even if you have no eSIM.\nConstantly being found in running processes list. No issues appeared after removing it on HyperOS 2.0 and using it for over a month.\nTelephony and all settings stayed intact, worth deleting this if you don't use an eSIM.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

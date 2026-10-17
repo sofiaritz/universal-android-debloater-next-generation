@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ipsec.service",
+  "description": "Has internet access and does nothing. Possibly for an IPSec service and dependency of the LG VPN? Not really sure.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

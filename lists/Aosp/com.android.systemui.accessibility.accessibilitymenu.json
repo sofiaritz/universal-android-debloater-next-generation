@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.accessibility.accessibilitymenu",
+  "description": "Hidden menu that only shows 2 buttons:\nLarge buttons - that increases size of accessibility menu buttons,\nand Help - that redirects to support google com site accessibility.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

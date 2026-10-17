@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.snsimagecache",
+  "description": "SnsImageCache\nA lot logs, probably it's for image cache. A lot samsung phones dont have it so it's safe to remove",
+  "list": "Oem",
+  "removal": "Recommended"
+}

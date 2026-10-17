@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.multiapp",
+  "description": "App Cloner. Allows to clone an app. Have access to all installed apps. Is bundled with OnePlus analytics\n\nPithus analysis: https://beta.pithus.org/report/8a1d0783debb405ebadb3fc52507de5f69ecb55f499732b7331dac74ad69ffd7",
+  "list": "Oem",
+  "removal": "Advanced"
+}

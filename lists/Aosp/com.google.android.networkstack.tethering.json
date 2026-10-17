@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.networkstack.tethering",
+  "description": "Uninstalling/Disabling this app will break Hotspot and Bluetooth/USB Tethering.\nOn some devices, when you enable hotspot or Bluetooth/USB Tethering it will show the boot animation (not bootloop) (not on HyperOS 2.0) And will bring you back to your device\nIt's safe to uninstall it if you aren't going to use Hotspot or Bluetooth/USB Tethering.\n On HyperOS 2.0, you'll need to remove it twice and reboot each time for it to fully vanish. It restores itself after first removal and reboot.\nOn HyperOS 2.0, after removing this package fully, it makes the whole settings app crash when clicking the Developer Settings button, making the Developer Settings inaccessible.\nEven when calling Developer Settings from another app, or calling usb debugging settings from another app, it all still refuses to launch, just crashes.\nIt basically puts you into a trap if you've disabled USB Debugging, as you'll no longer be able to turn USB Debugging back on, and so won't be able to restore this nor other removed packages. Access to ADB will be permanently lost.\nAfter restoring it, a reboot is required for the developer settings and hotspot to become accessible. Similar behavior to as described here might be also observed on other devices.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

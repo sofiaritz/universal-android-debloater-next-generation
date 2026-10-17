@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.cmfa.framework",
+  "description": "Continous Multi-Factor Authentication Framework\nSeems useless if you aren't logged-in to a Samsung Account.\nhttps://docs.samsungknox.com/dev/knox-sdk/additional-aac-enhancements.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

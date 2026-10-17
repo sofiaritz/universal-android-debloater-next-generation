@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.config.wifi",
+  "description": "Appears safe to remove.\nWPA config App\nWi-Fi not affected after removal.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

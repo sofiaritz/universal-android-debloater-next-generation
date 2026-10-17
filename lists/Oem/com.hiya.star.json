@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hiya.star",
+  "description": "also called android-ss-service-lib (Samsung-exclusive)\nThird-party that provides caller profile information to help consumers identify incoming calls and block unwanted ones.\nhttps://en.wikipedia.org/wiki/Hiya_(company)\nhttps://hiya.com/\nNOTE : Never trust a company which promotes spam blocking features\nhttps://itmunch.com/robocall-caught-sending-customers-confidential-data-without-consent/\n\nHave a look at their privacy policy. That's... pretty scary : https://hiya.com/fr/hiya-data-policy\nNeeded for Samsung Smart Call (com.samsung.android.smartcallprovider)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

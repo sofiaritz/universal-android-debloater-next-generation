@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.visualars",
+  "description": "Smart Touch Call.\nIt allows the user to\"Get voice and Screen interactive service when you call a customer service\".\nBloated with Google API stuff",
+  "list": "Oem",
+  "removal": "Recommended"
+}

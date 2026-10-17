@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwesimservice",
+  "description": "HwESIMService\nIf you use eSIM do not remove it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

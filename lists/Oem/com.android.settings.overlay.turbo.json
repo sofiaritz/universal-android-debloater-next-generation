@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.turbo",
+  "description": "Useless overlay to smart battery images, videos. And it's probably unused.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

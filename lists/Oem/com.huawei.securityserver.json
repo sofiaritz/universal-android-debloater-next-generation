@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.securityserver",
+  "description": "HwSecurityServer\nNot needed app without code and useless assets to spying apps.\nNeeded for face unlock, black screen will be shown if you remove this package (?). Doesn't apply to all devices",
+  "list": "Oem",
+  "removal": "Expert"
+}

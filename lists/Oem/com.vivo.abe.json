@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.abe",
+  "description": "Audio EQ(equalizer)\nSome 3rd-party music apps can use it to provide you EQ features.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

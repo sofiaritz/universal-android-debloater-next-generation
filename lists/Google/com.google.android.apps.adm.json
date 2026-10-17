@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.adm",
+  "description": "Google Find my device app (https://play.google.com/store/apps/details?id=com.google.android.apps.adm)",
+  "list": "Google",
+  "removal": "Recommended"
+}

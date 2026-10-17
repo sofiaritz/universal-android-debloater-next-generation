@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.embms",
+  "description": "Runs on boot, but not in the background beyond that?\nAdds support for eMBMS(evolved Multimedia Broadcast Multicast Service), also known as: LTE Broadcast\nEnables carriers to send content using multicast/broadcast (same content to many users at the same time) instead of unicast(to a single user).\nIt's a more efficient use of network resources compared to users receiving the same content individually.\nProbably safe to disable if you don't care about multi/broad-casts.\nhttps://en.wikipedia.org/wiki/Multimedia_Broadcast_Multicast_Service",
+  "list": "Misc",
+  "removal": "Recommended"
+}

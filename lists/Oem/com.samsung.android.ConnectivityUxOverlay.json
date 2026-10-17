@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.ConnectivityUxOverlay",
+  "description": "Overlay to wifi icon",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

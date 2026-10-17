@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.gamemode",
+  "description": "Provides game mode feature for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

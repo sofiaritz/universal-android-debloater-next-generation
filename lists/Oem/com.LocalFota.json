@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.LocalFota",
+  "description": "Required to install OTA updates on older Samsung devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

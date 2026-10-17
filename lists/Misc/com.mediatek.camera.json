@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.camera",
+  "description": "Stock Camera app on some Mediatek phones.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

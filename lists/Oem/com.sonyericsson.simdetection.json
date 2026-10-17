@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.simdetection",
+  "description": "Detects SIM connection, best left enabled",
+  "list": "Oem",
+  "removal": "Expert"
+}

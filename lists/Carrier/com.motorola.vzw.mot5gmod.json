@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.vzw.mot5gmod",
+  "description": "5G Moto Mod (https://play.google.com/store/apps/details?id=com.motorola.mot5gmod)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

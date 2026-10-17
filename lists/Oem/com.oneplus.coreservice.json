@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.coreservice",
+  "description": "Android System\nImportant system package for Oneplus phones?\nRuns in the background as part of the system.\nContains broadcast dispatch and theme handler services.\nProbably unsafe to disable, but please contribute info about what happens if you do.",
+  "list": "Oem",
+  "removal": "Expert"
+}

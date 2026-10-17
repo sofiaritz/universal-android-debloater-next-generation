@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xrz.dictapp",
+  "description": "Dictionary provided on the Bigme HiBreak Pro (XDict). Requires to download the dictionaries manually in the app's settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

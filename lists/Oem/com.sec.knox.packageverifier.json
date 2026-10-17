@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.packageverifier",
+  "description": "KNOX Verifier\nUsed to scan installed packages",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.statistics.rom",
+  "description": "User Experience Program\nIntrusive telemetry. Runs at boot and constantly stays in background\n\nPithus analysis: https://beta.pithus.org/report/7720549a5b4bc305a15e19b3e17ba6857a52e6e12db94006677c59f2fad84331",
+  "list": "Oem",
+  "removal": "Recommended"
+}

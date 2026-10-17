@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ironsoure.appcloud.oobe.wiko",
+  "description": "Provides first time setup for Wiko mobile",
+  "list": "Misc",
+  "removal": "Recommended"
+}

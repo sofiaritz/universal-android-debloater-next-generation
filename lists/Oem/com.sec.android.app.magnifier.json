@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.magnifier",
+  "description": "Lets you use your device as a magnifying glass making it easier to read any small font or expand the details of any object, for example.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.updater",
+  "description": "Mi Updater\nProvides system updates\nREMOVING THIS WILL BOOTLOOP YOUR DEVICE! Doesn't bootloop on MIUI 13 and above.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.wearable.retailattractloop",
+  "description": "Demo mode - you see it in the stores (the video playing while idle).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

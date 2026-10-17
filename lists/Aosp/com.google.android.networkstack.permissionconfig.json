@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.networkstack.permissionconfig",
+  "description": "Network Stack Permission Configuration\nDefines a permission that enables modules to perform network-related tasks.\nhttps://source.android.com/devices/architecture/modular-system/networking",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

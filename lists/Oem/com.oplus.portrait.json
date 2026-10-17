@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.portrait",
+  "description": "Canvas\nAn additional feature for AOD that allows you to further personalize the disabled screen. If not used, you can delete it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.hiddenmenu",
+  "description": "Hidden testing menu on LG devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

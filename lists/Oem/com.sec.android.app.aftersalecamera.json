@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.aftersalecamera",
+  "description": "Calibration Camera app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

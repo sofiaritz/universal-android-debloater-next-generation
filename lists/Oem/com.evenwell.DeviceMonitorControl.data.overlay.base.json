@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.DeviceMonitorControl.data.overlay.base",
+  "description": "Theme overlay for Device Monitor Control?",
+  "list": "Oem",
+  "removal": "Expert"
+}

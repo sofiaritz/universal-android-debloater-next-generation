@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.sprintwfc",
+  "description": "Sprint Wifi Calling\nProvides wifi calling to Sprint customers.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

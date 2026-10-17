@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.settingsProvider",
+  "description": "Have some stuff about google gms: backup.BackupTransportService.\nUseless backup things, without it backup and cloud work.\nMaybe it's used for backup settings, but probably not, and if it is, I don't think you need it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

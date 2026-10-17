@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.myplace.engine",
+  "description": "My Places Engine\nNeeded by com.lge.myplace. See above.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

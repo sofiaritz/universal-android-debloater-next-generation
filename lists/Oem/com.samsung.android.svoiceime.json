@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.svoiceime",
+  "description": "Samsung voice input\nVoice input powered by Bixby. See above.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

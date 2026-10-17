@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.callrecorder",
+  "description": "Allows you to toggle call recording in the stock Dialer app.\nSafe to remove?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

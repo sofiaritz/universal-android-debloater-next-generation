@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.inputmethod.korean",
+  "description": "Google Keyboard + Korean characters (https://play.google.com/store/apps/details?id=com.google.android.inputmethod.korean)",
+  "list": "Google",
+  "removal": "Advanced"
+}

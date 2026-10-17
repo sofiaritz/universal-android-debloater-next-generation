@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mtklogger",
+  "description": "Logs debug data. Has a lot of permissions and run in background all the time.\nDon't keep useless apps: reduce the attack surface\nVulnerability found in this app in 2016: https://nvd.nist.gov/vuln/detail/CVE-2016-10135",
+  "list": "Misc",
+  "removal": "Recommended"
+}

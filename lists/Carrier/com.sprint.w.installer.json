@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.w.installer",
+  "description": "Sprint ID\nProvides mobile ID Packs featuring apps, ringers, wallpapers, widgets and more.\nCan (and do) force install apps you disabled.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

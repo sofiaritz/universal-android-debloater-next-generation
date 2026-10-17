@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.oneplus.photos",
+  "description": "Shot On OnePlus\nAccessible through the Wallpapers selection menu.\nProvides photos uploaded by OnePlus users, allowing you to set them as your wallpaper.\nEach day, one new photo appears within the application.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

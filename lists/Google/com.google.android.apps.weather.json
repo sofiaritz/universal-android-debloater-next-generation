@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.weather",
+  "description": "The new Weather app by Google. If removed,\"At a Glance\" and the lock screen will still redirect to the Google app (like before).\nhttps://play.google.com/store/apps/details?id=com.google.android.apps.weather",
+  "list": "Google",
+  "removal": "Recommended"
+}

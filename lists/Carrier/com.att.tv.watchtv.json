@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.tv.watchtv",
+  "description": "AT&T WatchTV (https://play.google.com/store/apps/details?id=com.att.tv.watchtv)\nLets you stream TV live and VOD form your phone.\nNo it's not the same thing than AT&T TV. Yes it's a mess.\nDifferences with AT&T TV : https://www.cordcuttersnews.com/att-tv-vs-att-tv-now-whats-the-difference/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

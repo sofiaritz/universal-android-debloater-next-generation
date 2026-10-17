@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.launcher.overlay.config",
+  "description": "Useless overlay to recent activity",
+  "list": "Oem",
+  "removal": "Recommended"
+}

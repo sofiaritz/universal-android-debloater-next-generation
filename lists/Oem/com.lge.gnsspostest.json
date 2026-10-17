@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gnsspostest",
+  "description": "GNSS Position test\nGNSS test again.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dialer.basiccolorblack.overlay",
+  "description": "Dark theme overlay for AOSP Dialer?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.engineermode",
+  "description": "Engineer mode (hardware tests), uses a dialer code, safe to disable",
+  "list": "Oem",
+  "removal": "Advanced"
+}

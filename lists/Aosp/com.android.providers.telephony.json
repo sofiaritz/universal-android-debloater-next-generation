@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.telephony",
+  "description": "Provider for telephony data.\nHandles phone-related data such as text messages, APN list, etc.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

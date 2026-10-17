@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.totemweather",
+  "description": "Huawei Weather app (and its widget)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

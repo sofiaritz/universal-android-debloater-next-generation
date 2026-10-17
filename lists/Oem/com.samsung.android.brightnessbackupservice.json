@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.brightnessbackupservice",
+  "description": "Backup brightness configuration\n May be used when reverting the brightness from a mode, routine, or powersaving mode.",
+  "list": "Oem",
+  "removal": "Expert"
+}

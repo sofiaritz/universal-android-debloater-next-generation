@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.nfc",
+  "description": "NFC card emulation: simulates various types of unencrypted entrance cards.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

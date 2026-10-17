@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settingsaccessibility",
+  "description": "Accessibility settings (tools for vision, hearing and physical impairments)\nSometimes, third-party apps may require special permissions in the accessibility settings in order to work properly.",
+  "list": "Oem",
+  "removal": "Expert"
+}

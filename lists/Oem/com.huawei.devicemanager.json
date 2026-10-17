@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.devicemanager",
+  "description": "Needed for Huawei account. I found only things: installing service?, Linked devices, Multi-Device management, connection code, metrics",
+  "list": "Oem",
+  "removal": "Recommended"
+}

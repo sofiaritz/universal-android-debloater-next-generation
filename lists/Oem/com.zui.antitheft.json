@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.antitheft",
+  "description": "Find the phone\nFind the phone. (Log out from account before remove)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

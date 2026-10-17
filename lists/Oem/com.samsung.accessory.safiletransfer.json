@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.accessory.safiletransfer",
+  "description": "SASystemProviders\nNeeded for Samsung Accessory Service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone",
+  "description": "AOSP Dialer\nRemoving this package breaks the software update/download and install screen on Samsung. WARNING: for me, it breaks the phone app completely with call routing enabled. Not sure about other cases.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

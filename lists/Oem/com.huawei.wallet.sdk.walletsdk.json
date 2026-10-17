@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.wallet.sdk.walletsdk",
+  "description": "Wallet app\nSafe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

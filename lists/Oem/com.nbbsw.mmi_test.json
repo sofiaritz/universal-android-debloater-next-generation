@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nbbsw.mmi_test",
+  "description": "The com.nbbsw.mmi_test package is likely associated with the Mobile Management Interface (MMI) testing tools provided by the OEM, possibly used for diagnostic and testing purposes to check various hardware and software functions of the device. Removing this package might impact the ability to perform certain diagnostic tests or troubleshooting functions provided by the OEM. While its removal should not affect the basic operation of the device, it could limit access to some specific testing tools or functionalities, which might be used for device maintenance or troubleshooting.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.searchcenter",
+  "description": "Search Centre\nCan be disabled via Settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

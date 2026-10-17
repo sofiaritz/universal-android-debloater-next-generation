@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.shiba",
+  "description": "Settings app with internal device-specific features.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.settings",
+  "description": "Provider for settings app data.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

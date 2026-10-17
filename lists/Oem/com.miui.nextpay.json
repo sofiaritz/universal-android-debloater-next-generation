@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.nextpay",
+  "description": "Smart cards Web Extension\nOnly for Chinese.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

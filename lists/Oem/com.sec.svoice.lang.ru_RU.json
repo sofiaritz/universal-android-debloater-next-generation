@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.svoice.lang.ru_RU",
+  "description": "This is the Russian language pack for Samsung's old S Voice assistant, enabling speech recognition and responses.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

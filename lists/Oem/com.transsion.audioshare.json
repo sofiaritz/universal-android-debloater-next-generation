@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.audioshare",
+  "description": "Audio Share\nAllows you to share your device\u2019s Bluetooth audio with wireless headphones or bluetooth speakers, allowing to listen to the same music with multiple people\nPithus analysis: https://beta.pithus.org/report/0f21ba3944663e53da1d37be3c4253c2e89c3685fbff841127fed2a98e0000ec",
+  "list": "Oem",
+  "removal": "Recommended"
+}

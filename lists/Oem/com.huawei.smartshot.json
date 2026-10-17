@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.smartshot",
+  "description": "Smart screenshots\nNeeded for screenshots.",
+  "list": "Oem",
+  "removal": "Expert"
+}

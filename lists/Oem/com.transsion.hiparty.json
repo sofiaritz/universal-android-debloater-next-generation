@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.hiparty",
+  "description": "Hi Party\nAllows you to synchronize and play the same song across multiple *supported* devices. The app creates a wifi hotspot. You can connect up to 6 devices via QR code to simultaneously broadcast music.\n\nNeeds permissions you probably doesn't want to give : READ_PHONE_STATE (can read phone number and IMEI) and ACCESS_FINE_LOCATION.\nPithus analysis: https://beta.pithus.org/report/154ee6107d3f5bbb0819719fc7ce5fd17474135081f576f56c29bd26ed70ca14",
+  "list": "Oem",
+  "removal": "Recommended"
+}

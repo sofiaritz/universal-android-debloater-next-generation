@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.res.overlay_305",
+  "description": "Overlays the phone app, keep if you want calls/SMS/contact management to work. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

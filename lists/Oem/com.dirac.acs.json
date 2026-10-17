@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dirac.acs",
+  "description": "Dirac Control Service\nFor audio control, not sure if it's useful.",
+  "list": "Oem",
+  "removal": "Expert"
+}

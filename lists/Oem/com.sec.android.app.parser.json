@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.parser",
+  "description": "DRParser Mode\nSecret code parser\nSupport for hidden samsung apps launched via secret codes",
+  "list": "Oem",
+  "removal": "Recommended"
+}

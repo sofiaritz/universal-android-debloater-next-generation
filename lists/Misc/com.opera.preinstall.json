@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.opera.preinstall",
+  "description": "Opera Preinstall Data\nGenerates utm tracking stuff",
+  "list": "Misc",
+  "removal": "Recommended"
+}

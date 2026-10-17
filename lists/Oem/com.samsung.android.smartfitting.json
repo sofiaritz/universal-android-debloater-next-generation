@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.smartfitting",
+  "description": "Smart Fitting Service\nAdapts the size/ratio of the screen. Automatic mode is default but there is a manual mode\nhttps://www.samsung.com/levant/support/mobile-devices/galaxy-s8-s8-plus-what-is-the-smart-fitting-display-for-vod-games/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

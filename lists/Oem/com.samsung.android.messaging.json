@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.messaging",
+  "description": "Samsung Messaging app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

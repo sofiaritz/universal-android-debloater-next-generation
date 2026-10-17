@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.diagnostictool",
+  "description": "DiagnosticTool\nHidden testing components.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

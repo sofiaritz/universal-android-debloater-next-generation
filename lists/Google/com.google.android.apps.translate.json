@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.translate",
+  "description": "Google Translate (https://play.google.com/store/apps/details?id=com.google.android.apps.translate)",
+  "list": "Google",
+  "removal": "Recommended"
+}

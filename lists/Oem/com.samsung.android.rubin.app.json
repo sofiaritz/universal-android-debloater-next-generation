@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.rubin.app",
+  "description": "Customization Service\nCollects a massive amount of data (https://www.samsung.com/us/account/customization-service/)\nBasically everything you do on your phone.\nFor\"a better user experience\"\nUsed to display customized advertisements about products and services that may be of interest to you",
+  "list": "Oem",
+  "removal": "Recommended"
+}

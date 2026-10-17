@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.mhswrappertmo",
+  "description": "Mobile Hotspot\nIs it linked to T-Mobile ? (\"tmo\" at the end of the package)\nYou can debloat this and still create hotspot.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

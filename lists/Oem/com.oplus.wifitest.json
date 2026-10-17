@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.wifitest",
+  "description": "wifitest\nJust a testing mode accessed through phone dialing code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

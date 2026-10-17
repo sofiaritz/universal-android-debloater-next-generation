@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.billing",
+  "description": "Samsung billing/Checkout\nUsed to purchase apps through Samsung Store application that is delivered with Samsung phones.\nActs as bridge between Samsung Store and payment servers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

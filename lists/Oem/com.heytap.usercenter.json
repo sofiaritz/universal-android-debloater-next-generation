@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.usercenter",
+  "description": "Login service for various HeyTap related services like HeyTap Cloud etc.\nNeeded if you want to join Early Access Testing for new ColorOS/RealmeUI\n\n[APK NEEDED]",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.adaptivebrightnessgo",
+  "description": "CameraLightSensor\nApp to test Adaptive Brightness.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

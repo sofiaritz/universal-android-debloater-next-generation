@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.regservice",
+  "description": "Mobile DM authentication related (recommended to be uninstalled)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

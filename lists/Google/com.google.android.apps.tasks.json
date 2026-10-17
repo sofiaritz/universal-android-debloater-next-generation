@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.tasks",
+  "description": "Google Task (TODO list) (https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mobolize.sprint.securewifi",
+  "description": "Secure Wifi (https://play.google.com/store/apps/details?id=com.mobolize.sprint.securewifi)\nSprint VPN app provided by Mobolize. You need to pay for using it.\nYou'd better use a reliable third-party VPN if you really need to use one.\nThis one runs in background all time and every time it sees a\"unsecured network\" it will popup to encourage you to pay for this VPN.\nBest ressources I know for choosing a VPN:\nhttps://www.privacytools.io/providers/vpn/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.camera",
+  "description": "Camera app",
+  "list": "Oem",
+  "removal": "Expert"
+}

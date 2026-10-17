@@ -1,0 +1,6 @@
+{
+  "pkg_name": "me.phh.treble.app",
+  "description": "Used for settings GSI rom that based by Phh Treble. This should not be remove.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

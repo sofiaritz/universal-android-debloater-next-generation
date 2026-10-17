@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.kidsmode",
+  "description": "Kids Mode\nIt's an app for limiting spending time on apps for kids probably.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.notificationservice",
+  "description": "High Battery Temperature\nWrong named package, theres only high temperature notification.\nit's app for some chinese phones",
+  "list": "Oem",
+  "removal": "Recommended"
+}

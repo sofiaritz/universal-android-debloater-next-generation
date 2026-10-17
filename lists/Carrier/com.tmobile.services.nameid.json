@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tmobile.services.nameid",
+  "description": "Name ID T-Mobile (powered by Hiya or cequint if on Samsung devices)\nNOTE : Never trust a company which promotes call ID/spam blocking features.\nhttps://techcrunch.com/2019/08/09/many-robocall-blocking-apps-send-your-private-data-without-permission/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

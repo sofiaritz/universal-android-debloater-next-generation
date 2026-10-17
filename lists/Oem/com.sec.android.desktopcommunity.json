@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.desktopcommunity",
+  "description": "Samsung DeX panel",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.enterprise.knox.cloudmdm.smdms",
+  "description": "Knox Enrollment Service\nmdm = mobile device management = software used by an IT department to monitor employees' mobile devices.\nUsed to enroll/register a large number of phones to the KNOX MDM service\nhttps://docs.samsungknox.com/admin/knox-mobile-enrollment/enroll-your-devices.htm\nFYI : https://blog.quarkslab.com/abusing-samsung-knox-to-remotely-install-a-malicious-application-story-of-a-half-patched-vulnerability.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

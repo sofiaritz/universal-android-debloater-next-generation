@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.phone",
+  "description": "Another test/debug app used to test the proper functioning of phone calls. On Samsung, both `com.sec.phone` & `com.sec.android.app.SecSetupWizard` must be enabled to be able to add new ESIMs to device. Otherwise menu will spin indefinitely.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

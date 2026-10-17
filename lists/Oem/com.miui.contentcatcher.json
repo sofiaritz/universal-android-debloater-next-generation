@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.contentcatcher",
+  "description": "Application Extension Service\nIt's a password manager in settings, requires Mi Account to Autofill and it syncs to your account.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

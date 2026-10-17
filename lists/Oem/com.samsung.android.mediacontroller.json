@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mediacontroller",
+  "description": "Ability to controls phone's audio from your watch.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

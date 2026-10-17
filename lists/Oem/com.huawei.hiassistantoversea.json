@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hiassistantoversea",
+  "description": "HiVoice. Huawei's voice assistant to replace\"Hey Google\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

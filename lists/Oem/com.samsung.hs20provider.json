@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.hs20provider",
+  "description": "only found useless hotspot logs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

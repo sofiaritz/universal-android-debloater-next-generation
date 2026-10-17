@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.surfline",
+  "description": "Surfline\nBackview's Safari ripoff with ads. They didn't even bother to remove Chrome, probably because they knew you won't use it. Can be disabled via Settings.\nhttps://www.blackview.hk/privacy",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.iotservice",
+  "description": "WelinkService\nPC Connect unneccessary things",
+  "list": "Oem",
+  "removal": "Recommended"
+}

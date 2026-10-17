@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.fmradio",
+  "description": "FM radio app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

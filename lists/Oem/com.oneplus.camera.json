@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.camera",
+  "description": "Camera\nThe stock Oneplus camera app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.distributed.kms",
+  "description": "HwDistributedKeyManager\nHas random frameworks, probably needed for huawei account, authentication",
+  "list": "Oem",
+  "removal": "Recommended"
+}

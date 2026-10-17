@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.android.wifi.manufacturer.resources.overlay",
+  "description": "Better keep for connectivity.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

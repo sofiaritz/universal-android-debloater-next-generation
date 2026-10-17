@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sem.factoryapp",
+  "description": "SEMFactoryApp\nCall home (172.217.168.14 --> Google IP). Needs NFC permission.\nThis package is maybe used to test NFC.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

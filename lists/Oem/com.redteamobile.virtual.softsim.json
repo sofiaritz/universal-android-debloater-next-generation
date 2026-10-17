@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.redteamobile.virtual.softsim",
+  "description": "It's for vsim = virtual sim",
+  "list": "Oem",
+  "removal": "Recommended"
+}

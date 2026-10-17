@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.setdefaultlauncher",
+  "description": "Completely empty package. Useless. You can still change launchers without this package.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

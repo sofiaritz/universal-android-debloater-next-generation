@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.easylauncher",
+  "description": "TouchWiz easy home -- gives you large icons and makes things the home screen significantly simpler. Primarly designed for elderly users. Discontinued after the release of Samsung Experience in 2017.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

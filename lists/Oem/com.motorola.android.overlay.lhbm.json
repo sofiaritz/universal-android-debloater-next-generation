@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.overlay.lhbm",
+  "description": "Not sure if its for high brightness mode, still unknown\n'config_udfps_local_hbm_supported' 'true'",
+  "list": "Oem",
+  "removal": "Expert"
+}

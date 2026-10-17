@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.faceui",
+  "description": "FaceUI\nIt's used for face unlock.",
+  "list": "Oem",
+  "removal": "Expert"
+}

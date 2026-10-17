@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.dsm.system",
+  "description": "Part of Samsung's Find my Mobile service, appears this app is so you can ring your phone if you lost it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

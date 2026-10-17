@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.pengine",
+  "description": "HUAWEI Intelligent Suggestion will collect and analyze screens from selected apps to provide personalized services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

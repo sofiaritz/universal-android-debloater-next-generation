@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.mobiletransfer",
+  "description": "AT&T Mobile Transfer\nLets you transfert user data from an older AT&T phone to a new one.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

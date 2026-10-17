@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.systemserver",
+  "description": "Moto Service Experience, debugging app.\nKeep this package for consistent Moto Fast Flashlight Gesture Functionality.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

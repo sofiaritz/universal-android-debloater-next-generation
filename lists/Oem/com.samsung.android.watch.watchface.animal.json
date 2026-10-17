@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.watchface.animal",
+  "description": "Preinstalled watchface.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

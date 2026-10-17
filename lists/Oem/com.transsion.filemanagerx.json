@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.filemanagerx",
+  "description": "File Manager App (https://play.google.com/store/apps/details?id=com.transsion.filemanagerx)\nComes with 3 analytics/ads trackers (https://reports.exodus-privacy.eu.org/fr/reports/com.transsion.filemanagerx/latest/)\nIt doesn't break anything upon disable, and uses telemetry. Similar to Google Files. Probably safe to disable. Further testing needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bluetooth.oplus.overlay",
+  "description": "Overlay to 'com.android.bluetooth'.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

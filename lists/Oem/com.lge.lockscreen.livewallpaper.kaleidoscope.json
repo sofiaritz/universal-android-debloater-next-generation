@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lockscreen.livewallpaper.kaleidoscope",
+  "description": "The Kaleidoscope Live Wallpaper used in the lockscreen.\nSafe to remove but make sure it's not set as the Wallpaper.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

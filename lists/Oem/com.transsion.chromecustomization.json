@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.chromecustomization",
+  "description": "Chrome Assistant\nCustomizes HomePage and uses Advertising ID.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

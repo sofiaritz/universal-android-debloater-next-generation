@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.vr.cyclops",
+  "description": "Google Cardboard Camera (VR stuff) (https://play.google.com/store/apps/details?id=com.google.vr.cyclops)",
+  "list": "Google",
+  "removal": "Recommended"
+}

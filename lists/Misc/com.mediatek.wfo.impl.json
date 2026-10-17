@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.wfo.impl",
+  "description": "According to olorin (https://www.olorin.me/2019/09/08/debloating-the-umidigi-f1-play/) it's a MediaTek\u2019s default fingerprint app (and he removed it).\nCan someone confirm what this package does?\nRemember that any pre-installed apps you don't actually need just increase the surface attack.\nVulnerability found in 2019: https://nvd.nist.gov/vuln/detail/CVE-2019-15368\nAny app co-located on the device could modify a system property through an exported interface without proper authorization.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

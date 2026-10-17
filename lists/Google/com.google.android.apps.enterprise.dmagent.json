@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.enterprise.dmagent",
+  "description": "Google apps device policy (https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.imslogger",
+  "description": "IMS Logger provides logging opt-ins.\nSecurity flaw: https://web.archive.org/web/20211209093408/https://twitter.com/fs0c131y/status/1115889065285562368",
+  "list": "Oem",
+  "removal": "Recommended"
+}

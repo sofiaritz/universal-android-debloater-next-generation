@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastservice.overlay.pixel",
+  "description": "Useless code to cellbroadcastservice",
+  "list": "Oem",
+  "removal": "Recommended"
+}

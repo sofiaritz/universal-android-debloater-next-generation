@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.volumemonitorprovider",
+  "description": "VolumeMonitorProvider\nused in Digital Wellbeing to average the dB heard through earphones and display it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

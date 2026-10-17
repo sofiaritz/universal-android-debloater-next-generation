@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.gmssettingprovider",
+  "description": "Checked in miui 14.\nHave some stuff about google gms: backup.BackupTransportService.\nUseless backup things, without it backup and cloud work.\nMaybe it's used for backup settings, but probably not, and if it is, I don't think you need it.\n(detected on miui 14 with android 13 phones)\nIt's an unused overlay.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

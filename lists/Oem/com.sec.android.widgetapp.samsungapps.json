@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.widgetapp.samsungapps",
+  "description": "Galaxy Essential widget\nGalaxy Essentials is a collection of specially chosen applications available through Samsung Apps.\nFrom the Galaxy Essentials widget you can access and download a collection of premium content, free of charge.\nhttps://www.samsung.com/my/support/mobile-devices/what-is-galaxy-essentials-and-how-can-i-add-or-remove-it-from-my-smartphone-home-screen/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.android.globalminusscreen",
+  "description": "Default App Vault package\nSends notifications and can't be uninstalled through the Apps tab. Can be downloaded back from Play Store if needed.\nThe screen on the left on the first page of the launcher; mostly useless, especially when you use a third party launcher. Displays tonns of ads and clutter and constantly works in background.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

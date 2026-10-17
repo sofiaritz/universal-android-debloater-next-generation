@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.provider.filterprovider",
+  "description": "FilterProvider dependency to Samsung Camera\nProvides access to filters (when you swipe right from the camera app)\nWARNING : Samsung camera will crash if this package is deleted.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

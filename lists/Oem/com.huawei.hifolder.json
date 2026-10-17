@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hifolder",
+  "description": "Huawei Online Cloud folder service\nhttps://consumer.huawei.com/en/mobileservices/mobilecloud/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

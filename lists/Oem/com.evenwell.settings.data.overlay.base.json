@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.settings.data.overlay.base",
+  "description": "Overlay related to settings. Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

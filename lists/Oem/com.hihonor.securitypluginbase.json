@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.securitypluginbase",
+  "description": "HnSecurityPluginBase\nAntivirus Service supports bad antiviruses, HnLog, not needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

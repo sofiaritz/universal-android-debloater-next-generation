@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.managedprovisioning",
+  "description": "Nokia implementation of com.android.managedprovisioning? If so it manages Android user accounts, allowing you to add extra accounts. The typical use-case is setting up a corporate profile that is controlled by the employer on an employee's personal device, to keep personal and work data separate.",
+  "list": "Oem",
+  "removal": "Expert"
+}

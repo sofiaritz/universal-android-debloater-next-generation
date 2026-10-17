@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ru.dublgis.dgismobile",
+  "description": "2GIS, russian mapping service, preinstalled by rus law from 2019",
+  "list": "Oem",
+  "removal": "Recommended"
+}

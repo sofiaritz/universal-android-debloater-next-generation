@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastreceiver.basiccolorwhite.overlay",
+  "description": "Light theme overlay for com.android.cellbroadcastreceiver",
+  "list": "Aosp",
+  "removal": "Expert"
+}

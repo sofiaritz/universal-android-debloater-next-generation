@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.hotspotlauncher",
+  "description": "LG Mobile Hotspot\nProvides hotspot feature enabling you to share the phone\u2019s 4G data connection with any Wi-Fi capable devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

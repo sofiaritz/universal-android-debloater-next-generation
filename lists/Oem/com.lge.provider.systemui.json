@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.provider.systemui",
+  "description": "Not sure if iths important app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

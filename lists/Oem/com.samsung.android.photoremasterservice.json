@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.photoremasterservice",
+  "description": "PhotoRemasterService\nIf removed, Photo Remaster in the gallery won't work.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

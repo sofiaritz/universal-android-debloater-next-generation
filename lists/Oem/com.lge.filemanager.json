@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.filemanager",
+  "description": "Stock file manager",
+  "list": "Oem",
+  "removal": "Advanced"
+}

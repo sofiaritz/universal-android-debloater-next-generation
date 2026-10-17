@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.kidshome",
+  "description": "This app provides a child-friendly interface and controls on Samsung devices, designed to create a safe environment for children by restricting access to apps and content.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

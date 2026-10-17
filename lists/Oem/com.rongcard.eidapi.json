@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.rongcard.eidapi",
+  "description": "Eid-Service\nIt's something about card chips or online identity? Useful only in China.\nHas a lot of logs in code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

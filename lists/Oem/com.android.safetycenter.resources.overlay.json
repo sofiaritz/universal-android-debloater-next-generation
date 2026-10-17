@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.safetycenter.resources.overlay",
+  "description": "Safety Center overlay.\nOverlays work by mapping resources defined in the overlay package to resources defined in the target package. When an app attempts to resolve the value of a resource in the target package, the value of the overlay resource the target resource is mapped to is returned instead.\nSafety Center provides redirection entries so that users can access specific security and privacy settings. Safety Center also identifies issues that users can fix on their devices or accounts, by combining dynamic data received from multiple sources. This data provides users with a general safety status with specific recommendations.\nhttps://source.android.com/docs/core/runtime/rros\nhttps://source.android.com/docs/security/safety-center/overview",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.securemsm.mdtp",
+  "description": "MdtpService\nOnly logs found",
+  "list": "Oem",
+  "removal": "Recommended"
+}

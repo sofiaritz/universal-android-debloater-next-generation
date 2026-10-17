@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.app.memtester",
+  "description": "Memory tester\nHidden test menu. Used in diagnostics, normally invoked by MMI(Man-Machine Interface) Codes",
+  "list": "Oem",
+  "removal": "Recommended"
+}

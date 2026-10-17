@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.knox.securefolder.setuppage",
+  "description": "Provides the setup process when opening secure folder (com.samsung.knox.securefolder) for the first time",
+  "list": "Oem",
+  "removal": "Recommended"
+}

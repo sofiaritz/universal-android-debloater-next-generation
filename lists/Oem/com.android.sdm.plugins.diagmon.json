@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sdm.plugins.diagmon",
+  "description": "diagnostic plugin\nit's app for hidden diagnostics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.accesscontrol",
+  "description": "Samsung Interaction control\nSettings > Accessibility > Dexterity and interaction (or vol. down + home key)\nAllows you to restrict some functions of your phone (stop the phone from interacting with touch commands for instance)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

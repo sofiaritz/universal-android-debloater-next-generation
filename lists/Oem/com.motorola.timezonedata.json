@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.timezonedata",
+  "description": "/!\\ Causes bootloop on Moto G7 Power (Android 9/10)\nTime Zone Data (https://play.google.com/store/apps/details?id=com.motorola.timezonedata)\nUpdate timezone when traveling to foreign countries.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

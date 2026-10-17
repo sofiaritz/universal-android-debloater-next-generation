@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qtil.aptxui",
+  "description": "Hidden aptxals Audio Bluetooth sample improvement. Useless 96kHz sample.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

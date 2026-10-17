@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.attribution",
+  "description": "Related to data collection (?):\nhttps://developer.samsung.com/galaxy-store/galaxy-store-statistics/user-attribution.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

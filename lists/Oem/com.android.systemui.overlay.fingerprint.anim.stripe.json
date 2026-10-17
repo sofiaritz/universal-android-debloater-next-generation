@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.stripe",
+  "description": "Fingerprint Animation Stripe when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

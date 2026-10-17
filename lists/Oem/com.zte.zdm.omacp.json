@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.zdm.omacp",
+  "description": "For configuring SMS settings.",
+  "list": "Oem",
+  "removal": "Expert"
+}

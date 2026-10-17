@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.mhs.smarttethering",
+  "description": "Auto Hotspot\nNeeded for hotspots probably.",
+  "list": "Oem",
+  "removal": "Expert"
+}

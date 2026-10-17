@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.phone.overlay.common",
+  "description": "Possibly the incoming-call screen?",
+  "list": "Oem",
+  "removal": "Expert"
+}

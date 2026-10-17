@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.plat.appupdate",
+  "description": "App Update\nUsed to update apps installed from the Palm Store. Uses insecure encryption algorithm.\nNotables permissions: ACCESS_FINE_LOCATION and GET_TASKS (allows to see which apps are running on the phone). Useless background memory hogs if you don't use apps from the Palm Store\n\nPithus analysis: https://beta.pithus.org/report/2584e9529e0988c1c2f9d657c5e2c55d1770e451d4120c176b5a505f2ee1033d",
+  "list": "Oem",
+  "removal": "Recommended"
+}

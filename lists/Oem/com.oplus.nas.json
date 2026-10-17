@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.nas",
+  "description": "NetworkAssistSys\nNeeded for network I guess by dialogs found in code. Has location & phone permission, can read your call logs. Runs in background. After disabling, no issues occured (OxygenOS 14, OnePlus 11).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

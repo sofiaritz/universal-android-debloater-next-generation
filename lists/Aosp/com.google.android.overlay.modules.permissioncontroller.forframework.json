@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.permissioncontroller.forframework",
+  "description": "config_incidentReportApproverPackage\nIt looks very useless.\nNot needed, it doesnt affect on (com.google.android.permissioncontroller)",
+  "list": "Aosp",
+  "removal": "Expert"
+}

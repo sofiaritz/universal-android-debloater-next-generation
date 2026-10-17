@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.wifiapsettings.basiccolorwhite.overlay",
+  "description": "Light theme for Wi-Fi Access Point Settings?",
+  "list": "Oem",
+  "removal": "Expert"
+}

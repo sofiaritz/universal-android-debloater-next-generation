@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.video",
+  "description": "Mi Video with a different package name.\nHas a lot of ads, tracking.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

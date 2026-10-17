@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sume.nn.service",
+  "description": "Provides the photo remaster feature in the Gallery app. Has the camera permission and can access all your medias but performs its job locally on the device.\n\nhttps://www.samsung.com/au/support/mobile-devices/remastering-photos-on-samsung-phone/",
+  "list": "Oem",
+  "removal": "Expert"
+}

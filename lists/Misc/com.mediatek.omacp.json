@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.omacp",
+  "description": "omacp = OMA Client Provisioning. A protocol specified by the Open Mobile Alliance (OMA).\nConfiguration messages parser. Used for provisioning APN settings to devices via SMS.\nIn my case, it was automatic and I never needed configuration messages.\nMaybe it's useful if carriers change their APN. But you can still change the config manually, it's not difficult.\nDunno why Mediatek handles this kind of things. Safe to remove. At worst, you'll need to manually config your APN.\nOMACP can be abused:\nhttps://research.checkpoint.com/2019/advanced-sms-phishing-attacks-against-modern-android-based-smartphones/\nhttps://www.zdnet.com/article/samsung-huawei-lg-and-sony-phones-vulnerable-to-rogue-provisioning-messages/",
+  "list": "Misc",
+  "removal": "Expert"
+}

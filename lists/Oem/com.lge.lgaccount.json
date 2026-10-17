@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgaccount",
+  "description": "LG Account\nEnables you to create and manage your completely useless LG account.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

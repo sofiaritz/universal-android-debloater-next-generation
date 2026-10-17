@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.fm",
+  "description": "MIUI FM Radio app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

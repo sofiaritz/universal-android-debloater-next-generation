@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ro.cosmote.aps.wnwlite",
+  "description": "TopApps(discontinued)\nit's non english app. Installs recommended apps?\nI can't launch the app because it displays an error that it can't connect to the Internet, even when Wi-Fi is on.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

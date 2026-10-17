@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.gba",
+  "description": "Generic Bootstrapping Architecture.\nHas ims, X-TMUS-IMEI, bsf.msg.lab.t-mobile.com things to encrypted calls ims probably\n(thinking by looking at the classes.dex code). Connects to site bsf.ims.mncXXX.pub.3gppnetwork.org.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

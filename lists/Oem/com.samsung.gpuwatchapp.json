@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.gpuwatchapp",
+  "description": "This app has GPU Dumping mode, developer mode, game debugging. This package also provides the feature to watch and log system performance. Useful if you need/want to monitor system performance. Otherwise it offers no benefit. Safe to remove in any case.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

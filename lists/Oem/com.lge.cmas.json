@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.cmas",
+  "description": "Emergency Alerts\nit's only for alerts so it's safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

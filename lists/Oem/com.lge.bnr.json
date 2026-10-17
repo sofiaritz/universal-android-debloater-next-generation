@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.bnr",
+  "description": "LG Backup\nCan backup your mobile devices LG Home screen, device settings, apps, and contacts to your computer.\nhttps://www.lg.com/us/support/help-library/lg-android-backup-CT10000025-20150104708841",
+  "list": "Oem",
+  "removal": "Recommended"
+}

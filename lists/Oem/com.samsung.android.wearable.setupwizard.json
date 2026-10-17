@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wearable.setupwizard",
+  "description": "Samsung Wearable Setup Wizard\nThe first time you turn your device on, a Welcome screen is displayed. It guides you through the basics of setting up your device.\nIt's the setup for Samsung services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

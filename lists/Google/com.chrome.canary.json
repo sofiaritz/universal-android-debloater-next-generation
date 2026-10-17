@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.chrome.canary",
+  "description": "Google Chrome Canary (Nightly build) (https://play.google.com/store/apps/details?id=com.chrome.canary)",
+  "list": "Google",
+  "removal": "Recommended"
+}

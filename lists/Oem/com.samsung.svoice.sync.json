@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.svoice.sync",
+  "description": "Samsung Voice service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

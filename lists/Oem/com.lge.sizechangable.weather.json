@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.sizechangable.weather",
+  "description": "Music widget\nNot sure if it only manages Music widget for the launcher or also for the lockscreen.\n\nWeather widget for the home screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.sidesync30",
+  "description": "SideSync (discontinued)\nLets you share the screen and data between your PC and mobile device.\nReceive alarms of your phone through PC and use various features of your phone on the computer.\nhttps://www.samsung.com/levant/support/side-sync/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

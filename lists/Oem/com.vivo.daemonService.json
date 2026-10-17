@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.daemonService",
+  "description": "vivoService\nSecurity thing.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

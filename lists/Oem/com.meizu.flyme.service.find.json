@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.flyme.service.find",
+  "description": "Phone locating service\nThis app will probably help you find the device.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

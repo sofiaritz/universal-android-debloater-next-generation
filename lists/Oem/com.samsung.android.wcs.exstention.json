@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wcs.exstention",
+  "description": "Samsung Internet Extensions\nSamsung Internet for Android allows users to customize their browsing experience by installing extensions, which are additional software packages that add new features and functionality to the browser and help developers offer tailored services to users on mobile devices.\n\nNOTE: Disabling this broke the UI on my Watch5 for some reason so PROCEED WITH CAUTION.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

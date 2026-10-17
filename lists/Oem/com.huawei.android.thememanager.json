@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.thememanager",
+  "description": "Themes (https://play.google.com/store/apps/details?id=com.huawei.android.thememanager)\nLets you download and use Huawei themes.\nSetting Wallpapers directly will no longer work, but the Wallpaper entry in the Settings app will still let you choose wallpapers. Without this package you may no longer be able to change a notification sound.",
+  "list": "Oem",
+  "removal": "Expert"
+}

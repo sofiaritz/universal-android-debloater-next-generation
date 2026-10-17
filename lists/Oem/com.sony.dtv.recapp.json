@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.recapp",
+  "description": "Allows you to view your reminders and timers but not add them? Can be removed safely",
+  "list": "Oem",
+  "removal": "Recommended"
+}

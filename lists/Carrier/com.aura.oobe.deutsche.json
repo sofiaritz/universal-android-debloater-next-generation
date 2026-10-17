@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.oobe.deutsche",
+  "description": "Provides an Out Of The Box experience. You can disable it via Settings > Apps > Three dots > Show system > App selector. It has a T-Mobile icon",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

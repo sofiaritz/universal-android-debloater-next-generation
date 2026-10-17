@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.fireworks",
+  "description": "Fingerprint Animation Fireworks when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

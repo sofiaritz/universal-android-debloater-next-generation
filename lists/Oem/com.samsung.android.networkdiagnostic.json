@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.networkdiagnostic",
+  "description": "Network Diagnostic\nAutostart after boot. 9 permissions (including ACCESS_FINE_LOCATION : precise GPS location) + 1 unknown permission : SEC_FACTORY_PHONE\nSeems to be telemetry.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

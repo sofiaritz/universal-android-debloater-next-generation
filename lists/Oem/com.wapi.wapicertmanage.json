@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wapi.wapicertmanage",
+  "description": "WAPI certificate manager\nWAPI = WLAN Authentication and Privacy Infrastructure.\nA Chinese national standard for Wireless LAN within a limited area such as a home. Not very useful if you don't live in China.\nhttps://en.wikipedia.org/wiki/WLAN_Authentication_and_Privacy_Infrastructure\nDigital certificates identify devices and apps for security. Just like your driver\u2019s license shows that you can legally drive, a digital certificate identifies your device and confirms that it should be able to access something.\nhttps://security.stackexchange.com/questions/102550/what-are-wifi-certificates-used-for-what-are-they",
+  "list": "Oem",
+  "removal": "Recommended"
+}

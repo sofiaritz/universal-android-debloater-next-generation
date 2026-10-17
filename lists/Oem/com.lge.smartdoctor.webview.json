@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.smartdoctor.webview",
+  "description": "Smart Doctor Webview\nREMINDER : A WebView is acomponent that allows Android apps to display content from the web directly inside an application.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui",
+  "description": "Everything you see in Android that's not an app. User interface of Android",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

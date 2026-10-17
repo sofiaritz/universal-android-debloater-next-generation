@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.wearables.maestro.companion",
+  "description": "Google Pixel Buds\nSet up and manage your Pixel Buds right from your Android 6.0+ device with the Google Pixel Buds app.\nhttps://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion",
+  "list": "Oem",
+  "removal": "Recommended"
+}

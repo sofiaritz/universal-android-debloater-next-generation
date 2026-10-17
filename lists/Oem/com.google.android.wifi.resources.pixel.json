@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wifi.resources.pixel",
+  "description": "WiFi configs",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

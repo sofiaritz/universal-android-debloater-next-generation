@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sohu.inputmethod.sogou.xiaomi",
+  "description": "Sogou keyboard for chinese only.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

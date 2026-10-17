@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.ce.updater",
+  "description": "Mobile Installer\nUsed by Sprint to (force) install/update Sprint apps.\nhttps://community.sprint.com/t5/Samsung/How-to-stop-quot-Mobile-Installer-quot-from-pushing-apps-to/td-p/1036387",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

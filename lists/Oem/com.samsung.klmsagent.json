@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.klmsagent",
+  "description": "Checks the validity of your KLM/KPE (Knox Licence Manager) license.\nThis package is needed for Samsung Health (`com.sec.android.app.shealth`) and probably all Knox-related apps (like Secure Folder, Samsung Pay...)\n\nNote: KLM licences are deprecated. Samsung now only supports KPE (Knox Platform for Enterprise) keys.\nKPE keys are provided by Samsung and enable app's developers to access knox features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

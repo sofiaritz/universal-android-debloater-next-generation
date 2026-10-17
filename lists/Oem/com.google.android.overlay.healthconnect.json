@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.healthconnect",
+  "description": "Overlay to 'com.google.android.apps.healthdata'.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

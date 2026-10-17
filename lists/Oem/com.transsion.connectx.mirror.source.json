@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.connectx.mirror.source",
+  "description": "it's something for cast setting, file transfer setting, smart connect to pc by TCCP",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.kpecore",
+  "description": "Samsung KPECore\nKPE stands for 'Knox Platform for Enterprise'",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.face",
+  "description": "MIUI Biometric\nFace Unlock feature",
+  "list": "Oem",
+  "removal": "Advanced"
+}

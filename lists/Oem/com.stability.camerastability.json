@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.stability.camerastability",
+  "description": "CameraStability\nHidden camera test",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.notificationcenter",
+  "description": "Notification app which reminds you to use apps from Sony's ecosystem. Can be removed safely without breaking other notifications",
+  "list": "Oem",
+  "removal": "Recommended"
+}

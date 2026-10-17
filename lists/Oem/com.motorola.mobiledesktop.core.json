@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.mobiledesktop.core",
+  "description": "Needed for Ready For (com.motorola.mobiledesktop)\nConnect to a PC to stream mobile apps and other things.\nDISABLE this app instead of Uninstall, because of anomalies with lockscreen and clock widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

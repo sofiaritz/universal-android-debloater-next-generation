@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dlp.service",
+  "description": "SamsungDLPService (KNOX). Old feature. Was replaced by SDP (Sensitive Data Protection)\nData Loss Prevention (DLP) feature\nSDP is good because it allows to have encrypted data at rest (= decryption keys not in RAM) even when your phone is on.\nhttps://docs.samsungknox.com/admin/whitepaper/kpe/sensitive-data-protection.htm\nhttps://docs.samsungknox.com/knox-platform-for-enterprise/admin-guide/sensitive-data-protection.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

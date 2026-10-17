@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.proxyhandler",
+  "description": "Handles proxy config.\nSafe to remove if you don't use a proxy.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

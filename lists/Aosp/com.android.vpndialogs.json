@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.vpndialogs",
+  "description": "Provide VPN support to Android\nhttps://en.wikipedia.org/wiki/Dialog_(software)\nSafe to remove if you don't plan to use a VPN.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

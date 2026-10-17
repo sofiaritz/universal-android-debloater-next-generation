@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.hnasm",
+  "description": "FIDO UAF Authenticator-Specific Module.\nSee 'com.hihonor.fido.uafclient' for FIDO explaination.\nThe UAF Authenticator-Specific Module (ASM) is a software interface on top of UAF authenticators which gives a standardized way for FIDO UAF clients to detect and access the functionality of UAF authenticators and hides internal communication complexity from FIDO UAF Client.\nhttps://fidoalliance.org/specs/fido-uaf-v1.0-ps-20141208/fido-uaf-asm-api-v1.0-ps-20141208.html",
+  "list": "Oem",
+  "removal": "Advanced"
+}

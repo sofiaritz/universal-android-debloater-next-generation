@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.factorywizard",
+  "description": "Likely part of the first-boot device setup (new/factory reset device).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

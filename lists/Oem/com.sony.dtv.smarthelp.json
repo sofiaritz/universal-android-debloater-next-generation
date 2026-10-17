@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.smarthelp",
+  "description": "App with documentation of how to use a smart TV. Removing it has no effect",
+  "list": "Oem",
+  "removal": "Recommended"
+}

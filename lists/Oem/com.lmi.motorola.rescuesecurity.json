@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lmi.motorola.rescuesecurity",
+  "description": "Rescue Security by LogMeIn (https://www.logmeinrescue.com/)\nRemote support app. Motorola made a partnership with LogMeIn : https://www.logmeinrescue.com/customer-stories/motorola\nIt enables motorola representatives to login and remotely control the device for technical support.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

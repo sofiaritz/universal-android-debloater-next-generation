@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon_pack.rounded.systemui",
+  "description": "Android icons pack [Rounded].\nSafe to remove if you don't use them, but there's no point in doing so as they are simple data containers with no permissions.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

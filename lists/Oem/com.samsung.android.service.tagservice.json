@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.service.tagservice",
+  "description": "Tags in Samsung Gallery app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

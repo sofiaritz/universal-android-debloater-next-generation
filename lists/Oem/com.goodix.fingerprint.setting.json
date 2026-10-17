@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.goodix.fingerprint.setting",
+  "description": "In-Display Fingerprint test\nHidden testing Fingerprint not available for normal users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

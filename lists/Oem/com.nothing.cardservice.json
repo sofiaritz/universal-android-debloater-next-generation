@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.cardservice",
+  "description": "NothingCardService\nWARNING: breaks Nothing Widgets when switching to dark or light mode.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

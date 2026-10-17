@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.opasuwintegrationsample",
+  "description": "Optimized Setup Wizard Integration Sample code.\nCan be used to create a custom setup wizard, such as one created by a manufacturer that runs after the initial Android Setup Wizard.\nDoes not appear to actually run. It is sample code and should be able to be removed safely.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

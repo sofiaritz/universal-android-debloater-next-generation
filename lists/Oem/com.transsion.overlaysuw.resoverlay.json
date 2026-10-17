@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.overlaysuw.resoverlay",
+  "description": "Overlay to 'com.transsion.overlaysuw' safe to remove because it's for first-boot setup.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

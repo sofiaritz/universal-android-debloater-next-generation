@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.fmradio",
+  "description": "Overlay to 'com.android.fmradio' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

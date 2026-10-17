@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.providers.media",
+  "description": "OnePlus Media Storage\nRuns in the background.\nSeems to just add recycle bin functionality to your file management (file browsers). Keep enabled if you like that function. But safe to disable if you don't want it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgfota.permission",
+  "description": "FOTA Test.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

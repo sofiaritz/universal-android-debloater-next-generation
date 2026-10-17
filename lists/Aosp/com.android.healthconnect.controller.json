@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.healthconnect.controller",
+  "description": "Health Connect\nManage the health and fitness data on your phone, and control which apps can access it.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

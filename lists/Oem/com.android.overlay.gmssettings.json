@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.gmssettings",
+  "description": "Unused overlay to 'com.google.android.apps.safetyhub'.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

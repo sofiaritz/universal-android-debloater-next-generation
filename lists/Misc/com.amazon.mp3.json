@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amazon.mp3",
+  "description": "Amazon Music (https://play.google.com/store/apps/details?id=com.amazon.mp3)\nAmazon streaming app",
+  "list": "Misc",
+  "removal": "Recommended"
+}

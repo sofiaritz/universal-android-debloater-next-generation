@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.vendoroverlay.android",
+  "description": "Overlay to extra kbytes adjust?",
+  "list": "Oem",
+  "removal": "Expert"
+}

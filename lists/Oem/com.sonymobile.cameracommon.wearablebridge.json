@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.cameracommon.wearablebridge",
+  "description": "Camera Wearable bridge\nLets you take pictures with your phone by using Sony SmartWatch.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwdiagnosis",
+  "description": "HwDiagnosis\nNo activities, only code about diagnosis and logs\nAlso device info and is send to Huawei servers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

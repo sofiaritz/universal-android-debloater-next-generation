@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.itel.manual",
+  "description": "Manual Guide\nHas guides to phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

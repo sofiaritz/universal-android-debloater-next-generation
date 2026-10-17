@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.trustcircle",
+  "description": "Device authentication service\nThe app's usage is unknown, but it can be removed if apps such as com.hihonor.id, com.hihonor.appmarket are also removed. This is what I found while exploring the APK: Huawei Mobile Services?, managing installation and updates of AppGallery.\nHuawei HWID account may be inaccessible without this app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.overlay.deviceconfig.manaus",
+  "description": "Random configurations to basic things(powersaving, network, camera, etc.).",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

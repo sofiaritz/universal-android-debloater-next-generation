@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.timezone.data.P",
+  "description": "Samsung timezone data?",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

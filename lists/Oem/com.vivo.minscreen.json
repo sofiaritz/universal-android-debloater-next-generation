@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.minscreen",
+  "description": "Small screen mode\nThis feature is available on settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

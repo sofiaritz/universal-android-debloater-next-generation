@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.davdroid",
+  "description": "Login to iCloud and sync contacts, calendars.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

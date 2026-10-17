@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sfr.android.moncompte",
+  "description": "SFR & Moi (https://play.google.com/store/apps/details?id=com.sfr.android.moncompte)\nLets you manage your SFR account",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.crucialtec.uaf",
+  "description": "Claims to be related to the fingerprint sensor and has fingerprint permissions. Fingerprint sensor still works fine with it removed, however.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

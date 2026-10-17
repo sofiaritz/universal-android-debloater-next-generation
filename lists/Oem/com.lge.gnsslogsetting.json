@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gnsslogsetting",
+  "description": "GNSS LOG LEVEL SETTING. It's for debug.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

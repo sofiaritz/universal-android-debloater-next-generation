@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.none",
+  "description": "Fingerprint Animation None when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

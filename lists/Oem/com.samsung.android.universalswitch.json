@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.universalswitch",
+  "description": "Universal Switch lets you designate certain touches or gestures to control specific actions on your phone.\nhttps://www.samsung.com/uk/accessibility/mobile-universal-switch/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

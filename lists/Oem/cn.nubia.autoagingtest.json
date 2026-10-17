@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.autoagingtest",
+  "description": "Hidden camera, WiFi tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ohos.famanager",
+  "description": "Service Center\nProvides a space for you to view and manage services.\nThis app and its underlying services (which provide searches and AI-based services). A lot tracking.\nDisable instead of uninstalling if you don't want to lose the widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

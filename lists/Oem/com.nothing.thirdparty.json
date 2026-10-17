@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.thirdparty",
+  "description": "Breaks the Glyph API, Composer and other apps that rely on the Glyph feature will not work anymore.",
+  "list": "Oem",
+  "removal": "Expert"
+}

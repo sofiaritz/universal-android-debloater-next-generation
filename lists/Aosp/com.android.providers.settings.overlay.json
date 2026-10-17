@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.settings.overlay",
+  "description": "Required for com.android.providers.settings. Not safe to delete.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

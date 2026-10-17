@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.weather",
+  "description": "Weather\nVivo weather app, have Chinese trackers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.powertouch",
+  "description": "Moto Power Touch\nlets you customize the double tap power button gesture to launch an app or shortcut of your choice.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

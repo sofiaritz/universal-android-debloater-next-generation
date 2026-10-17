@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.dmsdp",
+  "description": "Multi-Device management\nThis service allows you to virtually expand your devices capabilities\nby connecting to other devices and using them as an extension of this device.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

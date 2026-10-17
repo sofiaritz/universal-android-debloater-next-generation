@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.entitlement",
+  "description": "Requires Google Play services and is probably for Wi-Fi calling for O2 Carrier.",
+  "list": "Oem",
+  "removal": "Expert"
+}

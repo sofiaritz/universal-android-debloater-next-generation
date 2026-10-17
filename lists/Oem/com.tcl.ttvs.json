@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.ttvs",
+  "description": "TCSCore. Runs in the background all the time. Uses some Google tracking APIs. May request permission `org.microg.gms.STATUS_BROADCAST`, probably for detecting\"illegitimate\" Play Services installations.",
+  "list": "Oem",
+  "removal": "Expert"
+}

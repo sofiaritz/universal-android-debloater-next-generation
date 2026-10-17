@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.knox.rcp.components",
+  "description": "Knox Content Mgr\nSecurity-related. Knox Content Mgr",
+  "list": "Oem",
+  "removal": "Recommended"
+}

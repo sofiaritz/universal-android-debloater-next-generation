@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.CPClient.overlay.base",
+  "description": "Theme overlay for CPClient?",
+  "list": "Oem",
+  "removal": "Expert"
+}

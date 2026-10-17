@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.uwbtest",
+  "description": "UwbTest\nfor testing UWB in the factory",
+  "list": "Oem",
+  "removal": "Recommended"
+}

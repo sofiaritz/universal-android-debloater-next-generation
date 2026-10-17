@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motosignature2.app",
+  "description": "Uses library 'com.motorola.motosignature', perm info to start gif maker, permlab moto trusted apps overlay and permlab monitor input.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

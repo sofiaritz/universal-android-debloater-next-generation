@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.smartengine",
+  "description": "It appears to be an app used for testing, no internet access, very few intents, shouldn't have self-started, should run on demand. Some people have reported it as a support component for speedcards, some speedcards won't load after uninstalling.",
+  "list": "Oem",
+  "removal": "Expert"
+}

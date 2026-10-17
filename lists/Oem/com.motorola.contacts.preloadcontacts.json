@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.contacts.preloadcontacts",
+  "description": "Preloaded Contacts\nProvides contacts preset by carriers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.launcher",
+  "description": "Oneplus Launcher\nRuns in the background as part of the system.\nAside from obviously handling the default launcher itself, it also handles the Recents UI on Android 9, the home&recents gestures in Android 11, some submenus in the Settings app and possibly more that I'm unaware of.\nProbably not a good idea to disable.",
+  "list": "Oem",
+  "removal": "Expert"
+}

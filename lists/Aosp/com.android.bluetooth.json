@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bluetooth",
+  "description": "Bluetooth service\nHandles all Bluetooth functionality including device discovery, pairing, and data transfer.\nRemoving this will completely break Bluetooth functionality on the device.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

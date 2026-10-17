@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.telus.featuredapps",
+  "description": "Recommended apps from Telus. Now discontinued and doesn't show any apps.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.camera2",
+  "description": "Moto Camera 2 (https://play.google.com/store/apps/details?id=com.motorola.camera)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

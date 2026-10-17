@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.longcheertel.midtest",
+  "description": "Assemble test\nHidden hardware tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

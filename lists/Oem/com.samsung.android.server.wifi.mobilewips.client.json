@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.server.wifi.mobilewips.client",
+  "description": "MobileWips\nDetects suspicious activity on Wi-Fi network.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

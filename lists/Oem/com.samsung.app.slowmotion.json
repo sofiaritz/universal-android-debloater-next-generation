@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.app.slowmotion",
+  "description": "Slowmotion mode in camera app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.factory.cameralyzer",
+  "description": "Cameralyzer\nA factory testing app that allows manufacturers to check for defects in the camera, had a security issue in the past\nhttps://techforesta.com/cameralyzer/\nhttps://docs.samsungknox.com/CCMode/G985F_Q.pdf",
+  "list": "Oem",
+  "removal": "Recommended"
+}

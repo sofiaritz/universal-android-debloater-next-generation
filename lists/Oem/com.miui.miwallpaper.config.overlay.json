@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.miwallpaper.config.overlay",
+  "description": "Another overlay for com.miui.miwallpaper. Since all other overlays related to it are listed in recommended and marked as useless empty apps, this one is most likely the same.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

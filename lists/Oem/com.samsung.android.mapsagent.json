@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mapsagent",
+  "description": "Provides the\"recommendation\" service. It auto-installs recommended apps from Samsung & partners after a factory reset or first boot. Also recommends you apps when you access an app folder.\n Similar to com.samsung.android.app.omcagent",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.systemclone",
+  "description": "System Cloner\nCreates multiple users on device",
+  "list": "Oem",
+  "removal": "Advanced"
+}

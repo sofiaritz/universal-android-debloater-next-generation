@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.common.spacewar",
+  "description": "Brightness, screen configs. Better don't risk",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

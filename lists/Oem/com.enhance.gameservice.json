@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.enhance.gameservice",
+  "description": "Legacy game Optimizing Service (was replaced by com.samsung.android.game.gos)\nIs supposed to\"improve\" game performance.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

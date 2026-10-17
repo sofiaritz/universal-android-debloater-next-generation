@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.communicationservice",
+  "description": "Message Service.\nNeeded for SMS/MMS communication",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

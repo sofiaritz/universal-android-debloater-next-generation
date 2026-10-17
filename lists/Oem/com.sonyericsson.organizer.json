@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.organizer",
+  "description": "Tied to Sony calendar, deprecated by Google and other calendars",
+  "list": "Oem",
+  "removal": "Recommended"
+}

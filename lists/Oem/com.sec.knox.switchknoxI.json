@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.knox.switchknoxI",
+  "description": "Handles switches between KNOW/Work container and personal profile.\nIt also manages data sharing between them.\nhttps://docs.samsungknox.com/dev/knox-sdk/container-data-sharing-policies.htm",
+  "list": "Oem",
+  "removal": "Recommended"
+}

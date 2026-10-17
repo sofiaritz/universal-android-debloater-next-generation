@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.alwayson",
+  "description": "Always-on Display\nAOD will be not available after remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

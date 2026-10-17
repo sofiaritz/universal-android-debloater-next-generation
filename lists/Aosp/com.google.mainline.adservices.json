@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.mainline.adservices",
+  "description": "Adservices Train Version Package. AdServices too.\nuses ondevicepersonalization.\nIntroduced in Android 13\nNOTE: This package is a mandatory mainline module, which is also not documented. I don't trust it when it comes to adservices.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

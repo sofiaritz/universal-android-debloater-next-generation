@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.bootanimationinfo",
+  "description": "Boot Animation Info\nProbably it's unsafe to remove.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

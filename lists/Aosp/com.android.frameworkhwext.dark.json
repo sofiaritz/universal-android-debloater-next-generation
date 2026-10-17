@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.frameworkhwext.dark",
+  "description": "Required components of the androidhwext.\nBasic functionality of Huawei Phones.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

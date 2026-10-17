@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.youtube.mango",
+  "description": "YouTube Go (https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango)\nLite version of the YouTube app. Shutdown by Google in august 2022.\nhttps://support.google.com/youtube/thread/162222567/youtube-go-is-going-away-in-august-of-this-year",
+  "list": "Google",
+  "removal": "Recommended"
+}

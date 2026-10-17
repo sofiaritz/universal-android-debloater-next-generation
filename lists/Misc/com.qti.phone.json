@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.phone",
+  "description": "dialer, dialing service, for phone calls.\nHas IMS things, optimizations?, its weird that calling works after remove, has code related to 'com.qualcomm.qcrilmsgtunnel',\nChina Mobile Communications Corporation(China Mobile) SIM card things.",
+  "list": "Misc",
+  "removal": "Expert"
+}

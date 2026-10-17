@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.target",
+  "description": "In code founded wifi configs.\nImportant configs to WiFi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

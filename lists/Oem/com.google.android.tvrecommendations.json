@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tvrecommendations",
+  "description": "Android TV Core Services\nSometimes has only Notification to Android11UpgradeReceiver,\nand on some TV's has a lot frameworks, it's weird.\nhttps://play.google.com/store/apps/details?id=com.google.android.tvrecommendations&hl=en&gl=US",
+  "list": "Oem",
+  "removal": "Expert"
+}

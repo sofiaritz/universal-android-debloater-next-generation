@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.videostudio",
+  "description": "Quick Video Editor\nAllows you to create and edit video files using the videos (and photos) stored on the phone.\nhttps://www.lg.com/us/mobile-phones/VS980/Userguide/281.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

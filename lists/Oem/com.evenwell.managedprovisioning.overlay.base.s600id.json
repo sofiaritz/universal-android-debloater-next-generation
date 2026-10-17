@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.managedprovisioning.overlay.base.s600id",
+  "description": "Theme overlay for Managed Provisioning?",
+  "list": "Oem",
+  "removal": "Expert"
+}

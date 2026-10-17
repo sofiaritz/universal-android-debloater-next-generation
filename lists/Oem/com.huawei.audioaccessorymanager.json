@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.audioaccessorymanager",
+  "description": "Audio Accessory Manager\nA lot stuff: Huawei health, Huawei music, earphones.\nProbably only useful when you got Huawei FreeBuds.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

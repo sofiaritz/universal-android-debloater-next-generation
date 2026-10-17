@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tetheringentitlement",
+  "description": "Tethering entitlement management for Android devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

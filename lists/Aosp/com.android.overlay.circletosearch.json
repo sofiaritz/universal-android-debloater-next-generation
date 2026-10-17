@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.circletosearch",
+  "description": "An overlay likely deeply tied with system ui, because it causes a soft brick (all system apps suddenly crashing and inability to launch any app or process after that) on HyperOS 2.0.\nWill most likely also bootloop your device. Totally NOT safe to delete.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

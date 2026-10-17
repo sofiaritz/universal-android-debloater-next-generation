@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.felicalock",
+  "description": "FeliCa Password NFC things, not needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

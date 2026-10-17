@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.seccamservice",
+  "description": "SecCamService\nOnly collects data about camera.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

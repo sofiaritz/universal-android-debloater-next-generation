@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.radiobasedlocation",
+  "description": "Tracks location in the background. Doesn't seem to be needed for anything.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

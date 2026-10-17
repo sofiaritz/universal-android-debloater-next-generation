@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.samsungapps",
+  "description": "Samsung Galaxy Store\nSamsung's app store, required for the Samsung Pay feature to work.\nYou probably don't want this app, it's just a worse version of the Play Store with a few proprietary exclusives from Samsung. Uninstalling it will not cause a bootloop, so its priority shouldn't be any higher than Advanced.\nhttps://en.wikipedia.org/wiki/Samsung_Galaxy_Store",
+  "list": "Oem",
+  "removal": "Expert"
+}

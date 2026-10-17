@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgdataphone",
+  "description": "It's for test and debug Data connection.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

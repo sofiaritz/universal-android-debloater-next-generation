@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.soundpicker",
+  "description": "Lets you select a sound for alarm/ringtone",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.imagertuning_lake",
+  "description": "Imager Tuning (https://play.google.com/store/apps/details?id=com.motorola.imagertuning_athene)\nNaming convention: imagertuning_[PHONE CODENAME]\nThis is the custom camera image processing stack on Motorola devices. It's generally important for improving image quality.\nPlaystore reviews indicate that it slows down the camera app significantly for some users (probably a bug).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

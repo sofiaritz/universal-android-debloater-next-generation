@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivotouchscreen.synadeltadiff",
+  "description": "tests touch screen",
+  "list": "Oem",
+  "removal": "Recommended"
+}

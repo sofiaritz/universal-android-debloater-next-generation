@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.cyanogenmod.filemanager",
+  "description": "Cyanogenmod file manager, safe to remove if you use another one.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

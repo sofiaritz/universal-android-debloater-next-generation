@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.genie",
+  "description": "Device Help (previously Moto Help) (https://play.google.com/store/apps/details?id=com.motorola.genie)\nAn app that checks hardware status and gives the user contacts for support.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

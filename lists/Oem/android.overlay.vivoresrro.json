@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.vivoresrro",
+  "description": "This overlay has only: strings.xml: select_cancel.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

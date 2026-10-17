@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.batterywarning",
+  "description": "Battery warning.\nUses accessbility, GPS and Wi-Fi.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

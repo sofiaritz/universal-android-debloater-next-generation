@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.customizedsettings",
+  "description": "Settings that are customised by carriers for region specifics",
+  "list": "Oem",
+  "removal": "Expert"
+}

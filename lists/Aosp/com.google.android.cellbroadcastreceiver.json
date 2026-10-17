@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.cellbroadcastreceiver",
+  "description": "Wireless emergency alerts\nCell broadcast is designed to deliver messages to multiple users in an area.\nThis is notably used by ISP to send Emergency/Government alerts.\nRuns at boot and is also triggered after exiting airplane mode.\nhttps://en.wikipedia.org/wiki/Cell_Broadcast\nhttps://www.androidcentral.com/amber-alerts-and-android-what-you-need-know\nhttps://android.googlesource.com/platform/packages/apps/CellBroadcastReceiver/+/refs/heads/master/src/com/android/cellbroadcastreceiver",
+  "list": "Aosp",
+  "removal": "Expert"
+}

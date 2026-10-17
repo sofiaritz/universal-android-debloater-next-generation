@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.diagnosemanager",
+  "description": "Logging app for diagnosis/troubleshooting when the SIM card state change. Only used on devices running OxygenOS 9 and lower. Runs at boot and triggers when SIM card state change.\n\nPithus analysis: https://beta.pithus.org/report/f4c76054795bf55012edf1f60e992b6e339085b9ca2cbe685917a62dd07492c0",
+  "list": "Oem",
+  "removal": "Advanced"
+}

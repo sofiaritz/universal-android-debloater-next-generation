@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.system.resources.overlay",
+  "description": "Contains resources that can be overlaid to customize the Wi-Fi module's behavior.\nhttps://source.android.com/docs/core/ota/modular-system/wifi",
+  "list": "Aosp",
+  "removal": "Expert"
+}

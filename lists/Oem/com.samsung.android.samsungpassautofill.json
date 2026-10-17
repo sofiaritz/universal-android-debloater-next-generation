@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.samsungpassautofill",
+  "description": "Auto Fill for Samsung Pass\nOnce your account information is registered, you can use iris, fingerprint, or face recognition to sign in.\nhttps://www.samsung.com/us/support/answer/ANS00082282/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

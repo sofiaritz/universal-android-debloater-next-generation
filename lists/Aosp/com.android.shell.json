@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.shell",
+  "description": "Shell\nUnix shell that receives ADB commands sent from a PC.\nThis is what UAD-ng uses to execute commands on Android devices. Probably a bad idea to disable ;)",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

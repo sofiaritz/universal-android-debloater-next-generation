@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.deskclock",
+  "description": "Clock\nCan manage alarms by this app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

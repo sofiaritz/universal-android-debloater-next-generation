@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.webview",
+  "description": "Huawei WebView enables Android apps to display web content within the app itself, based on Chrome.\nNo root? Don't uninstall.\nRoot? If you delete WebView, make sure to install a replacement.\nMany third-party apps, such as banks, VPNs, GitHub, Discord and Reddit use web-based content and will crash without it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.color.green",
+  "description": "Android color accent only for google pixel or aosp or motorola",
+  "list": "Oem",
+  "removal": "Recommended"
+}

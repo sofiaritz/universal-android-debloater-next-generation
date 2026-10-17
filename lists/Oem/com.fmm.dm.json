@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fmm.dm",
+  "description": "Samsung's Find My Mobile service for tracking your phone if you lost it. Unsure of the difference(s) between this and com.fmm.ds. Can lead to logcat spam in some cases.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

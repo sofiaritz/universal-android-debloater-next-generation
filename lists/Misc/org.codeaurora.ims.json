@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.codeaurora.ims",
+  "description": "IMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling).\nRuns in the background as part of the system, with Google's IMS(com.google.android.ims,\"Carrier Services\") disabled, I haven't checked if it'd run with Carrier Services enabled.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

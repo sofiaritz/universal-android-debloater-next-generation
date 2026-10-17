@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.jslz",
+  "description": "Fingerprint animation from a lot of PNG files",
+  "list": "Oem",
+  "removal": "Recommended"
+}

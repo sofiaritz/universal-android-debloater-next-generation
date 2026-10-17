@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.analytics",
+  "description": "Xiaomi Analytics\nThis app is shady. According to a guy who tried to reverse engineer the app, Xiaomi Analytics can replace any (signed?) package\nthey want silently on your device within 24 hours. Maybe that no longer the case now but... you don't want analytics anyway.\nSource : http://blog.thijsbroenink.com/2016/09/xiaomis-analytics-app-reverse-engineered/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

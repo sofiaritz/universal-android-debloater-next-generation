@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.seeds.iot",
+  "description": "Allows you to control your TV with smart speaker e.g Alexa:\nhttps://play.google.com/store/apps/details?id=com.sony.dtv.seeds.iot&hl=en_US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

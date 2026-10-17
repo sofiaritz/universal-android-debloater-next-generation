@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.launcher.overlay.animation.scale",
+  "description": "Overlay to transition_anim_scale? Maybe unused, not sure.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.facewake",
+  "description": "FaceWake\nIt's used for face unlock.",
+  "list": "Oem",
+  "removal": "Expert"
+}

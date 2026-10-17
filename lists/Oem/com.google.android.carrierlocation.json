@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.carrierlocation",
+  "description": "Sharing location to carrier.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.wifi.resources.overlay",
+  "description": "overlay to wifi configs better dont risk.\nImportant configs to WiFi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

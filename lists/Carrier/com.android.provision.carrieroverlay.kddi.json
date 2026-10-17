@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.provision.carrieroverlay.kddi",
+  "description": "Useless Japanese overlay app.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

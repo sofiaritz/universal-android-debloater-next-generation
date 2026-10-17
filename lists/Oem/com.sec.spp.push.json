@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.spp.push",
+  "description": "Samsung Push Service (https://play.google.com/store/apps/details?id=com.sec.spp.push)\nProvides updates and notifications for services exclusive to Samsung (more like Samsung ads).\nhttps://www.samsunggeeks.com/2015/10/25/what-is-the-samsung-push-service/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

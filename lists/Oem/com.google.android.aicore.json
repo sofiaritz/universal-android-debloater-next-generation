@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.aicore",
+  "description": "AI Core\nLooks like AI things but code means nothing about AI or Performance.\nhttps://developer.android.com/ml/aicore Android apps can access this package for Google Gemini.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

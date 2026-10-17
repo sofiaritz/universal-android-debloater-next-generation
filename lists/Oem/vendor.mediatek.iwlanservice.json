@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.mediatek.iwlanservice",
+  "description": "iWlan service, not sure if needed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

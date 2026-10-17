@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.widgetapp.diotek.smemo",
+  "description": "Samsung Memo widget (was replaced by Samsung Note : com.samsung.android.app.notes)\nPartnership with 3-party DIOTEK : https://www.diotek.co.kr/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

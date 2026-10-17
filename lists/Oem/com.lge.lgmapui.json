@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgmapui",
+  "description": "LGMapUI\nUser Interface (UI) for displaying location tracking reccord on the Health app (com.lge.lifetracker) ?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

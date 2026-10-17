@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.lfeh",
+  "description": "Seems to be related to the the logging suite.\n\nPithus analysis: https://beta.pithus.org/report/0542dbdbe10fd3a868ea497ec92670619670f574bbce37d949975dc109cd316f",
+  "list": "Oem",
+  "removal": "Recommended"
+}

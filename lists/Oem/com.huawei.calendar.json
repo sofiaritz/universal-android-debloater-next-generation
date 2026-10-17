@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.calendar",
+  "description": "Huawei Calendar app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

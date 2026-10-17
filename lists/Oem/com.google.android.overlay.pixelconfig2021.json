@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.pixelconfig2021",
+  "description": "Pixel 2021 configuration overlay for device features and UI.",
+  "list": "Oem",
+  "removal": "Expert"
+}

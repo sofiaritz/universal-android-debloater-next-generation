@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.hbm",
+  "description": "High Brightness Mode\nIt can be found probably in settings. Still unknown.",
+  "list": "Oem",
+  "removal": "Expert"
+}

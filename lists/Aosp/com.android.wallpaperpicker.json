@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wallpaperpicker",
+  "description": "Enables you to pick a wallpaper.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

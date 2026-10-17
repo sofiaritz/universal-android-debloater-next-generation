@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.audiomirroring",
+  "description": "AudioMirroring\nAudio Mirroring to Cast other devices will not work after remove.\nAlso this app running in the background.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

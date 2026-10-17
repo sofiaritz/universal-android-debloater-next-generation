@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.configupdater",
+  "description": "Config Update\nIntents used to provide unbundled updates of system data. All require the UPDATE_CONFIG permission. Updates:\n- system wide certificate pins for TLS connections.\n- System wide Intent firewall.\n- List of permium SMS short codes.\n- List of carrier provisioning URLs.\n- Set of trusted logs used for Certificate Transparency support for TLS connections language detection model file\n- Smart selection model file\n- Conversation actions model file\n- Network watchlist config file\n- Intent action indicating that the updated carrier id config is available\n- The emergency number database into the devices\n- An integer to indicate the numeric version of the new data -- devices should only install if the update version is newer than the current one\n- Hash of the database, which is encoded by base-16 SHA512.\nhttps://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/os/ConfigUpdate.java",
+  "list": "Google",
+  "removal": "Expert"
+}

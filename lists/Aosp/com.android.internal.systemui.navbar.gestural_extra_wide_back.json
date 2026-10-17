@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+  "description": "Enables a setting increasing how far you need to move your finger to trigger the back gesture.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

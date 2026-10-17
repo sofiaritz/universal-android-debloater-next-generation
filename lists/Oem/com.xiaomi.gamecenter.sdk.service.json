@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.gamecenter.sdk.service",
+  "description": "Game Service\nNot needed for gamespace.\nDisabled in settings on default.\nHave activities about alipay, login to account.\nI'm not sure what it's needed for.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.tct.weather",
+  "description": "Weather\nStock Weather app for TCL Phones.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

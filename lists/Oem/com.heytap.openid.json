@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.openid",
+  "description": "OpenID\nDevice logos and advertisements; uninstallation causes anomalies in cloud drive functionality",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.stopwatch",
+  "description": "Samsung Stopwatch",
+  "list": "Oem",
+  "removal": "Recommended"
+}

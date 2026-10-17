@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.internal.vsim.VSimServiceApp",
+  "description": "Non Sim Device Solution (NSDS) needed for VoLTE and VoWifi (Wifi Calling) if you have a virtual SIM. Enabled in devices without esims for some reason. Not sure if there are non-esim virtual sims?\nSee com.sec.vsimservice. Uses IMS service.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

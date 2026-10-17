@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.wifiprobqeservice",
+  "description": "HwWifiproBqeService\nNeeded for WiFi to work properly? WiFi may not work (?)",
+  "list": "Oem",
+  "removal": "Expert"
+}

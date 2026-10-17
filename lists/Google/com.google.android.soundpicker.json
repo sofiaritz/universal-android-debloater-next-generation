@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.soundpicker",
+  "description": "Google Sounds. Provides notification, alarm, and ringtone sounds, will be set to default sounds (and cannot be changed) if removed, unless you already have another media select service.",
+  "list": "Google",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.camera",
+  "description": "Samsung camera app\nSafe to remove (but not recommended)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

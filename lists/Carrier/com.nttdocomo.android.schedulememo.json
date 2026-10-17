@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.schedulememo",
+  "description": "Schedule & Memo\n2 different apps in one package; docomo's schedule and memo apps.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

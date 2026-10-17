@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.iotcard",
+  "description": "Scans smart devices to be controlled from your phone. Disabling this will hide said option from Quick Settings. Note: tested disabled only.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

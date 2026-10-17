@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.wirelesssettings",
+  "description": "DCSSDK\nWireless settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

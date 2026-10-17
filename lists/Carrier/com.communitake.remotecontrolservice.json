@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.communitake.remotecontrolservice",
+  "description": "Remote management app installed by Bell on some devices. Has access to almost every permission so probably best to remove this.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

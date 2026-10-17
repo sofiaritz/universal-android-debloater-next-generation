@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.oneclean",
+  "description": "Provides memory cleaner feature for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

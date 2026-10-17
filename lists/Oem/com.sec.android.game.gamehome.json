@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.game.gamehome",
+  "description": "Samsung Game launcher\nCentralizes all your android games. This app can track all your games, how many hours you've spent playing each one, and which genres you play the most.\nRecommends games based on your profile.\nhttps://galaxystore.samsung.com/prepost/000004906980?appId=com.samsung.android.game.gamehome",
+  "list": "Oem",
+  "removal": "Recommended"
+}

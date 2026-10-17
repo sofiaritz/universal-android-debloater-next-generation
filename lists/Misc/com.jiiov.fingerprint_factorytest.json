@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.jiiov.fingerprint_factorytest",
+  "description": "A factory test app for Jiiov fingerprint scanners (Jiiov fingerprint scanners are mostly used on devices such as Xiaomi, Redmi, POCO, etc..). Mostly not needed for daily phone use, might be needed in service centers during repair or when you'll want to test your fingerprint scanner. Not sure how to even access it.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

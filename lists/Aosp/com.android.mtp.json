@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mtp",
+  "description": "MTP Host\nHandles MTP(Media Transfer Protocol), a protocol for transfering files between the device and a connected PC.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.ImsConnectionManager",
+  "description": "Needed for IMS, WiFi Calling.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.tm",
+  "description": "Task manager\nhidden app for chinese phones",
+  "list": "Oem",
+  "removal": "Recommended"
+}

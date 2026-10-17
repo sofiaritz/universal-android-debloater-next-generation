@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.secsoundpicker",
+  "description": "Ringtone Picker.",
+  "list": "Oem",
+  "removal": "Expert"
+}

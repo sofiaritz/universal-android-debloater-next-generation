@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.game.kitserver",
+  "description": "Probably safe to remove if you don't play games.\nHas window show, keybind set and more things.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

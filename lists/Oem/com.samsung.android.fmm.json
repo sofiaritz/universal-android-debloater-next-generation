@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.fmm",
+  "description": "Find My Mobile\nTracks down your device when it gets lost.\nLets you remotely lock your device, block access to Samsung Pay and wipe data from the entire device.\nhttps://www.samsung.com/global/galaxy/what-is/find-my-mobile/\nhttps://findmymobile.samsung.com/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

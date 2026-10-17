@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.global.packageinstaller",
+  "description": "MIUI Package Installer. Provides sideload apps virus checker when installing APKs. Removal causes bootloop on Xiaomi.EU custom ROMs. Use the built-in com.android.packageinstaller instead.",
+  "list": "Oem",
+  "removal": "Expert"
+}

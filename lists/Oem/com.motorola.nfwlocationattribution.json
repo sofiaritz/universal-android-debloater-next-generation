@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.nfwlocationattribution",
+  "description": "Useless Carrier Location Access. You can find it in settings location but it's not very useful.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

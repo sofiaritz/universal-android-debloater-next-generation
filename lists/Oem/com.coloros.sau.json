@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.sau",
+  "description": "System Upgrade Services\nNeeded to update ColorOS.",
+  "list": "Oem",
+  "removal": "Expert"
+}

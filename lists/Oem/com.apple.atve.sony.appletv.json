@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.apple.atve.sony.appletv",
+  "description": "Apple Tv app on android Tv. Can be removed without any problem",
+  "list": "Oem",
+  "removal": "Recommended"
+}

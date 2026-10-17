@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.XOSLauncher",
+  "description": "Launcher with ads, tracking.\nAfter remove you will lose recent apps.",
+  "list": "Oem",
+  "removal": "Expert"
+}

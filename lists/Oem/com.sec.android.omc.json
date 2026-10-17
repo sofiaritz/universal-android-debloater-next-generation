@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.omc",
+  "description": "OM Customize\nI found only things for Vodafone. It's not needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

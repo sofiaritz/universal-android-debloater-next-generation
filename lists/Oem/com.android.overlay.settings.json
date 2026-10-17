@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.settings",
+  "description": "Overlay to 'com.android.settings' icons png.",
+  "list": "Oem",
+  "removal": "Expert"
+}

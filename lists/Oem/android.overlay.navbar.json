@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.navbar",
+  "description": "Show Navigation Bar Config.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blurb.checkout",
+  "description": "Blurb Checkout\nProvides book purchase and checkout for Samsung\u2019s Story Album app (discontinued)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

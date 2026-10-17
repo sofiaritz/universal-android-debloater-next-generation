@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.telephony.extension",
+  "description": "I have uninstalled it for the user 0 on my phone, and since then I haven't noticed any functionality drop.\nCell signal is similar as before, also calls, SMSs and mobile data. I think it is not worth having this package installed because it uses a lot of wakelock time, but I cannot see any cell signal drop since I uninstalled it.\nIn the code found some things: omadm, wifi calling, IMS. Its app for dual SIM reachability? Not sure if its app for debugging.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

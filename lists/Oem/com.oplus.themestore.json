@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.themestore",
+  "description": "Theme Store\nTo change fonts, wallpapers, etc. of your device. Note that you can download but you can't apply unless you have registered for/sign in with HeyTap account.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

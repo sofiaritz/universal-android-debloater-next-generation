@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.rwpushcontroller",
+  "description": "rwpushcontroller\nAnother FeliCa Networks app, with japanese language\nUseless frameworks",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

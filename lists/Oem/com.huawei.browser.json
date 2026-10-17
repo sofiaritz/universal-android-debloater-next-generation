@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.browser",
+  "description": "Huawei Browser app. Don't expect privacy using it",
+  "list": "Oem",
+  "removal": "Recommended"
+}

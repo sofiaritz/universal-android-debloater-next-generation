@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.dfuservice",
+  "description": "Remote Control Update Service.",
+  "list": "Oem",
+  "removal": "Expert"
+}

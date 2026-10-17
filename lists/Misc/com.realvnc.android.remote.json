@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.realvnc.android.remote",
+  "description": "Remote controle service by Realvnc (https://en.wikipedia.org/wiki/RealVNC)\nhttps://www.realvnc.com/en/legal/#privacy\nNot sure having a remote control app installed as a system app is a good idea\nThis application is no longer maintained, besides.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

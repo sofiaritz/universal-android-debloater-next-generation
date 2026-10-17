@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.street",
+  "description": "Google Street View (https://play.google.com/store/apps/details?id=com.google.android.street)",
+  "list": "Google",
+  "removal": "Recommended"
+}

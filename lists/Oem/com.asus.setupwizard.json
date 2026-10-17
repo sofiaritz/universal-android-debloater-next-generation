@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.setupwizard",
+  "description": "Setup Wizard\nIt's needed only for first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

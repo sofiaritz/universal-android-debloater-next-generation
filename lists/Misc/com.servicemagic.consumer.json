@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.servicemagic.consumer",
+  "description": "HomeAdvisor: Contractors for Home Improvement (https://play.google.com/store/apps/details?id=com.servicemagic.consumer)\nHelps you find local contractors from the service Home Advisor network\nHomeAdvisor collects users data when a request is made and then sells that data to local contractors in exchange for money.\nWorth Reading: https://en.wikipedia.org/wiki/HomeAdvisor#Critism",
+  "list": "Misc",
+  "removal": "Recommended"
+}

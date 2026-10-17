@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.telephonyui.esimclient",
+  "description": "only has ESimClient Webview Activity",
+  "list": "Oem",
+  "removal": "Recommended"
+}

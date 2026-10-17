@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources",
+  "description": "System Wi-Fi resources",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

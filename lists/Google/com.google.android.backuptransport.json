@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.backuptransport",
+  "description": "Allows Android apps to back up their data on Google servers.",
+  "list": "Google",
+  "removal": "Advanced"
+}

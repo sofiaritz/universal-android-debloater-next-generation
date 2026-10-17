@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.magtapp",
+  "description": "MAGTApp\nUnknown, has GameEventService, MAGTEventAppReceiver, but code doesn't look very useful.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mtklogger.proxy",
+  "description": "Logs debug data.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

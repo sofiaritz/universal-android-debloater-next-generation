@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.networksettings",
+  "description": "Sim network settings\nIt can be found in settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

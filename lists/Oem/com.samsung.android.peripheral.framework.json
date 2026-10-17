@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.peripheral.framework",
+  "description": "Peripheral Framework\nIt's knox analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

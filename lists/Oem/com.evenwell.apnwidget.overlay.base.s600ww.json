@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.apnwidget.overlay.base.s600ww",
+  "description": "Some overlay for an APN widget. Overlays are usually themes.\nAPN means Access Point Name and must be configured with carrier values in order for your device to acess the carrier's network.",
+  "list": "Oem",
+  "removal": "Expert"
+}

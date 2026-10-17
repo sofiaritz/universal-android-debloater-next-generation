@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.extraphoto",
+  "description": "Bokeh\nThe document mode of the Xiaomi camera (for taking IDs), deleting it doesn't affect the editing of albums.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

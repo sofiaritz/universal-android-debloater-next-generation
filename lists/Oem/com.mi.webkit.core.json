@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.webkit.core",
+  "description": "MI WebView\nXiaomi alternative to Google WebView\nREMINDER : It is a system component for the Android operating system that allows Android apps to display content\nfrom the web directly inside an application. It's based on Chrome.\nWARNING: Make to have another Webview before uninstalling it or some apps may not work properly\n\n.An open-source privacy oriented Webview is Bromite (https://www.bromite.org/system_web_view)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

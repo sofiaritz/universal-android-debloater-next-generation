@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.trustedui",
+  "description": "trusteduiservice\nTrusted UI debugging.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.slaservice",
+  "description": "Service Level Agreement (SLA) protocol that analyzes network performance, quality of service,\nand provides users with various parameters of network quality of service,\nsuch as: jitter delay, file transfer rate, TCP latency. BUT it's placebo.\nuses permission com.miui.analytics.onetrack.TRACK_EVENT also have a lot chinese stuff.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oem.logkitsdservice",
+  "description": "Used by com.oem.oemlogkit, a shady logging app.\nDoesn't run by default, but can easily be triggered by system apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

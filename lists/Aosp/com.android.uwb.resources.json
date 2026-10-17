@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.uwb.resources",
+  "description": "Uninstalling will cause bootloop on certain devices. Seems to be not affected by whether the hardware supports UWB or not.\nUltra-wideband (UWB) communication feature.\nUWB is a radio technology that enables precise ranging between devices, allowing accurate location measurements with an accuracy of 10 cm.\nSee https://developer.android.com/develop/connectivity/uwb\nhttps://source.android.com/docs/core/connect/uwb\nOnly supported on a currently narrow amount of devices, primarily high-end devices. But the app itself is often preinstalled even if your phone doesn't have any UWB hardware, especially on newer Android versions.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

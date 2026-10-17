@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.chargingpilar",
+  "description": "Geolocates the phone to find OnePlus charging stations nearby. Connects to 'gateway.oneplus.net'\n\nPithus analysis: https://beta.pithus.org/report/8c157eeec2931d3d1140aa8c452d7afa570e04c9d51e6cd5987dbb3ec43df4f9",
+  "list": "Oem",
+  "removal": "Recommended"
+}

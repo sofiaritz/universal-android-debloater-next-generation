@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.appmanager",
+  "description": "App Management\nUsed to uninstall applications, but uninstalling apps works nonetheless, even after uninstalling this package. GameSpace's game assistant does not work anymore after uninstalling this package.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

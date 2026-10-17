@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.aasaservice",
+  "description": "Sometimes, eat a LOT of battery (according to some reddit users)\nSecurity policy apps (kind of things which prevents installation of applications)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

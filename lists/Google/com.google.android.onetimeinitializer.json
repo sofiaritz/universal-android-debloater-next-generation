@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.onetimeinitializer",
+  "description": "Provides first time setup, safe to remove.",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.siofviewer",
+  "description": "Live focus\nNeeded for Live Focus in camera app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

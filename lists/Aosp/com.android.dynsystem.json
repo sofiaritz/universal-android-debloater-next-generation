@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dynsystem",
+  "description": "Dynamic System Updates\nRuns on boot, but doesn't seem to run in the background beyond that.\nTreble gives the ability to boot an AOSP Generic System Image (GSI) on any supported device.\nDynamic System Updates allows to boot into a Generic System Image (GSI) without interfering with the current installation.\nThat means the bootloader doesn\u2019t need to be unlocked and the user data doesn\u2019t need to be wiped.\nhttps://developer.android.com/topic/dsu",
+  "list": "Aosp",
+  "removal": "Expert"
+}

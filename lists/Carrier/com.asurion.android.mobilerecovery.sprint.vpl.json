@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asurion.android.mobilerecovery.sprint.vpl",
+  "description": "Sprint Protect\nSupport app (see com.asurion.android.protech.att)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.vassistant",
+  "description": "HiVoice app\nHuawei voice assistant (like Siri or Google assistant)\nHuge privacy risk. Keep in mind that the app keeps the microphone *on* non-stop.\nIs now Celia (https://consumer.huawei.com/en/emui/celia/)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

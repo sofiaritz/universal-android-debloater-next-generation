@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.findmyphone",
+  "description": "Find Device is an app that lets you locate your device and protect your data remotely.\nTo provide these features, this app needs to connect to the Internet during use.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

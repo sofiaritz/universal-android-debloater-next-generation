@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sprint.hiddenmenuapp",
+  "description": "Lets you access hidden features tests/settings (you need to type a special code in the dialer)\nhttps://bestcellular.com/dial-codes/",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

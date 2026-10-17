@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.pushagent.overlay.base",
+  "description": "Theme overlay for pushagent?",
+  "list": "Oem",
+  "removal": "Expert"
+}

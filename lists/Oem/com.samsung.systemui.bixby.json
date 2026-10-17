@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.systemui.bixby",
+  "description": "System UI for Bixby/Bixby2",
+  "list": "Oem",
+  "removal": "Recommended"
+}

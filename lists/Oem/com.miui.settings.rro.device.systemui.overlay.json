@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.settings.rro.device.systemui.overlay",
+  "description": "A device-specific overlay for com.android.settings on Xiaomi devices customizing the system UI. Likely not something that's safe to remove.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

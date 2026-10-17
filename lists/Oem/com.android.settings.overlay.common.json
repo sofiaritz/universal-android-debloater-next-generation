@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.common",
+  "description": "Color mode config you can find it in settings\nit's something about: natural, boosted, saturated, adaptive.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.mms.basiccolorblack.overlay",
+  "description": "Dark theme overlay for Oneplus Messages app?",
+  "list": "Oem",
+  "removal": "Expert"
+}

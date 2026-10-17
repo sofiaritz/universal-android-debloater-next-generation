@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.vklayer.sm8350",
+  "description": "GPU Driver",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

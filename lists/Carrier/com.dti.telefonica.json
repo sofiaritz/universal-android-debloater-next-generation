@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dti.telefonica",
+  "description": "O2 & Telefonica carrier bloat. Runs in background, updates, maintains and installs Telefonica carrier apps and services, and is totally useless if you don't use this carrier.\nO2 and Telefonica are only available in Latin America, Brazil, Spain, Germany and UK, but it's often preinstalled on EU, Global and possibly other ROMs, as countries where this carrier is present use these ROMs. Safe to delete.\nPresumably works together with com.xiaomi.entitlement.o2. It's also a package safe to remove if you don't use the carriers mentioned earlier.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

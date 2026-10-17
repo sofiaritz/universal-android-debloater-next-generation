@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.contacts",
+  "description": "Overlay to 'com.android.contacts' png icons.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

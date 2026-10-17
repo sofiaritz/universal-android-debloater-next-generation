@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.aodnotification.overlay.gold",
+  "description": "AOD notification gold",
+  "list": "Oem",
+  "removal": "Recommended"
+}

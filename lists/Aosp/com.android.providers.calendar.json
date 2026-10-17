@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.calendar",
+  "description": "Calendar Storage\nNecessary for the stock Calendar app to work correctly.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Aosp",
+  "removal": "Expert"
+}

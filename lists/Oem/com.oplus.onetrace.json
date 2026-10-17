@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.onetrace",
+  "description": "OneTrace\nLogging component, may be used for feedback toolkit log capture, domestic specials.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

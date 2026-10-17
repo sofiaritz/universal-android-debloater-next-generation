@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.packageinstalleroverlay",
+  "description": "It's used to display an overlay window when installing or updating apps. Shows information about the app and provides the user with the option to cancel the process. Probably breaks manual installation of apps (needs more testing).",
+  "list": "Oem",
+  "removal": "Expert"
+}

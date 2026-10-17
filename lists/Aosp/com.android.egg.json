@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.egg",
+  "description": "Android's easter egg feature (spam-tap on the android version in the settings)",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

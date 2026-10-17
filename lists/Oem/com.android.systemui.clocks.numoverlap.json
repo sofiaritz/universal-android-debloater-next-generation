@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.clocks.numoverlap",
+  "description": "Adjustable number overlap for system clock display.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

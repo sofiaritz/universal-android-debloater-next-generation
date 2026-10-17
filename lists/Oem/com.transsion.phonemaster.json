@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.phonemaster",
+  "description": "Phone Master.\nProvides features like ram cleaning, storage optimisation, data usage analyser, etc. Has embedded Facebook and Google ads trackers. Has 45 permissions and makes request data to many different companies servers. There even is the usesCleartextTraffic=true flag in the Manifest meaning trafic may not even be encrypted\n\nPithus analysis: https://beta.pithus.org/report/a5346fb5ea4fba5b73a891eae064b2bdecefbc7de4f9a13e3dcf94b0a81a20af",
+  "list": "Oem",
+  "removal": "Recommended"
+}

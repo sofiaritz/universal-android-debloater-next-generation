@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.onetouchbooster",
+  "description": "Smart Manager. For\"Optimization\" of: battery (energy), memory (RAM), and storage. Removing it might break power-save mode",
+  "list": "Oem",
+  "removal": "Expert"
+}

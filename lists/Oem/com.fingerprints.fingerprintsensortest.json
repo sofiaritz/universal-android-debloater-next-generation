@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.fingerprintsensortest",
+  "description": "Sensor Test Tool\nProvides hidden fingerprint test menu. Type *#806# in OnePlus dialer to open.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

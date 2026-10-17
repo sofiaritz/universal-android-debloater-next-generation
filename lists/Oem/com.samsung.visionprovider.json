@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.visionprovider",
+  "description": "Provider for Bixby Vision (com.samsung.android.visionintelligence)\nManages access to data stored by itself, stored by other apps, and provide a way to share these data with other apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

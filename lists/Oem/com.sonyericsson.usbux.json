@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.usbux",
+  "description": "Provides the USB options such as MTP, PTP, charge only. Leave enabled",
+  "list": "Oem",
+  "removal": "Expert"
+}

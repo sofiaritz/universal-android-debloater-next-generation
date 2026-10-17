@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.barrage",
+  "description": "Bullet screen notifications\nPop-up notifications (feature inside the game service)\nHave a lot of Chinese things in this code but it's for the game service, NOT gamespace.\nSo it's for China only.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

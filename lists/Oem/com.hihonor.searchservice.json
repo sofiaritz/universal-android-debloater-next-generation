@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.searchservice",
+  "description": "Fusion Search Service\nNeeded for searching? \nalso found trackers components that connects to Honor servers unnecessarily.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

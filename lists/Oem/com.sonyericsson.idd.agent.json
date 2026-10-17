@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.idd.agent",
+  "description": "Anonymous Usage Stats\nUsed to send\"anonymous\" information about how you use your Sony Smartphone to Sony servers.\nIt remains unclear exactly how this information is anonymized.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

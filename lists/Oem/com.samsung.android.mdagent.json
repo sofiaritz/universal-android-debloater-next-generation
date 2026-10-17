@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mdagent",
+  "description": "MdAgent",
+  "list": "Oem",
+  "removal": "Advanced"
+}

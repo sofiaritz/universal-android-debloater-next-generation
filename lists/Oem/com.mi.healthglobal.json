@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.healthglobal",
+  "description": "Mi Health. Xiaomi's health and fitness app. Tracks sleep, step count, BMI, and menstruation cycle. Includes heart rate monitoring support using the camera.\nhttps://www.xda-developers.com/mi-health-xiaomi-fitness-app/\nhttps://www.xda-developers.com/xiaomi-mi-health-app-gets-heart-rate-monitoring-support-using-camera/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

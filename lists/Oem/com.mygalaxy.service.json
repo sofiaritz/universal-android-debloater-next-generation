@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mygalaxy.service",
+  "description": "Module likely used by the MyGalaxy app (https://play.google.com/store/apps/details?id=com.mygalaxy).\nOnly works on India CSC INS/INU. On all other regions it disables itself automatically.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

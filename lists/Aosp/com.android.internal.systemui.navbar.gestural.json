@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.navbar.gestural",
+  "description": "Gesture navigation\nLets you use swipes and other actions to navigate your device, rather than buttons.\nhttps://android-developers.googleblog.com/2019/08/gesture-navigation-backstory.html",
+  "list": "Aosp",
+  "removal": "Expert"
+}

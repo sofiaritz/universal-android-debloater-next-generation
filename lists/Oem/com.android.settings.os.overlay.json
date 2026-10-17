@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.os.overlay",
+  "description": "Looks unused, but not confirmed. Found in app 'icon file download', Vibration switch. Icon user found, overlay to 'com.android.settings'.",
+  "list": "Oem",
+  "removal": "Expert"
+}

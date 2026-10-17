@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.hmt.vrshell",
+  "description": "Gear VR Shell\nGear VR : https://360samsungvr.com/portal/content/about_samsung_vr",
+  "list": "Oem",
+  "removal": "Recommended"
+}

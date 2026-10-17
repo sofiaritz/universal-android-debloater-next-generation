@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.remote.service",
+  "description": "Android TV Remote Service, pairing requests from your phone.\nhttps://play.google.com/store/apps/details?id=com.google.android.tv.remote.service&hl=en&gl=US",
+  "list": "Oem",
+  "removal": "Recommended"
+}

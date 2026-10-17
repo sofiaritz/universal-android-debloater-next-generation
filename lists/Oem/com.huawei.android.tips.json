@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.tips",
+  "description": "HUAWEI Feature Advisor\nPeriodically gives you notifications on how to use certain features on your phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

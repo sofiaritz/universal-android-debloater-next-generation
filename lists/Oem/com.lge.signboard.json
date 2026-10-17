@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.signboard",
+  "description": "Always On Display.\nProbably a battery killer without an OLED screen.\nDisabling will remove the connected menu in the settings app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

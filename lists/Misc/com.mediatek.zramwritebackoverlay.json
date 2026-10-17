@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.zramwritebackoverlay",
+  "description": "config zramWriteback = true. What is this used for?",
+  "list": "Misc",
+  "removal": "Expert"
+}

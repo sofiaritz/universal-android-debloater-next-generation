@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.blogger",
+  "description": "Google blogger app (https://play.google.com/store/apps/details?id=com.google.android.apps.blogger)",
+  "list": "Google",
+  "removal": "Recommended"
+}

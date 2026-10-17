@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wifi.largetcpbuffer.resources",
+  "description": "It only provides configuration data with no executable code and adjusts Wi\u2011Fi TCP buffer sizes to optimized values\nDepending entirely on com.android.wifi.resources\nIn theory it shouldn\u2019t negatively affect Wi\u2011Fi if deleted, but this hasn\u2019t been tested. It isn\u2019t required for basic Wi\u2011Fi functionality; it mainly improves performance on fast networks, so removing it may make Wi\u2011Fi slightly slower.",
+  "list": "Oem",
+  "removal": "Expert"
+}

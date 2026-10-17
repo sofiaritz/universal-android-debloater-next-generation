@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.sps",
+  "description": "SuperProcessSystem\nUseless app statistics, logs, crash handler, security, error memory management. Also have something to com.vivo.abe but some phones don't have com.vivo.sps installed. And where is the optimization code?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

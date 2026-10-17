@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.gallery.player",
+  "description": "Old MIUI Gallery app's media player, a separate package from com.miui.gallery. Will likely break playing and presumably viewing media in the MIUI Gallery app.\nNot seen on HyperOS but present on some old MIUI versions. Safe to remove if com.miui.gallery is already removed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

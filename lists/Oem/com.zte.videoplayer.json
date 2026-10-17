@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.videoplayer",
+  "description": "ZTE Video Player with INTERNET and ACCESS_NETWORK_STATE permissions\nPithus analysis: https://beta.pithus.org/report/caf2da956d33c5550e42d4250b0fa31dc605f39545c2eff36438fd88a0fc7c28",
+  "list": "Oem",
+  "removal": "Recommended"
+}

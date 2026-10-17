@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.home",
+  "description": "MIUI System Launcher\nIt's basically the home screen, the way icons and apps are organized and displayed.\n\nNote: If you remove this package on devices based on MIUI 12+ with Android 11+, you will lose navigation gestures and recent apps view EVEN with a 3rd party launcher...\nhttps://web.archive.org/web/20220926221620/https://libreddit.spike.codes/r/Xiaomi/comments/o6vk5z/miui_12125_and_android_11_gestures/\n\nDON'T REMOVE THIS IF YOU DIDN'T INSTALL ANOTHER LAUNCHER!",
+  "list": "Oem",
+  "removal": "Expert"
+}

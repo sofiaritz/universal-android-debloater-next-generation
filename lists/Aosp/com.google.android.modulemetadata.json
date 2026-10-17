@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.modulemetadata",
+  "description": "Module that contains metadata about the list of modules on the device. And that\u2019s about it.\nI wouldn't advise you to mess with it as it could break important modules (see #37)\nGood explanation of what android modules are : https://www.xda-developers.com/android-project-mainline-modules-explanation/",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

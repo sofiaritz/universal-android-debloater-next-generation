@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.turboadapter",
+  "description": "Device Health Services Adapter\nAnother app for Device Health Services(discontinued)",
+  "list": "Google",
+  "removal": "Recommended"
+}

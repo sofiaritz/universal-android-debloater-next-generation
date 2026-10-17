@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.deskclock",
+  "description": "Lenovo ZUI Clock\nStock Lenovo clock app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

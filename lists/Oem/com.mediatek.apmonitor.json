@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.apmonitor",
+  "description": "APM Service\nhas only logs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

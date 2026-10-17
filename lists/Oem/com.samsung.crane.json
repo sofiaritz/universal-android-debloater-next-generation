@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.crane",
+  "description": "Call+ (https://support.vodafone.co.uk/Vodafone-apps/Call-and-Message/60900956/What-is-Call.htm)\nCall+ features on Samsung dialer\nNOTE: I have the feeling that these features are carrier/country dependant because I don't have them. But I have this package anyway.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

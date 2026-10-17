@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.nttdocomo.anshinmode",
+  "description": "Anshin-Filter for docomo (https://www.docomo.ne.jp/service/anshin_filter/0)\nCarrier-provided parental controls. Terrible.\nCauses excessive battery drain on both parent and child devices due to heavy background polling, and a ton of other issues.\nIf you care about your child's better well-being, digital experience and parent-child relationships, consider using alternative services such as Google Family link.\nStrongly recommended to uninstall.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

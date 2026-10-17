@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.findmyphone",
+  "description": "The phone will start ringing, if connected to watch via BT or WiFi, when pressing 'start ringing' on the watch.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.dynamicvolume",
+  "description": "Adaptive volume\nIt's for controlling the individual volume for multiple apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

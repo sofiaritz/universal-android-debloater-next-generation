@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.trustonic.teeservice",
+  "description": "TEE = Trusted Execution Environment\nSee below",
+  "list": "Misc",
+  "removal": "Expert"
+}

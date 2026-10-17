@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wallpaper.res",
+  "description": "Pre-installed wallpapers\nRemoving this package causes the background to be transparent (black, but the system will see it as white unless you use a custom wallpaper).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

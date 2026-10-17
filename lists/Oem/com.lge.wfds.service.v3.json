@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wfds.service.v3",
+  "description": "Wifi-direct service (v3)\nSee above.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

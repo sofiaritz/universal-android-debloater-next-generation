@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.feedback",
+  "description": "Feedback service\nFeedback for OPPO",
+  "list": "Oem",
+  "removal": "Recommended"
+}

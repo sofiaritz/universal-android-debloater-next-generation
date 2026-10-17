@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.email",
+  "description": "Sony Email app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

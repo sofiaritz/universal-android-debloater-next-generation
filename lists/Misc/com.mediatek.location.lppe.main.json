@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.location.lppe.main",
+  "description": "LPPE = LTE Positioning Protocol enhancements/extensions (LTE =\"4G\")\nPositioning and assistance protocol between E-SMLC (mobile location center) and UE (User Equipement = phone)\nhttps://www.gpsworld.com/wirelessexpert-advice-positioning-protocol-next-gen-cell-phones-11125/\nI don't know the app has the permission to read SMS",
+  "list": "Misc",
+  "removal": "Expert"
+}

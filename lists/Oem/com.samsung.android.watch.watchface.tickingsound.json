@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.watchface.tickingsound",
+  "description": "Ticking sound on watchfaces that support it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

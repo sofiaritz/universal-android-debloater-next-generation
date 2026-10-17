@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwstartupguide",
+  "description": "A one-time setup app that is no longer needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

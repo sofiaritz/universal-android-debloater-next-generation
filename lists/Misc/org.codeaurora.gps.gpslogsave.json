@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.codeaurora.gps.gpslogsave",
+  "description": "Saves GPS logs.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

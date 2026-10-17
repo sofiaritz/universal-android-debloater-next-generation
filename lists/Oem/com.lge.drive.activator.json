@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.drive.activator",
+  "description": "This app used to give you a free 100GB Google Drive storage for 5 years after buying an LG phone, however, Google no longer does this offer, and the app just gives an error now.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

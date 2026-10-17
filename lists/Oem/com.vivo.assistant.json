@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.assistant",
+  "description": "Vivo assistant\nAssistant for vivo phones.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

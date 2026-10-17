@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.modulemetadata.forframework",
+  "description": "If you remove this package, your phone has an extremely large chance of bootlooping. Just don't mess around with this package. Tested on a Samsung A34 5G.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

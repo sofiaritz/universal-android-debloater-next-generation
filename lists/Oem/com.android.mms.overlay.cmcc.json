@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mms.overlay.cmcc",
+  "description": "Likely overlay themes from China Mobile Communications Corporation(CMCC) or China Telecom(CT).",
+  "list": "Oem",
+  "removal": "Expert"
+}

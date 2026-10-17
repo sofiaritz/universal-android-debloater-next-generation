@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wearable.ambient",
+  "description": "It's like doze on Android phones. Not recommended to disable, as this package reduces battery drain when idle.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.aimemory",
+  "description": "Mind Space (also called 'Breeno Memory')\nSaves and summarizes content using AI. Runs on the background, even though when you're not using it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

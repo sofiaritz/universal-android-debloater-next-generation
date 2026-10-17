@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.nearby.halfsheet",
+  "description": "Useless frameworks to Wi-Fi connections, USB tethering, auto, usage.\nEvery version has random code and the app is not running in the background.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

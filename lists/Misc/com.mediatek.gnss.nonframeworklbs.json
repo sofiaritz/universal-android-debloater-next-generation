@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.gnss.nonframeworklbs",
+  "description": "Have hidden activity and it's maybe for debug location requests, modem, VoWiFi and more.\nNot useful.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

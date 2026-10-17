@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.ndsf",
+  "description": "DSF\nProvides the ability to authenticate your identity when you connect your device.\nFor the 'Device Connection Security Service' to work properly, it needs to collect\ninformation about your HeyTap account to support automatic connection to different\ndevices with the same account and connect to the Internet to verify the security of your HeyTap account.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

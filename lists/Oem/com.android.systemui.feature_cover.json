@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.feature_cover",
+  "description": "It looks like a very important app.\nImportant configs to android?",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

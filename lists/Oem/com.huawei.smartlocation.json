@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.smartlocation",
+  "description": "Huawei Indoor Positioning Services\nChinese Tracking Location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

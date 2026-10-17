@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.settings.overlay.pixelvpnconfig",
+  "description": "VPN configuration for Pixel devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

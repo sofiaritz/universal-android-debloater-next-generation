@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.contentextension",
+  "description": "Taplus\nIt's disabled on default in settings.\nIt allows you to analyze images and text by pressing and holding items on your screen to get contextual info.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

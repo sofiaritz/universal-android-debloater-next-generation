@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.launcher",
+  "description": "ASUS Launcher\nContains Google Firebase Analytics.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.android.atservice",
+  "description": "Software Update\nIt's probably the only component of software updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

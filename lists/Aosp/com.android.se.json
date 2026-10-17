@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.se",
+  "description": "SecureElementApplication\nRuns in the background as part of the system.\nNOTE: ColorOS password lock requires this package.\nUnderlying implementation for the OMAPI SE service.\nEnables apps to use the OpenMobile API to access secure elements(SE) to enable smart-card payments and other secure services.\n\nAn SE is a special chip (e.g SIM-card) for storing cryptographic secrets in a way that makes illicit use hard.\nThe Open Mobile Alliance (OPA) is a standards organization which develops open standards for the mobile phone industry.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

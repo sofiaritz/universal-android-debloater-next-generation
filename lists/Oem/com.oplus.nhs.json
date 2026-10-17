@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.nhs",
+  "description": "NetworkHealthService\n(Uninstallation may cause the power saving mode optimization option of turning off 5G to be disabled, only briefly, after which it will automatically return to 5G) needs more testing.",
+  "list": "Oem",
+  "removal": "Expert"
+}

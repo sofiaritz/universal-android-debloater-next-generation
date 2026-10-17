@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.cellbroadcastservice.overlay",
+  "description": "useless overlay for cellbroadcast",
+  "list": "Oem",
+  "removal": "Advanced"
+}

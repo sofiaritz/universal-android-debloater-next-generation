@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.lineageos.recorder",
+  "description": "LineageOS Voice Recorder App.\nSafe to remove if you don't need it or have replaced it with another app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

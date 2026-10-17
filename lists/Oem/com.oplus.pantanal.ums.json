@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.pantanal.ums",
+  "description": "Ubiquitous Manager Service\nA service required for Fluid Cloud (Dynamic Island clone) feature in OxygenOS/ColorOS/RealmeUI (Android 14). Runs in background. After disabling, no issues occurred but there's a little empty space between clock and recent notification icons on the right.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mocca",
+  "description": "MoccaMobile\nRequire google play services.\nDiagnostics, logs, car crash, better remove this app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

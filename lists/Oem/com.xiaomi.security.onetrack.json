@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.security.onetrack",
+  "description": "SecurityOnetrackService\nOnly uses MIUI analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

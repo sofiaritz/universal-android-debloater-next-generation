@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.providers.pedometer",
+  "description": "Toolbox >\"Pedometer\" Pedometer/step counter.\nBecause of a feature that integrates with the lock sceen the System UI crashes when removed.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.payjoy.permission",
+  "description": "It's for lock device and probably safe mode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

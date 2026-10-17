@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gestureanswering",
+  "description": "Answer me 2.0\nAllows you to bring the phone to your ear to answer an incoming call automatically.\nhttps://www.lg.com/us/mobile-phones/VS980/Userguide/109-1.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

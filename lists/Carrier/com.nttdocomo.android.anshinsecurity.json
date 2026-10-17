@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.anshinsecurity",
+  "description": "Anshin-security (https://www.docomo.ne.jp/service/anshin_security/)\ndocomo's security suite providing virus scanning, spam call/email prevention and so on.\nSafe to remove, but you may want to check https://mydocomo.docomo.ne.jp for subscriptions. Frequently bundled with device insurance service.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

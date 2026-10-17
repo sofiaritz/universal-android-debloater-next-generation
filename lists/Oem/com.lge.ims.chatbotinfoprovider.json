@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ims.chatbotinfoprovider",
+  "description": "It's a component of (com.lge.ims), not very useful because it's for debugging app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

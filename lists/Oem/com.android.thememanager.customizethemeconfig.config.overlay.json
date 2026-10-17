@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.thememanager.customizethemeconfig.config.overlay",
+  "description": "An overlay for Xiaomi's com.android.thememanager providing theme config customization default preferences and configs. Safe to remove if com.android.thememanager is removed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

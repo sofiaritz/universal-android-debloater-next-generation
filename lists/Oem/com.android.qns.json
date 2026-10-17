@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.qns",
+  "description": "Apn service, emergency calling, not sure how useful this app is.",
+  "list": "Oem",
+  "removal": "Expert"
+}

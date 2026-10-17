@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.upnp",
+  "description": "UpnpService\nUPnP = Universal Plug and Play\nIt\u2019s a protocol that lets UPnP-enabled devices on your network automatically discover and communicate with each other\nFor example it works with the Xiaomi Network Speaker (and probably a lot more Xiaomi IoT stuff)\nUPnP has a lot of security issues and you proably should disable it on your router.\nhttps://nakedsecurity.sophos.com/2020/06/10/billions-of-devices-affected-by-upnp-vulnerability/\nThis package is the Xiaomi implementation on Android (no AOSP support)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

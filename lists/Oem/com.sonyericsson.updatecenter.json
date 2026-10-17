@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.updatecenter",
+  "description": "The system updater found on settings > about > software update, safe to remove if your device no longer receives updates",
+  "list": "Oem",
+  "removal": "Expert"
+}

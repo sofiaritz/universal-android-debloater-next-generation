@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.hiddenmenu",
+  "description": "IOTHiddenMenu\nHidden menu used to access other hidden debug apps (those accessible with a secret code)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.supertreat.solitaire",
+  "description": "Solitaire (https://play.google.com/store/apps/details?id=net.supertreat.solitaire)\nPreinstalled game on some Samsung phones. 8 permissions, 17 trackers: https://reports.exodus-privacy.eu.org/reports/net.supertreat.solitaire/latest/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

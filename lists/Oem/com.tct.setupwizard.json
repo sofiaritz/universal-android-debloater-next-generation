@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.setupwizard",
+  "description": "Setup Wizard\nit's needed only for first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

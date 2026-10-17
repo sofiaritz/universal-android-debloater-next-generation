@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.welinknow",
+  "description": "Link Now\nRequire login to Huawei ID Account.\nSome features is not available for some countries.\nIt's app for meeting and collects a lot data from users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

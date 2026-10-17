@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.tripwidget",
+  "description": "Discontinued package (used in Galaxy S4) handling trip wallpaper widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

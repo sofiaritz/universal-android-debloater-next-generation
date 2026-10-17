@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.cellbroadcastservice.overlay.miui",
+  "description": "cross sim duplicate detection disable? I never seen this. Unused.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

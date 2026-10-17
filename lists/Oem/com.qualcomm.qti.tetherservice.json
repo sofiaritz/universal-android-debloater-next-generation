@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.tetherservice",
+  "description": "Needed for tethering, some chinese phones use qualcomm names apps instead of normal",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

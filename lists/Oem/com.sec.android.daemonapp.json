@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.daemonapp",
+  "description": "Unified Daemon app\nprovides support for a number of different apps on your device. These include the Weather, Yahoo Finance and Yahoo News apps amongst others.\nThe data is used by apps such as the Alarm, Calendar app and the camera.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

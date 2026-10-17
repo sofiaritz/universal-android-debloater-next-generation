@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.adwords",
+  "description": "Google Ads app (https://play.google.com/store/apps/details?id=com.google.android.apps.adwords)",
+  "list": "Google",
+  "removal": "Recommended"
+}

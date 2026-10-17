@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.bugreport",
+  "description": "Mi Feedback\nUsed to send bug report to devs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

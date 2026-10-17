@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.ugd",
+  "description": "GPU Driver Updater\nIt's weird when this app cameback on HyperOS(from MIUI 12).\nUpdates GPU driver.",
+  "list": "Oem",
+  "removal": "Expert"
+}

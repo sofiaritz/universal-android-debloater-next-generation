@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.chromeremotedesktop",
+  "description": "Chrome Remote Desktop (https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop)",
+  "list": "Google",
+  "removal": "Recommended"
+}

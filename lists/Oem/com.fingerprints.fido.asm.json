@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.fido.asm",
+  "description": "Fido Alliance fingerprint. It is possible that ASM stands for Authentication Service Module/Application Security Module",
+  "list": "Oem",
+  "removal": "Advanced"
+}

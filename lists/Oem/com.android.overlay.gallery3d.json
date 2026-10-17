@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.gallery3d",
+  "description": "Overlay to 'com.android.gallery3d' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

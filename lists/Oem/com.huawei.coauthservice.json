@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.coauthservice",
+  "description": "HwCoAuthService\nApplock, lockscreen password, face recognition things, fingerprint, not sure if it's worth removing it.\nNeeded for manual apk installation.",
+  "list": "Oem",
+  "removal": "Expert"
+}

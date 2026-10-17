@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.tetherentitlementcheck",
+  "description": "Needed for tethering checks such as carrier conditions and regional restrictions, safe to remove if you don't tether/hotspot",
+  "list": "Oem",
+  "removal": "Expert"
+}

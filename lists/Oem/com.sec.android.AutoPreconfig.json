@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.AutoPreconfig",
+  "description": "Auto Preconfig\nTells you to format the device when sim from other country is used basically (won't let you use another one)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

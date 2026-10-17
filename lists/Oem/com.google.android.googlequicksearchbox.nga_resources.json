@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.googlequicksearchbox.nga_resources",
+  "description": "Resources for Google Assistant quick search.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

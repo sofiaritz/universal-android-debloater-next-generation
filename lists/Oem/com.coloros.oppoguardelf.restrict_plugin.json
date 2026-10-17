@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.oppoguardelf.restrict_plugin",
+  "description": "Needed components for com.coloros.oppoguardelf. Needed for power-saving and security. Also, the plugin is bloated with logs and statistics.",
+  "list": "Oem",
+  "removal": "Expert"
+}

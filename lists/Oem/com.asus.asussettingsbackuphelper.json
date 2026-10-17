@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.asussettingsbackuphelper",
+  "description": "Settings ASUS Backup\nCan be removed if ASUS Backup are not used.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

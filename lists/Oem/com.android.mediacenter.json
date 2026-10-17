@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mediacenter",
+  "description": "Huawei music app. (Yeah they messed up with the package name)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

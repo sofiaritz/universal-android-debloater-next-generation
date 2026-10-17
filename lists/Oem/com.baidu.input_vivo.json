@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.baidu.input_vivo",
+  "description": "Default keyboard (Baidu IME customized for Vivo devices).\nThe number of requested permissions for this keyboard is terrifying. You really should use another keyboard. Pithus analysis: https://beta.pithus.org/report/d4cdf8fedcd94436ade720cb8df9b4ef32aca6c7822cae6c8698937d68e20363",
+  "list": "Oem",
+  "removal": "Advanced"
+}

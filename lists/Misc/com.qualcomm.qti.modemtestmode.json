@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.modemtestmode",
+  "description": "Modem test",
+  "list": "Misc",
+  "removal": "Recommended"
+}

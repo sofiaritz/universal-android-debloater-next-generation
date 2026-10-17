@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.everglades.video",
+  "description": "Part of the TouchWiz video player.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

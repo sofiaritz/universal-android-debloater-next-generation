@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.vklayer.sm8250",
+  "description": "Vulkan GPU DRIVER",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

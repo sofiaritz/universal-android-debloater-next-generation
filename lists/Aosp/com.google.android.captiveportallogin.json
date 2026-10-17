@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.captiveportallogin",
+  "description": "it's the same as (com.android.captiveportallogin). Support for captive portal.\nA captive portal login is a web page where the users have to input their login information or accept the displayed terms of use.\nSome networks (typically public wifi network) use the captive portal login to block access until the user inputs\nsome necessary information\nNOTE : This package is a now a mandatory mainline module\nhttps://en.wikipedia.org/wiki/Captive_portal\nhttps://www.xda-developers.com/android-project-mainline-modules-explanation",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

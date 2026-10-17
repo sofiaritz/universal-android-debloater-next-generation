@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.hnstartupguide",
+  "description": "A one-time setup app that is no longer needed",
+  "list": "Oem",
+  "removal": "Recommended"
+}

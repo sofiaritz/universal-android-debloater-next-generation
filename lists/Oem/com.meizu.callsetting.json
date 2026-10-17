@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.callsetting",
+  "description": "Additional call settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.engineermode",
+  "description": "Testing Hardware Components",
+  "list": "Oem",
+  "removal": "Recommended"
+}

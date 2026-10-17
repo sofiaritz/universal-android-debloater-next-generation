@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.home.res.overlay_305",
+  "description": "Launcher overlay, best left enabled. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

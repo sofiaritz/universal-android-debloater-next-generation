@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.server.qtiwifi",
+  "description": "it's made for analytics.\nThis service can be used to have OEM specific feature development.\nCurrently this service is being used to collect CSI data from cfrtool\nvia hidl and then pass the data to application(user level).",
+  "list": "Misc",
+  "removal": "Recommended"
+}

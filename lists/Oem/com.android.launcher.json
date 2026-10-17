@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.launcher",
+  "description": "OPPO Launcher\nBreaks swipe up gestures after remove.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.lineageos.jelly",
+  "description": "LineageOS Browser App, based on chromium.\nSafe to remove if you don't need it or have replaced it with another app.\nOtherwise there will be no browser app on your device.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

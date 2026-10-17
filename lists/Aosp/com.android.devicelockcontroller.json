@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.devicelockcontroller",
+  "description": "This app can't be uninstalled or disabled.\nCan restrict this device if the owner doesn't make payments per month for the new phone.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

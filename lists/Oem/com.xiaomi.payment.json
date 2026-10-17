@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.payment",
+  "description": "Old package name for Mi Credit (https://play.google.com/store/apps/details?id=com.micredit.in.gp)\nMi Credit is a personal loan platform from Xiaomi.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

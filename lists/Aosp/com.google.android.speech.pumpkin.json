@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.speech.pumpkin",
+  "description": "PumpkinService\nHas something to speech.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

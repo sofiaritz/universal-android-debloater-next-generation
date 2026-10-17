@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.multimedia.dolby",
+  "description": "Oppo Dolby service equalizer, but only for Chinese apps",
+  "list": "Oem",
+  "removal": "Recommended"
+}

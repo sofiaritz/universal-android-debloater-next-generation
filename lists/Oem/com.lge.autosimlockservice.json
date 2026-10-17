@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.autosimlockservice",
+  "description": "Has reboot permissions and can check when SIM state is changed. Possibly used for carrier locking devices? No issues when removed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

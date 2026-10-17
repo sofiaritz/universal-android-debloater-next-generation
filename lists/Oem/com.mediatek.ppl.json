@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.ppl",
+  "description": "Mobile anti-theft\nIt seems that people don't even have access to it, its app to remote phone lock, wipe data, fetch back anti-theft PIN.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

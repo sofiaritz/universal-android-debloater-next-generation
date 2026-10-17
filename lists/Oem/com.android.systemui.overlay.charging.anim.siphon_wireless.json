@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.charging.anim.siphon_wireless",
+  "description": "Wireless charging animation for OnePlus phones.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.mishare.connectivity",
+  "description": "Mi Share\nUnified file sharing service between Xiaomi, Oppo, Realme and Vivo devices using Wifi-direct\nSettings -> Connection & sharing -> Mi Share\nFYI : Wifi direct allows 2 devices to establish a direct Wi-Fi connection without requiring a wireless router.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

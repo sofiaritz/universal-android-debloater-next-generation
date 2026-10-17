@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qccnetstat",
+  "description": "useless network statistics also QCC in name qualcomm app is for analytics.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

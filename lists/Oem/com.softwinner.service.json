@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.softwinner.service",
+  "description": "Possibly related to the firmware updater, since the updater has a similar name",
+  "list": "Oem",
+  "removal": "Advanced"
+}

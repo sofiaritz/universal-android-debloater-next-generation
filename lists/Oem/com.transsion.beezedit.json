@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.beezedit",
+  "description": "Ringtone Maker\nRequire Google Play Services.\nRecord media sound and edit or set it as ringtone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

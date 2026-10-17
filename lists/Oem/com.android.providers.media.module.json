@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.media.module",
+  "description": "Media picker module\nNot recommended to remove this as it can break apps that use the photo picker.",
+  "list": "Oem",
+  "removal": "Expert"
+}

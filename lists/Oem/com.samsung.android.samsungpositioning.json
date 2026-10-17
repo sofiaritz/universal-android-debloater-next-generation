@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.samsungpositioning",
+  "description": "Run at startup and ask for an unknown permission SEC_FACTORY_PHONE\nThis package seems to be used for samsung apps needing location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

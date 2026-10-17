@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.euicc",
+  "description": "EuiccService\neUICC refers to the architectural standards published by GSMA or implementations of those standard for eSIM, a device used to securely store one or more SIM card profiles, which are the unique identifiers and cryptographic keys used by service providers to uniquely identify and securely connect to mobile network devices.\nhttps://en.wikipedia.org/wiki/EUICC",
+  "list": "Oem",
+  "removal": "Expert"
+}

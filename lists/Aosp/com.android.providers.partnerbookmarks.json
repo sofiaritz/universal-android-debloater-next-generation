@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.partnerbookmarks",
+  "description": "Provides bookmarks about partners of Google in Chrome.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

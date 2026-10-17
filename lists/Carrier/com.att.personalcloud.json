@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.personalcloud",
+  "description": "AT&T Personal Cloud (https://play.google.com/store/apps/details?id=com.att.personalcloud)\nNote: it's a paid extra feature and data are obviously not E2EE (i.e AT&T can access them)\nDon't keep this app. It's a privacy nightmare and was poorly coded:\nhttps://beta.pithus.org/report/bc54b5e2446ace90d9f992278d0ec320befe4983a76cb4fdcf47e565366e67b6",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

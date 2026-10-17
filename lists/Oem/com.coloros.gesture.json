@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.gesture",
+  "description": "Gestures & Motions\nSomatic gestures (double tap to light up the screen)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.a20.d01.wallpapermulti",
+  "description": "Seems like a completely useless empty package, but the default lock screen wallpaper slideshow stops working if you uninstall this. Wallpapers can still be set fine, so it's still pretty useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

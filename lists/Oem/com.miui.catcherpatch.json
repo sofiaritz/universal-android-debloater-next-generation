@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.catcherpatch",
+  "description": "Needed for Application Extension Service (com.miui.contentcatcher).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

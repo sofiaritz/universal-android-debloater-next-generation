@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.aipluginengine",
+  "description": "Assistant Basic Services\nSeems to be a dependency of Honor Lens. Safe to remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wearable.assistant",
+  "description": "Google Assistant for Android wearables (https://play.google.com/store/apps/details?id=com.google.android.wearable.assistant)\n\nHas obviously all the dangerous permissions: https://beta.pithus.org/report/efccf27aa68d9c263e4288d38af76f855b5fd4156034ebdaabeb185d8c4f1411",
+  "list": "Oem",
+  "removal": "Advanced"
+}

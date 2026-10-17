@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.timers",
+  "description": "Sony's clock app.\n Can be removed safely but on some Android Tv launchers it makes the Timer button not function. Not a deal breaker as the feature is pretty useless.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.gmail.overlay",
+  "description": "I found in code only words Vodafone email, email setup wizard. Not needed overlay",
+  "list": "Oem",
+  "removal": "Advanced"
+}

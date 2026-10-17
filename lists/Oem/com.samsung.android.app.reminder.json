@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.reminder",
+  "description": "Samsung bixby reminder (https://www.samsung.com/global/galaxy/apps/bixby/reminder/)\nSet up smart reminders to get notified when and where you need to. You can even link websites, videos, photos and more.\nUses wifi/data regularly.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

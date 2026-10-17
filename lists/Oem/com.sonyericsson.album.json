@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.album",
+  "description": "Sony gallery app (https://play.google.com/store/apps/details?id=com.sonyericsson.album)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

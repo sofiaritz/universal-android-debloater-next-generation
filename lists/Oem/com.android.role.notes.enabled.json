@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.role.notes.enabled",
+  "description": "Notes Role enabled\nUnknown overlay, sets default notes. Breaks seamlessly disabling and enabling developer options on Google Pixel(s).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.applocker",
+  "description": "Encrypts and locks apps behind password access.",
+  "list": "Oem",
+  "removal": "Expert"
+}

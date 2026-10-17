@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.store",
+  "description": "An app called TCL Mobile that you cannot disable and just opens up a link to the OEM in the browser.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

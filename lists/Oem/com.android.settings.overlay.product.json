@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.product",
+  "description": "Useless overlay to images phone white and black, it's for camera MP info.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

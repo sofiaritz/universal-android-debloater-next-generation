@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.nativedropboxagent",
+  "description": "Native DropBox Agent.\nIt is not related to Cloud Dropbox company but to Android logging. It is used during development.\nhttps://stackoverflow.com/questions/4434192/dropboxmanager-use-cases",
+  "list": "Oem",
+  "removal": "Recommended"
+}

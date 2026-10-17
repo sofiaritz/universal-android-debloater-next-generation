@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.chn.apps.devicemanagement",
+  "description": "AutoLoginService\nRegister device with China Telecom. Only for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

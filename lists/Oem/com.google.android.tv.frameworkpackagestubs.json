@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tv.frameworkpackagestubs",
+  "description": "Activity Stub\nWeird app that probably needed for SQLite, webview browser.",
+  "list": "Oem",
+  "removal": "Expert"
+}

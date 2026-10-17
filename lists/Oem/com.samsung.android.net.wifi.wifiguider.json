@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.net.wifi.wifiguider",
+  "description": "Wi-Fi Tips\nShows a question-mark button next to Wi-Fi networks that failed to connect for any reason, providing info to fix the specific issue. It also has a dedicated Settings activity that lists all possible help-tips, accessible via the\"More tips\" button when reading a tip.\nUpon reinstalling a notification pops up saying\"Analyzing Wi-Fi\" for a few seconds, no idea what it's doing. WARNING: removing makes it impossible to connect to a Wi-Fi network without a detected internet connection!",
+  "list": "Oem",
+  "removal": "Advanced"
+}

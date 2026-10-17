@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.facebook.system",
+  "description": "Facebook App Installer (empty shell app which incites you to install the Facebook app)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

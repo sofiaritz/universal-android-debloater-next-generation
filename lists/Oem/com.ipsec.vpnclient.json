@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ipsec.vpnclient",
+  "description": "LG VPN. Doesn't seem to affect VPN functionality, and LG doesn't run a VPN, afaik.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.watch.sync",
+  "description": "Huawei Watch sync function\nIs it only used to sync Huawei watch ?\nSafe to remove according to several users",
+  "list": "Oem",
+  "removal": "Recommended"
+}

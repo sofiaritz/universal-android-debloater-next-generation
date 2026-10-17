@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.iqi",
+  "description": "Carrier IQ / Device Health\nGathers, stores and forwards diagnostic measurements on its behalf (see https://en.wikipedia.org/wiki/Carrier_IQ)\nGreat ! A rootkit : https://en.wikipedia.org/wiki/Carrier_IQ#Rootkit_discovery_and_media_attention",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.watermark",
+  "description": "Hidden IMEI tests.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

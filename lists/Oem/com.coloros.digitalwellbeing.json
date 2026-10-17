@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.digitalwellbeing",
+  "description": "App usage time that can be found in settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

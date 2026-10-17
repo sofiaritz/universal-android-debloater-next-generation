@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.odm.provider",
+  "description": "Insight Provider\nProvider for net.oneplus.odm? (shady telemetry app)\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

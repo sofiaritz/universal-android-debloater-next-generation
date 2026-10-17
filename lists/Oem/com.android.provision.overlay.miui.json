@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.provision.overlay.miui",
+  "description": "An overlay for com.android.provision for Xiaomi devices. Since com.android.provision is in Unsafe, this should also be in Unsafe.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

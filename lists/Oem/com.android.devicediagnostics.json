@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.devicediagnostics",
+  "description": "Device diagnostics and health check tools for Android devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

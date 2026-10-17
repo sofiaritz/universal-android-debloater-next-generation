@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.spay",
+  "description": "Samsung Pay (https://play.google.com/store/apps/details?id=com.samsung.android.spay)\nSamsung Pay is a mobile payment and digital wallet service by Samsung that lets users make payments using compatible phones and other Samsung-produced devices\nhttps://en.wikipedia.org/wiki/Samsung_Pay\nNOTE : Samsung Pay is KNOX dependant and will never work again if you root your phone.\nFYI : Your data is sold (https://www.sammobile.com/news/samsung-pay-new-privacy-policy-your-data-sold/)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

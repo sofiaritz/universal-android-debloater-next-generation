@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.yosemite.phone",
+  "description": "Samsung WatchON (discontinued)\nIt was a service allowing you to view programming information on the TV and choose programs directly from the phone.\nhttps://en.wikipedia.org/wiki/Samsung_WatchON",
+  "list": "Oem",
+  "removal": "Recommended"
+}

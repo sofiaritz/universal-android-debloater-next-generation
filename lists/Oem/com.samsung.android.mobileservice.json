@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mobileservice",
+  "description": "Group Sharing (earlier Samsung Experience Service). The legacy version was similar to Samsung Core Services (citation needed).\nCan remove safely if you don't use any group sharing features (shared albums in gallery, etc.).\nHandles your Samsung account and is needed to use some Samsung apps features.\nIt allows you to use Samsung apps, such as Samsung Health, Samsung Pay, Galaxy Apps, Samsung Members, and SmartThings with your Samsung account credentials.\nhttps://techshift.net/what-is-samsung-group-sharing/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

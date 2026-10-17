@@ -1,0 +1,6 @@
+{
+  "pkg_name": "fr.bouyguestelecom.agent.custo",
+  "description": "This app wanna include ads to your gallery only.\nFounded only ads and crashlytics components.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

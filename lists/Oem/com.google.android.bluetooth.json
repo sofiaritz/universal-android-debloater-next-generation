@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.bluetooth",
+  "description": "Bluetooth management for Android devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wallpapercropper",
+  "description": "Wallpaper cropper.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

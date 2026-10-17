@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.smithmicro.netwise.director.comcast.oem",
+  "description": "XFINITY Wifi settings (https://play.google.com/store/apps/details?id=com.smithmicro.netwise.director.comcast.oem)\nAuto-connects you to XFINITY WiFi hotspot.\nXFINITY is a subsidiary of the Comcast Corporation (https://en.wikipedia.org/wiki/Xfinity)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

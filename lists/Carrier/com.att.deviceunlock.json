@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.deviceunlock",
+  "description": "Device Unlock\nUseless app from AT&T. it's only for unlock device.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

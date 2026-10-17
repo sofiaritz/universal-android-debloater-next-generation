@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.vepreload",
+  "description": "Samsung video editor\nLets you add add transitions, music, stickers and text to your videos. You can also change the speed of the action,\nor even add filters to switch up the mood of your videos.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

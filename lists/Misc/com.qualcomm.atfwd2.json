@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.atfwd2",
+  "description": "This is the same app as the 'com.qualcomm.atfwd'.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

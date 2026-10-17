@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprint.ecid",
+  "description": "Enhanced Caller ID\nEnable you to hide name and phone number when you make phone calls\nhttps://www.sprint.com/en/support/solutions/services/restrict-your-caller-id-information.html",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

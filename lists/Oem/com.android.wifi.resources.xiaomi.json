@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.xiaomi",
+  "description": "Have some configs to network about: disconnected scan interval schedule\nwifi11axsupportoverride, config_wifi_tcp_buffers\nyou should keep this because it's maybe from settings.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

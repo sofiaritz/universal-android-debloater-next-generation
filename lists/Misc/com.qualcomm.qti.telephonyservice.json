@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.telephonyservice",
+  "description": "Sound processing during phonecalls.\nRuns in the background.\nVital package for making calls.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

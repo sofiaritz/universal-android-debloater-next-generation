@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.touchassistant",
+  "description": "Quick Ball/Touch Assistant\nTouch assistant with a combination of five unique shortcuts which aimed to give easy and quick access to functions and apps you use frequently.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

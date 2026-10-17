@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.poweroffhandlerapp",
+  "description": "I found only lockDevice and Shutdown Phone Animation",
+  "list": "Oem",
+  "removal": "Recommended"
+}

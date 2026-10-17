@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.providers.cnap",
+  "description": "Allows carriers to show incoming caller name instead of just the number via CNAP, best left enabled to see who is calling",
+  "list": "Oem",
+  "removal": "Expert"
+}

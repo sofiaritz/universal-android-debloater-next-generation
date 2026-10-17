@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.inkbook.exoereader",
+  "description": "Stock reader app on Inkbook e-readers. Uninstall only if planning to use a different reader.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

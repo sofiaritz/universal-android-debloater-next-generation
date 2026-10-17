@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.documentsui",
+  "description": "Occasionally runs in the background.\nFile selector for other apps.\nStorage Access Framework (SAF) will break if this is disabled.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

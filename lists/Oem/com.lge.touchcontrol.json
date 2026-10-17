@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.touchcontrol",
+  "description": "I have never seen this menu in the settings app. I say it's safe to remove. I can't think of any use case for this setting, it just allows you to change where you're allowed to touch the screen",
+  "list": "Oem",
+  "removal": "Advanced"
+}

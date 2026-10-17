@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.cellbroadcastservice.overlay",
+  "description": "Unused overlay. Cross-SIM duplicate detection false.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

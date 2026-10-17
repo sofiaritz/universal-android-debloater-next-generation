@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.preloadapp",
+  "description": "Install app\nInstalls recommended apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

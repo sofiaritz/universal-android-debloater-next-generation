@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.setupwizard",
+  "description": "Onboarding that occurs after factory reset or first boot, safe to remove",
+  "list": "Oem",
+  "removal": "Advanced"
+}

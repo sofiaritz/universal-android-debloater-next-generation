@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.screencapture",
+  "description": "Provides the ability to take screenshots from the smart watch.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

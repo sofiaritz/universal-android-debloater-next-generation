@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.ltebc",
+  "description": "LTE Broadcast Manager\nRuns on boot, but not in the background beyond that.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

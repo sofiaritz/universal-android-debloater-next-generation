@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.nfc.overlay.common",
+  "description": "Common overlay configuration for NFC functionality.",
+  "list": "Oem",
+  "removal": "Expert"
+}

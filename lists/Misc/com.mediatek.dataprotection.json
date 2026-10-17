@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.dataprotection",
+  "description": "Possibly related to user partition encryption/decryption.\nA device should works flawlessly without it.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

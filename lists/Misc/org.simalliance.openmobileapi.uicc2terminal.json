@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.simalliance.openmobileapi.uicc2terminal",
+  "description": "Open Mobile API (\"interface\") to access UICC secure elements\nUICC stands for Universal Integrated Circuit Card.\nIt is a the physical and logical platform for the USIM and may contain additional USIMs and other applications.\n(U)SIM is an application on the UICC.\nhttps://bluesecblog.wordpress.com/2016/11/18/uicc-sim-usim/\nGood read: https://arxiv.org/ftp/arxiv/papers/1601/1601.03027.pdf\nNote2: The term SIM is widely used in the industry and especially with consumers to mean both SIMs and UICCs.\nhttps://www.justaskgemalto.com/us/what-uicc-and-how-it-different-sim-card/",
+  "list": "Misc",
+  "removal": "Advanced"
+}

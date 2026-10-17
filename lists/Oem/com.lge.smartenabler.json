@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.smartenabler",
+  "description": "It's for OTA Updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

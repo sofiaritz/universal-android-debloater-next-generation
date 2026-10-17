@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.rcs",
+  "description": "RCS (Rich Communication Services)\nHas permissions linked to com.samsung.cmh, and com.samsung.android.visionintelligence (and I don't understand why).\nRCS is a communication protocol between mobile telephone carriers and between phone and carrier, aiming at replacing SMS.\nhttps://en.wikipedia.org/wiki/Rich_Communication_Services\nUses IP protocol, so it needs an internet connection.\nIt's a hot mess right now. It aims at being universal but only exists in Samsung Messages and Google Messages, because Google hasn't released a public API yet, so 3rd-party apps can't support it.\nIn a lot of countries messages go through Google's Jibe servers.\nhttps://jibe.google.com/policies/terms/\nhttps://pocketnow.com/why-you-should-probably-avoid-googles-rcs-text-messaging-chat-feature",
+  "list": "Oem",
+  "removal": "Recommended"
+}

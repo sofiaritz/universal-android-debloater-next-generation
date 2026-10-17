@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.emcamera",
+  "description": "Useless camera calibration hidden app.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

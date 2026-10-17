@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.ext.shared",
+  "description": "Android Shared Library, removing may cause a bootloop.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

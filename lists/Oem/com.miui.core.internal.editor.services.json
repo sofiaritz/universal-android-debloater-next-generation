@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.core.internal.editor.services",
+  "description": "I only found: config_enableHapticTextHandle true\nWhat is this mean? it's used to permission MIUIOP 10008 in some apps.\nMIUIOP = miui optimization? it's useless or important?\nNo effects after removing, it's probably a feature of Touch Assistant, but its used on 'com.miui.core'?",
+  "list": "Oem",
+  "removal": "Expert"
+}

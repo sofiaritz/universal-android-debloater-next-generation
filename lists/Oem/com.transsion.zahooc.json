@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.zahooc",
+  "description": "This package is actually the 'Privacy' section in the Settings app. All the features inside, such as Blank Data, App Lock, App Twin, etc., belong to this package.",
+  "list": "Oem",
+  "removal": "Expert"
+}

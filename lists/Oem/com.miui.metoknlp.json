@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.metoknlp",
+  "description": "Network location provider\nUseless, only for China, have analytics things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

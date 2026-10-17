@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.vr.expeditions",
+  "description": "Google Expedition (VR stuff) (https://play.google.com/store/apps/details?id=com.google.vr.expeditions)",
+  "list": "Google",
+  "removal": "Recommended"
+}

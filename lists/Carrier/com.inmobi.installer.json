@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.inmobi.installer",
+  "description": "it's installer advertising company app.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.photos.scanner",
+  "description": "Google PhotoScan (https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner)",
+  "list": "Google",
+  "removal": "Recommended"
+}

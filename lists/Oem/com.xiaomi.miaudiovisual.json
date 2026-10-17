@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.miaudiovisual",
+  "description": "MiAudioVisual\nSafe to remove if you not use audio visuals when screen is off.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.gametuner.thin",
+  "description": "Samsung Game Tuner (https://play.google.com/store/apps/details?id=com.samsung.android.gametuner.thin)\nGame Tuner is advanced setting app. It enables you to change the resolution and frames per second settings\nin mobile games that require tuning for different Android devices, and thereby control heat generation and battery drain.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

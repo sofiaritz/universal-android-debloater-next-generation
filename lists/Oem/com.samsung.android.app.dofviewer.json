@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.dofviewer",
+  "description": "Live focus\nAllows you to adjust the level of background blur in the camera app.\nFrom the Samsung Gallery, you can also select from a range of background blur shapes to add characters and shapes to a photo.\nhttps://www.samsung.com/global/galaxy/what-is/live-focus/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

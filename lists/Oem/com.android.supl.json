@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.supl",
+  "description": "SUPL20Service\nGPS still works without it. Probably needed to location in China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

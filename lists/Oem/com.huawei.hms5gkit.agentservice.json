@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hms5gkit.agentservice",
+  "description": "Hw5GKitAgentService\nOnly debugging code found that APK id is invalid, disable parameter error, other error things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

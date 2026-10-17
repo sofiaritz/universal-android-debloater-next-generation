@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizon.services",
+  "description": "AppDirectedSMS\nOMA Device Management for Verizon.\nit's for wifi calling, sms",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

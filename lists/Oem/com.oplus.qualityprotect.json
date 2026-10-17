@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.qualityprotect",
+  "description": "QualityProtect\nLogs about system usage, some apps, not useful.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

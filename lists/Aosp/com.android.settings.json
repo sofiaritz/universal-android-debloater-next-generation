@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings",
+  "description": "AOSP Settings app.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

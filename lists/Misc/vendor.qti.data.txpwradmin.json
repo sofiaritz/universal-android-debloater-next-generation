@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.qti.data.txpwradmin",
+  "description": "This app is from qualcomm, in androidmanifest.xml I found things like com.qualcomm.qti.qmsdataservices, qms is spyware,\npermissions uses: access wifi state, quary all packages, package usage stats.\nSo hidden network stats, more about it is this code is just logs, takes apm, wifi, bt status.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

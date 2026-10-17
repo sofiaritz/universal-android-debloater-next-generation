@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.aicr",
+  "description": "Mi AI Engine\nAnother app to Mi AI from MIUI China. Might break the ability to set wallpapers\nSee https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1110\nhttps://hyperosupdates.com/apps/com.xiaomi.aicr/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

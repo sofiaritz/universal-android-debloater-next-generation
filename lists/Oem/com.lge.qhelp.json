@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.qhelp",
+  "description": "Quick Help\nApp which provides you with support articles (FAQ section that walks you through most of the major features of the phone).\nYou can request support via email or request a call from LG.\nhttps://www.lg.com/us/support/help-library/lg-android-quick-help-CT10000026-20150103624836",
+  "list": "Oem",
+  "removal": "Recommended"
+}

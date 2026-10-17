@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.lineageos.camelot",
+  "description": "LineageOS PDF Viewer App.\nSafe to remove if you don't need it or have replaced it with another app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwsearch",
+  "description": "Petal Search widget. Used for finding apps/apks on several online sources (introduced after Google Mobile Services Ban).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.filemanager",
+  "description": "Huawei file manager\nProbably fine to remove as long as you have another file manager.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

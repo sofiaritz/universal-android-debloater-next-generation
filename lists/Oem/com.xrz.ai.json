@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xrz.ai",
+  "description": "Wrapper around ChatGPT used on Bigme HiBreak Pro.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

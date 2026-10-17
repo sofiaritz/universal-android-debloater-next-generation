@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.oobe.motorola",
+  "description": "MotoApps\nIt's something to install apps, but it's an advertising company.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

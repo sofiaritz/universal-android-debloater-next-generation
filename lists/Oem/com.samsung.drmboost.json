@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.drmboost",
+  "description": "Boosts CPU performance during secure DRM (Digital Rights Management) playback by monitoring codec activity and applying a DVFS (Dynamic Voltage and Frequency Scaling) hint (1400).",
+  "list": "Oem",
+  "removal": "Expert"
+}

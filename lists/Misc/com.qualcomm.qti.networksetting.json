@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.networksetting",
+  "description": "Network operators (hidden settings menu)\nLets you select network modes like GSM only, WCDMA only, LTE only etc, toggle VoLTE On/Off...",
+  "list": "Misc",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.timezone.data_R",
+  "description": "Causes bootloop on any Samsung Galaxy A50 when removed. \n Rescue Party will be triggered, package manager service will fail to start. \n Device becomes unbootable. Do NOT remove on older Samsung devices.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

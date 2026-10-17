@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.daydream.customization",
+  "description": "Samsung customization for Google Daydream VR headset (https://arvr.google.com/daydream/)\nNOTE : Google discontinued Daydream in 2019 and it no longer works on Android 10 Samsung devices",
+  "list": "Oem",
+  "removal": "Recommended"
+}

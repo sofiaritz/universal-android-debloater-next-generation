@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.easysetup",
+  "description": "Samsung Nearby device scanning\nRequires\"com.samsung.android.beaconmanager\" to be useful.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

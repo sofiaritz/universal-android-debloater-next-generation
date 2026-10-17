@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ironsource.appcloud.oobe.hutchison",
+  "description": "AppCloud (discontinued) from ironSource, an advertising company.\nWorth reading:\nhttps://en.wikipedia.org/wiki/IronSource",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

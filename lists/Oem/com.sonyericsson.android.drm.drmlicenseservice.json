@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.drm.drmlicenseservice",
+  "description": "Theres only Drm License Activity, only downloads license, also japanese",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.player",
+  "description": "Mi Music (https://play.google.com/store/apps/details?id=com.miui.player)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

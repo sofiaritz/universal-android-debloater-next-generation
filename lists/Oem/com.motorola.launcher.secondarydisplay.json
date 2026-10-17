@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.launcher.secondarydisplay",
+  "description": "Appears to enable support for a secondary display with Moto's launcher.\nTrying to remove this packages returns\"Failure: package is non-disable\".",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.sound.tuner",
+  "description": "Dolby Atmos\nRuns in the background as part of the system. Runs even if disabled.\nSound tuning for Atmos. Breaks the Dolby Atmos sound settings menu if disabled.\nCould in theory increase loudspeaker fidelity as it can be pre-calculated and stored as a corrective EQ curve, something not possible for headphones (they'd need a unique preset for each pair of headphones).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

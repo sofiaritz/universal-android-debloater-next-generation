@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.sketchbook",
+  "description": "Drawing Assistant\nThis is an useless AI extension for Samsung Keyboard. It keeps a notification dot on the emoji button.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

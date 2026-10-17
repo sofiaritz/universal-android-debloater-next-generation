@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.milink.service",
+  "description": "UniPlay Service\nMIUI screen casting service.\nIf removed, you'll have to use Android's native casting services which can be accessed through a 3rd party app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

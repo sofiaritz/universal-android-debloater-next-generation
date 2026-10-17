@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.gallerylockscreen",
+  "description": "Wallpapers are displayed on the lock screen.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

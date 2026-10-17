@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.launcherconfig",
+  "description": "Google Launcher Config\nIt's Partner Customization.\nHas a lot wallpapers in resources.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

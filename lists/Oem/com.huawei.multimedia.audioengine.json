@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.multimedia.audioengine",
+  "description": "Audio Engine, probably not needed.\nhttps://developer.huawei.com/consumer/en/audioengine",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.knox.securefolder",
+  "description": "Secure Folder (https://play.google.com/store/apps/details?id=com.samsung.knox.securefolder)\nCreate a secure space on your device to encrypt and store your private data and apps.\nhttps://www.samsungknox.com/en/solutions/personal-apps/secure-folder\nNOTE: The key used to encrypt the files is not derived from the password you use to unlock the secure folder\nbut rather from a key stored in the hardware that is set in the factory.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

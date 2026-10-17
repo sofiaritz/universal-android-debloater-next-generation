@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.emergency.basiccolorwhite.overlay",
+  "description": "Dark theme for Emergency rescue?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

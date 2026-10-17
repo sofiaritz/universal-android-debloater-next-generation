@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.WifiResDualStaApEnable",
+  "description": "5 GHz WiFi support.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

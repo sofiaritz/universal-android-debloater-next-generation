@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.pixel.digitalkey.timesync",
+  "description": "CccDkTimeSyncService, IBluetoothCcc.\nUnknown app to car connectivity.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

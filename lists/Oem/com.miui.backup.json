@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.backup",
+  "description": "MIUI Backup\nLocal Backup/Restore feature (Settings > Additional Settings > Local backups)\nIt seems this app can communicate with Mi Drop\nThis app has 73 permissions and can obviously do everything it wants.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.springcleaning",
+  "description": "Smart cleaning\nDisplays the space in use and free space in your phone and allows you to selectively clean up your files.\nhttps://www.lg.com/us/mobile-phones/VS986/Userguide/339.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

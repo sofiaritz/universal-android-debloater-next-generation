@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.motionpanoramaviewer",
+  "description": "Motion panorama viewer\nLets you see the result of a motion panorama\nhttps://www.samsung.com/global/galaxy/what-is/motion-panorama/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

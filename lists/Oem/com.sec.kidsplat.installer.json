@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.kidsplat.installer",
+  "description": "Kids Mode (replaced by Kids Home : com.samsung.android.kidsinstaller)\nSamsung Kids Home (https://www.samsung.com/global/galaxy/apps/kids-mode/)\nLets you shape a safe environment for your child to happily explore and connect with the world.\nNOTE : You shouldn't give your phone to a child. That's bad !\nhttps://ifstudies.org/blog/a-smartphone-will-change-your-child-in-ways-you-might-not-expect-or-want",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.launcher",
+  "description": "Lenovo Launcher ZUI HOME.",
+  "list": "Oem",
+  "removal": "Expert"
+}

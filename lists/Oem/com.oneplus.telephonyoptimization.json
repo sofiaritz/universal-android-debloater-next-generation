@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.telephonyoptimization",
+  "description": "OPTelephonyOptimization\nContains a service with the same name, but I've never seen it run.",
+  "list": "Oem",
+  "removal": "Expert"
+}

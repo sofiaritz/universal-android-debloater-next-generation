@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.oplus",
+  "description": "Wi-Fi configs",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

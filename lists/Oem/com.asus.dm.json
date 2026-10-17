@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.dm",
+  "description": "System update\nSystem updates for ASUS",
+  "list": "Oem",
+  "removal": "Expert"
+}

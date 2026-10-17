@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.securitypermission",
+  "description": "Handles app permission management. DO NOT REMOVE THIS",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

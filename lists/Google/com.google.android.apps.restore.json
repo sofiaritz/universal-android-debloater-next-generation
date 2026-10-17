@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.restore",
+  "description": "The backup restore wizard used for pulling Android system backups from your Google account.\nRuns on boot.\nYou only need this if you factory restore, in which case it\u2019s automatically re-enabled for you.",
+  "list": "Google",
+  "removal": "Recommended"
+}

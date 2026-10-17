@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.videoplayer",
+  "description": "The com.mediatek.videoplayer package is MediaTek\u2019s default video player app, designed to handle video playback and provide basic media management features. Since there are numerous alternative video player apps available on Google Play that offer advanced features and better performance, removing this package is generally recommended.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

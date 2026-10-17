@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.oneconnect",
+  "description": "Samsung Smart Things (https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect)\nLets you manage all your Samsung and SmartThings-compatible devices.\nhttps://www.samsung.com/global/galaxy/apps/smartthings/\n\nProbably needs com.samsung.android.beaconmanager",
+  "list": "Oem",
+  "removal": "Recommended"
+}

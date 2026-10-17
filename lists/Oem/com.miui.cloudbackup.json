@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.cloudbackup",
+  "description": "Mi Cloud backup\nNeeded for Xiaomi cloud backup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

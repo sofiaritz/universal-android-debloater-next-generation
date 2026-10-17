@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.uwb",
+  "description": "UwbApplication\nIt's used for SmartThings and new Smart Tags. This app is bloated.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

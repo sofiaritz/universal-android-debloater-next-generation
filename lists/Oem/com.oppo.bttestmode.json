@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.bttestmode",
+  "description": "Test BLE Tx and Rx channel",
+  "list": "Oem",
+  "removal": "Recommended"
+}

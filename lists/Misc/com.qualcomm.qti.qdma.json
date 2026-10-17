@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qdma",
+  "description": "QDMA = Qualcomm Device Management and Analytics.\nthats what qdma means when I found it in .png\na lot of data collections: logs, dropbox, network.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

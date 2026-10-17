@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.batterywarning",
+  "description": "Battery warning\nDisplays only messages about low battery or too high temperature.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

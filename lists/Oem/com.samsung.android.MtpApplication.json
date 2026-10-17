@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.MtpApplication",
+  "description": "Samsung overlay for MTP\nTalks to com.android.mtp. Needed to access your phone from a computer for file transfer.",
+  "list": "Oem",
+  "removal": "Expert"
+}

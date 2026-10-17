@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.bsp.gps.nps",
+  "description": "GPS location\nI think bsp = board system package (https://en.wikipedia.org/wiki/Board_support_package)\nNot sure about nps (It might be Non-Permanent GPS station)\nIt's a small package which seems to display a notification when an app is using GPS.\nMore precisely, there is a receiver (GnssEventReceiver) which listen to com.xiaomi.bsp.gps.nps.GetEvent\nThis event most likely happen when an app use the GPS and refers to the state of the communication with the GNSS:\nFIX, LOSE, RECOVER, START, STOP\nIt's safe to remove if you really want to.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

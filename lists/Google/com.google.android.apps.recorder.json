@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.recorder",
+  "description": "Google (audio)Recorder (https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)",
+  "list": "Google",
+  "removal": "Recommended"
+}

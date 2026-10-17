@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.A12.d01.wallpapermulti",
+  "description": "Default Multiple Wallpaper Resource\nA 0 bytes overlay app for Samsung Galaxy A12, you can tell by its package name. Uninstalling it doesn't break the wallpaper slide show on the lock screen. Can be disabled via Settings.\nhttps://www.virustotal.com/gui/file/c5c5e173ccd3b515ec8684cc1c0d3d625ff57fe97a381b691596747225f2403d/details",
+  "list": "Oem",
+  "removal": "Advanced"
+}

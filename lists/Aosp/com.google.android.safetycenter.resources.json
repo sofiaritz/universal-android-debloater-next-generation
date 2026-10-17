@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.safetycenter.resources",
+  "description": "Google Safety Center.\nGoogle Safe Browsing.\nWARNING: Crashes Security and Privacy settings if removed.\nhttps://www.android.com/safety/",
+  "list": "Aosp",
+  "removal": "Expert"
+}

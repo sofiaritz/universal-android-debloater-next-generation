@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.tfunlock",
+  "description": "The unlocking interface and process when unlocking a Tracfone-based phone. Probably needed for unlocking your carrier status. probably needed if you want to unlock your phone from a Tracfone service.",
+  "list": "Carrier",
+  "removal": "Expert"
+}

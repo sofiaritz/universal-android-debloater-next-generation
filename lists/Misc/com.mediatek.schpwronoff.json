@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.schpwronoff",
+  "description": "Set schedule power on & off.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qms.service.trustzoneaccess",
+  "description": "QMS always spying. Trust Zone in this app means nothing more than logs.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

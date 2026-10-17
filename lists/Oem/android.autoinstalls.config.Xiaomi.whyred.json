@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.autoinstalls.config.Xiaomi.whyred",
+  "description": "App that configures preinstalled apps and initial preferences on Xiaomi Redmi Note 5 / Xiaomi Redmi Note 5 Pro (as their both's codename is whyred).\nOnly needed on device setup, dormant and useless afterwards. It's restored automatically in case of a factory reset. Safe to delete.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

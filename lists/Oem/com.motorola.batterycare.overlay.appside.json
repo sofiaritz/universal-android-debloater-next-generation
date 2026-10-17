@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.batterycare.overlay.appside",
+  "description": "This package is part of Motorola's custom battery care overlay and is likely associated with specific enhancements or visual elements related to battery management on the app side of the user interface.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

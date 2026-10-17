@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.kmxservice",
+  "description": "KmxService\nKnox Matrix. Provides a feature to securely generate and store keys used for end-to-end encryption (E2EE).\nIt encrypts/decrypts data on the user\u2019s device and transmits it to the server.\nThe user\u2019s original data cannot be checked as decryption is impossible from the server, which only has encrypted data, and is safely protected from external attacks.\nhttps://www.apkmirror.com/apk/samsung-electronics-co-ltd/kmxservice/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

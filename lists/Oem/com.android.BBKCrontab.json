@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.BBKCrontab",
+  "description": "Task timer\nIt's for scheduling tasks.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

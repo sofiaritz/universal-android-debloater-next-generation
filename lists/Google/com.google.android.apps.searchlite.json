@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.searchlite",
+  "description": "Google Go (https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite)\nGo apps are lite-versions of their normal counterparts, made for low-RAM devices.",
+  "list": "Google",
+  "removal": "Recommended"
+}

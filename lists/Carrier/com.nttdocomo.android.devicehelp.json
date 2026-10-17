@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.devicehelp",
+  "description": "Recommended usage tips\nIntrusive. Provide \"helpful hints\" based on user activity, but behaving like adware by showing frequent pop-ups.\nRequires high-level permissions such as Accessibility and \"Draw over other apps\" (overlay) to monitor user actions.\nIt's not enabled by default, but uninstalling recommended for a cleaner, more private experience.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.clocks.weather",
+  "description": "Clock with integrated weather updates for system UI.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

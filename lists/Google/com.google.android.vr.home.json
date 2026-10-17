@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.vr.home",
+  "description": "Daydream (VR stuff) (https://play.google.com/store/apps/details?id=com.google.android.vr.home)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.filtermanager",
+  "description": "Manage camera filters on your Samsung device.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

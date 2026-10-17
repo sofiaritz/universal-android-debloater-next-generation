@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.yandex.searchapp",
+  "description": "Yandex' Search App\nRussian search app, similar to the Google search bar that appears on the phone's home screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

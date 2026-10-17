@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.flyme.systemuitools",
+  "description": "System UI Tools\nLooks like an important app. It has gameassist, drivemode, windowmode things.",
+  "list": "Oem",
+  "removal": "Expert"
+}

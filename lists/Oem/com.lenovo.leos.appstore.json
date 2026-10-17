@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lenovo.leos.appstore",
+  "description": "Lenovo Application Center \u5e94\u7528\u4e2d\u5fc3\nLenovo chinese app store",
+  "list": "Oem",
+  "removal": "Recommended"
+}

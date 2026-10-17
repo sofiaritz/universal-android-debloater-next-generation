@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.concierge",
+  "description": "LG Smart Notice\nProvides a widget which has a clock, weather, lists notifications and much more, it's LG's version of Google Now.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

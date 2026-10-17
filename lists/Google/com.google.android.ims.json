@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.ims",
+  "description": "Carrier Services (https://play.google.com/store/apps/details?id=com.google.android.ims)\nRuns in the background.\nPlay store description claims power savings in addition to the features, but I don't see how that could be the case.\nIMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling).\nSafe to remove.",
+  "list": "Google",
+  "removal": "Advanced"
+}

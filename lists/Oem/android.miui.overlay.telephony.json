@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.miui.overlay.telephony",
+  "description": "Likely an important overlay for telephony services and com.android.providers.telephony, specific for devices running HyperOS/MIUI. Not safe to delete.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

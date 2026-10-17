@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.floatingbar",
+  "description": "LG Floating bar\nLets you put shortcuts to apps or features, as well as quick access to contacts and music player controls on a\"floating bar\" on the Home screen.\nhttps://www.neowin.net/news/lg-v30-closer-look-floating-bar/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

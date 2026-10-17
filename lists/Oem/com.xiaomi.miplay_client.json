@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.miplay_client",
+  "description": "MiPlay Client\nProvides support for Miracast (https://en.wikipedia.org/wiki/Miracast).\nIt provides the Wireless Display feature (Settings - Connection & sharing - Cast).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.insulet.myblue.pdmsystem",
+  "description": "Additional package needed to control pods on the OmniPod DASH PDM. Doesn't seem to be present on OmniPod 5. See com.insulet.myblue.pdm\n tl;dr: needed to control your insulin pump, absolutely do not remove this.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

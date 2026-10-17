@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.WifiRes6GhzEnable",
+  "description": "Config to support wifi 6 Ghz? Any wifi have this?\nIf you don't have 6 Ghz wifi then it's safe to disable.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

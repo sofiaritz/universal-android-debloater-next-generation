@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.enterprise.service",
+  "description": "Moto Thinkshield\nAdditional security.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

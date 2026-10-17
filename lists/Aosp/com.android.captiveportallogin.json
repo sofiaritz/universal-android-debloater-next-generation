@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.captiveportallogin",
+  "description": "Support for captive portal: https://en.wikipedia.org/wiki/Captive_portal\nA captive portal login is a web page where users have to log in or accept terms of use. Common for public wifi networks.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

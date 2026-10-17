@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hidisk",
+  "description": "Huawei File Manager app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

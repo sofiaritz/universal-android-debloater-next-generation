@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.translator",
+  "description": "Samsung Translater (S Translater)\nhttps://www.samsung.com/africa_en/support/mobile-devices/what-is-s-translator-and-how-does-it-work/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

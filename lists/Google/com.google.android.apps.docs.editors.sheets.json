@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.docs.editors.sheets",
+  "description": "Google Sheets (https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)",
+  "list": "Google",
+  "removal": "Recommended"
+}

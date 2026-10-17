@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.remotelock",
+  "description": "Omakase-lock (https://www.docomo.ne.jp/service/lock/)\nRemote device lock service. Allows docomo customer support to lock your device upon request.\nSafe to remove. Google's \"Find Hub\" are better-integrated alternatives including NFC (=FeliCa) remote lock.\nNOTE: To uninstall this, open settings > App permission > Special app access > Device admin apps and disable this app (May vary depending on your device).\nFor FeliCa remote lock, a separate package (com.nttdocomo.android.felicaremotelock) is used.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

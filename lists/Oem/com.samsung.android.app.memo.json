@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.memo",
+  "description": "Samsung Memo (was replaced by Samsung Notes app :\tcom.samsung.android.app.notes)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

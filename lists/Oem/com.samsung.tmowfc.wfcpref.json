@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.tmowfc.wfcpref",
+  "description": "Wifi Calling for T-mobile clients only! (tmowfc = t-mobile only wifi calling)\nLets you call or text on Wi-Fi networks with your T-Mobile phone number\nhttps://www.t-mobile.com/support/coverage/wi-fi-calling-from-t-mobile\nVoLTE/IMS is needed for this to work (see com.sec.imsservice)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bluetoothmidiservice",
+  "description": "Provides classes for using the MIDI protocol over Bluetooth. Safe to remove if you don't plan to connect MIDI devices.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

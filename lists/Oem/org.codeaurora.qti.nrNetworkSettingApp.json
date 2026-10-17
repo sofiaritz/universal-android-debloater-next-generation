@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.codeaurora.qti.nrNetworkSettingApp",
+  "description": "Needed for 5G?",
+  "list": "Oem",
+  "removal": "Expert"
+}

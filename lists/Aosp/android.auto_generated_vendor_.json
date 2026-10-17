@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.auto_generated_vendor_",
+  "description": "Auto generated vendor's stuff for Android Auto (https://www.android.com/intl/en_en/auto/)\nNote: You don't need this if you don't use Android auto",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

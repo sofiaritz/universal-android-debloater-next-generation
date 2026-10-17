@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.pixel.setupwizard.auto_generated_rro_product__",
+  "description": "Useless first-boot setup configs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.drm",
+  "description": "DRM Protected Content Storage\nManages DRM storage on the device?\nProbably required for some forms of DRM; disabling might break things like Netflix streaming, which relies on DRM to function.\nhttps://en.wikipedia.org/wiki/Digital_rights_management",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.rftest",
+  "description": "HwRFTest\nMT Test Station.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

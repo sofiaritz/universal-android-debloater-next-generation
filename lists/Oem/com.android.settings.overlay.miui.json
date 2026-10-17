@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.miui",
+  "description": "This app is without code and safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

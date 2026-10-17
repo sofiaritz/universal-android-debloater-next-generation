@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.factoryota",
+  "description": "Factory OTA Mode\nit's for testing OTA.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

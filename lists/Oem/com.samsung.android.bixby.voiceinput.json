@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bixby.voiceinput",
+  "description": "Bixby service needed for voice control",
+  "list": "Oem",
+  "removal": "Recommended"
+}

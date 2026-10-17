@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.theme.icon_pack.sam.themepicker",
+  "description": "Android icon pack only for Google Pixel or AOSP or Motorola",
+  "list": "Oem",
+  "removal": "Advanced"
+}

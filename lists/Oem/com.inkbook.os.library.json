@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.inkbook.os.library",
+  "description": "Default library app on Inkbook e-readers. Will break the UI if uninstalled so only do so if you plan to replace the default UI app with e.g. SimpleLauncher or somehting of the sort.",
+  "list": "Oem",
+  "removal": "Expert"
+}

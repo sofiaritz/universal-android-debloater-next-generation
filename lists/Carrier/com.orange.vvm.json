@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.orange.vvm",
+  "description": "Messagerie vocale visuelle (https://play.google.com/store/apps/details?id=com.orange.vvm)\nLets you manage your voicemail with an app.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

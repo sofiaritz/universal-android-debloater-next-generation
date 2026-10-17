@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.deviceidservice",
+  "description": "DeviceIdService\nCollects device id but it is not known what it is used for.\nTake's OAID, VAID, AAID.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

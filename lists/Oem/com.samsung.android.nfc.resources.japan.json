@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.nfc.resources.japan",
+  "description": "Overlay for com.android.nfc",
+  "list": "Oem",
+  "removal": "Expert"
+}

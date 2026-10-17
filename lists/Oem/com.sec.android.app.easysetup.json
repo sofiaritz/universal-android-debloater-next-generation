@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.easysetup",
+  "description": "Core of Samsung SmartThings (formerly Samsung Easy Setup)\nSee com.samsung.android.easysetup",
+  "list": "Oem",
+  "removal": "Recommended"
+}

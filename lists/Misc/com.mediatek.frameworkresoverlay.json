@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.frameworkresoverlay",
+  "description": "It have something to config AOD.\nAnd power saving.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.confuridialer",
+  "description": "Conference call service for digital signal (SIP/VoIP).\nit's hidden and no one uses it.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.clocks.bignum",
+  "description": "Large clock display interface for the system UI.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

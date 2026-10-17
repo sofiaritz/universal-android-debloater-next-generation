@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.vrservice",
+  "description": "Huawei VR Service used for Huawei VR.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

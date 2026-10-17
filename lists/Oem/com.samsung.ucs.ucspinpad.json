@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.ucs.ucspinpad",
+  "description": "UcsPinpad\nIn this app u can setup pin,puk\nUCS is a company which has partnered with Samsung to provide licenses for Samsung Knox",
+  "list": "Oem",
+  "removal": "Recommended"
+}

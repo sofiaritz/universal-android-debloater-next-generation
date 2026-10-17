@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.tzupdate",
+  "description": "Useless time zone calibration",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.logkit",
+  "description": "LogKit\nLogs, Dial *#800# for running it",
+  "list": "Oem",
+  "removal": "Recommended"
+}

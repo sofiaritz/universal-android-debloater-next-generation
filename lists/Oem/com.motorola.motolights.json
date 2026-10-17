@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motolights",
+  "description": "Moto Lights\nPeople recommend to remove it:\nhttps://xdaforums.com/t/debloat-instructions-for-edge-40-pro-rtwo.4590155/\nMoto edge lights controller, hard to check this app but it has something to control display brightness in phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

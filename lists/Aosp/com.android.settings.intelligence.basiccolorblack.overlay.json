@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.intelligence.basiccolorblack.overlay",
+  "description": "Dark theme overlay for the search functionality in the Settings app?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

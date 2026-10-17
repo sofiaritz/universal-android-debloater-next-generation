@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.twspods",
+  "description": "OnePlus Buds (https://play.google.com/store/apps/details?id=com.oneplus.twspods)\nCompanion app for Oneplus Buds. For updating firmware and changing settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

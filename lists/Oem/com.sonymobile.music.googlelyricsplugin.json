@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.music.googlelyricsplugin",
+  "description": "Google lyrics plugin\nProvides lyrics from Google in the sony music app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

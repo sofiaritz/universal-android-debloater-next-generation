@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.applock",
+  "description": "Samsung App Lock\nLets you lock your app (Settings > Advanced functions > App lock)\nYou should lock your apps storing private data (provides data at rest encryption when your phone is locked)",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

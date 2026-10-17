@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.retaildemo",
+  "description": "Retail demo app for product displays in stores.",
+  "list": "Oem",
+  "removal": "Expert"
+}

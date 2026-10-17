@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.llmpolicy",
+  "description": "LLMPolicyService\nLow latency network to game? Looks unused.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

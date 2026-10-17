@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ims.dm",
+  "description": "IMS DM\nHidden network debugging",
+  "list": "Oem",
+  "removal": "Recommended"
+}

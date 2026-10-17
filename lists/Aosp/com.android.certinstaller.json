@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.certinstaller",
+  "description": "Certificate installer\nUsed for accepting and revoking Internet certificates.\nCertificates identify ownership of public keys, for use in secure communications.\nBreaks Wi-Fi if disabled.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

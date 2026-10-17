@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.diagservices",
+  "description": "Starts process when plugged into a PC (with debugging on, haven't tried off) and then runs until stopped.\nDiagnostic services Presumably tests to collect hardware data.\nsize of this package is 12 KB and have Diag_OnBoot, QTIDiagServices\nhave permission: RECEIVE_BOOT_COMPLETED",
+  "list": "Misc",
+  "removal": "Recommended"
+}

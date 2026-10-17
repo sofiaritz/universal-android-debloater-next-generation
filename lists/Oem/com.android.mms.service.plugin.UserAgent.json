@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mms.service.plugin.UserAgent",
+  "description": "Useless plugin for logs. Collects data.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

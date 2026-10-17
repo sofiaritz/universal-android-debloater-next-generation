@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.dialer",
+  "description": "ASUS Dialer\nContains Google trackers.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

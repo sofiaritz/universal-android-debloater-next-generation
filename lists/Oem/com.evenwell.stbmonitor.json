@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.stbmonitor",
+  "description": "Apparently used to stabilize phone usage.\nSeems to drain battery.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

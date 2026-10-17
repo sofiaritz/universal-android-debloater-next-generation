@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vzw.ecid",
+  "description": "Verizon Call Filter (https://play.google.com/store/apps/details?id=com.vzw.ecid)\nNOTE : Never trust a company which promotes call ID/spam blocking features.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

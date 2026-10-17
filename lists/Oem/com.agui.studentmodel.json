@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.studentmodel",
+  "description": "Student Mode\nLocks down your phone to reduce distractions",
+  "list": "Oem",
+  "removal": "Recommended"
+}

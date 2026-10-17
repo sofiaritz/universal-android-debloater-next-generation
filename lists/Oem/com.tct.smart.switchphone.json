@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.smart.switchphone",
+  "description": "Switch Phone\nit's app for Move apps to new or old phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

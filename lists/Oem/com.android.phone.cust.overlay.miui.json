@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.cust.overlay.miui",
+  "description": "An overlay customizing default behavior and preferences for com.android.phone on devices running HyperOS/MIUI. Safe to remove if com.android.phone is removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

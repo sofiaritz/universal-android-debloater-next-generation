@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.imanager",
+  "description": "iManager\nA vivo app consists of Phone Management includes Space Cleanup, Security Scan, Data Traffic Management, Apps & Notifications & Utility Tools includes App encryption, Battery Management, App Clone, Network Management etc.",
+  "list": "Oem",
+  "removal": "Expert"
+}

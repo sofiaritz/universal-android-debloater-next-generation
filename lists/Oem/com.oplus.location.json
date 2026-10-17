@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.location",
+  "description": "Chinese location. Have China MCC. Useless",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.chromecast.setupcustomization",
+  "description": "Needed for Chromecast setup.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.voicecare",
+  "description": "LG Voice care\nAllows you to use your device if the touch screen or display is damaged.\nYou must agree to location-based information use and personal information collection to use Voice Care.\nhttps://www.lg.com/hk_en/support/product-help/CT20136018-20150122834174-others",
+  "list": "Oem",
+  "removal": "Recommended"
+}

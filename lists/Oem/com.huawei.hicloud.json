@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hicloud",
+  "description": "Huawei cloud features",
+  "list": "Oem",
+  "removal": "Recommended"
+}

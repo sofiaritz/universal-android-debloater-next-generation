@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.telenav.app.android.cingular",
+  "description": "AT&T Navigator (https://play.google.com/store/apps/details?id=com.telenav.app.android.cingular)\nCrappy GPS app provided by Telenav and rebranded by AT&T.\nWorth reading : https://www.telenav.com/legal/policies-privacy-policy",
+  "list": "Misc",
+  "removal": "Recommended"
+}

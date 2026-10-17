@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.calendar",
+  "description": "Google Calendar (https://play.google.com/store/apps/details?id=com.google.android.calendar)",
+  "list": "Google",
+  "removal": "Recommended"
+}

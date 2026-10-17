@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.res.overlay_310_311",
+  "description": "Overlays SystemUI, best kept. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

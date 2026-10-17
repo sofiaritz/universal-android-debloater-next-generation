@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.charging.anim.alita_supervooc2",
+  "description": "Charging phone animation from a lot of PNG files",
+  "list": "Oem",
+  "removal": "Recommended"
+}

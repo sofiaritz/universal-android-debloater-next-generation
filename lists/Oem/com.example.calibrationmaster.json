@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.example.calibrationmaster",
+  "description": "Chinese hidden camera calibration.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

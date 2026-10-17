@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.autopoweroffservice",
+  "description": "This service helps safe shutdown, could cause negative effect by removing but system settings > apps > autopoweroff > lets you disable it",
+  "list": "Oem",
+  "removal": "Expert"
+}

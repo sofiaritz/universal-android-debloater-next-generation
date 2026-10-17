@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.engmode",
+  "description": "Some kind of Engineer mode? I've no clue.\nContains a bunch of activities with\"info\" in their names.\nContains an\"OpFloatViewService\", but I've never seen it run.",
+  "list": "Oem",
+  "removal": "Expert"
+}

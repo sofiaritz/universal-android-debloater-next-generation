@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.appstore",
+  "description": "V-Appstore\nvivo app store.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

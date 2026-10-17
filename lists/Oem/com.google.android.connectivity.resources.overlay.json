@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.connectivity.resources.overlay",
+  "description": "Useless default configs (?)",
+  "list": "Oem",
+  "removal": "Expert"
+}

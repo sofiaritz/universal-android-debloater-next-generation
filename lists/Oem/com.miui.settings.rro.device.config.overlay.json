@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.settings.rro.device.config.overlay",
+  "description": "Presumably a MIUI/HyperOS overlay com.android.settings providing device-specific configurations for system settings.\nLikely not something you would want to remove. Will likely cause issues.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

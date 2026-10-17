@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.flyme.sdkstage",
+  "description": "It's for Night Mode settings. Not sure if it's important.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.encryption",
+  "description": "Private Safe\nAfter uninstalling, the option to use the file safe in the privacy settings disappears. There is also a section left in the settings that does nothing when clicked.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

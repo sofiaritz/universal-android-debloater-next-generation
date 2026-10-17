@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zte.heartyservice.strategy",
+  "description": "Process killer, unloads programs from memory.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

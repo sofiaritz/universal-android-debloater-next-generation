@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.engineermode",
+  "description": "EngineerMode\nTesting phone things(like audio, bluetooth, etc.).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

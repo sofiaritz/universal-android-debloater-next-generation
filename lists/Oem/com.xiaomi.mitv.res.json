@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.mitv.res",
+  "description": "MiUtilRes\nLooks like mitv api.\nProbably Unsafe to remove.",
+  "list": "Oem",
+  "removal": "Expert"
+}

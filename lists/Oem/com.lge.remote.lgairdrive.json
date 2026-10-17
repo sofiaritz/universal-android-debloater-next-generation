@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.remote.lgairdrive",
+  "description": "LG AirDrive\nLets you to control files in your device via a wireless connection.\nTo use it, you need to sign in to your LG account on both the PC and mobile device.\nhttps://www.lg.com/africa/support/product-help/CT20080025-1436354408798-others\n\nLG AirDrive settings\nSee package below.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.smartkey",
+  "description": "Smart key\nUsed for smart features.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

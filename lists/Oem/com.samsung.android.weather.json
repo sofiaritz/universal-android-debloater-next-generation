@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.weather",
+  "description": "Unified Daemon app. Named\"Weather\" on some Samsung Galaxy devices.\nProvides support for a number of different apps on your device. These include the Weather, Yahoo Finance and Yahoo News apps amongst others. The data is used by apps such as the Alarm, Calendar app and the Camera (including the\"Scan QR code\" Quick-Panel tile). If the display-name is\"Weather\", it doubles as the Samsung Weather app, which provides weather widgets.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

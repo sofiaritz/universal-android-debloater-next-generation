@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.pixel.creativeassistant",
+  "description": "Creative Assistant for media editing and artistic tasks on Pixel devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

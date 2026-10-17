@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.xperiaxlivewallpaper.product.res.overlay",
+  "description": "Some overlay for a live wallpaper from Sony? Overlays are usually themes, but not sure about this one as theming seems weird for live wallpapers. Could be that Sony automatically generates theme packages for all or most system apps, which might generate some unnecessary packages.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

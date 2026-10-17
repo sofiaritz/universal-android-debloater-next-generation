@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.staplegames.blocksClassicSGGP",
+  "description": "Block (https://play.google.com/store/apps/details?id=com.staplegames.blocksClassicSGGP)\nPreinstalled game on some Samsung phones. 9 permissions, 26 trackers: https://reports.exodus-privacy.eu.org/reports/com.staplegames.blocksClassicSGGP/latest/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

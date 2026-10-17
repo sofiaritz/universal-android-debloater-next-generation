@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.vrsetupwizardstub",
+  "description": "Samsung Gear VR (Virtual Reality) setup wizard (https://en.wikipedia.org/wiki/Samsung_Gear_VR)\nhttps://360samsungvr.com/portal/content/about_samsung_vr\nStub = https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java\nSetup wizard : The first time you turn your device on, a Welcome screen is displayed. It guides you through the basics of setting up your device.\nIt's the setup for Samsung VR services.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.itel.TWSService",
+  "description": "This app is used for connection to TECNO Hipods.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

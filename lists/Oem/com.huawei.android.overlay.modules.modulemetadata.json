@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.overlay.modules.modulemetadata",
+  "description": "Module that contains metadata about the list of modules on the device and that's about it. I wouldn't advise you to mess with it as it could break important modules (see W1nst0n/universal-android-debloater#37 on GitLab).\nGood explanation of what Android modules are: https://www.xda-developers.com/android-project-mainline-modules-explanation/",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

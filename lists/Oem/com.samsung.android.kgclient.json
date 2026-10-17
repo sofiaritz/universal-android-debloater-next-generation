@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.kgclient",
+  "description": "Samsung Payment Services\nRemoving this package will LOCK YOU OUT of your device with a full-screen overlay message saying that Device Services was uninstalled in an unauthorised manner. This is persistent upon reboots until a factory data reset is initiated. Filesystem can still be accessed if ADB permissions were granted beforehand.\nUnless you know what you're doing, you shouldn't uninstall this package.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

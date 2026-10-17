@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.mtp.extension.factoryreset",
+  "description": "Sony phone says 'lock screen settings'. Removing it can cause bootloop",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.withtv",
+  "description": "WitTV (replaced by com.sec.android.app.withtv)\nUsed to stream content from your phone to a Samsung smart TV.\nhttps://www.samsung.com/us/apps/smart-view-2/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

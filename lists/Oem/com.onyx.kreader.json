@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.kreader",
+  "description": "Onyx KReader app, UNSAFE to remove because it will crash the Onyx Launcher can be safely disabled.\nRemember to load another reader app",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

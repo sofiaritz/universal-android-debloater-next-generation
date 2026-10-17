@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.baidu.input_huawei",
+  "description": "Woh! 51 permissions!\nHuawei chinese stock input keyboard. You probably shouldn't trust this closed-source keyboard with this much permissions...NOTE: Make sure to have another keyboard installed before removing this package!",
+  "list": "Oem",
+  "removal": "Recommended"
+}

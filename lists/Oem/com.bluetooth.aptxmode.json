@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bluetooth.aptxmode",
+  "description": "Hidden aptX ALS Audio Bluetooth sample improvement from Qualcomm. Useless 96kHz sample.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

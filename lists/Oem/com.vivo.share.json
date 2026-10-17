@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.share",
+  "description": "Vivo share\nTransfer data between vivo device & PC",
+  "list": "Oem",
+  "removal": "Advanced"
+}

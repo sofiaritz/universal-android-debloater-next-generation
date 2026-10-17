@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.media.imageservice",
+  "description": "PhotoService\nProbably needed for Photos app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

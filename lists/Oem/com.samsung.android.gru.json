@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.gru",
+  "description": "Galaxy Resource Updater\nNeeded for galaxy store probably and not sure but also for system updates?",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.containercore",
+  "description": "KNOX Work profile/space\nProvides an isolated environment to store data (see Secure Folder)\n\nNote : With Knox 3.4, Knox containers are now deprecated and replaced by Android work profiles.\nComunicate with Samsung servers :\n- https://vas.samsungapps.com (App updates)\n- http://cn-ms.samsungapps.com (APK Server)\n#\nhttps://support.samsungknox.com/hc/en-us/articles/115012547907-What-URLs-do-I-have-to-whitelist-to-make-Samsung-apps-work-with-an-authenticated-proxy-",
+  "list": "Oem",
+  "removal": "Recommended"
+}

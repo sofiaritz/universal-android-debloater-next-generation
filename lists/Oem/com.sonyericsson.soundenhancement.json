@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.soundenhancement",
+  "description": "Not essential for audio to work but provides sound effects/enhancements such as Clear Audio+",
+  "list": "Oem",
+  "removal": "Advanced"
+}

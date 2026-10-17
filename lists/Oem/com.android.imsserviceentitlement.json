@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.imsserviceentitlement",
+  "description": "It's needed for WiFi calling.",
+  "list": "Oem",
+  "removal": "Expert"
+}

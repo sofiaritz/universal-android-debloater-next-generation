@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.setupwizardlegalprovider",
+  "description": "SetupWizardLegalProvider\nAll the legal terms you need to accept when you boot your phone for the first time.\nThe Welcome screen which guides you through the basics of setting up your device is the android setup wizard.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

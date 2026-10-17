@@ -1,0 +1,6 @@
+{
+  "pkg_name": "screnmirroring.com",
+  "description": "Sony's screen mirroring app. Can be removed as chromecasting still works without it",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.blackview.helper",
+  "description": "DKHelper\nTry disabling instead of uninstalling in case that breaks the App info Settings page.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

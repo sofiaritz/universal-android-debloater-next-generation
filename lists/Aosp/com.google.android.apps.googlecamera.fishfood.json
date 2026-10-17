@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.googlecamera.fishfood",
+  "description": "ApertureLensLauncher\nNot sure how it works but redirects to google app lens `com.google.android.googlequicksearchbox`.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

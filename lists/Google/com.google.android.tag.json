@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tag",
+  "description": "Support for NFC tags interactions (5 permissions : Contacts/Phone On by default).\nNFC Tags are for instance used in bus to let you validate your transport card with your phone\nOther example: https://en.wikipedia.org/wiki/TecTile\nYou will still be able to connect to an NFC device (e.g a speaker) if removed.",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.RilServiceModeApp",
+  "description": "Service mode RIL hidden app. Used for debug and diagnostics\ndial *#0011# for modem connectivity info, *#9090# for diagnostics control\n#\nRIL means Radio Interface Layer. It's the bridge between Android phone framework services and the hardware.\nhttps://wladimir-tm4pda.github.io/porting/telephony.html\nhttps://stackoverflow.com/questions/11111067/how-does-modem-code-talk-to-android-code\nSamsung RIL is a add on from Samsung : Modem <=> Linux kernel <=> libsamsung-ipc <=> Samsung-RIL <=> Android framework <=> Android applications",
+  "list": "Oem",
+  "removal": "Recommended"
+}

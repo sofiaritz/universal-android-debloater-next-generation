@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.microintelligence",
+  "description": "Micro Intelligence\nProvides features like tap to awake, awake on device raise, etc. Disabling this app makes you unable to use specific settings like Gesture Navigation and Action & Gesture along with other phone features. I recommend using RUN_IN_BACKGROUND ignore if you wanna keep them.\nPithus analysis: https://beta.pithus.org/report/f7358ad68b27d9fa75a8e742ad43c64f2710b4ba5378ee825215ebbd08549275",
+  "list": "Oem",
+  "removal": "Advanced"
+}

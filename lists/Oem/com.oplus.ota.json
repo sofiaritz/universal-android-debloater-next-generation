@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.ota",
+  "description": "Software update\nProvides System Updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.blur",
+  "description": "All the blur effects in the system UI will be removed and replaced with completely transparent if you remove this package.",
+  "list": "Oem",
+  "removal": "Expert"
+}

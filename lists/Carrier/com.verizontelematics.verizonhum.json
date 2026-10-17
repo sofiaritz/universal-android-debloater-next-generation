@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.verizontelematics.verizonhum",
+  "description": "Hum Family Locator (https://play.google.com/store/apps/details?id=com.verizontelematics.verizonhum)",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

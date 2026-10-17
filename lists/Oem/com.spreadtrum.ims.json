@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.spreadtrum.ims",
+  "description": "Needed for WiFi calling, VoLTE, VoWifi.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.quicksearchbox",
+  "description": "Overlay to 'com.android.quicksearchbox' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

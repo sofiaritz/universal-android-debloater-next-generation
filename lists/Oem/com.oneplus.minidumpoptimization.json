@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.minidumpoptimization",
+  "description": "OPMinidumpOptimization\nRuns in the background.\nNot sure what it does, but haven't noticed any negative effects from weeks of having it disabled.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

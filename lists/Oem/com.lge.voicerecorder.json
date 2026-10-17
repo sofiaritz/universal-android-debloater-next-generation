@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.voicerecorder",
+  "description": "LG Voice Recorder\nSimple voice recording app.\nSafe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

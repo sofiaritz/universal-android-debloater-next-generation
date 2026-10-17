@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.orange.wifiorange",
+  "description": "Mon R\u00e9seau (https://play.google.com/store/apps/details?id=com.orange.wifiorange)\nLets you measure your speed connection and find better Orange wifi hotspots.\nInforms you also about near network incidents.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

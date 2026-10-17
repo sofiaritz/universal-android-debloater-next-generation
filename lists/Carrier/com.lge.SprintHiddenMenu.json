@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.SprintHiddenMenu",
+  "description": "Hidden diagnostic menu for Sprint LG devices.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

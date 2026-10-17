@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.callfeaturessetting",
+  "description": "CallFeatureSetting\nHidden Call forwarding, Call waiting not available for users.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

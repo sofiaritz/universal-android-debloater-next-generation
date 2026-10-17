@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sdk.ocr",
+  "description": "It's for OCR (Optical Character Recognition), used among Samsung apps like the gallery, without this, you can't extract text from images.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

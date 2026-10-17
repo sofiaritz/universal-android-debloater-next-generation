@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.carrierexpress",
+  "description": "Hidden operator configuration. it's Carrier Express app?\nalso in code there a lot stuff about Custom Operator.\nI dont know why it should be useful when it only has notifications:\nSIM card detected or Switching the carrier etc.\nit's useless.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

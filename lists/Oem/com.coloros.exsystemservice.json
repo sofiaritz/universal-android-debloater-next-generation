@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.exsystemservice",
+  "description": "Color settings, app manager things without activities. Someone can test if it's useless?",
+  "list": "Oem",
+  "removal": "Expert"
+}

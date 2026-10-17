@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.sms.smscplugger",
+  "description": "Probably related to SMS based on the name?\nContains no services and I've never seen it run.",
+  "list": "Oem",
+  "removal": "Expert"
+}

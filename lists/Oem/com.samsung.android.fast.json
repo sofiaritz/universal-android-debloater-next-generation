@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.fast",
+  "description": "Samsung Secure Wi-Fi\nSamsung VPN service powered by McAfee\nhttps://www.pcmag.com/news/mcafee-samsung-partner-on-built-in-security-vpn-for-galaxy-s9\nhttps://www.ctrl.blog/entry/what-is-samsung-secure-wi-fi.html\nNote: If you need to use a VPN use something more trustworthy*",
+  "list": "Oem",
+  "removal": "Recommended"
+}

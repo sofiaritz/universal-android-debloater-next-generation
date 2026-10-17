@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.compass2",
+  "description": "ColorOS and OxygenOS 16's default compass app\nKeep in mind that by using this app you give your location to the weather Oppo/OnePlus servers.\nPithus analysis: https://beta.pithus.org/report/9a965f5587fa6ee21c526612f3d72c50ef3cc53679b741260298387c44f5a3dc",
+  "list": "Oem",
+  "removal": "Advanced"
+}

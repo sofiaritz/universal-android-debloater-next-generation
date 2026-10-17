@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.achievo.vipshop",
+  "description": "Chinese some shop, normal user can uninstall it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

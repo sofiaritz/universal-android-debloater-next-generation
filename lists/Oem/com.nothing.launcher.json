@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.launcher",
+  "description": "Launcher\nStock launcher",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dynamiclock",
+  "description": "Samsung Wallpaper services (Dynamic Lock)\nNOTE: Breaks LockStar customization.\nAutomatically changes your Lock screen\u2019s wallpaper every time your Galaxy phone wakes up (wallpapers update every 2 weeks).\nhttps://www.samsung.com/us/support/answer/ANS10001593",
+  "list": "Oem",
+  "removal": "Advanced"
+}

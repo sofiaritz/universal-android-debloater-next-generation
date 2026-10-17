@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.camera",
+  "description": "Safe to remove, but not recommended, as other camera apps are not much better than this one.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.inkbook.os.settings",
+  "description": "Wrapper for Android settings which hides most irrelevant settings for e-ink devices e.g enabling animations.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.location.XT",
+  "description": "Qualcomm IZat. it's hidden XT Activity. Location for Qualcomm. It's a bad idea to keep it.\nPeriodically sends a unique software ID, location (lat, long, alt, and their uncertainty), nearby cellular towers and Wi-Fi hotspots and their signal strength to Qualcomm servers.\nhttps://www.qualcomm.com/site/privacy/services",
+  "list": "Misc",
+  "removal": "Recommended"
+}

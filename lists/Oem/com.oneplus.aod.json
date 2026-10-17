@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.aod",
+  "description": "Always On Display / Ambient Display\nRuns in the background.\nWhen enabled in settings it shows clock and notifications when you raise the phone or touch the screen.\nThis is basically a lower-power lock-screen. It could in theory reduce power draw if you check notifications/clock often as OLED screens draw minimal power showing a mostly black screen(black = pixel off), but in practice the number of times you'll unintentionally trigger it will likely eat up any potential power savings and more. And if your device doesn't have an OLED screen this will draw way more power.\nMost of these power savings could be applied to your standard lock-screen simply by making your background image completely black.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

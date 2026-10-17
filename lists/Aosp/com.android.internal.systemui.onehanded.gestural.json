@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.onehanded.gestural",
+  "description": "one-handed mode, which can be found in the settings.\none-handed mode will not work. Safe to remove if you dont use these setting.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

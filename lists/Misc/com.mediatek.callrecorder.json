@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.callrecorder",
+  "description": "Call recording app for MediaTek devices.\nThis is not the kind of feature expected from a Soc company.\nIf you remove this I guess you will not be able to record your calls from the stock dialer\nIf disabled, phone calls don't work. You can disable it, but then need to use the Google Phone app to place calls.",
+  "list": "Misc",
+  "removal": "Expert"
+}

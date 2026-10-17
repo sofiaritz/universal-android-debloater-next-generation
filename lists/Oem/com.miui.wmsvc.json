@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.wmsvc",
+  "description": "WMService\nRuns at boot and has access to internet + GPS\nI quickly looked at the decompiled code and saw some unsanitized SQL inputs, which is BAD! (vulnerable to SQL injection)\nTries to get your android unique Google advertising ID from Google Play Services.\nFeeds and launches the spying/analytics app\"com.miui.hybrid\".\nDoesn't seem to do anything important, only tracking.\nWARNING:  It does not seem to affect any functionality or cause bootloop.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

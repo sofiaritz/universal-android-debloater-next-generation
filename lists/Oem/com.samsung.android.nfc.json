@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.nfc",
+  "description": "It\u2019s the main NFC module on Samsung devices.\nIt handles contactless payments, card emulation for Samsung Pay, NFC tag reading and writing, and features like Wireless Power Sharing, and it also manages certain S Pen functions that rely on NFC.\nI assume NFC breaks when disabled.",
+  "list": "Oem",
+  "removal": "Expert"
+}

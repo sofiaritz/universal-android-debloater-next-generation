@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.updatecenter",
+  "description": "App update\nInstalls app updates",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.settings.auto_generated_rro_vendor__",
+  "description": "rro = Runtime Resources Overlay.\nChanges values of a package config, based in the overlay definitions (heavily used by OEMs to customize the look and feel of Android).",
+  "list": "Oem",
+  "removal": "Advanced"
+}

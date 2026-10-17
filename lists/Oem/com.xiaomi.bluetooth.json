@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.bluetooth",
+  "description": "MIUI Bluetooth Extension. Doesn't seem to affect bluetooth functionality. Can introduce a ~1s delay when switching audio playback apps; uninstalling fixes this issue. Tested on Poco M4 Pro 5G HyperOS 1.0.1.0. Note: If you deleted (com.xiaomi.xmsf) this package will likely send\"Bluetooth extension stopped working\" errors, uninstalling it removes them.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

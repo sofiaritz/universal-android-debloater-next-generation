@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.core.internal.assistant",
+  "description": "Needed for Chinese Mi AI (com.miui.voiceassist).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

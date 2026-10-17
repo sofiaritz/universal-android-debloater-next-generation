@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mateagent",
+  "description": "Samsung Galaxy Friends is an accessory platform service that allows the user to enjoy a variety of content quickly\nand easily by simply connecting an accessory, without having to install additional applications.\nhttps://developer.samsung.com/codelab/SDC18-experiences/Galaxy-Friends",
+  "list": "Oem",
+  "removal": "Recommended"
+}

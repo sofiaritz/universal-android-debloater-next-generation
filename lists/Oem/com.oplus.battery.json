@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.battery",
+  "description": "Battery\nNeeded for power managment in settings?\nhttps://xdaforums.com/t/how-to-fix-oneplus-11-thermal-throttling.4560085/post-89255314\nBetter test it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

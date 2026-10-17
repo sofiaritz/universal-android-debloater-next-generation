@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.atci.service",
+  "description": "Well this code is hard to understand, it have only notification stuff and needed for ims wifi calling.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

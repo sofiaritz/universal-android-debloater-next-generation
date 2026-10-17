@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.advancedlogging",
+  "description": "Advanced Logging\nSends logs to Sony Mobile. These logs contain a wide range of personal information such as unique device IDs, your location,\ndetails regarding running applications, and events/input leading up to a crash.\nLogging is only active for a short time and automatically disabled once logging has been completed.\nLogs are uploaded when connected to Wi-Fi and automatically deleted when the upload is complete.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

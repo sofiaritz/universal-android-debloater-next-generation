@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.alphacamera",
+  "description": "AlphaCamera\nEngineering Mode, Log, Debugging service camera.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

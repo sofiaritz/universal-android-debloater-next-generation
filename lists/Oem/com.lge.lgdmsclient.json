@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.lgdmsclient",
+  "description": "Actual\"Software Update\" App client\nI think you won't receive updates without this.",
+  "list": "Oem",
+  "removal": "Expert"
+}

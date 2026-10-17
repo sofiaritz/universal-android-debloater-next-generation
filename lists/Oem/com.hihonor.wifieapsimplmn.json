@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.wifieapsimplmn",
+  "description": "PredefinedEapSim\nNeeded for WiFi to work properly? WiFi may not work (?)",
+  "list": "Oem",
+  "removal": "Expert"
+}

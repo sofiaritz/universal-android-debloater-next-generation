@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.devicediagnostics.auto_generated_rro_product__",
+  "description": "Auto-generated diagnostics configurations for Android devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

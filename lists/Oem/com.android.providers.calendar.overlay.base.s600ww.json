@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.calendar.overlay.base.s600ww",
+  "description": "Some overlay for a content provider package. Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

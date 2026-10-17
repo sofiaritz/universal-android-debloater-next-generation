@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.fingerprintui",
+  "description": "FingerprintUI\nFingerprint test? Contains payment functionality for China. May be needed for fingerprint lockscreen.",
+  "list": "Oem",
+  "removal": "Expert"
+}

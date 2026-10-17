@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.res.overlay_305",
+  "description": "Overlays system settings, probably needed. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Expert"
+}

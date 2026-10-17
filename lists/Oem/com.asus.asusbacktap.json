@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.asusbacktap",
+  "description": "Back tap\nit's for Accessibility component feature.\nBack tap will not be available in settings after remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

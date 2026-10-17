@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.gamehub",
+  "description": "Samsung Game Hub\nWas replaced by\"com.samsung.android.game.gamehome\"\nhttps://www.techradar.com/news/phone-and-communications/mobile-phones/the-samsung-game-hub-explained-1143450",
+  "list": "Oem",
+  "removal": "Recommended"
+}

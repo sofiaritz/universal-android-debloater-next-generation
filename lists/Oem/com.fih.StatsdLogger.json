@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fih.StatsdLogger",
+  "description": "Foxconn stats logger",
+  "list": "Oem",
+  "removal": "Recommended"
+}

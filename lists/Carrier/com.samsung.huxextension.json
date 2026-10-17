@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.huxextension",
+  "description": "Hux Extension\nVerizon activation, registration",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.iqoo.secure",
+  "description": "i Manager\nRemoving this removes the traffic speed indicator in the notification bar. Be cautious about removing it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.karaoke",
+  "description": "In-ear monitoring\nBasically ColorOS's high volume warning system. Can be removed fine if you don't want it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

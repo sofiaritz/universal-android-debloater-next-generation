@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.visioncloudagent",
+  "description": "VisionCloudAgent\nCloud Agent is a service which automatically upload on the cloud the photos you take on your phone. It connects to your\"Samsung account\".\nIt is related to Dropbox.\nGiven the Vision in the package name there is a link with Bixby.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

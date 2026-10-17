@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.kalama",
+  "description": "Needed for WiFi.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

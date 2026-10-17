@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hisi.mapcon",
+  "description": "Uses Location permissions for VoWifi Special, rtc wifi signal.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

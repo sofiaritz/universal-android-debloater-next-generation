@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.sizechangable.weather.platform",
+  "description": "Weather Service\nProvide weather data for the weather app/widget.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

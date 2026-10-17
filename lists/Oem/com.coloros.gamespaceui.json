@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.gamespaceui",
+  "description": "GameSpace\nGaming utility aiming at 'optimizing your gaming experience'. Has a lot of permissions. For instance, it has internet access, will scans all the apps you have on your phones (to find games), can performs Bluetooth scan and has access to the metadata of your media files (e.g the place where you took a picture).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

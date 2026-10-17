@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.vzw.pco.extensions.pcoreceiver",
+  "description": "pcoreceiver\nVZW Carrier sim(Verizon). It's only for notifications.\nYou can remove that if you don't use Verizon wireless or anything like that.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.bluetooth",
+  "description": "Airlink\nBluetooth still work without this.\n(not sure if its needed for transfer files using bluetooth)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

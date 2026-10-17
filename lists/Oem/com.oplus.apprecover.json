@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.apprecover",
+  "description": "Recover system apps",
+  "list": "Oem",
+  "removal": "Advanced"
+}

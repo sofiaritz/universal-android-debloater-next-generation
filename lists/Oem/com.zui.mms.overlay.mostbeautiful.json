@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.mms.overlay.mostbeautiful",
+  "description": "Overlay to theme icon Messages app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

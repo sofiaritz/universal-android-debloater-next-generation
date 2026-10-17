@@ -1,0 +1,6 @@
+{
+  "pkg_name": "eu.xiaomi.ext",
+  "description": "Xiaomi.eu Extension\nCalendar app things. Only for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

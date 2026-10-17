@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.yha.runtime",
+  "description": "RunTimeTest\nReads/writes to External Storage. Uses wifi, camera, sensors, mic, etc. Lots of activities (hardware tests?):\nFlashTest, VibratorTest, WIFITest, Reboot, LCDTest, AudioLoop, VideoTest, CameraTest, Tester3dTeapot, FullMemTest, ScreenSaver.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

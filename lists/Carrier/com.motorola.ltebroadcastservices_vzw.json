@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.ltebroadcastservices_vzw",
+  "description": "LTE Broadcast services from Verizon. Allows your phone to receive broadcast message from Verizon?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

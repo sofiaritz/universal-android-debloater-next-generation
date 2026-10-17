@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.mt6853.gamedriver",
+  "description": "Mediatek GPU Driver",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

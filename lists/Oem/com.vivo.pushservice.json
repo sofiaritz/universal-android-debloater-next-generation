@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.pushservice",
+  "description": "Push Notification Engine\nNot needed for notifications. Requires Google Play Services, and it's for VPUSH. Contains trackers and permissions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

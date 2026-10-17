@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.factorykeystring",
+  "description": "DeviceKeyString : Dialable hidden diagnostic/debug app\nDial *#0283# to open audio LoopbackTest control, dial *#2663# for TSP firmware update",
+  "list": "Oem",
+  "removal": "Recommended"
+}

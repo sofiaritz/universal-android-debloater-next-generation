@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.faceunlocktrustagent",
+  "description": "Motorola Face Unlock Agent\nTrust agent is a service that notifies the system about whether it believes the environment of the device is trusted.\nThe meaning of 'trusted' is up to the trust agent to define.\nThe system lockscreen listens for trust events, it can change its behaviour based on the trust state of the current user (e.g detection of a trusted face)\nhttps://nelenkov.blogspot.com/2014/12/dissecting-lollipops-smart-lock.html",
+  "list": "Oem",
+  "removal": "Advanced"
+}

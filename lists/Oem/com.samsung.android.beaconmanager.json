@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.beaconmanager",
+  "description": "Replaced by Samsung Smart Things (com.samsung.android.ststub)\nAllows users to control, automate, and monitor their home environment via mobile device.\nhttps://en.wikipedia.org/wiki/SmartThings",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.modem.settings",
+  "description": "Name : SilentLogging\nThis package runs at startup and logs things (related to the modem ?). Seems Pretty shady to me (I don't like its orwellian name).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.aosp.overlay",
+  "description": "Refers to the Runtime Resource Overlay (RRO) framework that is built into the AOSP.\nRRO allows for the dynamic modification of an app's resources at runtime,\nEnabling the customization of the app's appearance and behavior without modifying its source code\nhttps://source.android.com/docs/core/runtime/rros",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

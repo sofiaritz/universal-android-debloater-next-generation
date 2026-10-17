@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.settings.overlay.eqs",
+  "description": "Overlay to refresh rate change in settings.\nNot sure if it's unused.",
+  "list": "Oem",
+  "removal": "Expert"
+}

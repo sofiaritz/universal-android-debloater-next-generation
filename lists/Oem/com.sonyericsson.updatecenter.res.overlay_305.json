@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.updatecenter.res.overlay_305",
+  "description": "Overlay for updater found in Settings > about > system update, safe to remove if your device no longer gets updates",
+  "list": "Oem",
+  "removal": "Expert"
+}

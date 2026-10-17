@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.zxing.client.android",
+  "description": "Google Barcode Scanner (discontinued) (https://play.google.com/store/apps/details?id=com.google.zxing.client.android)",
+  "list": "Google",
+  "removal": "Recommended"
+}

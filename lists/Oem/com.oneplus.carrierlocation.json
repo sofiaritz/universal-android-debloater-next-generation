@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.carrierlocation",
+  "description": "Carrier Location Access\nRuns on boot, but not in the background beyond that.\nNot sure what this does. Could be related to detecting region to determine which radio frequencies to use?\nNoticed no ill effects from weeks of having it disabled.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

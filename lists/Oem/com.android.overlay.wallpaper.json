@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.wallpaper",
+  "description": "Overlay to 'com.android.wallpaper' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

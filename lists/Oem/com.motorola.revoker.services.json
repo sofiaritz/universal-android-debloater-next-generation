@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.revoker.services",
+  "description": "It's another component of setup wizard only used on first-boot setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

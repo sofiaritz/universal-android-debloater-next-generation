@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mitv.videoplayer",
+  "description": "Mi TV Video Player\nIt's video player with google ads.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

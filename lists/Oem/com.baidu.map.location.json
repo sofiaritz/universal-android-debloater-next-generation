@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.baidu.map.location",
+  "description": "Chinese Network location baidu. Only for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

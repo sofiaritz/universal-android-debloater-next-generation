@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.auto_generated_rro_vendor__",
+  "description": "Configs to settings auto generated but better keep.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

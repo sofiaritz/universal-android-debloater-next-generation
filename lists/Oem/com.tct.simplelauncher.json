@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.simplelauncher",
+  "description": "Simple Launcher\nIt's not needed for the Stock launcher and has SOS and other unnecessary stuff.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

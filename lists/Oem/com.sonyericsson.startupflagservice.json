@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.startupflagservice",
+  "description": "Startup Flag Service\nUsed during the production of the phone to verify that the touch input works.\nIt can be triggered when a specific TA-parameter is not set. This should never be triggered and if it does well it doesn't have any use for you.\n\nTA means Timing Advance and its value correspond to the length of time a signal takes to reach the base station from a mobile phone.\nhttps://www.telecomhall.net/t/parameter-timing-advance-ta/6390",
+  "list": "Oem",
+  "removal": "Recommended"
+}

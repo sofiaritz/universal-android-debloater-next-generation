@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.photoeditor",
+  "description": "Photo Editor\nPhoto Editor. It has Baidu location so better turn off network for this app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

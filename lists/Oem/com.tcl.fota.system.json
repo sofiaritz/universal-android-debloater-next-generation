@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.fota.system",
+  "description": "System Update\nProvides System Updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

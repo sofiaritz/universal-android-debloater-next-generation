@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.ztescreenshot",
+  "description": "ScreenCapture\nNeeded for screenshots.",
+  "list": "Oem",
+  "removal": "Expert"
+}

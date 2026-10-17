@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.simsettings",
+  "description": "Related to SIM settings? Exact nature is unclear.",
+  "list": "Misc",
+  "removal": "Expert"
+}

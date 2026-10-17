@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.telprov",
+  "description": "It's needed for carrier O2 so it's useless for others.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

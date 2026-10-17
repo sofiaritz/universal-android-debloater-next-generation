@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.privacydashboard",
+  "description": "Privacy dashboard in settings:\nhttps://insights.samsung.com/2023/08/17/what-is-privacy-dashboard-and-how-does-it-protect-my-data-2/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

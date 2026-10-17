@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ohos.inputmethod",
+  "description": "Huawei default Keyboard\nWARNING: Before uninstalling, make sure to have a third-party keyboard installed.\nDisable instead of uninstalling if you don't want to lose the widget.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

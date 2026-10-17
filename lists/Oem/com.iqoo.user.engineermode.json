@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.iqoo.user.engineermode",
+  "description": "Factory test\nIt's for testing phone components.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

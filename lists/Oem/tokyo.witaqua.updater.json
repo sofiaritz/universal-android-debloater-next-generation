@@ -1,0 +1,6 @@
+{
+  "pkg_name": "tokyo.witaqua.updater",
+  "description": "LineageOS Updater rebranded for the WitAqua custom ROM.\nNot safe to remove; could break Updater UI on devices with WitAqua ROMs.",
+  "list": "Oem",
+  "removal": "Expert"
+}

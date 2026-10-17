@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mdx.kit",
+  "description": "Quick Share Connectivity / MDE Service Framework\nMDX = Multi Devices Experience (https://www.samsung.com/levant/multi-device-experience/)\nFramework for IoT stuff.\nAsks for a LOT of dangerous permissions\nInteracts with\"com.samsung.android.mobileservice\" and\"com.osp.app.signin\"",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.safetyinformation",
+  "description": "Safety information telling you to be careful with the usage of your phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

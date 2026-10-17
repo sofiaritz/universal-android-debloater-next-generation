@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.wifi.rxsenstest",
+  "description": "Wifi Rx Sens Test.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

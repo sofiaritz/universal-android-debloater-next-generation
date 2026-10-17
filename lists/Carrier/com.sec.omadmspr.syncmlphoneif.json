@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.omadmspr.syncmlphoneif",
+  "description": "OMADM Phone Interface?\nOMADM = Open Mobile Alliance Device Management. A protocol for management of mobile devices.\nhttps://en.wikipedia.org/wiki/OMA_Device_Management",
+  "list": "Carrier",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.microsoft.office.officehubhl",
+  "description": "Office Mobile hub (on Samsung Phone)\nIncludes the complete Word, PowerPoint, and Excel apps to offer a convenient office experience on the go.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

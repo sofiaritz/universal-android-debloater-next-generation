@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.appupdater",
+  "description": "ASUS Config Updater\nIt may have something to do with app updater but no activities.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.deepthinker",
+  "description": "Smart Capability Services\nseems to open some common apps in the background, which may increase power consumption. Remove it on ColorOS 12.0 or above will cause the battery menu to not show the power consumption curve. This can cause a bootloop.",
+  "list": "Oem",
+  "removal": "Expert"
+}

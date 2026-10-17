@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mmi",
+  "description": "Not an AOSP package at all\nHidden MMI test app\nMMI = Man Machine Interface ?",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

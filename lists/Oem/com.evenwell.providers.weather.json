@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.providers.weather",
+  "description": "Provider for the Nokia weather app.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

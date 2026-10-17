@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.globalpostprocmgr",
+  "description": "GlobalPostProcMgr\nUnknown app, has Draft Recovery.\nUninstalling breaks camera functionality.",
+  "list": "Oem",
+  "removal": "Expert"
+}

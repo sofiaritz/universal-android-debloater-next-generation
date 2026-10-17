@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.permissioncontroller.overlay",
+  "description": "Presumably a MIUI/HyperOS overlay for com.gooogle.android.permissioncontroller. Not safe to delete.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

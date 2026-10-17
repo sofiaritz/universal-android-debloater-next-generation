@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.securitycenter.securitycenter_phone_overlay.config.overlay",
+  "description": "'Security tools' name app only found",
+  "list": "Oem",
+  "removal": "Advanced"
+}

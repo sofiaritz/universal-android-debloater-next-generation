@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.carrier.logcollector",
+  "description": "it's the same like diagmonagent, collects dumplogs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

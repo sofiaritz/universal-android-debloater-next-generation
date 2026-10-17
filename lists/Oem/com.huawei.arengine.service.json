@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.arengine.service",
+  "description": "Augmented reality service.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

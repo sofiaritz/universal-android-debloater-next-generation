@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.target.sm8635",
+  "description": "An overlay for com.android.wifi.resources for devices with the Snapdragon 7s Gen 2 CPU (codename SM8635). Not safe to remove.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

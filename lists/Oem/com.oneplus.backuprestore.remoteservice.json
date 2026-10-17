@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.backuprestore.remoteservice",
+  "description": "Likely a backend service for OnePlus Switch(com.oneplus.backuprestore).\nI've never seen it run in the background.\nProbably safe to disable.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

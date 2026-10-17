@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.clock",
+  "description": "The Onyx Clock app",
+  "list": "Oem",
+  "removal": "Recommended"
+}

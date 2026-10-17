@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.simalliance.openmobileapi.eseterminal",
+  "description": "Needed for NFC payments (e.g. Google Wallet) on older Android versions.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

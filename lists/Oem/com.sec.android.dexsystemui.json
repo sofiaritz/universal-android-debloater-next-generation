@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.dexsystemui",
+  "description": "Samsung DeX System UI\nSafe to remove if not use connect phone for example to TV.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

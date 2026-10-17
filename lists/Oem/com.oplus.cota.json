@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.cota",
+  "description": "Configuration Update Over The Air\nNeeded for OTA updates. Likely needed to download and install system updates, device configuration, and carrier/enterprise customizations on OnePlus devices. It ensures your device stays up-to-date and compliant with carrier or company requirements, and interacts with the user only when necessary (e.g., update dialogs, legal statements).",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.dcmservice",
+  "description": "Hard to find what it really does but I do know what DCM is in telecommunication. It means Dual Carrier Modulation.\nTo stay simple, we use signal modulation to transfer information. DCM can be seen as an enhancement to conventional QPSK modulation\nthat expand the coverage and robustness of an outdoor hotspot.\nhttps://www.ekahau.com/wp-content/uploads/2017/03/Webinar-slides-802.11ax-Sneak-Peek-%E2%80%93-The-Next-Generation-Wi-Fi.pdf\nNot a good idea to remove this unless it only impacts samsung apps. Need testing.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

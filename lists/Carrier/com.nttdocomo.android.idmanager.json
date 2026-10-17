@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.idmanager",
+  "description": "d ACCOUNT Settings\nAccount Settings for d-account, includes an authentication component for other docomo apps.\nSafe to remove if you don't use any docomo services, but ensure you check your login method as you may need this app for two-step authentication when logging in from other devices.",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

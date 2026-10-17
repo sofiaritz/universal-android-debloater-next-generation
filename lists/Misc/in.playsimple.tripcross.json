@@ -1,0 +1,6 @@
+{
+  "pkg_name": "in.playsimple.tripcross",
+  "description": "Crossword Jam (https://play.google.com/store/apps/details?id=in.playsimple.tripcross)\nPreinstalled game on some Samsung phones. 12 permissions, 25 trackers : https://reports.exodus-privacy.eu.org/reports/in.playsimple.tripcross/latest/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

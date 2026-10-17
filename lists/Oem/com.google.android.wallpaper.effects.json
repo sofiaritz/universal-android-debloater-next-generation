@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wallpaper.effects",
+  "description": "Wallpaper visual effects for Android devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

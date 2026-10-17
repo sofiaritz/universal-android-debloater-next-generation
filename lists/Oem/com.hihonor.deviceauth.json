@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.deviceauth",
+  "description": "TrustedDeviceAuth\nI guess it's for authentication keys",
+  "list": "Oem",
+  "removal": "Advanced"
+}

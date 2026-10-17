@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vzw.apnservice",
+  "description": "APN Services.\nREMINDER : https://developer.android.com/reference/android/telephony/data/ApnSetting",
+  "list": "Carrier",
+  "removal": "Advanced"
+}

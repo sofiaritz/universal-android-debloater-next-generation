@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.cotaservice",
+  "description": "MIUI's COTA (Configuration Over-The-Air) service. Pretty much the same as com.google.configupdater but for miui services.\nUnlike google's config updater, it constantly connects to the web and sends/receives data from an unknown source. Might cause obscure issues with telephony and Xiaomi services.\nSafe to delete if you've deleted all Xiaomi services like Xiaomi Cloud, GetApps, xmsf, etc... and !!! have logged out of your Xiaomi Account !!! Pretty much all is same as with com.google.configupdater. Deleting it on HyperOS 2.0 causes no issues.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

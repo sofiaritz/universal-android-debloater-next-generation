@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motointelligence.overlay",
+  "description": "Overlay to 'com.motorola.motointelligence', not needed? I didn't found this app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

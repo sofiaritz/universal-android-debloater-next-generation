@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.as.oss",
+  "description": "Private Compute Services. On-device behavior analysis\nEnables live caption, music recognition and smart replies.\nSeems to be a dependency of System Intelligence.\nhttps://play.google.com/store/apps/details?id=com.google.android.as.oss\nhttps://milaq.net/android-bloatware",
+  "list": "Google",
+  "removal": "Recommended"
+}

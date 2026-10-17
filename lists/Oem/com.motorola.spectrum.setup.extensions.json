@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.spectrum.setup.extensions",
+  "description": "Spectrum Setup\nSpectrum connectivity services. Useless and it's only setup.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

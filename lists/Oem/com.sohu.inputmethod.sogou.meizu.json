@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sohu.inputmethod.sogou.meizu",
+  "description": "Chinese keyboard closed-source",
+  "list": "Oem",
+  "removal": "Advanced"
+}

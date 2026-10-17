@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.phonemanager",
+  "description": "Phone Manager\nProvides so called 'optimization tools' and various security scanning services.\nThese virus scanning services may have privacy implications.\n\nPithus analysis: https://beta.pithus.org/report/6b7d9e117ffb600b852f3785ede4f3773385fc291376e94a061bf7ed787dec48",
+  "list": "Oem",
+  "removal": "Recommended"
+}

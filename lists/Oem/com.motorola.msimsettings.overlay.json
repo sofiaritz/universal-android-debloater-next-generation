@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.msimsettings.overlay",
+  "description": "In code found: 'channel_force_single_sim'. Looks very unused.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

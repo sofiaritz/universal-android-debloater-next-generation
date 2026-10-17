@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.game.gamehome",
+  "description": "Samsung Game Launcher\nhttps://www.samsung.com/global/galaxy/apps/game-launcher/\nAll in one hub for mobiles games",
+  "list": "Oem",
+  "removal": "Recommended"
+}

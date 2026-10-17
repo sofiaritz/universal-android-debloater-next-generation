@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.gallery",
+  "description": "Stock Gallery app. Contains Google Analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

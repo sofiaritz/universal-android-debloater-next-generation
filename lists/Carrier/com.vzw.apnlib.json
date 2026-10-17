@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vzw.apnlib",
+  "description": "Kind of library for Verizon APN ?\nREMINDER : https://developer.android.com/reference/android/telephony/data/ApnSetting\nAfter uninstall phone won't allow to call or text(breaks WiFi calling), On Auto Optimization it cause auto reboots.",
+  "list": "Carrier",
+  "removal": "Expert"
+}

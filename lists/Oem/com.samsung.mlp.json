@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.mlp",
+  "description": "Samsung content recognition.\nmpl= Media Learning Platform. Has permissions linked to com.samsung.cmh and com.samsung.android.visionintelligence",
+  "list": "Oem",
+  "removal": "Recommended"
+}

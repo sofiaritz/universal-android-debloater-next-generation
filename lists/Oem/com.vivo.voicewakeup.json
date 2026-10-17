@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.voicewakeup",
+  "description": "Voice wake-up. Has a lot of permissions (REQUEST_INSTALL_PACKAGES, READ_EXTERNAL_STORAGE, RECORD_AUDIO...). Kind of a\"smart assistant\" ? It is constantly listening waiting for a trigger word [MORE INFO NEEDED]",
+  "list": "Oem",
+  "removal": "Recommended"
+}

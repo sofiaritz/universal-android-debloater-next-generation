@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.bbk.scene.databaseprovider",
+  "description": "May be needed for the launcher, not sure.",
+  "list": "Oem",
+  "removal": "Expert"
+}

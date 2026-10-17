@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.betterbug",
+  "description": "Android Beta Feedback\nAvailable on Beta Android Pixel Phones.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

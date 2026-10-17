@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vzw.hss.myverizon",
+  "description": "MyVerizon app",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bixbyhelper",
+  "description": "QQ music plugin\nRequire QQ Music and it's Chinese.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

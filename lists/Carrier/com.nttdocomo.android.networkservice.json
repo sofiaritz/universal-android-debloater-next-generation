@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.networkservice",
+  "description": "Office Link Settings\nProvides \"Office Link\" service (docomo's enterprise internal line service). Typically accessed through the settings menu of the OEM Phone app.\nSafe to remove.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

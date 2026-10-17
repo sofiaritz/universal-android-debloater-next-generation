@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.carrier",
+  "description": "Carrier Settings\nGoogle Api Activity, requires GMS, totally random api's.\nRequired for 4G, but does not cause bootloop after removal.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

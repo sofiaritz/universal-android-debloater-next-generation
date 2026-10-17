@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.tourviewer",
+  "description": "3d tour image, Virtual tour, Viewer used to view photos taken with the Galaxy S5 camera's Virtual Tour Shot mode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

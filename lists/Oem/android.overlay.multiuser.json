@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.multiuser",
+  "description": "Maximum multi user config.",
+  "list": "Oem",
+  "removal": "Expert"
+}

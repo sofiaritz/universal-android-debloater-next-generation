@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.activeviewlivewallpaper",
+  "description": "Needed for live wallpapers",
+  "list": "Oem",
+  "removal": "Advanced"
+}

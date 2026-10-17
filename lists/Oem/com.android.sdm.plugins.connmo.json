@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sdm.plugins.connmo",
+  "description": "ConnMO\nNotifications for video calling?\nAlso Apn Service.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

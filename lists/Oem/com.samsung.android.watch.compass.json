@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.compass",
+  "description": "Samsung Compass app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

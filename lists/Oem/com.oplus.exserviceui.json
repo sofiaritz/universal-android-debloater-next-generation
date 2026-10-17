@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.exserviceui",
+  "description": "Gesture Motion Services\nIs related to gesture navigation 'com.oplus.gesture'.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.music",
+  "description": "Sony music player (https://play.google.com/store/apps/details?id=com.sonyericsson.music)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

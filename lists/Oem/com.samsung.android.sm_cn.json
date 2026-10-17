@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sm_cn",
+  "description": "Device care but in Chinese Samsung phones\nIs different from global, could break some important functions if removed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

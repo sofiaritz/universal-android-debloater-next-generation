@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.wallpaperchooser",
+  "description": "This app provides the functionality to select and manage wallpapers on Samsung devices, including Samsung-specific wallpaper options.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

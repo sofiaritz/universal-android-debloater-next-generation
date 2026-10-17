@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.gm",
+  "description": "Gmail (https://play.google.com/store/apps/details?id=com.google.android.gm)",
+  "list": "Google",
+  "removal": "Recommended"
+}

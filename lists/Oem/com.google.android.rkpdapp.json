@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.rkpdapp",
+  "description": "Security and privacy management app for Pixel devices.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

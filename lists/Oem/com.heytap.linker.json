@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.linker",
+  "description": "DistUI\nNeeded for broadcast",
+  "list": "Oem",
+  "removal": "Expert"
+}

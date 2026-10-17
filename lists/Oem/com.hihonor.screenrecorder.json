@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.screenrecorder",
+  "description": "Stock screen recorder\nUseful only in pre-Android Pie for having system audio recording without root.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

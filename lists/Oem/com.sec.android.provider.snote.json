@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.provider.snote",
+  "description": "Content provider for S Note (https://www.samsung.com/global/galaxy/apps/samsung-notes/).\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

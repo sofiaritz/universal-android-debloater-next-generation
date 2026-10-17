@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wfcactivation",
+  "description": "Carrier Setup\nNeeded for IMS, WiFi calling and have emergency things.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

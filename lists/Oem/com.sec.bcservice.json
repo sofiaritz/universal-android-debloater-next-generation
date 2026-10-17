@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.bcservice",
+  "description": "Broadcast Service\nDiagnostic/debug hidden app. TCP dump.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

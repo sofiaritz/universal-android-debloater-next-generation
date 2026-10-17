@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.camera.action",
+  "description": "Maybe it's needed for the camera app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

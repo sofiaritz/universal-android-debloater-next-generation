@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.airsharing",
+  "description": "Wireless Projection\nMiracast, Requires Huawei Mobile Services, also it's so bloated, also found unused frameworks HUAWEI GameCenter",
+  "list": "Oem",
+  "removal": "Advanced"
+}

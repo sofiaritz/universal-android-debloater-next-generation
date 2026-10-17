@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.primarycardcontroller",
+  "description": "Sim card things about detected or switching, some chinese phones uses qualcomm names apps instead of normal",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

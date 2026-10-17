@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.emergency",
+  "description": "Emergency SOS\nHas a lot of permissions, lets you send SOS messages and calls.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

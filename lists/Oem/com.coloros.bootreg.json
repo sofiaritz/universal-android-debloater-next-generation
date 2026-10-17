@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.bootreg",
+  "description": "Setup Wizard\nCause bootloop after uninstall app.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

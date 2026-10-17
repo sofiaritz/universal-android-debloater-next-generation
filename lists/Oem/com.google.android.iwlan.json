@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.iwlan",
+  "description": "IWLAN feature manager for enhanced connectivity.",
+  "list": "Oem",
+  "removal": "Expert"
+}

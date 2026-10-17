@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.bluetoothsetting",
+  "description": "Needed for Bluetooth.",
+  "list": "Oem",
+  "removal": "Expert"
+}

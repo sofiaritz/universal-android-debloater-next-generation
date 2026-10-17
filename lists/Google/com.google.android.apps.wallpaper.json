@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.wallpaper",
+  "description": "Google Wallpapers (https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)\nRemoves the wallpaper section in the settings app when removed, but keeps current wallpapers.",
+  "list": "Google",
+  "removal": "Advanced"
+}

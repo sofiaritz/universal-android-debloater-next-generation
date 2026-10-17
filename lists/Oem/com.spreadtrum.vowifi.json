@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.spreadtrum.vowifi",
+  "description": "WiFi Calling Test\nHidden tests WiFi calling.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

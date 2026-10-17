@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.systemui.hidenotch",
+  "description": "Hide notch overlay.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lenovo.weathercenter",
+  "description": "Widget Weather\nLenovo ZUI Weather center",
+  "list": "Oem",
+  "removal": "Recommended"
+}

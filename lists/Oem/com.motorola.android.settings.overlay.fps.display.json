@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.settings.overlay.fps.display",
+  "description": "Overlay to fps display.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.ext.services",
+  "description": "Looks like useless BUT you risk bootloop phone.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.extension.service",
+  "description": "FingerprintExtensionService\nNeeded for fingerprint sensor test.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

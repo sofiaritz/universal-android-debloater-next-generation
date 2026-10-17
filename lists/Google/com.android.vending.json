@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.vending",
+  "description": "Google Play Store",
+  "list": "Google",
+  "removal": "Expert"
+}

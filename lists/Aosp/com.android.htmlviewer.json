@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.htmlviewer",
+  "description": "Allows apps to load URLs into the WebView, which allows web content to be displayed directly in the app.\nWARNING: Removing this causes a bootloop on some MIUI 12.5.4+ phones.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

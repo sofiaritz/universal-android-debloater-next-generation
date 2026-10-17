@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.engineermode",
+  "description": "Engineer mode you can access by dialing a secret code (*#*#3646633#*#* on some Xiaomi phones for instance)\nIt enables you to access the debug/logged data and some hidden firmware settings.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

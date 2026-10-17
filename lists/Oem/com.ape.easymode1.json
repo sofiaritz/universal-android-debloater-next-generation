@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.easymode1",
+  "description": "Provides easy mode for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

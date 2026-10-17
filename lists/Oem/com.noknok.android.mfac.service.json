@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.noknok.android.mfac.service",
+  "description": "Part of the FIDO authentication for fingerprint",
+  "list": "Oem",
+  "removal": "Expert"
+}

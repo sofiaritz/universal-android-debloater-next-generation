@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.server.deviceconfig.resources",
+  "description": "Device configuration server resources for Android devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

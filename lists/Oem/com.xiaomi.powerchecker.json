@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.powerchecker",
+  "description": "Power Detector\nSecurity> Battery> Activity Control.\nDetects abnormal power usage by apps (not all. Some Xiaomi apps are whitelisted)\nNeeded for 'com.miui.powerkeeper' to work.",
+  "list": "Oem",
+  "removal": "Expert"
+}

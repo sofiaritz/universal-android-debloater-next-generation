@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.detection.ts.touch_detection",
+  "description": "It's used by bsptest (com.vivo.bsptest) for touch detection test.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

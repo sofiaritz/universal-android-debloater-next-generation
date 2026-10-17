@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.firewall",
+  "description": "Blacklist Calls.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

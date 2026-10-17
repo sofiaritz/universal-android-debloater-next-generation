@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.tadownloader",
+  "description": "Seems to check if a trusted application needs an update and downloads it.\nThis package probably does more than that. There is a LOT of lines of code (obfuscated obviously)\nIt was used to push an update to fix a security issue with the fingerprint sensor in 2019.\nhttps://libredd.it/r/galaxys10/comments/bcy93f/adb_how_to_get_the_fingerprint_update_pushed_to/\nSeems to be only used for biometrics stuff\nThere is Samsung analytics inside. You may want to remove it if you don't use biometrics authentication.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

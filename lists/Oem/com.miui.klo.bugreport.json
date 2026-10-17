@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.klo.bugreport",
+  "description": "KLO Bugreport\nThis app registers system failures and Android applications errors and sends bugs to Xiaomi servers.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

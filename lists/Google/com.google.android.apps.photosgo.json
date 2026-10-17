@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.photosgo",
+  "description": "Google Gallery (https://play.google.com/store/apps/details?id=com.google.android.apps.photosgo)",
+  "list": "Google",
+  "removal": "Recommended"
+}

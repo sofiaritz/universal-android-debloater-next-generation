@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tblenovo.center",
+  "description": "Useless dashboard related to the User Experience Program (com.lenovo.ue.device). Has 25 permissions (including ones you probably don't want to give to this kind of sketchy app\n\nPithus analysis: https://beta.pithus.org/report/dcb4acac003896077eaaeb8c7dc770d3171891784d98f7127f8495a3dec9954d",
+  "list": "Oem",
+  "removal": "Recommended"
+}

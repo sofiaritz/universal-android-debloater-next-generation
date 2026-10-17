@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.networkstack.tethering.overlay2021",
+  "description": "Useless hotspot configs (?)",
+  "list": "Oem",
+  "removal": "Expert"
+}

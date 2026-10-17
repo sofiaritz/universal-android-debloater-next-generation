@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.microdroid.empty_payload",
+  "description": "empty app that has permission to MANAGE VIRTUAL MACHINE.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

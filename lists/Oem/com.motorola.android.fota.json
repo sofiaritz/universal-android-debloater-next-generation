@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.fota",
+  "description": "System Software Update",
+  "list": "Oem",
+  "removal": "Expert"
+}

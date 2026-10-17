@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.ocr",
+  "description": "Optical Read (feature replaced by Bixby Vision : com.samsung.android.visionintelligence)\nLets you scan or extract text or data from images, documents, business cards, or QR codes.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

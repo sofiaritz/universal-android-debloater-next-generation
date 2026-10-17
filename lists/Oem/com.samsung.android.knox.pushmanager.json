@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.pushmanager",
+  "description": "KnoxPushManager",
+  "list": "Oem",
+  "removal": "Recommended"
+}

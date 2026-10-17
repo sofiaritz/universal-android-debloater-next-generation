@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bixby.service",
+  "description": "Bixby Service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

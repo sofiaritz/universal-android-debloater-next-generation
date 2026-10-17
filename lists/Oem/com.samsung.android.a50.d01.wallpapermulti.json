@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.a50.d01.wallpapermulti",
+  "description": "Provides the wallpapers used by the lockscreen multi-pack feature",
+  "list": "Oem",
+  "removal": "Recommended"
+}

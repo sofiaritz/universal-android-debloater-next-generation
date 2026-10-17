@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.internal.betterbug",
+  "description": "betterbug\nbetterbug? All of these code means nothing.\nalso have a lot of permissions and nexuslogger permission.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.unifiedtp",
+  "description": "Unified tethering provisioner. Tethering still works for me without it.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

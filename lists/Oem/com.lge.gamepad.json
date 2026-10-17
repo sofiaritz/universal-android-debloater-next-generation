@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gamepad",
+  "description": "LG Game Pad\nIt's probably for TV. Not useful for games.",
+  "list": "Oem",
+  "removal": "Expert"
+}

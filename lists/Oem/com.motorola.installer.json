@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.installer",
+  "description": "This package is used by Motorola for managing and installing system updates, custom apps, or other Motorola-specific applications.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

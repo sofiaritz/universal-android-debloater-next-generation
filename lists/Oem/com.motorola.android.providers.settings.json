@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.providers.settings",
+  "description": "Removal causes bootloop. Which is common with settings providers.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nFor example: the Settings provider. It stores the settings from your Settings app, which apps can query for info on whether you for example have Dark Mode turned on or off.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

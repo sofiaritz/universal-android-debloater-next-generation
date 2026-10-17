@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.euiccpixel",
+  "description": "NFC, eSE, eSIM firmware updater",
+  "list": "Oem",
+  "removal": "Advanced"
+}

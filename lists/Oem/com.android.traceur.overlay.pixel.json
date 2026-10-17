@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.traceur.overlay.pixel",
+  "description": "Unused colors to 5G",
+  "list": "Oem",
+  "removal": "Recommended"
+}

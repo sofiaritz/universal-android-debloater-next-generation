@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.emergency",
+  "description": "Overlay to 'com.android.emergency' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

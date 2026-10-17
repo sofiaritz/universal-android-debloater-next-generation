@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.unisoc.keyboxchecker",
+  "description": "Unknown purpose, likely spyware. Can't be pulled with ADB. Uninstalling it doesn't seem to break anything for Android 10 GO, S21 Plus 2021_EEA.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

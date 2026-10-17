@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.pasrservice",
+  "description": "Has powersaving things, device idle mode changer to screen on/off.",
+  "list": "Misc",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.security.privacycenter",
+  "description": "Protect your privacy by preventing apps from accessing sensitive data stored within images,\nsuch as location info and time stamps. This restriction does not apply to system apps such as Gallery and Cloud.\nI don't think this app values privacy a lot.\nNeeded for Permission Manager to open.",
+  "list": "Oem",
+  "removal": "Expert"
+}

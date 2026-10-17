@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tmobile.pr.adapt",
+  "description": "Diagnostic tool.\nThis app can see all your installed apps, that you have allowed unknown sources on, that your rooted,\nand will deny your warranty saying your rooted. It constantly runs in the background.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

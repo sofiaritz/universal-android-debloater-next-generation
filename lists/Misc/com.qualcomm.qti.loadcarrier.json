@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.loadcarrier",
+  "description": "CarrierLoadService\nHave only things like a: Find carrier, carrier switch.\nit's useless.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

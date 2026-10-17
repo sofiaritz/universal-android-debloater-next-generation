@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.m4b",
+  "description": "Google My Maps (https://play.google.com/store/apps/details?id=com.google.android.apps.m4b)\nIt is NOT Google Maps",
+  "list": "Google",
+  "removal": "Recommended"
+}

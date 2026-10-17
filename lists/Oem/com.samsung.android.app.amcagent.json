@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.amcagent",
+  "description": "Advanced Management Console Agent\nEntreprise feature I guess.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

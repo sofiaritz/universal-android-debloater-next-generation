@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.overlay.common.all_devices",
+  "description": "This overlay has got useless configs (?)",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.usercenter",
+  "description": "Just bloatware for account details and marketing of OPPO. Cannot log into OPPO/HeyTap account after disabling. Safe to disable if OPPO account is not used.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

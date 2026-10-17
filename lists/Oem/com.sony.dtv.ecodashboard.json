@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.ecodashboard",
+  "description": "Used to configure eco friendly settings. Breaks some options in the settings app if removed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

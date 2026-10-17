@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.oobhelper",
+  "description": "OOBHelper\nUseless frameworks and logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

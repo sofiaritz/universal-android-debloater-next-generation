@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.chromecustomizations",
+  "description": "Samsung stuff on the homepage of Google Chrome",
+  "list": "Oem",
+  "removal": "Recommended"
+}

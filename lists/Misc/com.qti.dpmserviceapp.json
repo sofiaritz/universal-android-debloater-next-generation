@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.dpmserviceapp",
+  "description": "Data Power Manager for the radio?\nUsed to improve energy efficiency?\nIn code I found something like this:\ndpm hal server, read procid\nit's still unknown.",
+  "list": "Misc",
+  "removal": "Expert"
+}

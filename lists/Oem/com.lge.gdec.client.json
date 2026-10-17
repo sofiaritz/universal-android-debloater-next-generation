@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gdec.client",
+  "description": "Another component of OTA Updates but here I found it's for App Updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

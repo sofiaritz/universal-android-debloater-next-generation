@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.onyx.android.production.test",
+  "description": "Test app enabled by clicking 5 times on the Onyx Version, it contains tests for screen quality",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.backup",
+  "description": "Allows Android apps to back up their data on Google servers. (On Android 4.2)",
+  "list": "Google",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.runestone.app",
+  "description": "Customization Service from Samsung. Provides customized content and recommendations. Collects a lot of personal information.\nSee: https://www.samsung.com/us/account/customization-service/\n\nPithus analysis: https://beta.pithus.org/report/0f26752e636a9689bf0603e6023939e23a8cbd7197dea7b44c7ac93e2a930c24",
+  "list": "Oem",
+  "removal": "Recommended"
+}

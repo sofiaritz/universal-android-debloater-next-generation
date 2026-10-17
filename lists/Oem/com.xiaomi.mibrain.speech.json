@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.mibrain.speech",
+  "description": "Mi AI Speech Engine\nAnother app to Mi AI Chinese app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

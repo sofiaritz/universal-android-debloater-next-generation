@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.securitypermission",
+  "description": "Permission manager\nIf removed, in some players (and not only), it will not be possible to enable picture-in-picture capability due to lack of customization: Settings -> Manage apps -> Top of other apps.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

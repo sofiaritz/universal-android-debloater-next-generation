@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.glovemode",
+  "description": "Sony Glove mode\nLets you use your smart phone and touch the screen while wearing regular gloves.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

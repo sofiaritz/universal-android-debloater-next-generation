@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fingerprints.sensortesttool",
+  "description": "Sensor Test Tool\nHidden test app used to test working of the fingerprint sensors.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

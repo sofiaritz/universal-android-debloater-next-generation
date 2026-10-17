@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.calculator",
+  "description": "Stock Oneplus Calculator app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

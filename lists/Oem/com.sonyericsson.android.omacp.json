@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.omacp",
+  "description": "omacp = OMA Client Provisioning. It is a protocol specified by the Open Mobile Alliance (OMA).\nIt is used by carrier to send\"configuration SMS\" which can setup network settings (such as APN).\nIn my case, it was automatic and I never needed configuration messages. I'm pretty sure that in France this package is useless.\nMaybe it's useful if carriers change their APN... but you still can change it manually, it's not difficult.\nThese special\"configuration SMS\" can be abused :\nhttps://www.zdnet.fr/actualites/les-smartphones-samsung-huawei-lg-et-sony-vulnerables-a-des-attaques-par-provisioning-39890045.htm\nhttps://www.csoonline.com/article/3435729/sms-based-provisioning-messages-enable-advanced-phishing-on-android-phones.html",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.battery",
+  "description": "Needed for Battery Manager.",
+  "list": "Oem",
+  "removal": "Expert"
+}

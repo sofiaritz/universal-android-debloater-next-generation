@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.update.overlay",
+  "description": "Overlay for com.agui.update. Overlay are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

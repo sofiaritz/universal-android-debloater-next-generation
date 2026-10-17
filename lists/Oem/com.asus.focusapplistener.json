@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.focusapplistener",
+  "description": "Focus app\nNeeded for optimization, probably.",
+  "list": "Oem",
+  "removal": "Expert"
+}

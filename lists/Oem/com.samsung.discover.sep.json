@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.discover.sep",
+  "description": "Related to `com.samsung.discover` but doesnt seem to do much on its own. Safe to remove without any effect.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

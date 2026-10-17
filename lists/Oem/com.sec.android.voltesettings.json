@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.voltesettings",
+  "description": "Needed for VoLTE to function properly, which is a feature a lot of carriers now require.",
+  "list": "Oem",
+  "removal": "Expert"
+}

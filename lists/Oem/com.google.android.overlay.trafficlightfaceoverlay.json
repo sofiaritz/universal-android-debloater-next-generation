@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.trafficlightfaceoverlay",
+  "description": "Traffic light face overlay for system UI enhancement.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wearable.healthservices",
+  "description": "Health Services by Google\n (https://play.google.com/store/apps/details?id=com.google.android.wearable.healthservices)\n\nDisabling this on a Watch5 broke heart rate measuring and some workouts.",
+  "list": "Oem",
+  "removal": "Expert"
+}

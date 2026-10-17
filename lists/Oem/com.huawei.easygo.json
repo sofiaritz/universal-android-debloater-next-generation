@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.easygo",
+  "description": "HwEasyGo\nLooks like a backdoor for WeChat app?\nEasyGoServer, error code things found, also EasyGoCallBack.\nThese app is probably backdoor or for developers.\nThis app has no permissions and no activities.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.navigation.bar.overlay",
+  "description": "Configurations to navigation bar.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

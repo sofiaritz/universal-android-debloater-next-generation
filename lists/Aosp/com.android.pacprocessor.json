@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.pacprocessor",
+  "description": "PAC (Proxy Auto-Config) is a file which defines how an app can automatically find the correct proxy server for fetching an URL.\nShould be safe to remove if you don't use Auto-proxy (with PAC file config)\nhttps://en.wikipedia.org/wiki/Proxy_auto-config",
+  "list": "Aosp",
+  "removal": "Expert"
+}

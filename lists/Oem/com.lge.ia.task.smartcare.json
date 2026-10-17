@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ia.task.smartcare",
+  "description": "LIA SmartDoctor Engine\nNeeded by SmartDoctor (com.lge.phonemanagement) ?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

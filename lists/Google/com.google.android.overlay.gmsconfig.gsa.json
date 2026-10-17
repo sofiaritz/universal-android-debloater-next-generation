@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.gsa",
+  "description": "configures default assistant? And have config to allow disabling assist disclosure?\nI think it doesn't affect anything.\nSafe to remove if you removed (com.google.android.googlequicksearchbox).",
+  "list": "Google",
+  "removal": "Advanced"
+}

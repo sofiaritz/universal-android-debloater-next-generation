@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.discover",
+  "description": "It shows up as a pane on OneUI home and prompts you to install all sorts of random apps. OneUI works perfectly fine if you uninstall these and simply removes the discover pane.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

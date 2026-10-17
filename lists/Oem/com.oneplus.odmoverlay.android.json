@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.odmoverlay.android",
+  "description": "Android System Theme pack\nGuessing it's a pack of themes for some Oneplus-specific system components, based on the name.",
+  "list": "Oem",
+  "removal": "Expert"
+}

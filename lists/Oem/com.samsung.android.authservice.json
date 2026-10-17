@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.authservice",
+  "description": "Runs in the background on Galaxy S7 and earlier, can't seem to find a purpose for this app. No issues when removing it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

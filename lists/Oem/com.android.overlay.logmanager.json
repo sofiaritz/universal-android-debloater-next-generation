@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.logmanager",
+  "description": "Overlay to 'com.android.logmanager' icons png.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

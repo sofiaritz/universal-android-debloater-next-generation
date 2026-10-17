@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.permissioncontroller.overlay.oplus",
+  "description": "Permission controller overlay.\nOverlays work by mapping resources defined in the overlay package to resources defined in the target package. When an app attempts to resolve the value of a resource in the target package, the value of the overlay resource the target resource is mapped to is returned instead.\nhttps://source.android.com/docs/core/runtime/rros",
+  "list": "Oem",
+  "removal": "Expert"
+}

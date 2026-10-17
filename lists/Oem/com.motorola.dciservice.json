@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.dciservice",
+  "description": "It's IMS Signal tests probably. Used for statistics. Code 3243.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.launcher",
+  "description": "Samsung One UI Home launcher (homescreen) (https://play.google.com/store/apps/details?id=com.sec.android.app.launcher)\nIt is also Samsung's TouchWiz default launcher\nWARNING: disabling this package breaks the multitasking navigation button on all newer versions of One UI, nothing would happen when pressing it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

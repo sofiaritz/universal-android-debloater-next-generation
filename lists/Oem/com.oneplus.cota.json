@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.cota",
+  "description": "Carrier Update\nRuns in the background.\ncota = Carrier OTA. Handles carrier-specific OTA updates? Probably safe to disable if you didn't get your phone from a carrier; the normal System Update(com.oneplus.opbackup) should handle the OTA updates. I can confirm that I got an OTA notification even with this disabled.",
+  "list": "Oem",
+  "removal": "Expert"
+}

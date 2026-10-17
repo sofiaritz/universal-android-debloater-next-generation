@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.waudio",
+  "description": "waudio\nWi-Fi Speaker, Speaker playback, WLAN speaker\nThis app is only for Chinese users because I found a Chinese app list that supports it\nand depends on AI Life app probably.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

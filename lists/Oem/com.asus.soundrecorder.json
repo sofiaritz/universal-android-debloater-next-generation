@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.soundrecorder",
+  "description": "ASUS Sound recorder (https://play.google.com/store/apps/details?id=com.asus.soundrecorder)\nConnects to Google Analytics and some Asus servers, which is a bit sketchy for a sound recording app..\nhttps://beta.pithus.org/report/f4cf38e1c35a04c3579fa198d2abd3ef1ff7be79633d6d3f2bc69c8a69164e1d",
+  "list": "Oem",
+  "removal": "Recommended"
+}

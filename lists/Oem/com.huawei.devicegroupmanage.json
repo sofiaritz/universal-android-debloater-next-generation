@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.devicegroupmanage",
+  "description": "(Unused?)HwGroupManager\nIt's an app without activities, only device info things",
+  "list": "Oem",
+  "removal": "Expert"
+}

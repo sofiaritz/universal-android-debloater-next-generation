@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.omcagent",
+  "description": "Open Market Customization Agent (AKA 'Recommended Apps')\nInstalls more Samsung\"Recommended Apps\" after device setup. Similar to com.samsung.android.mapsagent",
+  "list": "Oem",
+  "removal": "Recommended"
+}

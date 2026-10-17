@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sfr.android.sfrcloud",
+  "description": "SFR Cloud (https://play.google.com/store/apps/details?id=com.sfr.android.sfrcloud)\nCloud provided by SFR",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

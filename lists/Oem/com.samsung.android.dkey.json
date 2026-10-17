@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dkey",
+  "description": "Samsung Wallet Digital Key\nUsed for cars, only China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

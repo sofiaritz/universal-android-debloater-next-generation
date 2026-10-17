@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.camera.verifytool",
+  "description": "Another hidden camera calibration and DualCamVerifyTool.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

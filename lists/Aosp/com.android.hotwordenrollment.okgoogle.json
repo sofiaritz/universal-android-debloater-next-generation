@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.hotwordenrollment.okgoogle",
+  "description": "\"OK Google\" detection service.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

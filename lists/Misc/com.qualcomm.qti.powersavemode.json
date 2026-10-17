@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.powersavemode",
+  "description": "It have hidden power saving modes.\nUsers cant use it.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

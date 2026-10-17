@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qiyi.video",
+  "description": "IQIYI (https://play.google.com/store/apps/details?id=com.qiyi.video)\nOnline video platform from Baidu (https://en.wikipedia.org/wiki/IQiyi).\nI didn't know this is currently one of the largest online video sites in the world,\nwith nearly 6 billion hours spent on its service each month, and over 500 million monthly active users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

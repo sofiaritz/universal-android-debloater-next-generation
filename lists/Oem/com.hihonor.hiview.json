@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.hiview",
+  "description": "hiview\nRemoving this doesn't remove access to the picture attributes, so what does it actually do?\nIt's the same as (com.hihonor.hiviewtunnel), which is useless.\nIt has 19 permissions, Crash App Dialog, logs. So do not trust these apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.shutdownlistner",
+  "description": "uses library com.qualcomm.qcrilhook and logs shutdown phone but it's not needed.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

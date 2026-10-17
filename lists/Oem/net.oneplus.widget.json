@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.widget",
+  "description": "OnePlus Widget\nLets you use OnePlus widgets on the home screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

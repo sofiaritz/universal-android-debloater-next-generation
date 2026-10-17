@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.magazineservice.xos",
+  "description": "Magazine Lockscreen XOS\nResource-hog bloatware that uses a lot of telemetry. For lock screen to look at pictures... https://play.google.com/store/apps/details?id=com.transsion.magazineservice.xos",
+  "list": "Oem",
+  "removal": "Recommended"
+}

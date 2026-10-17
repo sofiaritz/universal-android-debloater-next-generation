@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.detection.ts.noise_detection_apk",
+  "description": "It's used by bsptest (com.vivo.bsptest) for noise detection test.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.inputshare",
+  "description": "Samsung Multi-Control, allows certain apps to be continued on multiple Galaxy devices (like Internet or Notes)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

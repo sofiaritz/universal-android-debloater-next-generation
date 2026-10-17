@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.blacklistapp",
+  "description": "Block & filter\nCall blocking app that's tied with device caller app, contains fuction to look caller location on Google Maps, potentially untrusted.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

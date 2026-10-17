@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.wear.shealth",
+  "description": "Samsung Health app for WearOS.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

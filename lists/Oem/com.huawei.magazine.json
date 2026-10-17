@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.magazine",
+  "description": "Magazine unlock. Downloads wallpapers for your lock screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

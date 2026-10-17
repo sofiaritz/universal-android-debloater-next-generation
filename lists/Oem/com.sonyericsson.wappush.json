@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.wappush",
+  "description": "WAP Push\nUsed to display annoying WAP push.\nWAP push is a type of text message that contains a direct link to a particular Web page.\nWhen a user is sent a WAP-push message, he receives an alert, once clicked, directs him to the Web page via his browser.\nPersonally, I don't like this. URLs are now recognized by the SMS instant messaging apps and you just have to click on it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

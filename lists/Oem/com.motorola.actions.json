@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.actions",
+  "description": "Moto Actions (https://play.google.com/store/apps/details?id=com.motorola.actions)\nAllows you to perform specific gestures to perform certain tasks. Frontend to change settings provided by \"com.motorola.moto\".\n\nRemoving this breaks gesture controls, such as the shake/chop-chop gesture to turn the flashlight on/off.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

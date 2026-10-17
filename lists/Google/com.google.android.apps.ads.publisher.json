@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.ads.publisher",
+  "description": "Google Adsense app (https://play.google.com/store/apps/details?id=com.google.android.apps.ads.publisher)",
+  "list": "Google",
+  "removal": "Recommended"
+}

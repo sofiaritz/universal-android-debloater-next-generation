@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.sandbox",
+  "description": "Knox Sandbox. Isolation/sandboxing support for Knox secure environments.",
+  "list": "Oem",
+  "removal": "Expert"
+}

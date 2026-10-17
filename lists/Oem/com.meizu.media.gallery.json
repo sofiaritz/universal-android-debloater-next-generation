@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.media.gallery",
+  "description": "Gallery\nMeizu gallery app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.authfw",
+  "description": "Used by Samsung Pass\nBiometric authentication service that can be used to sign in to websites and apps in your mobile.\nhttps://www.samsung.com/global/galaxy/apps/samsung-pass/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

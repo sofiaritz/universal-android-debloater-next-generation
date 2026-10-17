@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.mobileprint",
+  "description": "Samsung print service for supported printers.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

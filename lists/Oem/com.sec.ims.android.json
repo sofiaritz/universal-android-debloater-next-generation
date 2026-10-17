@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.ims.android",
+  "description": "IMS Framework\nNeeded for Wifi calling",
+  "list": "Oem",
+  "removal": "Advanced"
+}

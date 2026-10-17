@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.netflix.mediaclient",
+  "description": "Netflix app (https://play.google.com/store/apps/details?id=com.netflix.mediaclient)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

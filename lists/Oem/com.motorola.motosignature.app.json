@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.motosignature.app",
+  "description": "This app has permissions descriptions, lab, game mode launch permissions, audio monitor descriptions.\nSo it's permissions to system apps?\nGoogle search shows that it's on some lists that recommend removing this app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

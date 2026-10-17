@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.faceid",
+  "description": "Face unlock lock screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

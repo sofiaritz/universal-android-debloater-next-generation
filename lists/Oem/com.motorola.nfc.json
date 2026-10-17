@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.nfc",
+  "description": "Support for NFC protocol.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

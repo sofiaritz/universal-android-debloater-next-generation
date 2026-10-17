@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.geotz",
+  "description": "Provides Geolocation Time Zone detection.\nand it's used by (com.google.android.overlay.gmsconfig.common)?\nNo effects after remove.",
+  "list": "Google",
+  "removal": "Expert"
+}

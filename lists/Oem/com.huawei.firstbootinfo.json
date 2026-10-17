@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.firstbootinfo",
+  "description": "Get city info service\nGet city info service? Needed by your phone in order to sync with Huawei servers\nand check for apps updates, software updates and other access for your phone.",
+  "list": "Oem",
+  "removal": "Expert"
+}

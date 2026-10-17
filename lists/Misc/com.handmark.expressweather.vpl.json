@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.handmark.expressweather.vpl",
+  "description": "1Weather (https://play.google.com/store/apps/details?id=com.handmark.expressweather)\nForecasts alerts app (contain ads)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

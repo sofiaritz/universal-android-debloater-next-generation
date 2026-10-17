@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.ripple",
+  "description": "Fingerprint Animation Ripple when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

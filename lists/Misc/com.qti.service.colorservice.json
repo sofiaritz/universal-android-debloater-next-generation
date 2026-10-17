@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qti.service.colorservice",
+  "description": "Allows the application to directly affect the device's display paramter.\nWell I only know the no one app uses it.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

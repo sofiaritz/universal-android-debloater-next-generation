@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.kyocera.ecomode",
+  "description": "Custom power-saving mode",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

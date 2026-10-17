@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.desktoplauncher",
+  "description": "Samsung DeX Home (launcher)\nDex enables users to extend their device into a desktop-like experience by connecting a keyboard, mouse, and monitor.\n\"DeX\" is a contraction of\"Desktop eXperience\".\nhttps://en.wikipedia.org/wiki/Samsung_DeX",
+  "list": "Oem",
+  "removal": "Recommended"
+}

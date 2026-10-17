@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.svoice.lang.fr_FR",
+  "description": "This is the French language pack for Samsung's old S Voice assistant, enabling speech recognition and responses.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

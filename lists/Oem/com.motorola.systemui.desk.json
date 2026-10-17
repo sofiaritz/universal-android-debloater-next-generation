@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.systemui.desk",
+  "description": "DesktopSystemUI\nit's for desktop maybe when connect to screen phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

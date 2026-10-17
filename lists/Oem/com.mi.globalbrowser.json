@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.globalbrowser",
+  "description": "Mi Browser\nPrivacy nightmare. You really should use something else.\nhttps://www.xda-developers.com/xiaomi-mi-web-browser-pro-mint-collecting-browsing-data-incognito-mode/\n\nNote: Since MIUI 12, you can no longer uninstall this app. Disabling it still works fine.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

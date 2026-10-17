@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.o2o",
+  "description": "o2o = online-to-offline\n==> Describes systems enticing consumers within a digital environment to make purchases of goods or services from physical businesses.\nhttps://en.wikipedia.org/wiki/Online_to_offline\nNOTE: This package can make phone calls without user intervention.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

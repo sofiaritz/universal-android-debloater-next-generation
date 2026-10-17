@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.qti.hardware.cacert.server",
+  "description": "CACertApp\nOccasionally runs in the background.\nHandles CACert certificates? http://www.cacert.org/\nCACert is a community-driven CA that issues certificates to the public at large for free. CA = Certificate Authority, an entity that certifies the ownership of a public key that can be used for secure communications.\nProbably a bad idea to disable; could mess with device security.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.android.instantshare",
+  "description": "Huawei Share features.\nFile transfer tool between Huawei mobiles, using Bluetooth connection and WiFi Direct technology.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

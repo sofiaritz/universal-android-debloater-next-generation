@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.thememanager.gliobal_config.config.overlay",
+  "description": "Blacklist of some wallpaper names. Useless.\nThis app is not exist on miui china rom.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.stdsp",
+  "description": "Device Security Service\nit's a basic service module that helps users discover security risks in their devices and generate appropriate security policies. Detect xposed, and log suite related, needless to say, deactivate.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mi.AutoTest",
+  "description": "Assemble test\nHidden app used by the manufacturer to test various hardware components",
+  "list": "Oem",
+  "removal": "Recommended"
+}

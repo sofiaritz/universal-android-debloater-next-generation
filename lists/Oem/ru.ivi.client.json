@@ -1,0 +1,6 @@
+{
+  "pkg_name": "ru.ivi.client",
+  "description": "Ivi, russian video service, preinstalled by russian law from 2019",
+  "list": "Oem",
+  "removal": "Recommended"
+}

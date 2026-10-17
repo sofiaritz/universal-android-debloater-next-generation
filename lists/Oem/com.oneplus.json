@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus",
+  "description": "Oneplus System\nHandles the Oneplus system framework? Possibly unsafe to disable, but please contribute information about what happens if you do.",
+  "list": "Oem",
+  "removal": "Expert"
+}

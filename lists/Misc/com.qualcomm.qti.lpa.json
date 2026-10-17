@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.lpa",
+  "description": "lpa = Local Profile Assistants\nRuns on boot, but not in the background beyond that.\nCode has a lot of references to UIM(User Identity Module, which is SIM-related)\nOnly useful if you use an eSIM? (electronic SIM)\nAllows users to choose and change their subscription data when switching between network operators/carriers.\nhttps://developer.qualcomm.com/blog/rise-esims-and-isims-and-their-impact-iot\nhttps://source.android.com/devices/tech/connect/esim-overview",
+  "list": "Misc",
+  "removal": "Advanced"
+}

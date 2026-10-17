@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.nosafetycenter",
+  "description": "Has no safety center in the code? Weird. Not needed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

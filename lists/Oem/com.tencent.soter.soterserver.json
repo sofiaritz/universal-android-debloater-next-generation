@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tencent.soter.soterserver",
+  "description": "Soter is a biometric authentication standard and platform by Tencent.\nhttps://github.com/Tencent/soter\nProvides biometric authentication for WeChat Pay. Safe to disable if you don't use it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.help.extlog",
+  "description": "Moto Feedback Assistant\nThis app only collects logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

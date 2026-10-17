@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.hifirecorder",
+  "description": "LG Audio Recorder",
+  "list": "Oem",
+  "removal": "Recommended"
+}

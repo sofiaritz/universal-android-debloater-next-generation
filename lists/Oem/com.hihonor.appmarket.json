@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.appmarket",
+  "description": "HONOR's App store.\nSafe to remove.\nNOTE: Installed apps via this store will no longer auto-update after removal.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

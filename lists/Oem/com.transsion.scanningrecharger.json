@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.scanningrecharger",
+  "description": "Smart Scanner\nApp contains telemetry and is completely replaceable.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

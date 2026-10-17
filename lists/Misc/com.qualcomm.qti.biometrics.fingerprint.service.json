@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.biometrics.fingerprint.service",
+  "description": "Fingerprint authentication not used by any app maybe only china,\ntest temperature, debug, logs, fingerprint biometrics.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.SetupWizard.overlay.base",
+  "description": "Theme overlay for Setup Wizard?",
+  "list": "Oem",
+  "removal": "Expert"
+}

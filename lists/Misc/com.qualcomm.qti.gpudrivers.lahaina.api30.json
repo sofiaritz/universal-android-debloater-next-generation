@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.gpudrivers.lahaina.api30",
+  "description": "Adreno Graphics Drivers\nGPU drivers for Snapdragon 888.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

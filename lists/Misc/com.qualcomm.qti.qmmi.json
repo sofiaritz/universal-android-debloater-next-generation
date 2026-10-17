@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qmmi",
+  "description": "QMMI is a test app made by Qualcomm. It is used by service center to test the working of the various device components.\nMore info: https://community.phones.nokia.com/discussion/52566/android-10-on-nokia-8-1/p19\nUseless for end-users.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

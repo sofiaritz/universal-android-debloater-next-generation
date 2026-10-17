@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.overlay.miui",
+  "description": "Contains specific modifications and enhancements made by MIUI to the phone app's user interface and functionality.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

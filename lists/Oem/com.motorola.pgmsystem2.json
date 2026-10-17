@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.pgmsystem2",
+  "description": "Appears safe to remove\nPGM System\nI didn't find info about this package.\nFor Me PGM = Peak Gate Power (for MOSFET transistor) but I'm not convinced it has this meaning here.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

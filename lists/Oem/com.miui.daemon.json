@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.daemon",
+  "description": "MIUI daemon\nCollects a lot of data and sends them to China.\nSee: https://web.archive.org/web/20210923050136/https://twitter.com/fs0c131y/status/938872347087564800",
+  "list": "Oem",
+  "removal": "Recommended"
+}

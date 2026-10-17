@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.factorymode.specialtest",
+  "description": "Engineering Mode Special Test\nUsed in the factory to test devices.\nSee com.oneplus.factorymode",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.scorpio.securitycom",
+  "description": "SecurityPlugin\nIt cant be uninstalled.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

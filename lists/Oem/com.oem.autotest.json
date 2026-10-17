@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oem.autotest",
+  "description": "Auto Test Server\nUsed to test the hardware of your device and change hidden settings.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

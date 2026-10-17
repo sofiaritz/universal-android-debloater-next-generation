@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bixby.agent",
+  "description": "Removing this will disable the bixby hardware key without breaking Bixby itself.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

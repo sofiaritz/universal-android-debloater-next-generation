@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.phone.carriers.customized.overlay",
+  "description": "Something about WiFi calling\"vowifi\",\"volte\",\"notification on keyguard\"\nIt's unused.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.ststub",
+  "description": "SmartThings\nAllows users to control, automate, and monitor their home environment via mobile device.\nhttps://en.wikipedia.org/wiki/SmartThings\nREMINDER: stub = https://stackoverflow.com/questions/10648280/what-is-stub-and-aidl-for-in-java",
+  "list": "Oem",
+  "removal": "Recommended"
+}

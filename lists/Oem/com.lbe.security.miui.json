@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lbe.security.miui",
+  "description": "Permission manager\nLets you monitor apps permission requests.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

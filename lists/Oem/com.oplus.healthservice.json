@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.healthservice",
+  "description": "healthservice\nSome health function, needed for correct work of fitness trackers and pedometer from realme. When deleted, it does not seem to affect the operation of the phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

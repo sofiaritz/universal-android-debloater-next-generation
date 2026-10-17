@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.midrive",
+  "description": "Mi Drive\nMisleading package name. It is indeed a closed-source Xiaomi application.\nAllow for cloud storage (on Mi Cloud) and syncing across multiple Android devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

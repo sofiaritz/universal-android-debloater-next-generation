@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.contentcenter",
+  "description": "A panel that opens from the launcher (similar to\"samsung Free\"). Has news, weather forecasts, and a game center (similar to\"Game Booster\"). Has lots of trackers from facebook, bytedance, anythink, google, and other 3rd-parties",
+  "list": "Oem",
+  "removal": "Recommended"
+}

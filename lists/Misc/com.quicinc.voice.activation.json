@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.quicinc.voice.activation",
+  "description": "Qualcomm Voice Assist (https://play.google.com/store/apps/details?id=com.quicinc.voice.activation)\nAlways-on voice detection, so obviously always runs in the background.\nProbably worth keeping enabled for battery savings if you use Google Assistant regularly while your screen is off.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

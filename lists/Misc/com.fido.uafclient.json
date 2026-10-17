@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fido.uafclient",
+  "description": "FIDO UAF1.0 Client\nProbably related to FIDO digital key gadget (Client), probably safe to remove if you don't have any.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.systemui.hidenotch.withoutcornerround",
+  "description": "Hide notch overlay without corner round.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

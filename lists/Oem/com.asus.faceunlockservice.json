@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.faceunlockservice",
+  "description": "ASUS Face Unlock Service\nNeeded for face unlock.\nFace unlock will not work after remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

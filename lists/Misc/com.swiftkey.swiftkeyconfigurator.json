@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.swiftkey.swiftkeyconfigurator",
+  "description": "SwiftKey factory settings\nUsed by commercial swiftkey partners to configure the SwiftKey app.\nSwiftkey is a keyboard developed by TouchType, a Microsoft subsidiary (https://en.wikipedia.org/wiki/SwiftKey)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.xrcb",
+  "description": "Receive xrcb network signals for radio side.\nit's about emergency alerts, weather alerts, public announcements, and other information.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

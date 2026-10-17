@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.providers.context",
+  "description": "Spyware\nhttps://www.eteknix.com/samsungs-context-service-may-take-data-collection-surveillance-worrying-levels/\nhttps://www.theinquirer.net/inquirer/news/2328363/samsung-context-service-will-collect-user-data-to-share-with-developers\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

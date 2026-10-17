@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.iqoo.powersaving",
+  "description": "Battery\nPower-saving app. May not be a good idea to remove it.",
+  "list": "Oem",
+  "removal": "Expert"
+}

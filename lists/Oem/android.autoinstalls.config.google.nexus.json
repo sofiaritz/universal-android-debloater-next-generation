@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.autoinstalls.config.google.nexus",
+  "description": "Auto-install configuration for Google apps on Nexus devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.timezone.data.updater",
+  "description": "Samsung Time Zone Updater\nUsed to automatically detect appropriate timezone.\nA similar Samsung package apparently bootloops the device if removed, so be careful.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

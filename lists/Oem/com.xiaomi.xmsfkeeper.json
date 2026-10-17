@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.xmsfkeeper",
+  "description": "Xiaomi Service Framework Keeper\nLogger service for 'com.xiaomi.xmsf'",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.sva",
+  "description": "Qualcomm Voice Activation\nIt has a lot of things like training voice, tutorial, debug mode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

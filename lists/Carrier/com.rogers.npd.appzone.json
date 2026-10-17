@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.rogers.npd.appzone",
+  "description": "An app store just for Rogers bloat. Why the hell would you want this?",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

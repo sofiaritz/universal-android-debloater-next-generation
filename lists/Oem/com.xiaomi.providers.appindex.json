@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.providers.appindex",
+  "description": "Provider for app index?\nI believe it is a provider for the settings but can't confirm (I don't have a Xiaomi device).\nA lot of people debloat this but I'd like to know more about this one.\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.bbc.bbcagent",
+  "description": "BBCAgent (B. B. Container Agent?)\nCollects device information and manages installation/uninstallation of trusted apps in KNOX containers",
+  "list": "Oem",
+  "removal": "Recommended"
+}

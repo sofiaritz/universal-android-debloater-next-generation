@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nuance.swype.emui",
+  "description": "Huawei Swype functions.\nIs it the full Swype keyboard or only the Swype function on Huawei keyboard ?\nNOTE : Nuance company said it would discontinue support of the Swype keyboard app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

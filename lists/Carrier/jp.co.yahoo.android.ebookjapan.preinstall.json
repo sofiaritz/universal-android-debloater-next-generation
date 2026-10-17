@@ -1,0 +1,6 @@
+{
+  "pkg_name": "jp.co.yahoo.android.ebookjapan.preinstall",
+  "description": "eBookJapan\nNot needed japanese.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

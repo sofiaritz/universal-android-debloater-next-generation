@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.theme.color.asusui",
+  "description": "Theme AsusUI\nStock System Theme\nSystem may not work after removing it.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

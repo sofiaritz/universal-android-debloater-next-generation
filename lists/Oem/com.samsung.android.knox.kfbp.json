@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.knox.kfbp",
+  "description": "Knox Frame Buffer Provider. Provides graphics buffer services for Knox UI/containers.",
+  "list": "Oem",
+  "removal": "Expert"
+}

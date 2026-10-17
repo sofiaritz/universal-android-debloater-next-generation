@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.heytap.usercenter.overlay",
+  "description": "overlay needed to usercenter app has resources",
+  "list": "Oem",
+  "removal": "Advanced"
+}

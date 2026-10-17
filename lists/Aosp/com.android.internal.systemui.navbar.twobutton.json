@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.internal.systemui.navbar.twobutton",
+  "description": "Enables a setting for using just 2 buttons in the system navbar?",
+  "list": "Aosp",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.smartshare",
+  "description": "SmartShare\nFeature that uses DLNA technology to stream multimedia contents between DLNA devices.\nDLNA is a non-profit trade organisation which defines standards that enable devices to share stuff with each other.\nBasically LG provides a way to stream multimedia contents from your phone to your smart TV (or via a DLNA plugin)\nhttps://www.lg.com/ca_en/support/product-help/CT31903570-1428542236040-file-media-transfer-pictures-music-etc",
+  "list": "Oem",
+  "removal": "Recommended"
+}

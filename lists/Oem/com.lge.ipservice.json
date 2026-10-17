@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ipservice",
+  "description": "Needed for Wi-Fi calling on LG T-Mobile devices.",
+  "list": "Oem",
+  "removal": "Expert"
+}

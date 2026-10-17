@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.sbrowser.lite",
+  "description": "Samsung Internet Lite/Go\nLite version of the Samsung browser (hah! Because the base one was too bloated?)\nDon't use this browser. In their privacy policy:\"The information we obtain [...] include, identifiers associated with your devices, types of devices, web browser characteristics, device and operating system type and characteristics, language preferences, clickstream data, your interactions with Samsung Internet (such as the web pages you visit, links you click and features you use), dates and times of your use of Samsung Internet, and other information about your use of Samsung Internet\"\nhttps://developer.samsung.com/internet/privacy-policy-us.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

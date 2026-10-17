@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.b300.xrz.web",
+  "description": "App called XRZWebExport on the Bigme HiBreak Pro. Does not show up in the app list when enabled.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

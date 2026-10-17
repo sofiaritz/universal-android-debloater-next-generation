@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.mobile.android.vvm",
+  "description": "AT&T Visual Voicemail (https://play.google.com/store/apps/details?id=com.att.mobile.android.vvm)\nLets you manage your voicemail directly from the app without the need to dial into your mailbox.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.sconnect",
+  "description": "Samsung Quick connect (discontinued?)\nIn theory, it lets you connect your phone to a variety of devices over Wifi that support multiple protocols \u2014 including Wifi Direct and Miracast \u2014 to display photos, video or audio.\nhttps://www.samsung.com/uk/support/tv-audio-video/what-is-screen-mirroring-and-how-do-i-use-it-with-my-samsung-tv-and-samsung-mobile-device/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

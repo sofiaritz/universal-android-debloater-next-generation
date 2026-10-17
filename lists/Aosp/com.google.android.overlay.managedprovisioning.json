@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.managedprovisioning",
+  "description": "In code I have seen lists of some system apps and stuff of `managedprovisioning` user.\nSafe to remove if you removed `com.android.managedprovisioning`.\nBut it probably doesn't affect anything.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

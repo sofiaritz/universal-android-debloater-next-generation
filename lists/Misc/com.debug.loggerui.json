@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.debug.loggerui",
+  "description": "DebugLoggerUI\nSimilar to logcat, in some sense. Mostly focused on video graphics logging and network logging (includes Bluetooth). On some devices, it runs in the background (working non-cache RAM) even while not in use.\nhttps://peterelst.com/what-is-debug-logger-ui-android",
+  "list": "Misc",
+  "removal": "Recommended"
+}

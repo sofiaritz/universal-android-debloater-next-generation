@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.cmh",
+  "description": "CMH Provider is a dependency for the the samsung gallery app. This package asks for a lot of permissions.\nIt seems to be be used for cloud and story stuff in the gallery and also seems needed for content recognition.\nHas the same shared user id as com.samsung.faceservice, com.samsung.mlp, com.samsung.mpl\n\nNOTE : On some phone models, deleting this package can also prevent to preview photos from the camera app.\nSeems to trigger com.samsung.faceservice, com.samsung.mlp, com.samsung.mpl when needed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

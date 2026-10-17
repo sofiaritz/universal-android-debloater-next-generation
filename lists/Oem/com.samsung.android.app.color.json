@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.color",
+  "description": "Color adjustment\nSamsung's adaptive super AMOLED screen optimizes the color range, saturation, and sharpness of the picture depending on what you're watching or doing.\nThis package lets you to manually customize the color settings to match your preferences.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

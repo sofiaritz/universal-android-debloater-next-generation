@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.keyguardwallpaperupdator",
+  "description": "Lets you customize your Samsung device with different images (provided by Samsung) on the lock screen.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

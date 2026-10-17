@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.oobe.att",
+  "description": "AppCloud\nApp from AT&T. Installs apps on oobe and its maded by advertising company 'ironSource'.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

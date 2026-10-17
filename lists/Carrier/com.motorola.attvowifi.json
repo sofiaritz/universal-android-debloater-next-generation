@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.attvowifi",
+  "description": "AT&T Wifi-calling\nhttps://www.att.com/shop/wireless/features/wifi-calling.html",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

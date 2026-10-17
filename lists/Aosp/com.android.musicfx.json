@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.musicfx",
+  "description": "Audio EQ(equalizer). Some 3rd-party music apps can use it to provide you EQ features.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

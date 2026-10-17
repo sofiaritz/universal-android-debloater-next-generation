@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.airlink",
+  "description": "Air link service, it's probably needed for Wireless Projection.\nNo activities, only more debugging stuff, location things, logs",
+  "list": "Oem",
+  "removal": "Advanced"
+}

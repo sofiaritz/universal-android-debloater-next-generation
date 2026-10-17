@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.fingerprintengineer",
+  "description": "Fingerprint test\nHidden Fingerprint testing not available for normal users.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wallpaper.livepicker.overlay",
+  "description": "Overlay for live wallpaper picker? Overlays are usually themes, but not sure about this one.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.android.camera",
+  "description": "Sony's default camera app, can be replaced but you will lose camera features",
+  "list": "Oem",
+  "removal": "Advanced"
+}

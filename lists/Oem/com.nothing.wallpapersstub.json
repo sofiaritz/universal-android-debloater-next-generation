@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nothing.wallpapersstub",
+  "description": "Needed for basic wallpapers",
+  "list": "Oem",
+  "removal": "Advanced"
+}

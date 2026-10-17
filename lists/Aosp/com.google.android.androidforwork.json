@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.androidforwork",
+  "description": "Assistant Android Work\nNot needed, theres only user consent activity about that:\n(Your organization controls your device and keeps it secure)",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

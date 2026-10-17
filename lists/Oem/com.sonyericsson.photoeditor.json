@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.photoeditor",
+  "description": "Sony's photo editor: https://www.apkmirror.com/apk/sony-mobile-communications/photo-editor",
+  "list": "Oem",
+  "removal": "Recommended"
+}

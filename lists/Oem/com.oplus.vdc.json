@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.vdc",
+  "description": "It's an app used to convert nearby devices into virtual hardware resources for the central device. Require internet to transfer data across devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

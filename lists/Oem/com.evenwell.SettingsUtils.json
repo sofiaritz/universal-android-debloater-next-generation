@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.SettingsUtils",
+  "description": "Settings utils\n(crappy) Audio rendering.\nSee https://gitlab.com/W1nst0n/universal-android-debloater/-/issues/9#note_369056538",
+  "list": "Oem",
+  "removal": "Recommended"
+}

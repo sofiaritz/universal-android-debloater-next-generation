@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.hdmapp",
+  "description": "Hypervisor Device Manager App\nhttps://docs.samsungknox.com/devref/knox-sdk/reference/com/samsung/android/knox/hdm/HdmManager.html",
+  "list": "Oem",
+  "removal": "Recommended"
+}

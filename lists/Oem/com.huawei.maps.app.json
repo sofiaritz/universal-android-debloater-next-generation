@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.maps.app",
+  "description": "Petal Maps (https://play.google.com/store/apps/details?id=com.huawei.maps.app)\nHuawei map and navigation app with HMS (Huawei Mobile Services) trackers.\nPithus analysis: https://beta.pithus.org/report/d15349e7a998306012462484f270f93794141113d6680fa8512931c270adf830",
+  "list": "Oem",
+  "removal": "Advanced"
+}

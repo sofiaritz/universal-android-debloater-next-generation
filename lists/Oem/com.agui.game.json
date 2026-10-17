@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.game",
+  "description": "Game mode\nBlocks calls & notifications when selected APP's are open",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.a_overlay",
+  "description": "AOSP code for dialer app features.\nSIM card will not be detected if disabled.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

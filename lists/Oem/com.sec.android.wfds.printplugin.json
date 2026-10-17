@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.wfds.printplugin",
+  "description": "Needed for Wi-Fi direct printing on Samsung devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

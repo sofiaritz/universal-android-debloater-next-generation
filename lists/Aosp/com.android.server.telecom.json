@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.server.telecom",
+  "description": "Manages calls via your network provider or SIM and controls the phone modem?",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

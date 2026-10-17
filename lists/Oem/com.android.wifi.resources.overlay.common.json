@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.wifi.resources.overlay.common",
+  "description": "System Wi-Fi resources Theme pack\nGuessing it's a pack of themes for some Wi-Fi related system UI, based on the name.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

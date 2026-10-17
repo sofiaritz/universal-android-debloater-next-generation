@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.miui.poco.launcher.res",
+  "description": "Config to default icons/placeholder widgets in MIUI launcher.\nIt's used only first time run MIUI launcher app like com.mi.globallayout.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

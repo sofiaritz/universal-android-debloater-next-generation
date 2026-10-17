@@ -1,0 +1,6 @@
+{
+  "pkg_name": "net.oneplus.provider.appcategoryprovider",
+  "description": "AppCategoryProvider\nRuns in the background.\nI think this categorizes apps for use with system functionality, for example: automatically adding games to Game Mode.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

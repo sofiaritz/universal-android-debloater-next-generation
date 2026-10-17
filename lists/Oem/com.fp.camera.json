@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.fp.camera",
+  "description": "Fairphone Camera app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

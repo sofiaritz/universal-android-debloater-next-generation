@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.safecenter.overlay.phantom",
+  "description": "Overlay to theme icon Security app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.store",
+  "description": "d-Point Market\nWeb page shortcut and notification receiver.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

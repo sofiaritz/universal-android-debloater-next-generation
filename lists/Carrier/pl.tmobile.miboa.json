@@ -1,0 +1,6 @@
+{
+  "pkg_name": "pl.tmobile.miboa",
+  "description": "My T-Mobile\nHas login activity and MailBox.\nA lot metrics, analytics.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

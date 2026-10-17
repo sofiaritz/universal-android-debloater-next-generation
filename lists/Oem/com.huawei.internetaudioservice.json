@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.internetaudioservice",
+  "description": "Smart headset control\nHas a lot logs and frameworks to mmitest.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

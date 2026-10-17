@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.kfa",
+  "description": "KFA\nAnother app from knox, has something to decrypt.\nName apk this app is: KnoxAIFrameworkApp.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

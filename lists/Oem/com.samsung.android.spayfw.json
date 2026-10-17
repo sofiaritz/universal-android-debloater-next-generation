@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.spayfw",
+  "description": "Samsung Pay Framework needed for Samsung Pay\nSamsung Pay is a mobile payment and digital wallet service by Samsung that lets users make payments using compatible phones and other Samsung-produced devices. See below.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

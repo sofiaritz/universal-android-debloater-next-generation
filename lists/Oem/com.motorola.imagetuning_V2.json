@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.imagetuning_V2",
+  "description": "Camera Tuner\nIt's Camera tuning Chromatix Comparison. I think it's needed for camera app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

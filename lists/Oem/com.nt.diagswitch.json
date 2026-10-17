@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nt.diagswitch",
+  "description": "Hidden USB Diag Switch, adb diagnostics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

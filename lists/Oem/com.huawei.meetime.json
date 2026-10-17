@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.meetime",
+  "description": "MeeTime (https://consumer.huawei.com/en/support/content/en-us00956296/).\nVoice and video calling application by Huawei. Only works with EMUI 9.1+ Huawei phones.\nHuawei claims they use E2EE but this wasn't verified and there is no whitepaper, so don't trust them.\nThey also collect metadata.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

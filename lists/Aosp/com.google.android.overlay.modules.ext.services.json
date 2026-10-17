@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.modules.ext.services",
+  "description": "it's overlay that depends on (com.google.android.ext.services)\nCause bootloop.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

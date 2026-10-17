@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.theme.dark",
+  "description": "Enables you to use Android dark theme.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

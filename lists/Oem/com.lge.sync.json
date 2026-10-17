@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.sync",
+  "description": "LG Bridge Service\nUsed to backup, restore, update your LG phone, and transfer files wirelessly between computer and LG phone.\nYou will need to install LG Bridge software on your PC.\nNOTE: causes noticeable battery drain.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

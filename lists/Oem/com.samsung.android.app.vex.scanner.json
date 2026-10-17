@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.vex.scanner",
+  "description": "Document Scanner. Samsung's VEX document scanning component used by Camera/Gallery/Office features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

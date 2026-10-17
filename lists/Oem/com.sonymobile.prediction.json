@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.prediction",
+  "description": "Sony text prediction (for Sony keyboard)\nIt's only a supposition. Can someone confirm ?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

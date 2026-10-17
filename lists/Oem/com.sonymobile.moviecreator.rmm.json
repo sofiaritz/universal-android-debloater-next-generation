@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.moviecreator.rmm",
+  "description": "Movie Creator (https://play.google.com/store/apps/details?id=com.sonymobile.moviecreator.rmm)\nAutomatically creates short movies using your photos and videos.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

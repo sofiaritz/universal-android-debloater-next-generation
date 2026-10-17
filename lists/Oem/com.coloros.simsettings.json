@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.simsettings",
+  "description": "Data usage\nData usage and OTA updates",
+  "list": "Oem",
+  "removal": "Expert"
+}

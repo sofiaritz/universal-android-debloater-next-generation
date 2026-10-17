@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.connectivity.resources",
+  "description": "Network connectivity resources.\nRemoving this packages causes a bootloop.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.tsmclient",
+  "description": "Smart cards\nOnly for Chinese.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

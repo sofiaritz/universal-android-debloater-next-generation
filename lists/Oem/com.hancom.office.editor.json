@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hancom.office.editor",
+  "description": "Proprietary office suite, primarly targeted towards Korean users. This version, typically preinstalled on old Samsung devices, is no longer maintained",
+  "list": "Oem",
+  "removal": "Recommended"
+}

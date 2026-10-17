@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.rlk.weathers",
+  "description": "Daily Weather (https://play.google.com/store/apps/details?id=com.rlk.weathers)\nWeather app with ads and trackers. Can access phone calls and SMS.\nPithus analysis: https://beta.pithus.org/report/c3fa30c66192c458f93456401421d3c74f9122191b561781af142c42c24fe603",
+  "list": "Misc",
+  "removal": "Recommended"
+}

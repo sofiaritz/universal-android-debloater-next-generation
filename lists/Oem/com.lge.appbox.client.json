@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.appbox.client",
+  "description": "LG Application manager\nInstalls/Updates LG related apps?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

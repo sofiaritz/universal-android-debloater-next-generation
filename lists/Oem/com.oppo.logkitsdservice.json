@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.logkitsdservice",
+  "description": "Hidden logs hardware without activities.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

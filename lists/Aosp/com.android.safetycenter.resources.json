@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.safetycenter.resources",
+  "description": "Google/AOSP Safety Center resources.\n. Uninstalling this will change the configuration to revert back the\"Security & privacy\" look to the old style.\nDoes not contain code, just the configuration for code that lives in another package.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

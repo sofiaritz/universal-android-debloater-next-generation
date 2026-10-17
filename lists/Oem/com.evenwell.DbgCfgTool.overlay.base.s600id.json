@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.DbgCfgTool.overlay.base.s600id",
+  "description": "Theme overlay for Debug Config Tool?",
+  "list": "Oem",
+  "removal": "Expert"
+}

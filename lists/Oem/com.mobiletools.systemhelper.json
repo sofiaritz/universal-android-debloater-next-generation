@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mobiletools.systemhelper",
+  "description": "SystemHelper\nNot available for users, has something about dual sim, App Info.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

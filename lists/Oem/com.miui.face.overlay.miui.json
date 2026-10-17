@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.face.overlay.miui",
+  "description": "MiuiBiometricResOverlay\nFace Unlock feature will be unavailable.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

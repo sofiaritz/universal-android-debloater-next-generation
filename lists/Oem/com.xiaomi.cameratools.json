@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.cameratools",
+  "description": "CameraTools\nCamera calibration. Deleting it does not affect the camera.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

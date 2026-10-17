@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tungsten.setupwraith",
+  "description": "First boot setup TV.\nRemoving it crashes sound related system settings and breaks volume control on Sony Bravia TV.\nhttps://play.google.com/store/apps/details?id=com.google.android.tungsten.setupwraith&hl=en&gl=US",
+  "list": "Oem",
+  "removal": "Expert"
+}

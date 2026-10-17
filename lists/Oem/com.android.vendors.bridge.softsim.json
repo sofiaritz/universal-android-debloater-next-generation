@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.vendors.bridge.softsim",
+  "description": "Needed for virtual SIM.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

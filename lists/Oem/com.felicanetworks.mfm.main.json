@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.felicanetworks.mfm.main",
+  "description": "Osaifu-Keitai App (https://play.google.com/store/apps/details?id=com.felicanetworks.mfm.main)\nA digital wallet app for Osaifu-Keitai brand.\nIt does not appear to be related to the FeliCa core functionality, but is required for services under the Osaifu-Keitai brand, such as iD and Mobile Suica.\nFor details, please check the app description (https://play.google.com/store/apps/details?id=com.felicanetworks.mfm.main) on Play Store.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

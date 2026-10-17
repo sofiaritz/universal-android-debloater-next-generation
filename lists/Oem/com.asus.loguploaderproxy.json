@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.loguploaderproxy",
+  "description": "Bug Reporter Proxy\nLogs without activity.\nNot needed another logs from loguploader.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

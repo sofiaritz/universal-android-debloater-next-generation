@@ -1,0 +1,6 @@
+{
+  "pkg_name": "vendor.qti.qesdk.sysservice",
+  "description": "It's for debugging and logs. But in the code I see VDebug. Vivo probably uses Qualcomm for some features.",
+  "list": "Misc",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.nttdocomo.android.anmane2",
+  "description": "Likely a placeholder for docomo's corporate MDM service. Empty package and disabled by default on consumer devices.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.pickme",
+  "description": "PickMe\nNeeded for camera app or face unlock?",
+  "list": "Oem",
+  "removal": "Expert"
+}

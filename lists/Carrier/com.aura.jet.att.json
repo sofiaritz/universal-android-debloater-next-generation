@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.aura.jet.att",
+  "description": "AT&T Hub\nApp from AT&T. Installs apps on oobe and its maded by advertising company 'ironSource'.",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

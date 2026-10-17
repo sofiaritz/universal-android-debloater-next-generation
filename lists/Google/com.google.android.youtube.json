@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.youtube",
+  "description": "YouTube (https://play.google.com/store/apps/details?id=com.google.android.youtube)",
+  "list": "Google",
+  "removal": "Recommended"
+}

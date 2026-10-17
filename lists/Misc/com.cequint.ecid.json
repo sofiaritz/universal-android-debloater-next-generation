@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.cequint.ecid",
+  "description": "Caller ID from Cequint (https://www.cequint.com/)\nhttps://www.fiercewireless.com/wireless/t-mobile-to-launch-caller-id-service-from-cequint\nNOTE : Never trust a company which promotes call ID/spam blocking features.\nhttps://itmunch.com/robocall-caught-sending-customers-confidential-data-without-consent/\n#\nCequint was acquired by TNS (https://tnsi.com/)\nThat was not a good thing : https://www.geekwire.com/2013/earnouts-bad-cequint-execs-sue-parent-company/",
+  "list": "Misc",
+  "removal": "Recommended"
+}

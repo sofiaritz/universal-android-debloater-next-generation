@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.smartswitchassistant",
+  "description": "Samsung SmartSwitch\nLets you transfer your data from your old (Samsung) phone to your new one.\nNeeded for com.sec.android.easyMover?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

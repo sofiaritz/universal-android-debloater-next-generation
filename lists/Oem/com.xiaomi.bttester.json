@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.bttester",
+  "description": "BTCIT\nBluetooth Test Service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

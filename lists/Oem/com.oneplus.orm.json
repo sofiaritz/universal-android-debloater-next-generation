@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.orm",
+  "description": "Seems to be Oneplus' Memory Management System according to a press-kit/-release they made for Android 11 (multiple sites wrote\"ORM Memory Management System\" word-for-word).\nRuns in the background as part of the system. Runs even if disabled? Doesn't use any RAM when disabled tho, vs ~50MB when enabled.\nSeems safe to disable, haven't noticed any negative effects in weeks of use, but I assume it breaks the\"RAM Boost\" feature (which is pointless anyway IMO).\nApk file name: OPOmm, mm = Memory Management?\nHas 2 permissions: KILL_BACKGROUND_PROCESSES and SET_TIME_ZONE.\nContains 2 services: OPManagerService and BackgroundCollectorService.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

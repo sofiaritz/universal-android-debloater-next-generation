@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.example.android.notepad",
+  "description": "(Bad) notepad app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

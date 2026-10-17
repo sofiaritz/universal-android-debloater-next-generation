@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.harmonyos.foundation",
+  "description": "foundation\nHas hwid, vehicle things, Aosp In Call Service permissions.\nDisable app instead of uninstalling, because breaks calling.\nSettings app and APK installation will become slow if you uninstall this.",
+  "list": "Oem",
+  "removal": "Expert"
+}

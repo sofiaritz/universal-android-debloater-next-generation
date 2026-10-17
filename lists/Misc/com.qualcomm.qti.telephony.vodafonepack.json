@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.telephony.vodafonepack",
+  "description": "Related to Vodafone Prepaid Recharge Plan\nIf you're not a Vodafone client but still has this package on your phone you can delete it.\nFor Vodafone client, I don't know what this package does.\nhttps://en.wikipedia.org/wiki/Vodafone",
+  "list": "Misc",
+  "removal": "Expert"
+}

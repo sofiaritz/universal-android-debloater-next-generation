@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hoffnung",
+  "description": "TPMS. Remote Config Test.\n\u26a0\ufe0f WARNING: uninstalling might cause bootloops and screen flicker! Disabling this also may remove the ability to see notifications on your lock screen.\nhttps://xdaforums.com/t/infinix-note-10-uninstall-tpms-com-hoffnung-package-causes-bootloop.4647456",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

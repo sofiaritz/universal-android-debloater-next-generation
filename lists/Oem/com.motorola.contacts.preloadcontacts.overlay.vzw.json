@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.contacts.preloadcontacts.overlay.vzw",
+  "description": "Useless icon to Verizon Wireless app.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

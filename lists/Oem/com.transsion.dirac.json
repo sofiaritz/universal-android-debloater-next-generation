@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.dirac",
+  "description": "Improves audio quality depending on your surrounding environment and your headphones.\nHas the GET_TASKS/REAL_GET_TASKS permission which allows it to retrieve information about currently and recently running processes. Not sure why it needs this permission though.\nhttps://www.dirac.com/\nPithus analysis: https://beta.pithus.org/report/b2cf41f579c586468faa0270bf63699cca2b500887dba3a699ddd5e35507a1a9",
+  "list": "Oem",
+  "removal": "Advanced"
+}

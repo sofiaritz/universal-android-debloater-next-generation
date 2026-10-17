@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.onehopsvcclient",
+  "description": "OneHopSvcClient\nTagService, HarmonyTag.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

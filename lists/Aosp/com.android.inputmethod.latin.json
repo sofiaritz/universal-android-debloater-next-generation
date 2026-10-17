@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.inputmethod.latin",
+  "description": "The AOSP keyboard app\nMake sure you have another installed before you disable.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

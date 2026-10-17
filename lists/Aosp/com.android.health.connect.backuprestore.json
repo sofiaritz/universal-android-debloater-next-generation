@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.health.connect.backuprestore",
+  "description": "Backups data from Health Connect app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

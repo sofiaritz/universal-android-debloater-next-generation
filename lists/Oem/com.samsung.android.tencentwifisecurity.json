@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.tencentwifisecurity",
+  "description": "Chinese Tencent flags risky networks and prevent to connect to them.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

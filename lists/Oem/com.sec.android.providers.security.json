@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.providers.security",
+  "description": "Provider of password security policies?\nContent providers encapsulate data, providing centralized management of data shared between apps.\nhttps://developer.android.com/guide/topics/providers/content-providers.html\nSeems to provide access to a password database but I don't know under what circumstances this database is used.\nThis provider is only usable by Samsung apps.\nI see a com.android.security.PASSWORD_EXPIRED intent filter in the AndroidManifest so my guess is it handles password policies.\nFor example: A policy could force a user to change their password after a certain amount of time. That's a common policy in enterprise work.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.rampart",
+  "description": "Auto Blocker\nUses for blocking unknown apps install, commands. As of Oneui 6.1.1+, it is no longer tied to App Protection unless you use maximum restrictions. A powerful tool that can keep your device secure, but also be an annoyance if you sideload apps from F-Droid or other sources.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.flyme.update",
+  "description": "System updates\nProvides System updates.",
+  "list": "Oem",
+  "removal": "Expert"
+}

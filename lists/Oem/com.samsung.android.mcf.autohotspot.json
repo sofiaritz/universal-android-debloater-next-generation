@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.mcf.autohotspot",
+  "description": "I believe this is not the Auto Hotspot feature itself, but a system module that manages the internal logic behind it.\nIts role is to coordinate automatic hotspot connections and handle the user\u2011facing network experience.",
+  "list": "Oem",
+  "removal": "Expert"
+}

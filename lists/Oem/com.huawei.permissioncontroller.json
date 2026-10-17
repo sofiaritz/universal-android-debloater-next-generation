@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.permissioncontroller",
+  "description": "Can be disabled via Settings as well",
+  "list": "Oem",
+  "removal": "Recommended"
+}

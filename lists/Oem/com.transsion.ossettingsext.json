@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.ossettingsext",
+  "description": "OSSettings\nit's needed for some settings and probably it's important app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

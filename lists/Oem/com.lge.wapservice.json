@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.wapservice",
+  "description": "Icon looks like email configuration. I'd say it's safe to remove. Probably related to the stock email app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.upsell",
+  "description": "Contains dialogs from different carriers about upgrading the mobile plan\nShould be safe to remove?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

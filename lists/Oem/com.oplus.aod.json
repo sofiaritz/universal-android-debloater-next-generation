@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.aod",
+  "description": "Aod\nMultiple sources say that AOD doesnt work without tons of extra services, but on some devices it works without extra services\nhttps://droidwin.com/remove-bloatware-debloat-oneplus-10-pro-no-root/#OnePlus_10_Pro_List_of_Bloatware_Apps",
+  "list": "Oem",
+  "removal": "Recommended"
+}

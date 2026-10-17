@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gnsslogcat",
+  "description": "GNSS Logcat\nUsed to dump GNSS logs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

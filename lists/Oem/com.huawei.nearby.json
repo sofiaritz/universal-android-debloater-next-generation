@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.nearby",
+  "description": "HwNearby\nNeeded for Huawei Share features. (com.huawei.android.instantshare)\nHuawei Share features may not work after remove.\nNeeded to show a preview of recently opened apps in task manager. I agree, makes no sense, but that's what it is.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

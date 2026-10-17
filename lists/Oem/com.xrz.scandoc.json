@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xrz.scandoc",
+  "description": "Document scan app on the Bigme HiBreak Pro. Does not show up in the app list.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

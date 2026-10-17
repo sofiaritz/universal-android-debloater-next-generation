@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.padconnect",
+  "description": "It has pad settings and multi-screen connect.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

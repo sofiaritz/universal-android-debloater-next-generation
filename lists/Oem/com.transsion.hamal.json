@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.hamal",
+  "description": "It seems to be an\"aftersales user experience logging app\". Really shady app with questionable code (judgeWhiteUser() function. See https://github.com/0x192/universal-android-debloater/pull/112).\n\nStart at boot and can access phone number and IMEI (READ_PHONE_STATE).\n\nPithus analysis: https://beta.pithus.org/report/35fd79ebbe51808196605146a62aaef13bc654477d917078a3ae5d3f06ba8836",
+  "list": "Oem",
+  "removal": "Recommended"
+}

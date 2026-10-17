@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.systemdebug",
+  "description": "SystemDebug\nTesting system things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

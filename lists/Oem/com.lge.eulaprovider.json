@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.eulaprovider",
+  "description": "License Provider\nNeeded by com.lge.eula.\nNeeded by LG HD Audio Recorder or it will force close (maybe used by some other stock app?)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.gmstelecomm",
+  "description": "Overlay app to 'com.google.android.dialer', 'com.android.incallui'.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

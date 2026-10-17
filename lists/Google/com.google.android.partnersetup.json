@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.partnersetup",
+  "description": "Google Partner Setup\nOccasionally runs in the background.\nBased on an unclear explanation online:\"Enables applications to interact with your Google account/apps, for example: adding a Google Calendar event from a To-Do app.\"\nProbably safe to disable; haven't noticed any consequences of disabling from weeks of use.",
+  "list": "Google",
+  "removal": "Advanced"
+}

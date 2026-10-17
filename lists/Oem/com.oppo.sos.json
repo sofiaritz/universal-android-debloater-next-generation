@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.sos",
+  "description": "Emergency Alert service by clicking power button 5 times. It will automatically call contacts (and/or send a SMS) you designated as emergency contacts",
+  "list": "Oem",
+  "removal": "Advanced"
+}

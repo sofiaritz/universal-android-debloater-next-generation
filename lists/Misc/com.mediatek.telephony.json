@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.telephony",
+  "description": "allows you to get information about the available\nSIMs/subscriptions and listen for changes or activity on the SIM cards, such as call or data activity or\nconnected cell details. In addition, the API enables apps to create SMS messages and send them using\na specific SIM card. it's not useful.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

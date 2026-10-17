@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.remoteprovisioner",
+  "description": "RemoteProvisioner. Have random stuff: security, notifications, accessibility, test modes, data usage, metrics, logs.\nIts something new introduced in Android 13.\nAt this time this app is not available for users.\nAnd looks very useless.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

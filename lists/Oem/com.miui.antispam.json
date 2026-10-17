@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.antispam",
+  "description": "MIUI Antispam\nspam phone numbers filter (blacklist).\nSuspicious analytics inside and has access to internet. Cloud backup possible.\nAt quick glance it is not a private antispam app.\nCan someone check what data are collected/transfered?",
+  "list": "Oem",
+  "removal": "Recommended"
+}

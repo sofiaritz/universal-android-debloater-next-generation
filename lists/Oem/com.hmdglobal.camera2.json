@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hmdglobal.camera2",
+  "description": "Nokia camera (https://play.google.com/store/apps/details?id=com.hmdglobal.camera2)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

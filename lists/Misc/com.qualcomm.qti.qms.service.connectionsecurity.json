@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.qms.service.connectionsecurity",
+  "description": "Telemetry service\nqms = quality management service\nBackground-Connection to tls.telemetry.swe.quicinc.com (Host/Domain belongs to Qualcomm)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

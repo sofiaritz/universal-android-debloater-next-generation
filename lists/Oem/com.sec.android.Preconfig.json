@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.Preconfig",
+  "description": "On some phones founded testing things menu and on some not found any hidden menu\nbut it's app for secret codes to testing hardware things",
+  "list": "Oem",
+  "removal": "Recommended"
+}

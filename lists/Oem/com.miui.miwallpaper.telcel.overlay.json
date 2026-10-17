@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.miwallpaper.telcel.overlay",
+  "description": "Useless app to telcel wallpaper? Probably unused. Safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

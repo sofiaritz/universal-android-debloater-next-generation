@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.securityhub",
+  "description": "Moto Secure\nUnnecessary tools to keep device secure.\nhttps://play.google.com/store/apps/details?id=com.motorola.securityhub",
+  "list": "Oem",
+  "removal": "Recommended"
+}

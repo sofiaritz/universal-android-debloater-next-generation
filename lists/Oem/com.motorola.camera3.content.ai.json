@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.camera3.content.ai",
+  "description": "This package is related to Motorola's camera application, specifically focusing on AI (artificial intelligence) features.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

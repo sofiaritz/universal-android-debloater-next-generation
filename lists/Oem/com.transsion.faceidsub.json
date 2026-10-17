@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.transsion.faceidsub",
+  "description": "Face Unlock\nSafe to remove if unused.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

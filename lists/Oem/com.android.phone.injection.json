@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.phone.injection",
+  "description": "Possibly safe, or useless as removal doesn't seem to change anything.\nIt's a very small APK, it's a single class which only assigns a constant numeric value to a variable called 'telephony_injection'",
+  "list": "Oem",
+  "removal": "Advanced"
+}

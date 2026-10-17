@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mediatek.batterywarning",
+  "description": "Issues warning when the battery is low or when the battery temperature is high.",
+  "list": "Misc",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.hmt.vrsvc",
+  "description": "Gear VR Service\nSee above.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

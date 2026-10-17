@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.filterinstaller",
+  "description": "Filter installer\nI have no clue about the usefulness of this package. Maybe it filters apps that are not compatible with the phone.\nThis package is only triggered when you install an app (private class PackageIntentReceiver)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

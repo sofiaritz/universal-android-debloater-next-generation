@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.easysettings",
+  "description": "Settings app if you're using the Easy Mode feature on Samsung devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

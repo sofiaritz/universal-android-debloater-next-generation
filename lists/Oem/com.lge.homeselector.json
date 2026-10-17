@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.homeselector",
+  "description": "LG Home selector\nThis is the settings menu for the home launcher (present in the settings app as\"Home launcher\")\nIf you remove this app, the Home screen settings menu is gone from settings app. (not needed if you use external launcher)\n    You can still switch between installed launchers, the package name is a bit misleading.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

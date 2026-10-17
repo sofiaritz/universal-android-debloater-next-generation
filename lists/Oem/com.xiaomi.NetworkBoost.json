@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.NetworkBoost",
+  "description": "Network Boost\nNetwork acceleration not available in settings wifi?\nPeople said it's placebo and it doesn't speed up the network.\nIt has a lot of Chinese code and has permission to MIUI analytics.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.providers.carrier",
+  "description": "App for install update to get latest features for your SIM card.\nIt is hard to say how useful this app is.",
+  "list": "Oem",
+  "removal": "Expert"
+}

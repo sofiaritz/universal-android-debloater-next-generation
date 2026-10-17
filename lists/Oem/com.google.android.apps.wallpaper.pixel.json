@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.wallpaper.pixel",
+  "description": "Wallpaper app for Google Pixel devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.timer",
+  "description": "Timer app from Samsung.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.settings.bixby",
+  "description": "Bixby settings (Bixby = Samsung intelligence assistant)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

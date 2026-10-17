@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.providers.media",
+  "description": "Likely same as com.android.providers.media; scans the device for media files and allows permitted apps access to them.",
+  "list": "Oem",
+  "removal": "Expert"
+}

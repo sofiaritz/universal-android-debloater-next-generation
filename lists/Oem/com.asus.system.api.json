@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.system.api",
+  "description": "AsusBoost\nIt's probably an important app. It has booster services and memory cleaner service.",
+  "list": "Oem",
+  "removal": "Expert"
+}

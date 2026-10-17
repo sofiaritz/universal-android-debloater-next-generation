@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.bd",
+  "description": "HwUE (Huawei UserExperience)\nWhen a company call a something 'UserExperience' you know you don't need this.\nAnalytics service, run at boot. Collect information about packages/apps usages.\nHas a nice custom permission called com.huawei.permission.BIG_DATA",
+  "list": "Oem",
+  "removal": "Recommended"
+}

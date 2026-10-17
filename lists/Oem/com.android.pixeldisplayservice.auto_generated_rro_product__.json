@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.pixeldisplayservice.auto_generated_rro_product__",
+  "description": "Auto-generated display service configurations for Pixel devices.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.nfc.felicalocktest",
+  "description": "Testing FeliCa carrier remote lock. Common to Softbank, au, and docomo.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

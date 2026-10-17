@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.gnsstest",
+  "description": "GNSS Test\nWoh ! Why does LG need so many GNSS test packages?!",
+  "list": "Oem",
+  "removal": "Recommended"
+}

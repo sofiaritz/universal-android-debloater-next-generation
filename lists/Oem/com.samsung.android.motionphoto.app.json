@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.motionphoto.app",
+  "description": "Motion Photo. Enables capture/view of motion photos (short video with still photo) in Samsung Camera/Gallery.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

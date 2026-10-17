@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.net.data.monitor",
+  "description": "Needed for Network control",
+  "list": "Oem",
+  "removal": "Recommended"
+}

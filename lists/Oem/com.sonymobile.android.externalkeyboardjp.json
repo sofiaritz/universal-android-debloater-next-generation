@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.android.externalkeyboardjp",
+  "description": "Japanese layout for Sony keyboard.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

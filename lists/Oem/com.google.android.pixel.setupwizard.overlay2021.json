@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.pixel.setupwizard.overlay2021",
+  "description": "Useless first-boot setup configs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.common",
+  "description": "Has something related to Google Wellbeing first time setup quick settings. Safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

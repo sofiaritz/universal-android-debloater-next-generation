@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.agui.newsos",
+  "description": "SOS\nNotify emergency contacts. When triggered, will also put the phone in a low comsumption mode",
+  "list": "Oem",
+  "removal": "Recommended"
+}

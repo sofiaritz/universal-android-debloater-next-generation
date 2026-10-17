@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.trackid.res.overlay",
+  "description": "Some overlay for TrackID. Overlays are usually themes.\nTrackID was(now discontinued) a music and audio search engine (like Shazam).",
+  "list": "Oem",
+  "removal": "Expert"
+}

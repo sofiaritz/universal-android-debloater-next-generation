@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.magicsmoke",
+  "description": "\"Magic smoke\" Live wallpaper.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

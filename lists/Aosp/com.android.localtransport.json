@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.localtransport",
+  "description": "Backup transport for stashing stuff into a known location on disk, and later restoring from there.\nNeeded for storing backup data locally on a device?\nThis package also provides the backup confirmation UI.\nhttps://developer.android.com/guide/topics/data/testingbackup",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.msdp",
+  "description": "Multimodal Sensor Data Platform\nHas Device Status, Movement, Spatial Aware.\nUses location, airlink permissions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

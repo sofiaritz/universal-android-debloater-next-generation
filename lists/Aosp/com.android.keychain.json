@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.keychain",
+  "description": "Enables apps to use system wide credential KeyChain (shared credentials between apps)\nhttps://security.stackexchange.com/questions/216716/android-keychain-what-is-a-system-wide-credential",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.deskclock.preset",
+  "description": "Clock\nStock Clock app for manage alarms.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

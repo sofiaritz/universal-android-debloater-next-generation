@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.rftoolkit",
+  "description": "Monitors the broadcast action events (BOOT_COMPLETED)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

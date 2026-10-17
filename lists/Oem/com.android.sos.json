@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sos",
+  "description": "Emergency SOS app for quick access to emergency services and contacts.",
+  "list": "Oem",
+  "removal": "Expert"
+}

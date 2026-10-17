@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.networkui",
+  "description": "User interface of the Mobile Network settings",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

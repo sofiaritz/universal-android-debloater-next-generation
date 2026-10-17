@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.A21.d01.wallpapermulti",
+  "description": "Dynamic lock screen wallpaper feature for the Samsung Galaxy A21. Why is this device specific? I have no idea!",
+  "list": "Oem",
+  "removal": "Advanced"
+}

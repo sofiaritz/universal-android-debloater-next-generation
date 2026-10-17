@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.SetupWizard",
+  "description": "The first-boot device setup wizard for new/factory reset devices.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.dqagent",
+  "description": "Samsung Device Quality Agent\nLogging agent for diagnostic device information.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

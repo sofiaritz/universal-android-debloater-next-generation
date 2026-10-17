@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.cosmos",
+  "description": "Fingerprint Animation Cosmos when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

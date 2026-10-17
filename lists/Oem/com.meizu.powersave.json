@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.powersave",
+  "description": "Power Saving Mode.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.tapack.authfw",
+  "description": "AuthFw TaPack\nAuthentication Framework for Trusted Application? (don't know what 'Pack' could mean)\nHard to know what this app really does. Seems to be an assets provider used by com.samsung.android.tadownloader",
+  "list": "Oem",
+  "removal": "Advanced"
+}

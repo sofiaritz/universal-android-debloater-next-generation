@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.settings.overlay.power.bottom",
+  "description": "This package is part of Motorola\u2019s custom settings overlay, specifically related to power management settings.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

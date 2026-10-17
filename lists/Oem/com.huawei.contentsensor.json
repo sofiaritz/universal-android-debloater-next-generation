@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.contentsensor",
+  "description": "ContentSensor\nLooks like this app has a lot chinese code and collects a lot stuff about user like apps installed, app info, connects to huawei hivoice sites",
+  "list": "Oem",
+  "removal": "Recommended"
+}

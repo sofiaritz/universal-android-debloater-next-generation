@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ztefingerprint.service",
+  "description": "Probably needed for fingerprint.",
+  "list": "Oem",
+  "removal": "Expert"
+}

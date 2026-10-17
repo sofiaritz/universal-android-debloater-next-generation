@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.vsimcore",
+  "description": "Virtual Sim core service",
+  "list": "Oem",
+  "removal": "Recommended"
+}

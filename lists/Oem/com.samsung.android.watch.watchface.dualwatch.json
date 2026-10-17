@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.watch.watchface.dualwatch",
+  "description": "Preinstalled watchface.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

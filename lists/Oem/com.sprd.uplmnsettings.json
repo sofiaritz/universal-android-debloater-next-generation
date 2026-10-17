@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.uplmnsettings",
+  "description": "Set UPLMN? Useless frameworks.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

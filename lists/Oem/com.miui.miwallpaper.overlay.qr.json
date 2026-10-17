@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.miwallpaper.overlay.qr",
+  "description": "Useless app to default lock wallpaper path? Probably unused. Safe to remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

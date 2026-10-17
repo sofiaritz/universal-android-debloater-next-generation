@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sprd.quickcamera",
+  "description": "camera agent\nAnother app for testing camera things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

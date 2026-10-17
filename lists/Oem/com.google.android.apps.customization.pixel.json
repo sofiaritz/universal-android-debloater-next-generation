@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.customization.pixel",
+  "description": "Basic 4 colors",
+  "list": "Oem",
+  "removal": "Expert"
+}

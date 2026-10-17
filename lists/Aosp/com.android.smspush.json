@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.smspush",
+  "description": "This service is used to push/send specially formatted SMS messages that display an alert message to the user, and give them the option of connecting directly to a particular app.\nFor instance, an SMS notifying the user of a new e-mail, with a URL link to connect directly to the e-mail app.\nhttps://web.archive.org/web/20200915164901/https://www.nowsms.com/doc/submitting-sms-messages/sending-wap-push-messages",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

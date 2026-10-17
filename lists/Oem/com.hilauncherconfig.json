@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hilauncherconfig",
+  "description": "Configures app icons and folders on first run HiOS Launcher.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

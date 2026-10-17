@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.secime",
+  "description": "Huawei Secure IME\nSecure keyboard.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

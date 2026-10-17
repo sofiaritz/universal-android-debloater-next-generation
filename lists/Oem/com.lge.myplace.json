@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.myplace",
+  "description": "My Place\nAnalyses the place you stay the most and recognises it as My Place (or your home) automatically.\nhttps://www.lg.com/uk/support/product-help/CT00008356-1433767701724-setting",
+  "list": "Oem",
+  "removal": "Recommended"
+}

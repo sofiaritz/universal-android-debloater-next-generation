@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.systemui.overlay.devices.android",
+  "description": "Config doze Component 'com.miui.aod' and ext media ready notification 'Tap to safely remove device'.",
+  "list": "Oem",
+  "removal": "Expert"
+}

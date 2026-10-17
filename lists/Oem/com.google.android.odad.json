@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.odad",
+  "description": "Google Play Protect Service\nGoogle Play Protect Service?\nit have only third party notices activity\nand useless frameworks",
+  "list": "Oem",
+  "removal": "Recommended"
+}

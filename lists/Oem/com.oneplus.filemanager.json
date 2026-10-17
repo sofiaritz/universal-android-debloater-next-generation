@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.filemanager",
+  "description": "File manager\nStock OnePlus file manager app.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

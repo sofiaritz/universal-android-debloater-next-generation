@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.defaultappconfigure.overlay.base.s600ww",
+  "description": "A theme overlay for selecting default apps or something?",
+  "list": "Oem",
+  "removal": "Expert"
+}

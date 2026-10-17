@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.aircommandmanager",
+  "description": "AirCommandManager (FACM)\nGives you access to signature S Pen features. You can access Air-command anytime you are using your phone by simply taking out the S Pen.\nhttps://www.samsung.com/global/galaxy/what-is/air-command/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

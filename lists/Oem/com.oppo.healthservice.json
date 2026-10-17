@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oppo.healthservice",
+  "description": "Some health function, needed for the correct work of fitness trackers and pedometers from realme. When deleted, it does not seem to affect the operation of the phone.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.chromium.webview_shell",
+  "description": "Simple Browser for WebView tester used in AOSP.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

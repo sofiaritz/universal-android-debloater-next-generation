@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.systemui.carriers.overlay",
+  "description": "You will lose LTE.\nImportant overlay to LTE connection.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

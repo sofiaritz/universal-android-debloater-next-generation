@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.val.hardware",
+  "description": "FactoryApp\nOEM hardware diagnostic tool for manufacturing/service testing (camera, Bluetooth, WiFi, FM radio, telephony, battery, flashlight). Requires broad system permissions (reboot, audio/phone mods, secure settings).\nNot for end-users; safe to remove to reduce bloat.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

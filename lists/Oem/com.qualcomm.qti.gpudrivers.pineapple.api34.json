@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.qualcomm.qti.gpudrivers.pineapple.api34",
+  "description": "Qualcomm GPU Drivers",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

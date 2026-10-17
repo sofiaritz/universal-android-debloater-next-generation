@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.contacts",
+  "description": "AOSP Contacts\nSome OEMs(for example Xiaomi) use the same package name for their app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

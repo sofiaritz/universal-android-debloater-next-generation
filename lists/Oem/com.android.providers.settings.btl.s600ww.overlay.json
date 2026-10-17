@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.settings.btl.s600ww.overlay",
+  "description": "Some overlay for a content provider package. Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

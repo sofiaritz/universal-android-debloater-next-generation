@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.calculator2",
+  "description": "AOSP calculator app\nNOTE: Some OEMs (like Huawei & Xiaomi) use the same package name for their app.",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

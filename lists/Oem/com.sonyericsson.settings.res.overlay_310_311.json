@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.settings.res.overlay_310_311",
+  "description": "System settings overlay, do not remove. Find out more by running: adb shell cmd overlay list, to see other packages",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

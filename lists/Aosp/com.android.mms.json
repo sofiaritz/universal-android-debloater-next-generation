@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.mms",
+  "description": "AOSP SMS app.\nOccasionally runs in the background.\nSome OEMs (like Huawei, Xiaomi, Vivo, Oppo) use the same package name for their app.\nQKSMS is a good FOSS replacement: https://f-droid.org/en/packages/com.moez.QKSMS/",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

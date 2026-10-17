@@ -1,0 +1,6 @@
+{
+  "pkg_name": "org.lineageos.etar",
+  "description": "LineageOS Calendar App.\nSafe to remove if you've replaced it with another app.\nOtherwise there will be no calendar app on your device.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

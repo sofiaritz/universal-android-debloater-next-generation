@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.comms",
+  "description": "Useless configurations dialer, sms, contacts Google(GApps)\nIt may break PackageInstaller.",
+  "list": "Google",
+  "removal": "Expert"
+}

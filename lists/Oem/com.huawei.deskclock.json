@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.deskclock",
+  "description": "Huawei Clock App.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

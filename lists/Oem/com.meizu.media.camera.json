@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.meizu.media.camera",
+  "description": "Camera\nStock Camera app meizu.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

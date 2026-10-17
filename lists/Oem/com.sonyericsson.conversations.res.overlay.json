@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.conversations.res.overlay",
+  "description": "Used to display a overlay notification (= on top of others app) when you receive a SMS with Sony SMS app ?",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.telephony.auto_generated_rro_product__",
+  "description": "Configs to providers telephony auto generated but better keep.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

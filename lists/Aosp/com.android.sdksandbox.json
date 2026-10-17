@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.sdksandbox",
+  "description": "Introduced in Android 13 privacy sandbox beta disabled on default.\nCauses bootloop. Maybe this component is not only for privacy... (I think it's for testing privacy sandbox using Android Studio.)\nhttps://source.android.com/docs/core/ota/modular-system/adservices\nCause BOOTLOOP.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

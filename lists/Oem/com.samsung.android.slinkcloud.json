@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.slinkcloud",
+  "description": "Samsung Cloud Gateway\nNEEDED FOR Scloud app\nA cloud storage gateway is designed to provide interoperability between different data protocols used\nin a client (Scloud app)/server cloud architecture.\nMORE INFO : https://searchstorage.techtarget.com/definition/cloud-storage-gateway\n#\nNeeds a lot of permission (including the dangerous one : READ_PHONE_STATE)\nIt means the app has the ability to read the device ID (e.g. IMEI or ESN) and phone number.\nhttps://developer.android.com/reference/android/Manifest.permission#READ_PHONE_STATE\n#\nHardcoded Alibaba (chinese) server IP (42.120.153.17)\nhttps://www.hybrid-analysis.com/sample/2ef5367f700d2644fc51d2cdd8dd0ce97e9a6594cb5b89052537037c5a7aac56?environmentId=200\nhttps://web.archive.org/web/20200604093347/https://www.hybrid-analysis.com/sample/2ef5367f700d2644fc51d2cdd8dd0ce97e9a6594cb5b89052537037c5a7aac56?environmentId=200",
+  "list": "Oem",
+  "removal": "Recommended"
+}

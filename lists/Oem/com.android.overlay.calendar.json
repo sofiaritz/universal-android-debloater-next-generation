@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.overlay.calendar",
+  "description": "Overlay to 'com.android.calendar' logo calendar icons.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

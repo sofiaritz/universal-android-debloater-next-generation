@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.android.externalkeyboard",
+  "description": "International keyboard layouts\nUseless if you use a latin keyboard",
+  "list": "Oem",
+  "removal": "Advanced"
+}

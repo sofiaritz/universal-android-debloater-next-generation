@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.telephony",
+  "description": "Core telephony system app for managing calls and messaging.",
+  "list": "Oem",
+  "removal": "Expert"
+}

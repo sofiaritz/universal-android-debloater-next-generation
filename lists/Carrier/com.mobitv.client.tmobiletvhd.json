@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mobitv.client.tmobiletvhd",
+  "description": "T-Mobile TV (discontinued, replaced by nl.tmobiletv.vinson) provided by mobitv (https://en.wikipedia.org/wiki/MobiTV)\nhttps://play.google.com/store/apps/details?id=nl.tmobiletv.vinson&hl=en",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

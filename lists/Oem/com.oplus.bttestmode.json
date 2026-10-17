@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.bttestmode",
+  "description": "BTtestmode\nBluetooth SAR Signaling, Scene Test",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.scan3d",
+  "description": "Sony 3D Creator (https://play.google.com/store/apps/details?id=com.sonymobile.scan3d)\nLets you capture your stuff in 3D, from your smartphone, and turn people and objects into high-resolution 3D avatars.\nhttps://www.sonymobile.com/global-en/apps-services/3d-creator/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

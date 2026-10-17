@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xy.smartmmsplugin.remote",
+  "description": "SmartMmsPlugin\nConnects to Chinese maps.\nLoads Flight, Train, Movie information.\nIt's only for China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

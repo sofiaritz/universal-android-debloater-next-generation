@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.redbend.vdmc",
+  "description": "Required for OTA on older LG and HTC devices. While neither of these companies make phones anymore, uninstalling this package results in \"vDM Client has stopped unexpectly\" and \"com.process.android.acore has stopped\", so best to leave this installed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

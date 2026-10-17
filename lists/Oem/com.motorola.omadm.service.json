@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.omadm.service",
+  "description": "Appears safe to remove.\nCarrier Provisioning Service\nProvisioning involves the process of preparing and equipping a network to allow it to provide new services to its users.\nOMADM  = OMA Device Management\nBasically, it handles configuration of the device (including first time use), enabling and disabling features provided by carriers.\nhttps://en.wikipedia.org/wiki/OMA_Device_Management\nUse case seems very limited : https://www.androidpolice.com/2015/03/10/android-5-1-includes-new-carrier-provisioning-api-allows-carriers-easier-methods-of-setting-up-services-on-devices-they-dont-control/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

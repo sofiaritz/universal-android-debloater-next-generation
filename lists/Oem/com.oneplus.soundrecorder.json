@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.soundrecorder",
+  "description": "Recorder\nOnePlus sound recording app. Requires turning on\"Allow modifying system settings\" to use for some reason? Probably tied to recording phone-calls.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

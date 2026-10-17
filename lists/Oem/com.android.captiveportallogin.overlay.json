@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.captiveportallogin.overlay",
+  "description": "it's overlay only to icon color.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

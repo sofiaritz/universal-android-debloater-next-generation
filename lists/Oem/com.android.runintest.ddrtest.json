@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.runintest.ddrtest",
+  "description": "DDR Test\nRAM Stress tester\nCan be run from the bootloader\n(seen in TCL Plex phone)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

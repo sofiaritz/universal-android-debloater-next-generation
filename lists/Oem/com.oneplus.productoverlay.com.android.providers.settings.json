@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.productoverlay.com.android.providers.settings",
+  "description": "Settings Storage Theme pack\nGuessing it's a pack of themes for Settings Storage, based on the name.",
+  "list": "Oem",
+  "removal": "Expert"
+}

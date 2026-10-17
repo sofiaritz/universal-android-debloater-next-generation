@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.security.black.overlay",
+  "description": "Dark theme overlay for com.oneplus.security?",
+  "list": "Oem",
+  "removal": "Expert"
+}

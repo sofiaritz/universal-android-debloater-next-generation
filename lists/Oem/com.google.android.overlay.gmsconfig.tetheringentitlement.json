@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.overlay.gmsconfig.tetheringentitlement",
+  "description": "Useless overlay gmsconfig to tetheringentitlement. No effects after remove",
+  "list": "Oem",
+  "removal": "Recommended"
+}

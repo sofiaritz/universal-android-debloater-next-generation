@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.felicanetworks.mfc",
+  "description": "Mobile FeliCa Client (https://play.google.com/store/apps/details?id=com.felicanetworks.mfm.main)\nEssential app for using FeliCa.\nUninstalling this may occur errors to install this in apps which uses FeliCa. You can uninstall this if you don't use FeliCa-related services.\nNOTE: Uninstalling this does not remove the data saved in FeliCa.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

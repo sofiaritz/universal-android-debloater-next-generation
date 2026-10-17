@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.flyme.aod",
+  "description": "AlwaysOnDisplay",
+  "list": "Oem",
+  "removal": "Recommended"
+}

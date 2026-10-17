@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android",
+  "description": "Android System\nAndroid system framework? Apk file name: framework-res\nCould be THE core of the android system.\nProbably very unsafe to disable.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

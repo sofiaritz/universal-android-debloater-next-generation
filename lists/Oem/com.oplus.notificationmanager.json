@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.notificationmanager",
+  "description": "Notification management will not work when uninstalled/disabled.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

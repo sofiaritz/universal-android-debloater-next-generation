@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.factorymode",
+  "description": "FactoryMode\nUsed in the factory to test devices.\nType *#808# in the OnePlus dialer to access the hidden menu.\nPotential security risk: https://web.archive.org/web/20211103134620/https://twitter.com/fs0c131y/status/930115188988182531\nIt's possible for an app to enable root access on any device with the APK pre-installed.\nFor now, this only works in ADB, which requires local access to the device.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

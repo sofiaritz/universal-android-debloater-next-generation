@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mig.play.games",
+  "description": "Funmax\nSome kind of third-party game center bundled by Xiaomi.\nHas lots of permissions by default.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.smarthome",
+  "description": "AI Life\nRequire Logging in to your Huawei ID, HMSCore.\nIt's app that lets your control and manage routers and audio accessories.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

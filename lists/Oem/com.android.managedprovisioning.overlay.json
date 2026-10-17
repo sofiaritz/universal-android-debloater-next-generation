@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.managedprovisioning.overlay",
+  "description": "Random useless code to com.android.managedprovisioning",
+  "list": "Oem",
+  "removal": "Recommended"
+}

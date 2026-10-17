@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.screenshot",
+  "description": "MIUI Screenshot\nScreenshots will not work.",
+  "list": "Oem",
+  "removal": "Expert"
+}

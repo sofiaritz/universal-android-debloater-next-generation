@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.tvlauncher",
+  "description": "Android TV Home, on some devices, removing this causes the device to restore default settings on the next power on.\nhttps://play.google.com/store/apps/details?id=com.google.android.tvlauncher&hl=en&gl=US\nhttps://www.clrn.org/how-to-disable-google-tv-on-android/",
+  "list": "Google",
+  "removal": "Expert"
+}

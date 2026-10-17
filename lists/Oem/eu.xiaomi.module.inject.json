@@ -1,0 +1,6 @@
+{
+  "pkg_name": "eu.xiaomi.module.inject",
+  "description": "Inject fields\nFields name of device info like which os version or security date.\nNot sure if it's needed.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

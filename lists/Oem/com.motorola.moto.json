@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.moto",
+  "description": "Moto (https://play.google.com/store/apps/details?id=com.motorola.moto)\nApp providing Moto Actions, Moto Display, and other feature families that let you customize the way you interact with your device.\nMoto Actions is another app (https://play.google.com/store/apps/details?id=com.motorola.actions). Gestures set with\"Moto\" prior will continue to work provided\"Moto Actions\" remains installed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

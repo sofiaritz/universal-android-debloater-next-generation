@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.cdfinger.factorytest",
+  "description": "Fingerprint Test App.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

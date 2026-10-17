@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.settings.overlay.filesgoogle",
+  "description": "Useless overlay to Google Files.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

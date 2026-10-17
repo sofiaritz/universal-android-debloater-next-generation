@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.healthwidget",
+  "description": "Health kit\nit's only widgets.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

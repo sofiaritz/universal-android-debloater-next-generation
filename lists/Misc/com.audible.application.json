@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.audible.application",
+  "description": "Cover Audible Audiobooks (https://play.google.com/store/apps/details?id=com.audible.application)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

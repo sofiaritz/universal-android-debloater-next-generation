@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.miui.spock",
+  "description": "Analytics app which constantly runs in the background.\nSends identifiable data to Xiaomi servers.\nSee https://www.virustotal.com/gui/file/70400d0055e1924966fb8367cafddc175dee914bbdc227342c9dd86fb3aa829f/details\nIt leaks system version, device model, exact firmware build + some few mysterious IDs",
+  "list": "Oem",
+  "removal": "Recommended"
+}

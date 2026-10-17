@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.keyguard.clock.gallery",
+  "description": "The clock style available in the lock screen and the theme manager.",
+  "list": "Oem",
+  "removal": "Expert"
+}

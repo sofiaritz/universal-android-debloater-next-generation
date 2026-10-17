@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.camera.a_overlay",
+  "description": "Useless overlay. It has only an icon and no code.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

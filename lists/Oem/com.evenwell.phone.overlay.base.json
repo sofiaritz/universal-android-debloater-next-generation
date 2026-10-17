@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.evenwell.phone.overlay.base",
+  "description": "Some overlay for the dialer app? Overlays are usually themes.",
+  "list": "Oem",
+  "removal": "Expert"
+}

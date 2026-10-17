@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.pagebuddynotisvc",
+  "description": "PageBuddyNotiSvc\nI only found it's for notifications to car, earphones, pen. Not needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

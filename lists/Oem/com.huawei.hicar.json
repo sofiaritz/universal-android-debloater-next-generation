@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hicar",
+  "description": "Huawei HiCar\nTo connect to Huawei HiCar, press and hold the wireless button on the steering wheel or control panel.\nMore useful in China.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

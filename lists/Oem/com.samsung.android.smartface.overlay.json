@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.smartface.overlay",
+  "description": "Not needed overlay to smartface",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.owkservice",
+  "description": "Weird app that has time sync and start/stop Monitor Wifi Connectivity, also has oplus statistics component to tracking events.",
+  "list": "Oem",
+  "removal": "Expert"
+}

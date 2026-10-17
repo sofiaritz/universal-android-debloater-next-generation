@@ -1,0 +1,6 @@
+{
+  "pkg_name": "asusims.overlay.aosp.documentsui",
+  "description": "Not needed overlay for hide documentsui icon. No effects after remove.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

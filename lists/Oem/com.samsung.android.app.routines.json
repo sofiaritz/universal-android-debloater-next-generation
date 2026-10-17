@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.routines",
+  "description": "Samsung Modes and Routines (previously aka Bixby Routines) (https://www.samsung.com/global/galaxy/what-is/bixby-routines/)\nAutomating actions triggered by context clues: location, time, or event",
+  "list": "Oem",
+  "removal": "Expert"
+}

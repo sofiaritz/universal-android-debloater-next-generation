@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.vivo.faceunlock",
+  "description": "Facial recognition\nIt's used for face unlock.",
+  "list": "Oem",
+  "removal": "Expert"
+}

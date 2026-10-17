@@ -1,0 +1,6 @@
+{
+  "pkg_name": "android.autoinstalls.config.Xiaomi.land",
+  "description": "land is the device codename.\nAutoInstalls a set of OEM apps on device setup (first boot/factory reset).",
+  "list": "Oem",
+  "removal": "Recommended"
+}

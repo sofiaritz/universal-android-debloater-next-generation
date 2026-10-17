@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.wifi.resources.overlay.pineapple",
+  "description": "An overlay for com.android.wifi.resources for devices using the \u201cpineapple\u201d Wi\u2011Fi HAL (Google\u2019s internal codename for a Wi\u2011Fi module configuration). Not safe to remove, especially on Android 13+.",
+  "list": "Misc",
+  "removal": "Unsafe"
+}

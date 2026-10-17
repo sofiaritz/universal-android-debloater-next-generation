@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.app.simplesharing",
+  "description": "Samsung Link Sharing\nLets you share large size files by using the Samsung Cloud.\nhttps://www.samsung.com/au/support/mobile-devices/what-is-link-sharing/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

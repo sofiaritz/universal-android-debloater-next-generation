@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.avastofferwall",
+  "description": "Avast Offerwall\nAvast anti-virus things.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

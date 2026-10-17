@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tcl.android.launchertheme.res",
+  "description": "Launcher theme resources\nIt's needed for themes, probably not sure if it's an important app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

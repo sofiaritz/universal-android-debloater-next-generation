@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.att.csoiam.mobilekey",
+  "description": "AT&T Sign in Helper (https://play.google.com/store/apps/details?id=com.att.csoiam.mobilekey)\nAllows AT&T applications to securely authenticate on Android devices",
+  "list": "Carrier",
+  "removal": "Recommended"
+}

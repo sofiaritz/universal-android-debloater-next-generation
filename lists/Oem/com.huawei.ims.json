@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.ims",
+  "description": "HwImsService\nVoLTE(Voice over LTE) calls. IP multimedia subsystem.\nhttps://en.wikipedia.org/wiki/Voice_over_LTE\nUninstalling app breaks sim calling even if you disable.\nIt does not cause bootloop but removing is highly not recommended.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

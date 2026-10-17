@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.fileexplorer",
+  "description": "Xiaomi/Mi File Explorer (Again it's a really poor choice for a package name considering it is not the AOSP File explorer)\nIt's a Closed-source app based on the AOSP version.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

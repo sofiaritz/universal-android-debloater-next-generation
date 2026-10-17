@@ -1,0 +1,31 @@
+name: Update uad_lists.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "lists/**/*.json"
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.15"
+
+      - name: Re-generate uad_lists.json
+        run: python3 scripts/build_uad_lists.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: re-generate uad_lists.json"
+          file_pattern: "resources/assets/uad_lists.json"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"

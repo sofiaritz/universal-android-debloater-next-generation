@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.ar.lens",
+  "description": "Google Lens (for AR too) (https://play.google.com/store/apps/details?id=com.google.ar.lens)",
+  "list": "Google",
+  "removal": "Recommended"
+}

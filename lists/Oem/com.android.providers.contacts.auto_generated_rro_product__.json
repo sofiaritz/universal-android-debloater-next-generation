@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.contacts.auto_generated_rro_product__",
+  "description": "Incorrect named thing to sync metadata gms?\nmetadata_sync_pacakge com.google.android.gms\nNo effects after remove.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

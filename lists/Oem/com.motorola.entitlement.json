@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.entitlement",
+  "description": "Enable WiFi tethering/hotspot functionality.\nWhat you can do is preventing the phone from notifying the carrier about when you use hotspot. It will bypass mobile carriers tethering restrictions.\nFrom an ADB shell : settings put global tether_dun_required 0",
+  "list": "Oem",
+  "removal": "Expert"
+}

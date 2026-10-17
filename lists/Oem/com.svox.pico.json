@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.svox.pico",
+  "description": "Pico TTS\nOpen source TTS engine shipped on old Android devices and some custom ROMs\nUninstalling this without installing a TTS engine will break TTS, it also doesn't access the internet so there's not much to gain",
+  "list": "Oem",
+  "removal": "Advanced"
+}

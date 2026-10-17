@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.providers.contacts.overlay.pixel",
+  "description": "in overlay found: metadata_sync_pacakge: com.google.android.gms. Not needed.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

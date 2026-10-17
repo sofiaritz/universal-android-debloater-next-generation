@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.factory.mmigroup",
+  "description": "Hidden super-menu accessible by dialing *#*#64633#*#*\nThis menu lists all the others hidden test/debug apps.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.servicemodeapp",
+  "description": "SysDump hidden app\nLow-level debugging and diagnostics tools (dial *#9900# to open it)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

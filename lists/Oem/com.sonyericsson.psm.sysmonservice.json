@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.psm.sysmonservice",
+  "description": "Power management, Stamina mode. Best left enabled",
+  "list": "Oem",
+  "removal": "Expert"
+}

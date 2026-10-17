@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.example.test",
+  "description": "Bigme HiBreak Pro calendar optimized for e-ink displays.\nCheck that you have this phone before disabling! The package name is generic.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

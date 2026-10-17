@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.upsmtheme",
+  "description": "Handle the theme of UPSM (Ultra Power Saving Mode)\nSafe to remove",
+  "list": "Oem",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.providers.trash",
+  "description": "SecTrashProvider\nTrash feature for Galaxy phones since One UI 6.0\nAllows users to delete and restore files from My Files, Gallery, Voice Recordings, etc. directly from the Trash folder in My Files.\nBreaks apps that delete to Trash.",
+  "list": "Oem",
+  "removal": "Expert"
+}

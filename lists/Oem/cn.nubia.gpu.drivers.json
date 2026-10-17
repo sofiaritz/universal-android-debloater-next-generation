@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.gpu.drivers",
+  "description": "It has GPU settings so better keep that.",
+  "list": "Oem",
+  "removal": "Expert"
+}

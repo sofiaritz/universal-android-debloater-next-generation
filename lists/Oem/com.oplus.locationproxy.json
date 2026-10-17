@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.locationproxy",
+  "description": "Carrier Location Services\nExtra location telemetry, not related to any GPS functions.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

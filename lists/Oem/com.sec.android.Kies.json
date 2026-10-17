@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.Kies",
+  "description": "Required for connecting your device to Samsung Kies, Samsung's long discontinued iTunes competitor. Everything that can be done with Kies can be done with ADB or Heimdall, so there isn't really a point to keeping this.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

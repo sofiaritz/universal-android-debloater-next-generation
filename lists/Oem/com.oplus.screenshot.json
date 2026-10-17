@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oplus.screenshot",
+  "description": "Screenshot\nNeeded for screenshots. Very useful app.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.hotspotprovision",
+  "description": "Needed for hotspot 3G?",
+  "list": "Oem",
+  "removal": "Expert"
+}

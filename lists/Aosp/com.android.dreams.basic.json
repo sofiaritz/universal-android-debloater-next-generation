@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.dreams.basic",
+  "description": "Daydream (not Google Daydream VR) is an interactive screensaver mode built into Android.\nWith it turned on, it activates and shows the screensaver of your choice when you dock or charge your device.\nCan display the time, weather, quotes, photos, news, tweets, or anything else Daydream app developers can think of.\nhttps://developer.android.com/reference/android/service/dreams/DreamService",
+  "list": "Aosp",
+  "removal": "Advanced"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.connectivity.resources",
+  "description": "Network connectivity resources.\nCause BOOTLOOP.",
+  "list": "Aosp",
+  "removal": "Unsafe"
+}

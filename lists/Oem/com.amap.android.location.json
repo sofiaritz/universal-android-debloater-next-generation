@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.amap.android.location",
+  "description": "Chinese location. Not needed for location.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

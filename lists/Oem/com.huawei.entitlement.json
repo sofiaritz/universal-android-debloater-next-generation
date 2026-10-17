@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.entitlement",
+  "description": "Needed for messages Bluetooth, wifi, hotspot, Terms of Agreement, Authentication?\nOn some phone's it has some features, and on some not.",
+  "list": "Oem",
+  "removal": "Expert"
+}

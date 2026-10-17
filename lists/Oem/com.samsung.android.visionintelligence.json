@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.visionintelligence",
+  "description": "Bixby Vision\nAugmented reality camera that can identify objects in real-time and potentially offer the user\nto purchase them online, translate text, read QR codes, and recognize landmarks.\nhttps://www.samsung.com/global/galaxy/apps/bixby/vision/",
+  "list": "Oem",
+  "removal": "Recommended"
+}

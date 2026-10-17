@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.microsoft.translator",
+  "description": "Microsoft Translator app (https://play.google.com/store/apps/details?id=com.microsoft.translator)\n)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

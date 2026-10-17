@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.hwid",
+  "description": "Huawei Mobile Services\nHuawei\u2019s alternative to Google Play Services. Needed to access advanced Huawei features.\nA Huawei ID is required to access services, like Themes, Mobile Cloud, HiCare, Huawei Wear, Huawei Health. This may break an app like InPost Mobile, see:\nhttps://github.com/0x192/universal-android-debloater/issues/477\nSee more about Huawei Mobile Services: https://www.xda-developers.com/huawei-hms-core-android-alternative-google-play-services-gms/",
+  "list": "Oem",
+  "removal": "Advanced"
+}

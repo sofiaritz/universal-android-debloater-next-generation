@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.zui.android.overlay.product",
+  "description": "Config to refresh rate 120? Better don't risk.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

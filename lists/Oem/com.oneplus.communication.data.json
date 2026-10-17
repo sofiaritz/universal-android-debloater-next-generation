@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.communication.data",
+  "description": "Oneplus call recorder service. Feature accessible from the stock dialer app",
+  "list": "Oem",
+  "removal": "Advanced"
+}

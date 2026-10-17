@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.SystemUIResOverlay",
+  "description": "Threekey volume guide pictures.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.internal.overlay.config.default_contextual_search",
+  "description": "The code only assigns (com.google.android.googlequicksearchbox) as the default contextual search package via (config_defaultContextualSearchPackageName).\nI suppose that if (com.google.android.googlequicksearchbox) is removed, this feature stops working.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

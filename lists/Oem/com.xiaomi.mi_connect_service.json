@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.xiaomi.mi_connect_service",
+  "description": "MiConnectService\nHandles connection to IoT stuff\nSeems to be linked to Mi Home (com.xiaomi.smarthome)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

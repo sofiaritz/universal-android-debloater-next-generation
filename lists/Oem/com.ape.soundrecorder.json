@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.ape.soundrecorder",
+  "description": "Sound recorder app for Wiko mobile",
+  "list": "Oem",
+  "removal": "Advanced"
+}

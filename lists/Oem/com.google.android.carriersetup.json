@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.carriersetup",
+  "description": "it's only needed on first-boot setup",
+  "list": "Oem",
+  "removal": "Recommended"
+}

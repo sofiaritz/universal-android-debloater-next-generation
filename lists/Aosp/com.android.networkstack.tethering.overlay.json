@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.networkstack.tethering.overlay",
+  "description": "Component of the Network, Tethering module.\nPackage is not a publicly documented.",
+  "list": "Aosp",
+  "removal": "Expert"
+}

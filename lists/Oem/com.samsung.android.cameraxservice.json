@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.cameraxservice",
+  "description": "it's hidden app for testing camera things also it's camera calibration",
+  "list": "Oem",
+  "removal": "Recommended"
+}

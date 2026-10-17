@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.overlay.fingerprint.anim.sw",
+  "description": "Fingerprint Animation Sw when unlocking phone.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

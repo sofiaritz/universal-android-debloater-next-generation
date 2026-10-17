@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.nxtvision_ui.overlay_product",
+  "description": "TCL NXTVISION (code-name `iris`) Settings front-end overlay",
+  "list": "Oem",
+  "removal": "Advanced"
+}

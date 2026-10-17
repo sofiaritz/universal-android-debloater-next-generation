@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.coresettingsext.overlay.dubai",
+  "description": "Needed for support other refresh rate value?",
+  "list": "Oem",
+  "removal": "Expert"
+}

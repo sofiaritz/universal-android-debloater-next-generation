@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.noisefield",
+  "description": "\"Noise filed\" live wallpaper.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

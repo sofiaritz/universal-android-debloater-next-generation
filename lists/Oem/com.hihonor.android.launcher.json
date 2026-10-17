@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.android.launcher",
+  "description": "Honor launcher app.\nIt's basically the home screen, the way icons apps are organized and displayed.\nDON'T REMOVE THIS IF YOU DIDN'T INSTALL ANOTHER LAUNCHER !\nYou will need this package for the recent apps feature to work, and will completely break the gestural navigation bar.",
+  "list": "Oem",
+  "removal": "Expert"
+}

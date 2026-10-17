@@ -1,0 +1,6 @@
+{
+  "pkg_name": "cn.nubia.error.dialog",
+  "description": "It's just a system error dialog. It doesn't send data anywhere.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

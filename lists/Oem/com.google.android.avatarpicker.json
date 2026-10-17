@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.avatarpicker",
+  "description": "Avatar picker for Google account customization.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

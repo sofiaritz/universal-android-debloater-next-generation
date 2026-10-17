@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.timezone.updater",
+  "description": "Time Zone Updater\nUsed to detect or set timezone.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonymobile.getset.priv",
+  "description": "Xperia Actions System\nSame thing as com.sonymobile.getset.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

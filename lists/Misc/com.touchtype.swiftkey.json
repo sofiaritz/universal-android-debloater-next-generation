@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.touchtype.swiftkey",
+  "description": "Swiftkey Keyboard (https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)\nKeyboard app by TouchType, a Microsoft subsidiary (https://en.wikipedia.org/wiki/SwiftKey)\n4 Trackers + 11 Permissions: https://reports.exodus-privacy.eu.org/en/reports/com.touchtype.swiftkey/latest/\nNOTE: default keyboard on some Nokia and Huawei phones. Make sure you have another keyboard app before disabling this.",
+  "list": "Misc",
+  "removal": "Advanced"
+}

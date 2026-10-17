@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.eula",
+  "description": "LG EULA (Terms of Use) accessible in the settings.\nEULA = https://en.wikipedia.org/wiki/End-user_license_agreement\nNeeded by LG HD Audio Recorder or it will force close (maybe used by some other stock app?)",
+  "list": "Oem",
+  "removal": "Advanced"
+}

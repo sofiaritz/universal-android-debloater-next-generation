@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.bluetooth.tempow",
+  "description": "Implementation of a improved bluetooth protocol (developed by french company Tempow)\nhttps://www.tempow.com/tap\nNOTE: This is NOT an AOSP package. It is OEMs who choose to implement this procotol or not.\nFor now, only TCL has this.",
+  "list": "Oem",
+  "removal": "Unsafe"
+}

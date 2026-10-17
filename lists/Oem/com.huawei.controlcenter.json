@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.huawei.controlcenter",
+  "description": "Smart Collaboration\nCollaboration between devices. Needed for Multi-Screen, Wireless Projection?\nNeeded for Super Device or Device+, safe to remove if you don't use this, it will also declutter action center.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

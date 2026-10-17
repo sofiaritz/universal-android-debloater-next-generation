@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.spen.flashannotate",
+  "description": "Take notes on your screen. Unneeded, and can't even be accessed unless you're using a Galaxy Note or S Ultra, despite being preinstalled on all Samsungs.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

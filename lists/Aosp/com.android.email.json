@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.email",
+  "description": "Xiaomi closed-source email app based on the AOSP version. Really confusing package name.",
+  "list": "Aosp",
+  "removal": "Recommended"
+}

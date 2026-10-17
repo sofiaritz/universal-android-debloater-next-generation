@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.hihonor.ouc",
+  "description": "OTA Updates for Honor devices. Probably unsafe to remove.",
+  "list": "Oem",
+  "removal": "Expert"
+}

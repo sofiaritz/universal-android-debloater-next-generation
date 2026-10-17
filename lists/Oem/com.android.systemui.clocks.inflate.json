@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.android.systemui.clocks.inflate",
+  "description": "Customizable clock display for system UI.",
+  "list": "Oem",
+  "removal": "Expert"
+}

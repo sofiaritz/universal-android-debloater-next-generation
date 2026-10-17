@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sony.dtv.sonyselect",
+  "description": "Shows you bunch of popular subscription services and apps and redirects you to the play store. Better to use play store itself",
+  "list": "Oem",
+  "removal": "Recommended"
+}

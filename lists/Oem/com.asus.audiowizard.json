@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.asus.audiowizard",
+  "description": "ASUS AudioWizard\nNeeded for sound effects.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

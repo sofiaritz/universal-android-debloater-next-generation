@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.ims",
+  "description": "IMS(Ip Multimedia Subsystem) is an open industry standard for voice and multimedia communications over packet-based IP networks (VoLTE/VoIP/Wifi calling).\nDon't know how this is different from com.sec.imsservice. Could they interact?\nMay be unsafe to disable. Needs more testing.",
+  "list": "Oem",
+  "removal": "Expert"
+}

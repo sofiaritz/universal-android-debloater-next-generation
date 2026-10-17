@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sec.android.app.ringtoneBR",
+  "description": "Samsung ringtone backup/restore feature\nWhere is this feature? (available from Samsung Galaxy S9)",
+  "list": "Oem",
+  "removal": "Recommended"
+}

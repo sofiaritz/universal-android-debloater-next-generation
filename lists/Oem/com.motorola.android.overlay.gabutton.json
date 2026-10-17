@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.android.overlay.gabutton",
+  "description": "\"Double press on power behavior\" 0\nNot sure if useful, maybe it's another gesture.",
+  "list": "Oem",
+  "removal": "Expert"
+}

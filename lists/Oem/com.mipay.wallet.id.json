@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.mipay.wallet.id",
+  "description": "Mi Pay (https://play.google.com/store/apps/details?id=com.mipay.in.wallet)\nContactless NFC-based mobile payment system that supports credit, debit and public transportation cards in China.\nhttps://www.mi-pay.com/\n#\n.in = Mi Pay for India\n.id = My Pay for Indonesia",
+  "list": "Oem",
+  "removal": "Recommended"
+}

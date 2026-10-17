@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.dualscreenfirmware",
+  "description": "Shows error dialog for dual-screen firmware update.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

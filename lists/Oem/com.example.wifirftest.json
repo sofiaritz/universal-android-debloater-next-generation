@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.example.wifirftest",
+  "description": "Wifi Radio Frequency test\nProbably used in factory. No hidden test menu to use it.",
+  "list": "Oem",
+  "removal": "Recommended"
+}

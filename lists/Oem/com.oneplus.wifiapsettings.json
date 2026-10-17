@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.oneplus.wifiapsettings",
+  "description": "Wi-Fi Access Point Settings?\nRuns on boot.\nNoticed no change after disabling; Wi-Fi and related menus still seem fully functional.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

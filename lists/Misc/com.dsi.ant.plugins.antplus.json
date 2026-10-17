@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.dsi.ant.plugins.antplus",
+  "description": "ANT+ plugin service (https://play.google.com/store/apps/details?id=com.dsi.ant.plugins.antplus)",
+  "list": "Misc",
+  "removal": "Recommended"
+}

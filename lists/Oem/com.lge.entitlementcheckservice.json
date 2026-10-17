@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.entitlementcheckservice",
+  "description": "It's for miracast and wifi hotspot probably.",
+  "list": "Oem",
+  "removal": "Expert"
+}

@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.coloros.wirelesssettings",
+  "description": "Wireless settings\nProbably needed.",
+  "list": "Oem",
+  "removal": "Expert"
+}

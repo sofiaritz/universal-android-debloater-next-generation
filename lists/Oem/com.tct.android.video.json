@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.tct.android.video",
+  "description": "Video Player\nStock Video Player app for TCL phones.",
+  "list": "Oem",
+  "removal": "Advanced"
+}

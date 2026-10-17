@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.google.android.apps.camera.services",
+  "description": "Pixel Camera Services\nExperimental stuff, Camera Calibration. Will break any third-party camera app if removed",
+  "list": "Oem",
+  "removal": "Expert"
+}

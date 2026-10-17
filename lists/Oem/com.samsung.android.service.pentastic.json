@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.samsung.android.service.pentastic",
+  "description": "Glance\nSamsung S-Pen Gestures.\nSafe to remove?",
+  "list": "Oem",
+  "removal": "Expert"
+}

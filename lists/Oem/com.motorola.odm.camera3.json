@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.motorola.odm.camera3",
+  "description": "Moto camera app?",
+  "list": "Oem",
+  "removal": "Expert"
+}

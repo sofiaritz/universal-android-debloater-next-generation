@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.lge.ime.solution.handwriting",
+  "description": "Handwriting feature on the LG keyboard",
+  "list": "Oem",
+  "removal": "Recommended"
+}

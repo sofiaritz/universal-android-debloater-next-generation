@@ -1,0 +1,6 @@
+{
+  "pkg_name": "com.sonyericsson.home",
+  "description": "Sony's default launcher, do not remove unless you have another launcher or you will brick your device",
+  "list": "Oem",
+  "removal": "Advanced"
+}
