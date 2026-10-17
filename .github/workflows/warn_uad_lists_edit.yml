@@ -1,0 +1,31 @@
+name: Warning on uad_lists.json edit
+
+on:
+  pull_request:
+    paths:
+      - "resources/assets/uad_lists.json"
+
+jobs:
+  warn:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+
+    steps:
+      - name: Leave warning comment in the PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue_number = context.issue.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const body = "**Warning:** You are modifying the auto-generated `uad_lists.json` file. This file is re-generated when changes are done in the `lists/` directory. Please find and modify the files in that directory instead."
+
+            const comments = await github.rest.issues.listComments({ owner, repo, issue_number });
+
+            if (comments.data.some(c => c.body === body)) {
+              console.info("warning comment already exists, skipping");
+              return;
+            }
+
+            await github.rest.issues.createComment({ owner, repo, issue_number, body });
